@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 65
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndumwe nkatunga benshi",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Imana",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Imana"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Amabere y'inkumi",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Akaguru gacumbagira",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Umubagazi",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Umurabyo",
+            "option_4": "Kwirebera mu kirahuri",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karihuta",
+            "option_1": "Ifaranga",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Igare",
+            "option_4": "Inyundo",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zishotse zitendeje, zikuka ziteye hejuru",
+            "option_1": "Igisheke",
+            "option_2": "Abavomyi",
+            "option_3": "Igitoki",
+            "option_4": "Gusitara",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Telefoni",
+            "option_4": "Icyumweru",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gahanitse ari keza",
+            "option_1": "Ukwezi",
+            "option_2": "Umucaca",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Inyegamo y'umusore warongoye"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Imvura",
+            "option_3": "Amatwi",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Amata",
+            "option_4": "Umugore ujya iwabo",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngwino unkize igisebs cy'umufunzo",
+            "option_1": "Isusa",
+            "option_2": "Umuturanyi mubi",
+            "option_3": "Radiyo",
+            "option_4": "Iteke",
+            "correct_answer": "Umuturanyi mubi"
+        }
+    }
+]

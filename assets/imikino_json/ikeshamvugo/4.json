@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 25
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Mushiki wa data",
+            "answer": "Masenge"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Umwana w'ubuvivi",
+            "answer": "Ubuvivure"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Imana ibahereze umugisha",
+            "answer": "Imana ibahe umugisha"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Murumuna, mukuru wa data",
+            "answer": "Data wacu"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Amata inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Kumeneka k'urusyo",
+            "answer": "Gusandara"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Kurangiza koza icyansi",
+            "answer": "Guhumuza"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amakwe",
+            "answer": "Ubukwe"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Sisiteme [system] dukoreramo",
+            "answer": "Uburyo dukoreramo"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Umwana w'umwuzukuruza",
+            "answer": "Ubuvivi"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Uwo muntu yafashwe ari kumwe n'ibiyobyabwenge",
+            "answer": "Uwo muntu yafatanywe ibiyobyabwenge"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Kuyasuka mu gisabo",
+            "answer": "Kuyabuganiza"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Ifu inoze cyane",
+            "answer": "Inono"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Murumuna, mukuru, musaza w'umugore wange",
+            "answer": "Muramu wange"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Gutangira gusya",
+            "answer": "Kwanzika"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Siyaje",
+            "answer": "Ntiyaje"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kurekeraho gukamwa",
+            "answer": "Guteka"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Kubika icyansi, igisabo",
+            "answer": "Kukiranga"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Amata y'inka ihaka",
+            "answer": "Amasitu"
+        }
+    }
+]

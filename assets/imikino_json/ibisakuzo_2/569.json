@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 249
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyiranduguru ingoma y'abashi",
+            "option_1": "Ibirayi",
+            "option_2": "Ubunyenyeri",
+            "option_3": "Imigondoro w'ibishyimbo",
+            "option_4": "Imodoka",
+            "correct_answer": "Ibirayi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kati \"pyo!\" Rugamabara ati \"ndaje\"",
+            "option_1": "Ikizu kitarimo abantu",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Igihondohondo",
+            "option_4": "Umuhumetso",
+            "correct_answer": "Amata n'umutsima"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rukara irona umurama",
+            "option_1": "Amateke",
+            "option_2": "Igitonyanga",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Ijambo rya mukeba",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndica simporwe",
+            "option_1": "Imodoka",
+            "option_2": "Ukuguru kw'imbaragasa",
+            "option_3": "Radiyo",
+            "option_4": "Uruzi",
+            "correct_answer": "Uruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karekare mu ka karema",
+            "option_1": "Umugore uhetse",
+            "option_2": "Umunyinya",
+            "option_3": "Ivunja",
+            "option_4": "Umuheha mu buki; agasave mu rutoki",
+            "correct_answer": "Umuheha mu buki; agasave mu rutoki"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndu mugufi nakiranya so nkamutsinda",
+            "option_1": "Ubunyenyeri",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Agahinda ku murima",
+            "option_4": "Imvura",
+            "correct_answer": "Ubunyenyeri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Narakuze ndakururumba nanirwa no kwasa inkwi",
+            "option_1": "Amabondo y'ihene",
+            "option_2": "Radiyo",
+            "option_3": "Inda mu ihururu",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Igihondohondo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ibikaci bikaciraniye muri Nyagafunzo, ibisiga bizapfana umukumo",
+            "option_1": "Umutsi mu nda",
+            "option_2": "Urutete",
+            "option_3": "Umwungu mu mbibe",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Amabere y'inkumi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngeze munsi y'urugo nkuka itako",
+            "option_1": "Umwana usanze se na nyina batariyo",
+            "option_2": "Inkoko",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Agahanga k'ifumberi",
+            "correct_answer": "Umwana usanze se na nyina batariyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyamweru mu matovu",
+            "option_1": "Imodoka",
+            "option_2": "Imegeri",
+            "option_3": "Inzara y'uruhinja",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Imegeri"
+        }
+    }
+]

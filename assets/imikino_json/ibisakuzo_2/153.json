@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 62
+    },
+    {
+        "sakwe_1": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Ibitotsi",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Igicaniro; igisabo",
+            "option_4": "Mahina",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Igire hino ngusekere",
+            "option_1": "Amashaza akaranze",
+            "option_2": "Umubiri w'umuntu",
+            "option_3": "Ishinya y'urushishi",
+            "option_4": "Ikigega",
+            "correct_answer": "Amashaza akaranze"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirabujunjuri ubujunjuri",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Uruyuki",
+            "option_3": "Umununi ku itabi",
+            "option_4": "Amashaza ku rujyo",
+            "correct_answer": "Amashaza ku rujyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kavuye aha kabatinatina kagera mu gahinga kakibatinaguza",
+            "option_1": "Umusoro",
+            "option_2": "Imvura",
+            "option_3": "Ijisho",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Umusoro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nduzi abamikazi bateze inigi",
+            "option_1": "Umuriro",
+            "option_2": "Agakono k'impengeri",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Agasuzi",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Iwacu twikwije impindu twese",
+            "option_1": "Inzara",
+            "option_2": "Ishoka mu rukwi",
+            "option_3": "Amara",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rukara rw'amacece aturutse hirya wayacekwa",
+            "option_1": "Imende ku mugezi",
+            "option_2": "Umusirikare",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "Amara",
+            "correct_answer": "Umusirikare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata so ndongore nyoko",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Akaganza k'uruhinja",
+            "option_3": "Agakono k' inzara",
+            "option_4": "Ishoka mu giti",
+            "correct_answer": "Ishoka mu giti"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Sarupfu yikoreye Sarupfu yindi",
+            "option_1": "Agahanga k'ihene",
+            "option_2": "Igitama cyaguye mu mukokwe",
+            "option_3": "Ishoka mu rukwi",
+            "option_4": "Umuntu uri kuri ipikipiki",
+            "correct_answer": "Umuntu uri kuri ipikipiki"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Umututsi muremure yagutanze ku iriba",
+            "option_1": "Igitonyanga",
+            "option_2": "Ikibwana cy'imbwa",
+            "option_3": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Igitonyanga"
+        }
+    }
+]

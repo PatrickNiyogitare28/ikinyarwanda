@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 407
+    },
+    {
+        "sakwe_1": {
+            "question": "Imyuko yo kwa Mahanga iruka umuriro",
+            "option_1": "Igare",
+            "option_2": "Akatsi ko ku nzu",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Imbunda",
+            "correct_answer": "Imbunda"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Amagambo yo ku rurembo",
+            "option_2": "Ijwi",
+            "option_3": "Agahinda k'inkumi",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Umurozi",
+            "option_3": "Isekuru",
+            "option_4": "Ikaziya ya primus",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abakobwa banjye baraturanye ariko ntibaramukanya",
+            "option_1": "Umuvumbyi",
+            "option_2": "Ikiyoni",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Inshya z' umutwakazi",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkuba ikubita ikwerekejeho umugongo",
+            "option_1": "Agakecuru kocyejwe n'igikoma",
+            "option_2": "Abavomyi",
+            "option_3": "Umuheto",
+            "option_4": "Ibiboga byagaze",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hunga gahinda ataguca umurundi",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Amacandwe y'incira",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Inzoka",
+            "correct_answer": "Inzoka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Umutwe",
+            "option_2": "Gusitara",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Urwina",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Igisozi kirekire",
+            "option_2": "Ingasire",
+            "option_3": "Ifaranga",
+            "option_4": "Ikigori",
+            "correct_answer": "Ingasire"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Firigo",
+            "option_2": "Agasuzi",
+            "option_3": "Buji",
+            "option_4": "Corogati",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite igihugu cy'abagabo",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Amashyiga (y'inyuma)",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Imisatsi y'ibigori"
+        }
+    }
+]

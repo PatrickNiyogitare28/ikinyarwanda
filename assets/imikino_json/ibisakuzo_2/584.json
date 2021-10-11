@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 666
+    },
+    {
+        "sakwe_1": {
+            "question": "Igira mu mpinga wibuke uwo mwajyanye",
+            "option_1": "Igikecuru cyisutseho igisururu",
+            "option_2": "Imondo mu gihu",
+            "option_3": "Ururimi",
+            "option_4": "Ubuheri mu gihata",
+            "correct_answer": "Ubuheri mu gihata"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera amakara y'umuntu",
+            "option_1": "Umugunguzi",
+            "option_2": "Umusatsi",
+            "option_3": "Ivu",
+            "option_4": "Ubwanwa",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirabumpurimpuri arabyina haruguru aho",
+            "option_1": "Igisura",
+            "option_2": "Izo ngohe zawe",
+            "option_3": "Igiseke",
+            "option_4": "Urushishi rufite ishaka",
+            "correct_answer": "Izo ngohe zawe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mabanda imbaragasa",
+            "option_1": "Ikinyoro mu rubavu",
+            "option_2": "Inzara",
+            "option_3": "Amazi",
+            "option_4": "Ikiryango cy'inzu",
+            "correct_answer": "Ikinyoro mu rubavu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata kagina tuyirase",
+            "option_1": "Urugo",
+            "option_2": "Intumbi y'ihene",
+            "option_3": "Ibishyinga",
+            "option_4": "Indishyi zihuye; imfubyi",
+            "correct_answer": "Urugo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Terura Mutamu uyitereke ku rutare uyikize ubutuna",
+            "option_1": "Amateke",
+            "option_2": "Igicuma bacuncumura",
+            "option_3": "Akaganza k'uruhinja",
+            "option_4": "Imende ku mugezi",
+            "correct_answer": "Amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kajugujugu ka Kamarankoni",
+            "option_1": "Igitonyanga",
+            "option_2": "Umurabyo",
+            "option_3": "Uruyuki",
+            "option_4": "Akanyoni karitse ku nzira",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Gatuma irabyina mu gatabire",
+            "option_1": "Agakono k' inzara",
+            "option_2": "Urubwija",
+            "option_3": "Ikibwana cy'imbwa mu masinde",
+            "option_4": "Ikigoli",
+            "correct_answer": "Ikibwana cy'imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Tora uruho ntore urundi tujye kwiyumya",
+            "option_1": "Amaganga y'isha",
+            "option_2": "Umutsi mu nda",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Intosho",
+            "correct_answer": "Amaganga y'isha"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nkuruye urusuri ishyamba rirahungabana",
+            "option_1": "Agakongorerwa",
+            "option_2": "Inzara y'umusore; ijambo ry'umwami",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Intosho",
+            "correct_answer": "Inzara y'umusore; ijambo ry'umwami"
+        }
+    }
+]

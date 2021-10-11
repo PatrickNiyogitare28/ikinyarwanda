@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 516
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkiza ibyo bitoki bya so binsaba inyama",
+            "option_1": "Ibabi by'ibibonobono",
+            "option_2": "Amase y'inka",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Ibabi by'ibibonobono"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Uwagaca yaba ari umugabo",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Kubuza umuryi kurya",
+            "option_3": "Akayuzi mu rubibi",
+            "option_4": "Igisheke",
+            "correct_answer": "Kubuza umuryi kurya"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Icyobo",
+            "option_3": "Ikiringiti",
+            "option_4": "Gusitara",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagare",
+            "option_1": "Umugore utwite",
+            "option_2": "Umuporisi",
+            "option_3": "Ibitotsi",
+            "option_4": "Inuma ku rukoma",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Ifaranga",
+            "option_2": "Intete z'ibigori",
+            "option_3": "Agatonyanga k'imvura",
+            "option_4": "Isusa",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Amashyiga (y'inyuma)",
+            "option_2": "Imodoka",
+            "option_3": "Insina; amateke",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Insina; amateke",
+            "option_3": "Ijambo rya perezida",
+            "option_4": "Urwogerezo",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Isusa",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Isusa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Igihandure",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Igitoki",
+            "option_4": "Icyobo",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akayuriyuri kwa Ntibazirikana inshuti y'urupfu",
+            "option_1": "Igitiritiri",
+            "option_2": "Ibitotsi",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Isekuru",
+            "correct_answer": "Ibitotsi"
+        }
+    }
+]

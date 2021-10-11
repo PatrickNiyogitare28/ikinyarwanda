@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 23
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya ni urwererane, hakuno ni urwererane",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Inopfu",
+            "option_3": "Ibaruwa",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Ururabo rw'ikawa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Imisozi",
+            "option_2": "Insina; amateke",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Igisheke",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ishime nyoko aratwite",
+            "option_1": "Ibizu bitagira abantu",
+            "option_2": "Inkono",
+            "option_3": "Urwina",
+            "option_4": "Intare",
+            "correct_answer": "Urwina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ko twagendanye wambwiye iki",
+            "option_1": "Umusatsi ku mutwe",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Igicucucucu",
+            "option_4": "Imvura",
+            "correct_answer": "Igicucucucu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kati hii kati huu",
+            "option_1": "Umusatsi",
+            "option_2": "Umukecuru wurira ikigega",
+            "option_3": "Amagambo yo ku rurembo",
+            "option_4": "Agakecuru kocyejwe n'igikoma",
+            "correct_answer": "Agakecuru kocyejwe n'igikoma"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera nakwiteguye",
+            "option_1": "Intore mu rwabya",
+            "option_2": "Gusitara",
+            "option_3": "Kwatsa mu ziko",
+            "option_4": "Umucaca",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Umukondo w'inyana",
+            "option_3": "Ibirago",
+            "option_4": "Kudashyira ingasire mu masaka ngo iyasye",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Icyumweru",
+            "option_2": "Sida",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ndya nkurye",
+            "option_1": "Umugore utwite",
+            "option_2": "Urusenda",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Urusenda"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Zigaritse amahembe zose ntiwamenya iyo nyoko yakowe",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Umwana w'uruhinja",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Ingara z'iminyinya"
+        }
+    }
+]

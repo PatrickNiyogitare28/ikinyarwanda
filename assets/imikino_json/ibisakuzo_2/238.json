@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 548
+    },
+    {
+        "sakwe_1": {
+            "question": "Musatsi murende umukobwa utagira inenge",
+            "option_1": "Amarira y'imbwa",
+            "option_2": "Urufunzo",
+            "option_3": "Igikuku",
+            "option_4": "Umuyaga",
+            "correct_answer": "Urufunzo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bune bune yagiye kugura umwenda kwa mirongo itanu",
+            "option_1": "Isekurume",
+            "option_2": "Igitokd kigwanye n'insina",
+            "option_3": "Ibicuma ku nkangara",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Isekurume"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zirahutse zisiga mweru ku iriba",
+            "option_1": "Inda mu ihururu",
+            "option_2": "Ifaranga",
+            "option_3": "Inyamanza",
+            "option_4": "Ikigorigori",
+            "correct_answer": "Inyamanza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Igihugu cyose Iya bitatu",
+            "option_1": "Akayuki",
+            "option_2": "Amashyiga",
+            "option_3": "Ikigore kivuye mu mazu kenshi",
+            "option_4": "Inkari mu murama",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ntereye Ndiza urwenge rurahonya",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Ugutwi kw'imbeba",
+            "option_3": "Inyundo y'umucuruzi",
+            "option_4": "Inkono ku mashyiga",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngeze mu mpinga mpinguza abahinzi",
+            "option_1": "Agakongorerwa",
+            "option_2": "Umugore utwite",
+            "option_3": "Ivunja",
+            "option_4": "Agasongero",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyamunombanomba wa Munombano uwakwenda rwakwendana",
+            "option_1": "Inyenyeri ku ijuru",
+            "option_2": "Urusenge",
+            "option_3": "Uruhiza",
+            "option_4": "Urutoki mu nkono y'itabi",
+            "correct_answer": "Urutoki mu nkono y'itabi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kamanutse kavuga amangara",
+            "option_1": "Isuka mu icukiro",
+            "option_2": "Ibigori",
+            "option_3": "Urusisiro",
+            "option_4": "Umusatsi",
+            "correct_answer": "Urusisiro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kagenda gatonnye kagera ibwami kagatona",
+            "option_1": "Ifaranga",
+            "option_2": "Ikinyamunyu",
+            "option_3": "Ifi",
+            "option_4": "Mihigo",
+            "correct_answer": "Ikinyamunyu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kashira amanga karakanyagwa",
+            "option_1": "Umubiri w'umuntu",
+            "option_2": "Umunyorogoto",
+            "option_3": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_4": "Ikigore kivuye mu mazu kenshi",
+            "correct_answer": "Agacumu kica inkurikirane; akobo kavuna umubyeyi"
+        }
+    }
+]

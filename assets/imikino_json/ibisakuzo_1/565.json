@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 394
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana b'Umwami bicaye ku ntebe imwe",
+            "option_1": "Igare",
+            "option_2": "Ifaranga",
+            "option_3": "Agahinda k'inkumi",
+            "option_4": "Intoki ku biganza",
+            "correct_answer": "Intoki ku biganza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Izina ryawe",
+            "option_3": "Amagambo yo ku rurembo",
+            "option_4": "Umusatsi",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Njugunye akabuye ku karubanda baragatanguranwa",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Ifaranga",
+            "option_3": "Buji",
+            "option_4": "Ibibabi by'ikibonobono",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Umuyaga",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngeze mu nzira mfunga feri",
+            "option_1": "Ishapure n'amasengesho",
+            "option_2": "Umuyaga",
+            "option_3": "Gusitara",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Umuzungu atwara imodoka umusatsi uri hanze",
+            "option_1": "Ikigori",
+            "option_2": "Igikoro",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Isi n'ijuru",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Isusa",
+            "option_2": "Inopfu",
+            "option_3": "Amatwi",
+            "option_4": "Firigo",
+            "correct_answer": "Isusa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Umugore utwite",
+            "option_2": "Amatwi",
+            "option_3": "Inshya z' umutwakazi",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Baragata bakagatanaga ubwiza bwako",
+            "option_1": "Amapapayi",
+            "option_2": "Igitiritiri",
+            "option_3": "Umukandara",
+            "option_4": "Sida",
+            "correct_answer": "Igitiritiri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Ubunyereri",
+            "option_2": "Umuntu",
+            "option_3": "Inyundo",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Inyundo"
+        }
+    }
+]

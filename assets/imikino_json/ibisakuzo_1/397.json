@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 739
+    },
+    {
+        "sakwe_1": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Inyamunyo",
+            "option_3": "Umugina wo mu gishanga",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Icyumweru",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Telefoni",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirabakangaza ngo mutahe",
+            "option_1": "Ibiboga byagaze",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Ibigori",
+            "option_4": "Ikawa",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Corogati",
+            "option_2": "Abavomyi",
+            "option_3": "Urwogerezo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nabonye umugenzi ku nziga ebyiri",
+            "option_1": "Ifaranga",
+            "option_2": "Urusenda",
+            "option_3": "Urupfu",
+            "option_4": "Igare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mugongo mugari mpekera abana",
+            "option_1": "Gusitara",
+            "option_2": "Urutara",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Isake ifite ibirokoroko",
+            "correct_answer": "Urutara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Amazi",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Ifurwe",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Igira hino ncuti",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Ikiyoni",
+            "option_3": "Ifurwe",
+            "option_4": "Ikiringiti",
+            "correct_answer": "Ikiringiti"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Ivunja mu kirenge",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Umusaza Sacyoya agendera ku kabando kamwe",
+            "option_1": "Igikoro",
+            "option_2": "Ikigori",
+            "option_3": "Akayuzi mu rubibi",
+            "option_4": "Ubunyobwa",
+            "correct_answer": "Igikoro"
+        }
+    }
+]

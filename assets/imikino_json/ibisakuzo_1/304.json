@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 221
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Urwiri",
+            "option_2": "Telefoni",
+            "option_3": "Imodoka yabuze feri",
+            "option_4": "Ibigori",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mama arusha nyoko amabuno manini",
+            "option_1": "Umutsima",
+            "option_2": "Igisabo",
+            "option_3": "Ifaranga",
+            "option_4": "Imvura",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyamara naza nkaguha amahoro",
+            "option_1": "Ikirago",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Igihandure",
+            "correct_answer": "Ibitotsi bya mu gitondo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ni iki cyatanze umuzungu kugenda mu ivatiri",
+            "option_1": "Akanyamasyo",
+            "option_2": "Inzoga m'umuheha (umukenke)",
+            "option_3": "Isahani yaguye ingese",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Akanyamasyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Ishuri",
+            "option_2": "Imvura",
+            "option_3": "Kaburimbo",
+            "option_4": "Ibiti by'ikawa",
+            "correct_answer": "Kaburimbo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Giteye isusumira",
+            "option_1": "Intoki ku biganza",
+            "option_2": "Ibishokoro",
+            "option_3": "Uruzi",
+            "option_4": "Uruhinja",
+            "correct_answer": "Uruzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagare",
+            "option_1": "Ijwi",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Umurabyo",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Igisozi kirekire",
+            "option_2": "Umurozi",
+            "option_3": "Amabere",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akamarimari kamanutse i Burayi kaje kamara abantu",
+            "option_1": "Inkingi",
+            "option_2": "Ifaranga",
+            "option_3": "Indege",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka katega so",
+            "option_1": "Inkono y'amapfa",
+            "option_2": "Ikawa",
+            "option_3": "Agacaca",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Agacaca"
+        }
+    }
+]

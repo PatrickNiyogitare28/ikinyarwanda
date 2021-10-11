@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 791
+    },
+    {
+        "sakwe_1": {
+            "question": "Inzovu rubunga itaha mu mwobo",
+            "option_1": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "option_2": "Ikidasesa",
+            "option_3": "Igihumyo",
+            "option_4": "Urugi",
+            "correct_answer": "Ikidasesa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inyama y'urusaku mu rugo rw'imiseke imbere i Nyamagana",
+            "option_1": "Agakongorerwa",
+            "option_2": "Amaso",
+            "option_3": "Inshuzi mu cyansi",
+            "option_4": "Ururimi",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera icy'ibyoya icy'ibyanwa",
+            "option_1": "Icyibo",
+            "option_2": "Ururimi hagati y'amenyo",
+            "option_3": "Umwungu",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Umwungu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Njugunye akabuye ku Karubanda baragatanguranwa",
+            "option_1": "Ubwanwa",
+            "option_2": "Igikoro",
+            "option_3": "Ifaranga",
+            "option_4": "Umuriro",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera Mvuye kure wa Semutiku",
+            "option_1": "Icyiyone",
+            "option_2": "Igitonyanga cy'imvura",
+            "option_3": "Igikuku",
+            "option_4": "Agahwa m'urwondo",
+            "correct_answer": "Igitonyanga cy'imvura"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyiramakegete ararurenze",
+            "option_1": "Ijwi",
+            "option_2": "Ikivumvuri",
+            "option_3": "Inyenyeri",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gitsimba igiheneko",
+            "option_1": "Igitama cyaguye mu mukokwe",
+            "option_2": "Inkoko",
+            "option_3": "Ikirago",
+            "option_4": "Umucaca",
+            "correct_answer": "Igitama cyaguye mu mukokwe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rwigira inturike",
+            "option_1": "Intumbi y'ihene",
+            "option_2": "Ikijumba",
+            "option_3": "Ubunyenyeri",
+            "option_4": "Umutozo",
+            "correct_answer": "Intumbi y'ihene"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Ibicuma ku nkangara",
+            "option_2": "Ibarizo ry'ingoma",
+            "option_3": "Umuzungu ku ipikipiki",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpuye na Ruganzu yikoreye igitebo cy'intama",
+            "option_1": "Uruyuki",
+            "option_2": "Ibisunzu bya rusake",
+            "option_3": "Ururimi",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Ibisunzu bya rusake"
+        }
+    }
+]

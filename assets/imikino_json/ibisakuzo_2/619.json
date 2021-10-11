@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 382
+    },
+    {
+        "sakwe_1": {
+            "question": "Nshoye inka nyitambitse nyikura nyihagaritse",
+            "option_1": "Inkono n'urweso",
+            "option_2": "Ikibyindi",
+            "option_3": "Ikivugirizo",
+            "option_4": "Gusitara ku ibuye",
+            "correct_answer": "Ikibyindi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nambutse uruzi nkubita umwogo w'inda hasi",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Ikizubazuba",
+            "option_3": "Intashya",
+            "option_4": "Imanzi mu maribori",
+            "correct_answer": "Intashya"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Tamba nyoko aratetse",
+            "option_1": "Ubuzuru bw'imbwa",
+            "option_2": "Intorezo",
+            "option_3": "Inkono yuzuye ibiryo",
+            "option_4": "Agakono k'amapfa",
+            "correct_answer": "Inkono yuzuye ibiryo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagukubira dara",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Ibiryo ku mbebe",
+            "option_3": "Icyiyoni",
+            "option_4": "Igitoki",
+            "correct_answer": "Ibiryo ku mbebe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mvuye i Gisaka nsomera igisate",
+            "option_1": "Inkono yuzuye ibiryo",
+            "option_2": "Inkoko mu rutoki",
+            "option_3": "Imiyenzi",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Inzara y'umusore"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imisozi iriyorosa ibigondo",
+            "option_1": "Amazi",
+            "option_2": "Ibihu, inzuki",
+            "option_3": "Amazimwe yo ku rurembo",
+            "option_4": "Uruyuki",
+            "correct_answer": "Ibihu, inzuki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyirampirima umwami w'i Ndorwa",
+            "option_1": "Umusoro",
+            "option_2": "Imodoka",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Imende ku ruzi",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite abana ntiwababara",
+            "option_1": "Urufunzo",
+            "option_2": "Isuri",
+            "option_3": "Uburo",
+            "option_4": "Imvi zikuye umusatsi w'ubuto",
+            "correct_answer": "Uburo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera igitutsi kirekire cyamanutse i Muramba",
+            "option_1": "Imvura igwa ku gitikatika",
+            "option_2": "Igitonyanga",
+            "option_3": "Injishi y'igisabo",
+            "option_4": "Igitoki n'insina bigwanye",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Byumiye mu gasozi",
+            "option_1": "Igishyimbo cy'umutura",
+            "option_2": "Amabyi y'umushumba",
+            "option_3": "Ibirago",
+            "option_4": "Ibiboga bigaze",
+            "correct_answer": "Amabyi y'umushumba"
+        }
+    }
+]

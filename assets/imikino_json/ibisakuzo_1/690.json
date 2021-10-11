@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 9
+    },
+    {
+        "sakwe_1": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Inzoga mu muheha",
+            "option_3": "Inyoni",
+            "option_4": "Imvura",
+            "correct_answer": "Inyoni"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ninjye muzindutsi wa cyane nasanze umuzimu yicariye ukuguru",
+            "option_1": "Inyegamo y'umusore warongoye",
+            "option_2": "Inkware",
+            "option_3": "Amatwi",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Umuvumbyi",
+            "option_2": "Ifaranga",
+            "option_3": "Umuporisi",
+            "option_4": "Agacaca",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kiribwa kidahingwa",
+            "option_1": "Amapapayi",
+            "option_2": "Inyama",
+            "option_3": "Ifaranga",
+            "option_4": "Igisenge",
+            "correct_answer": "Inyama"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zishotse zitendeje, zikuka ziteye hejuru",
+            "option_1": "Ikawa n'umumenamabuye",
+            "option_2": "Abavomyi",
+            "option_3": "Imyambi y'ikibiriti",
+            "option_4": "Indogobe ishaje",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abambarantama ba Ntaragonda batwara amacumu bayacuritse",
+            "option_1": "Akayunguruzo",
+            "option_2": "Imirizo y'inka",
+            "option_3": "Akayira kajya mu kigega",
+            "option_4": "Ingufuri hejuru y'isanduku",
+            "correct_answer": "Imirizo y'inka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ninjye muzindutsi wa cyane nabonye imodoka y'amaguru abiri",
+            "option_1": "Ijwi",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Ibirenge by'umuntu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Gusitara",
+            "option_3": "Ibizu bitagira abantu",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Amabya",
+            "option_2": "Umuvure",
+            "option_3": "Urupfu",
+            "option_4": "Kukwanduza sida",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpeka nanjye naguhetse",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Urusenda",
+            "option_3": "Igare rigeze ahazamuka",
+            "option_4": "Igikoro",
+            "correct_answer": "Igare rigeze ahazamuka"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 164
+    },
+    {
+        "sakwe_1": {
+            "question": "Abarebare baje ubu",
+            "option_1": "Ibitotsi",
+            "option_2": "Igisate cy'umutsima",
+            "option_3": "Imihanda, uruzi, inzira",
+            "option_4": "Imvura",
+            "correct_answer": "Imihanda, uruzi, inzira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Twavukiye rimwe ariko ntitureshya",
+            "option_1": "Ururimi n'amenyo",
+            "option_2": "Abavomyi",
+            "option_3": "Imisozi",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Imisozi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Ibitotsi",
+            "option_2": "Ikivugirizo",
+            "option_3": "Ijambo rya perezida",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kaba gato kaba kanini kataye umugabo inyuma y'inzira",
+            "option_1": "Icyanzu",
+            "option_2": "Isake ifite ibirokoroko",
+            "option_3": "Ikigori",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Umwarimu",
+            "option_3": "Impeke y'uburo",
+            "option_4": "Ikaziya ya primus",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye nyikama igaramye",
+            "option_1": "Imvura",
+            "option_2": "Umunyeshuri",
+            "option_3": "Amazi",
+            "option_4": "Umuvure",
+            "correct_answer": "Umuvure"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Inopfu",
+            "option_2": "Ifaranga",
+            "option_3": "Akayunguruzo",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ntuye heza njye ngira Imana",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Umunyeshuri",
+            "option_3": "Umusore wishwe n'inzara",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Umugina wo mu gishanga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Firigo",
+            "option_3": "Ibibabi by'ikibonobono",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Inkono ku ziko"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kirarumbaraye",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Ururimi",
+            "option_4": "Isusa",
+            "correct_answer": "Igisozi kirekire"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 68
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirabuki irabyina impa",
+            "option_1": "Ikirondwe",
+            "option_2": "Inuma",
+            "option_3": "Imondo mu gihu",
+            "option_4": "Isake",
+            "correct_answer": "Imondo mu gihu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramaha hinda",
+            "option_1": "Urutozi",
+            "option_2": "Akanyoni karitse ku nzira",
+            "option_3": "Imende ku ruzi",
+            "option_4": "Umwijima",
+            "correct_answer": "Imende ku ruzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Iwacu twicaye twese",
+            "option_1": "Igare",
+            "option_2": "Umugore unnya kugihuru",
+            "option_3": "Ikivumvuri",
+            "option_4": "Intebe",
+            "correct_answer": "Intebe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Muze tumupfyunye bene umupfu baraje",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Umuhinzi umwe mu murima",
+            "option_4": "Icyagumbwa",
+            "correct_answer": "Icyagumbwa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rugangazi rugangaye mu nzuzi",
+            "option_1": "Igisabo",
+            "option_2": "Inzara y'uruhinja",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Ingara z'iminyinya",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngira inka nkayirya igenda",
+            "option_1": "Igikona\n \nbikumburanye bibana",
+            "option_2": "Irobe n'umutsima",
+            "option_3": "Uruyuzi; umugezi",
+            "option_4": "Inopfu",
+            "correct_answer": "Uruyuzi; umugezi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Igira inyuma y'urugo nkuvumburire impongo itagira umurizo",
+            "option_1": "Umubuyenge w'intosho",
+            "option_2": "Amahinda y'inkuba",
+            "option_3": "Inzara mu ruheri",
+            "option_4": "Ifundi ku rukoma",
+            "correct_answer": "Umubuyenge w'intosho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Twagize umuzinga ku ngoma ya Gahindiro na n'ubu nturinjira",
+            "option_1": "Amazuru",
+            "option_2": "Umwana w'ifundi",
+            "option_3": "Uruhu rw'intama",
+            "option_4": "Intore n'umutsima",
+            "correct_answer": "Amazuru"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Ingwa",
+            "option_2": "Amazi mu muheha",
+            "option_3": "Inuma ku ishaka",
+            "option_4": "Isi n' ijuru",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera uruhumbuhumbu uruhumbura Jana",
+            "option_1": "Inyenyeri",
+            "option_2": "Ikirago; ikiringiti",
+            "option_3": "Akaganza k'uruhinja",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Inyenyeri"
+        }
+    }
+]

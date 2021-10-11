@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 58
+    },
+    {
+        "sakwe_1": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Imana",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Indumane",
+            "option_4": "Sida",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Inyenyeri",
+            "option_3": "Amapapayi",
+            "option_4": "Igikatsi",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngeze mu nzira mfunga feri",
+            "option_1": "Ifaranga",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Ibitotsi",
+            "option_4": "Gusitara",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Umuvure",
+            "option_2": "Radiyo",
+            "option_3": "Ibizu bitagira abantu",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite igihugu cy'abagabo",
+            "option_1": "Abavomyi",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Ibaruwa",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Imisatsi y'ibigori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kinyuka inabi, cyanyuka ineza nkizihirwa",
+            "option_1": "Umutego",
+            "option_2": "Ikawa n'umumenamabuye",
+            "option_3": "Igikeri",
+            "option_4": "Izuba ry'impeshyi",
+            "correct_answer": "Izuba ry'impeshyi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Akababi k'umuvumu",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Ifaranga",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_2": "Igikoro",
+            "option_3": "Ubwoya bw'inka",
+            "option_4": "Televiziyo",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Ikigori",
+            "option_2": "Agakono k'inzara",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Inkono",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Maguru mane ahagaze kuri maguru mane ashaka maguru mane",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Inyegamo y'umusore warongoye",
+            "option_3": "Indabo z'amashaza",
+            "option_4": "Indogobe ishaje",
+            "correct_answer": "Injangwe ihagaze ku meza ishaka imbeba"
+        }
+    }
+]

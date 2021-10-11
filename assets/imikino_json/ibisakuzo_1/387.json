@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 432
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyiramikuku arakukuza mu mikuku ya Shyorongi",
+            "option_1": "Imana",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Izuba ry'impeshyi",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Igiheri mu ruhara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Igare rigeze ahazamuka",
+            "option_2": "Ikivumvuri",
+            "option_3": "Gusitara",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngeze iw'abandi bampa induru",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Inkware",
+            "option_4": "Amatwi",
+            "correct_answer": "Sone yo ku irembo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Havuyemo umwe ntitwabimenya",
+            "option_1": "Umukandara",
+            "option_2": "Ifaranga",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Ubwatsi busakaye inzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bihu byumye arenze urugo",
+            "option_1": "Ikiyoni",
+            "option_2": "Amata",
+            "option_3": "Imodoka yabuze feri",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kigenda cyane kitagira amaguru",
+            "option_1": "Imodoka",
+            "option_2": "Umuyaga",
+            "option_3": "Ikaramu",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abambarantama ba Ntaragonda batwara amacumu bayacuritse",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Amata",
+            "option_3": "Igisenge",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Imirizo y'inka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ntiwigore ndaje",
+            "option_1": "Ipikipiki",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Igitoki",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Ipikipiki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Inyamunyo",
+            "option_3": "Inzuki",
+            "option_4": "Inopfu",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mvuye guhamba nyogokuru aza ankurikiye",
+            "option_1": "Imbaragasa",
+            "option_2": "Amabere",
+            "option_3": "Igikoro",
+            "option_4": "Ivu",
+            "correct_answer": "Ivu"
+        }
+    }
+]

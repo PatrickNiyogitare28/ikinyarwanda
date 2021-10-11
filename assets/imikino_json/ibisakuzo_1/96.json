@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 138
+    },
+    {
+        "sakwe_1": {
+            "question": "Karatembashyashya",
+            "option_1": "Urwiri",
+            "option_2": "Izuba ry'impeshyi",
+            "option_3": "Ifaranga",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Biratinyana",
+            "option_1": "Imyambi y'ikibiriti",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Ibizu bitagira abantu",
+            "correct_answer": "Umwijima n'urumuri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Umugezi",
+            "option_2": "Amabya",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Umuyaga mu muyange",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngeze iw'abandi bampa induru",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Ifaranga",
+            "correct_answer": "Sone yo ku irembo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Twavukiye rimwe ariko ntitureshya",
+            "option_1": "Umunyeshuri wabaye uwa mbere",
+            "option_2": "Imisozi",
+            "option_3": "Ikirungurira",
+            "option_4": "Ifaranga",
+            "correct_answer": "Imisozi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndimugufi nahina so",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Ururimi n'amenyo",
+            "option_3": "Icyanzu",
+            "option_4": "Umurozi",
+            "correct_answer": "Icyanzu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inyundo za bene Ntwari bazikubita hasi ntizimene isi",
+            "option_1": "Ifaranga",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Izuba",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Ibinono by'inka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Ijambo rya perezida",
+            "option_2": "Urukoma n'insina",
+            "option_3": "Igicucucucu",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Inzoka",
+            "option_2": "Amaguru y'inkware",
+            "option_3": "Ibitotsi",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Urutare",
+            "option_3": "Imbaragasa",
+            "option_4": "Ifaranga",
+            "correct_answer": "Urutare"
+        }
+    }
+]

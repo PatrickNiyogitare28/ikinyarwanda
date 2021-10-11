@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 16
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Kumena amata ubishatse",
+            "answer": "Kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Amago",
+            "answer": "Ingo"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Wari wakubitwaho?",
+            "answer": "Wari wakubitwa?"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Ndavuze ati",
+            "answer": "Ndavuze nti"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Ariho amazi abira",
+            "answer": "Ari mu mazi abira"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Aho batereka amata",
+            "answer": "Uruhimbi"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Se wa sogokuru, nyogokuru",
+            "answer": "Sogokuruza"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Ifu inoze cyane",
+            "answer": "Inono"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Agati bavurugisha",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Aho basohokera bataha",
+            "answer": "Ku irembo"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Umugabo wa mushiki wange",
+            "answer": "Muramu wange"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Ibuye baseraho",
+            "answer": "Urusyo"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Nyina w'umugabo, umugore wange",
+            "answer": "Mabukwe"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Ntiza ku ikaramu nandike",
+            "answer": "Ntiza ikaramu nandike"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Aduhe ubusobanuro burambuye",
+            "answer": "Aduhe ibisobanura birambuye"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Indirimbo nyinshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Amata y'inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kumena amata ubishaka",
+            "answer": "Kuyabikira, kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Yiga amerika",
+            "answer": "Yiga muri amerika"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Ibyo banywesha amata",
+            "answer": "Imikerenke, injome, imimuna"
+        }
+    }
+]

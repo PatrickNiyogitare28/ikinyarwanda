@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 167
+    },
+    {
+        "sakwe_1": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Icyobo",
+            "option_3": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_4": "Umwisheshe",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tora agakoni ntore akandi tujye gukubita Ruyiyenza yamaze ubwatsi",
+            "option_1": "Umusambi",
+            "option_2": "Imanzi mu maribori",
+            "option_3": "Urugo udasangamo nyoko",
+            "option_4": "Igitonyanga cy'imvura",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ko mwiruka muvunnye nde?",
+            "option_1": "Isuri",
+            "option_2": "Urugo udasangamo nyoko",
+            "option_3": "Uturaso ku murundi",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Isuri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkubise inkoni hasi ndi mu gikari intanga ikambere",
+            "option_1": "Kubona aho nyokobukwe yiyuhagira",
+            "option_2": "Amazimwe yo ku rurembo",
+            "option_3": "Ibisunzu bya rusake",
+            "option_4": "Umuntu ubara inkuru cyane",
+            "correct_answer": "Amazimwe yo ku rurembo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_2": "Ikizu kitarimo abantu",
+            "option_3": "Umwumano w'ishashi",
+            "option_4": "Ingwa",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Zirakutse zisiga mweru inyuma",
+            "option_1": "Ikibwana cy'imbwa",
+            "option_2": "Isinde",
+            "option_3": "Amamera n'ifu",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Isinde"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mushenyi iti \"Jya\", Rwagashya ati \"ndinda\"",
+            "option_1": "Inkuba n'umurabyo",
+            "option_2": "Umucaca",
+            "option_3": "Umuntu uri kuri ipikipiki",
+            "option_4": "Umusambi",
+            "correct_answer": "Inkuba n'umurabyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ikibyoya ikibyanwa mu mpinga ya Bwanacyambwe",
+            "option_1": "Ifaranga",
+            "option_2": "Inkono y'itabi",
+            "option_3": "Icyugu mu nshoce",
+            "option_4": "Injuma y'uruhinja",
+            "correct_answer": "Icyugu mu nshoce"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Iwacu twicaye twese",
+            "option_1": "Ingoma",
+            "option_2": "Intebe",
+            "option_3": "Umusambi",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Intebe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho wabereye wataramye  ku kabuhanda",
+            "option_1": "Agahinda mu nda",
+            "option_2": "Ifundi",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Igihumyo",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    }
+]

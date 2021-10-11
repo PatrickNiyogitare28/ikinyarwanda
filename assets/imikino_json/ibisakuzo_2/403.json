@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 799
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Igishyitsi cy'umusave n'umubirizi",
+            "option_2": "Umurabyo",
+            "option_3": "Umusigati",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abana b'umwami baratanguranywa mu ngoma",
+            "option_1": "Ifundi",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Mahina",
+            "option_4": "Amara",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kabandabanda mu murima wa Marara",
+            "option_1": "Ikigagara",
+            "option_2": "Amahembe y'inyama",
+            "option_3": "Umushoferi w'indege",
+            "option_4": "Imbwa",
+            "correct_answer": "Imbwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rwigimba irarenga mu mpunzu",
+            "option_1": "Inzara mu bana",
+            "option_2": "Igisate cy'umutsima",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nzapfa nzakira simbizi",
+            "option_1": "Uruyuzi",
+            "option_2": "Inzu irimo ubusa",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Akanyoni karitse ku nzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gacika gasubiraho",
+            "option_1": "Ifuni mu mushike",
+            "option_2": "Uruzi",
+            "option_3": "Urwara",
+            "option_4": "Intobo",
+            "correct_answer": "Urwara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Yatangiye kubaho ari umwe kugeza n'ubu akiriho Ari umwe",
+            "option_1": "Urutozi",
+            "option_2": "Ibiryo ku mbebe",
+            "option_3": "Urupfu",
+            "option_4": "Umusemburo",
+            "correct_answer": "Urupfu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Agakono k'amapfa",
+            "option_2": "Inyenyeri",
+            "option_3": "Imirya y'intanga",
+            "option_4": "Umwana uri munda ya nyina",
+            "correct_answer": "Imirya y'intanga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inzira ijya ibunyokorome yasiba wahwera",
+            "option_1": "Amasaka ku rusyo",
+            "option_2": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_3": "Ikibando n'urugi; urugi ku muryango",
+            "option_4": "Inzira ijya mu kigega",
+            "correct_answer": "Inzira ijya mu kigega"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho wabereye wari waterara Muhangiro ?",
+            "option_1": "Inkombe n'uruzi",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Umurabyo",
+            "option_4": "Ikirunga",
+            "correct_answer": "Ikirunga"
+        }
+    }
+]

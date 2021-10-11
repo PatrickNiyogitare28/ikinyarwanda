@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 481
+    },
+    {
+        "sakwe_1": {
+            "question": "Rutambamira amabare imfizi y'amaguru menshi",
+            "option_1": "Ibuye n'umutarimba",
+            "option_2": "Intore n'umutsima",
+            "option_3": "Igihu",
+            "option_4": "Ikigega",
+            "correct_answer": "Ikigega"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abagwabiro bashinze inteko",
+            "option_1": "Inkota mu bitugu",
+            "option_2": "Abakomyi b'insyo",
+            "option_3": "Inyabutongo",
+            "option_4": "Umucaca",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Igishorankwanzi cyamanutse gihora gikwiza ab'iwanyu bose imigoma",
+            "option_1": "Amano y'inanga",
+            "option_2": "Uruyuzi",
+            "option_3": "Ikigori",
+            "option_4": "Inzu iguye",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Icyambuka uruzi kitagira amaguru",
+            "option_1": "Ikigega kitagira amasaka",
+            "option_2": "Ijwi",
+            "option_3": "Abavomyi",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Igisura",
+            "option_2": "Inkari z'inkoko",
+            "option_3": "Imvura",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Igisura"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamuhanda ntiwayiterera",
+            "option_1": "Umurabyo",
+            "option_2": "Imvura igwa ku gitikatika",
+            "option_3": "Urubariro",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Narariwe n'inyamaswa bukeye mbura amajanja yayo",
+            "option_1": "Ijoro",
+            "option_2": "Hobe!\"",
+            "option_3": "Urukumbi mu menyo",
+            "option_4": "Ijambo ry'umwami",
+            "correct_answer": "Ijoro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nshikuje umubugu ugugesera burahungabana",
+            "option_1": "Inzara yica umusore",
+            "option_2": "Intobo",
+            "option_3": "Radiyo",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Inzara yica umusore"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inzira ijya ibunyokorome yasiba wahwera",
+            "option_1": "Inzira ijya mu kigega",
+            "option_2": "Umuyenzi",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Umwambi",
+            "correct_answer": "Inzira ijya mu kigega"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Tora akato ntore akandi tujye kwambutsa akanyarumira",
+            "option_1": "Umugore utwite",
+            "option_2": "Ifaranga",
+            "option_3": "Inyabutongo",
+            "option_4": "Ivunja",
+            "correct_answer": "Umugore utwite"
+        }
+    }
+]

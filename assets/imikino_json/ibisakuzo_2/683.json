@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 673
+    },
+    {
+        "sakwe_1": {
+            "question": "Rivudukana imbaraga ruvumera rutagira amabere",
+            "option_1": "Ikiyiko ku mbehe",
+            "option_2": "Akanigi mu ijosi",
+            "option_3": "Imodoka",
+            "option_4": "Ikigori",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyamurenga na Nyiragongo bashinze akaburi",
+            "option_1": "Imodoka",
+            "option_2": "Ubwato mu ruzi",
+            "option_3": "Agakono k'impengeri",
+            "option_4": "Inuma mu ntabire",
+            "correct_answer": "Inuma mu ntabire"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inka yanjye ishiturwa n'abagenzi",
+            "option_1": "Ururimi",
+            "option_2": "Ikigega",
+            "option_3": "Igikona",
+            "option_4": "Umuganda",
+            "correct_answer": "Igikona"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inyuma ya Ndiza urwenge rurahonya",
+            "option_1": "Amahinda y'inkuba",
+            "option_2": "Umugore utwite",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Abagore babagara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ndi Rutebuka kw'iteme ndi Rutebuka ku iteke nti \"mbe mwiriwe Rezida !\"",
+            "option_1": "Injishi y'igisabo",
+            "option_2": "Ingata mu ruhira",
+            "option_3": "Igitoki",
+            "option_4": "Urukwavu",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Segikwekwe umutwe wa Mukono",
+            "option_1": "Agacebe k'intama",
+            "option_2": "Imbwa",
+            "option_3": "Umuko mu mukokwe",
+            "option_4": "Agahinda mu murima",
+            "correct_answer": "Umuko mu mukokwe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiramparagata bivemo umukwe wa Minani",
+            "option_1": "Imodoka",
+            "option_2": "Uruboho",
+            "option_3": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_4": "Igitare",
+            "correct_answer": "Umusure mu ngungu; ikinya mu kwaha"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Imisozi irashya Rukaba yo ntishya",
+            "option_1": "Agakongorerwa",
+            "option_2": "Agashyo mu nyama",
+            "option_3": "Urutare",
+            "option_4": "Isuri",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata umuhoro mfate undi tujye gutema ikidatemeka",
+            "option_1": "Inkwana z'amateke",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Umuzi w' urutare",
+            "option_4": "Igikongorwa",
+            "correct_answer": "Umuzi w' urutare"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana b'abarundi barasana bakiri bato",
+            "option_1": "Ipfundo ry'urudodo",
+            "option_2": "Ifurwe",
+            "option_3": "Ibigori bifite imisatsi",
+            "option_4": "Icyibo",
+            "correct_answer": "Ifurwe"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 724
+    },
+    {
+        "sakwe_1": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Urutare",
+            "option_2": "Kubona aho nyokobukwe yiyuhagira",
+            "option_3": "Akanyita k'uruhu",
+            "option_4": "Ikigega kitagira amasaka",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karabuduriye karabuduriye mu mpinga ya Byimana",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Intosho",
+            "option_3": "Intosho mu manga",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Intosho mu manga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Byakora kurya, byakora kuno",
+            "option_1": "Umuriro",
+            "option_2": "Igiseke",
+            "option_3": "Amara",
+            "option_4": "Igikecuru cyisutseho igisururu",
+            "correct_answer": "Amara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirabujunjuri ubujunjuri",
+            "option_1": "Umuriro, umuyaga",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Amashaza ku rujyo",
+            "option_4": "Amazi ku rukangara",
+            "correct_answer": "Amashaza ku rujyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nshibwa nshibuka",
+            "option_1": "Umugore ujya kuzimura",
+            "option_2": "Urukangaga",
+            "option_3": "Amata n'umutsima",
+            "option_4": "Ururimi",
+            "correct_answer": "Urukangaga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukina ma gasiza rwa Senyakazana twigabe",
+            "option_1": "Akagori",
+            "option_2": "Umusigati",
+            "option_3": "Umusambi",
+            "option_4": "Ikinyagu",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kadiridiri ka Ndirimba hejuru ya Sandarubeti",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Umuntu uri ku ipikipiki",
+            "option_4": "Inyamanza",
+            "correct_answer": "Umuntu uri ku ipikipiki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Narubanda ntiwarubandura",
+            "option_1": "Umugina, inzira",
+            "option_2": "Icyuho; ikibyindi",
+            "option_3": "Igihumyo",
+            "option_4": "Urutoki mu nkono y'itabi",
+            "correct_answer": "Icyuho; ikibyindi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ko uri mukuru wa kera wari wabona umwami w'amenyo abiri?",
+            "option_1": "Inyamanza",
+            "option_2": "Akabuye gahonze isuka akandi kakayigorora",
+            "option_3": "Ibikingi by'irembo",
+            "option_4": "Akazi mu nzira",
+            "correct_answer": "Ibikingi by'irembo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Birasa ntibitana",
+            "option_1": "Umusambi; abashi b'inkingi",
+            "option_2": "Ifuni mu mushike",
+            "option_3": "Ishinya y'urushishi",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Amabondo y'ihene"
+        }
+    }
+]

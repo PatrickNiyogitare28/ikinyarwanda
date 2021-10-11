@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 700
+    },
+    {
+        "sakwe_1": {
+            "question": "Njugunye akabuye ku Karubanda baragatanguranwa",
+            "option_1": "Ifaranga",
+            "option_2": "Radiyo",
+            "option_3": "Ibarizo",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera akabyara katimye",
+            "option_1": "Imizi y'urutare",
+            "option_2": "Ikiziba mu mpinga",
+            "option_3": "Insina",
+            "option_4": "Igihu",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngira inka nkayivanaho  uruhu igasigara ihagaze",
+            "option_1": "Ikizubazuba",
+            "option_2": "Ibiboga bigaze",
+            "option_3": "Umuvumu",
+            "option_4": "Umutumba",
+            "correct_answer": "Umuvumu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Nyamuniga wa Nyamuko",
+            "option_1": "Ikiba cy'ubwatsi",
+            "option_2": "Urusenge",
+            "option_3": "Ikijumba",
+            "option_4": "Umutsi w'innyo",
+            "correct_answer": "Umutsi w'innyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ko uri mukuru wa kera wari wabona umwami w'amenyo abiri?",
+            "option_1": "Ibikingi by'irembo",
+            "option_2": "Urubariro",
+            "option_3": "Ikirungurira",
+            "option_4": "Ifuni",
+            "correct_answer": "Ibikingi by'irembo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera Rukara aho igaramya mu bitare bya Mashyiga",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Urukumbi mu menyo",
+            "option_4": "Ikigega kirimo ubusa",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Igihugu cyose Iya bitatu",
+            "option_1": "Ikigagara",
+            "option_2": "Umudwedwe",
+            "option_3": "Igisambu gisigaye hagati y'uruhira",
+            "option_4": "Amashyiga",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ubumomo so ubuguru bw'isi",
+            "option_1": "Amaguru yanjye n'ayawe",
+            "option_2": "Mahina",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Amata n'umutsima",
+            "correct_answer": "Amaguru yanjye n'ayawe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karacunda ngwegwe",
+            "option_1": "Agaseke mu ruzi",
+            "option_2": "Ifuni",
+            "option_3": "Ikivugirizo",
+            "option_4": "Umucaca mu ruzi",
+            "correct_answer": "Agaseke mu ruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kuba mu gisiza ntuhinge uburo ni iki?",
+            "option_1": "Ibipfuko",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Umusambi",
+            "correct_answer": "Umusambi"
+        }
+    }
+]

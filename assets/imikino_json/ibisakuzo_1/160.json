@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 247
+    },
+    {
+        "sakwe_1": {
+            "question": "Kana kanjye ngwino nguhe impamba",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Ijwi",
+            "option_3": "Umunyeshuri",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Umunyeshuri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Ikirungurira",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Inopfu",
+            "option_4": "Inopho",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Umwumba w'insina",
+            "option_4": "Ubwoya bw' inka",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ifaranga",
+            "option_2": "Ururimi n'amenyo",
+            "option_3": "Umucaca",
+            "option_4": "Ururimi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama nshuti",
+            "option_1": "Agatsinsino",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Ikirago",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aho ndaye n'aho ngeze mpasiga umwanda",
+            "option_1": "Inyamunyo",
+            "option_2": "Umukobwa ubonye iwabo hashya",
+            "option_3": "Amase y'inka",
+            "option_4": "Umusazi",
+            "correct_answer": "Amase y'inka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nabyaye abakobwa benshi uwapfuye ijisho muri bo abatanga gusabwa",
+            "option_1": "Ijwi",
+            "option_2": "Ipikipiki",
+            "option_3": "Inopfu",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Inopfu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Inkono y'amapfa",
+            "option_2": "Akarago ko mu irebe",
+            "option_3": "Umusatsi w'intabwa",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ishime nyoko aratwite",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Ikawa",
+            "option_3": "Urwina",
+            "option_4": "Ibarizo",
+            "correct_answer": "Urwina"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Biratinyana",
+            "option_1": "Umwijima n'urumuri",
+            "option_2": "Ukwezi n'inyenyeri",
+            "option_3": "Igisenge",
+            "option_4": "Umuntu",
+            "correct_answer": "Umwijima n'urumuri"
+        }
+    }
+]

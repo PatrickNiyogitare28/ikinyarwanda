@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 650
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze ku rutare ndasa umwambi umara abana b' abatwa",
+            "option_1": "Igihandure",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Akayuki k'akungu",
+            "option_4": "Inzara",
+            "correct_answer": "Inzara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umwana w'umwami amanutse akubita agatoki ku kandi",
+            "option_1": "Ifundi",
+            "option_2": "Ingata mu ruhira",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Igitembatembe",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze ku gasozi ndasa Rugina mu bihaha",
+            "option_1": "Ifuni",
+            "option_2": "Uruboho",
+            "option_3": "Ingata mu ruhira",
+            "option_4": "Ikigega kitagira amasaka",
+            "correct_answer": "Ikigega kitagira amasaka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera inkangara ya Makaci batera icumu igakinga ikibaba",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Ikinyamunyu",
+            "option_3": "Umugore unnya kugihuru",
+            "option_4": "Imvura",
+            "correct_answer": "Umugore unnya kugihuru"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Umwami w'i Buhaya aratera ingoma araramye",
+            "option_1": "Umwana w'ifundi",
+            "option_2": "Ikigori",
+            "option_3": "Isuka mu icukiro",
+            "option_4": "Inuma ku ishaka",
+            "correct_answer": "Inuma ku ishaka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngira umugozi nkawutahiriza ntiwuzure",
+            "option_1": "Urugo udasangamo nyoko",
+            "option_2": "Inzira",
+            "option_3": "Ubukumi bwa so na nyoko",
+            "option_4": "Igishirira kiguye mu mazi ashyushye",
+            "correct_answer": "Inzira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyabukongoro yamaze inka i Murera",
+            "option_1": "Amazi",
+            "option_2": "Umugore ujya kuzimura",
+            "option_3": "Uruhabuzo",
+            "option_4": "Ivunja",
+            "correct_answer": "Uruhabuzo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karazigurira",
+            "option_1": "Umwana w'ifundi",
+            "option_2": "Akazizi k'amata",
+            "option_3": "Ubwato mu kiyaga; mu mazi",
+            "option_4": "Amasaka",
+            "correct_answer": "Akazizi k'amata"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kati \"diri diri, dore umuhamirizo nakuye kwa Mukoze",
+            "option_1": "Urutare rwo mu nzira",
+            "option_2": "Ikibwana cy'imbwa",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Urukwavu",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "I Mabara zirarabagirana",
+            "option_1": "Impururu z'umutindi",
+            "option_2": "Ibigori bifite imisatsi",
+            "option_3": "Umuyenzi",
+            "option_4": "Umwumba w'urukoma",
+            "correct_answer": "Impururu z'umutindi"
+        }
+    }
+]

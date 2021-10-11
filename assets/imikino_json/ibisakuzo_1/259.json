@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 147
+    },
+    {
+        "sakwe_1": {
+            "question": "Nta kujya mu bajiji utari umujiji",
+            "option_1": "Igikoro",
+            "option_2": "Umugina mu rufunzo",
+            "option_3": "Umusazi",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Umugina mu rufunzo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Banterere anyuze aha",
+            "option_1": "Umugore utwite",
+            "option_2": "Umuheto n'umwambi",
+            "option_3": "Ifaranga",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Agasuzi",
+            "option_4": "Ingasire",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Havuyemo umwe ntitwabimenya",
+            "option_1": "Inyoni",
+            "option_2": "Ubwatsi busakaye inzu",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Umusazi",
+            "correct_answer": "Ubwatsi busakaye inzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Umurozi",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Kwatsa mu ziko",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Ifaranga",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Ubuto bwa so na nyoko",
+            "option_4": "Igikoro, igihaza",
+            "correct_answer": "Ubuto bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Uruyuzi",
+            "option_2": "Isoko",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Uruyuzi",
+            "option_3": "Ifaranga",
+            "option_4": "Kudashyira ingasire mu masaka ngo iyasye",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Indogobe ishaje",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Isekuru",
+            "option_3": "Amano y'umuntu",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 561
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Uruyuzi",
+            "option_2": "Umukondo w'inyana",
+            "option_3": "Amabya",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera icyambuka amazi kitagira amaguru",
+            "option_1": "Ijwi",
+            "option_2": "Amazi",
+            "option_3": "Urwiri",
+            "option_4": "Ibirago",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpiritse indobo ikwira hose",
+            "option_1": "Imodoka",
+            "option_2": "Umugono w'ishashi",
+            "option_3": "Umugore utwite",
+            "option_4": "Amagambo yo ku rurembo",
+            "correct_answer": "Amagambo yo ku rurembo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Ibitotsi",
+            "option_3": "Icyobo",
+            "option_4": "Umunyeshuri",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Ifundi",
+            "option_2": "Ururimi",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Umunyereri",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyirabugenge n'ubugenge bwayo",
+            "option_1": "Inzoka mu kugenda nta maguru",
+            "option_2": "Icebe ry'inka",
+            "option_3": "Urupfu",
+            "option_4": "Abavomyi",
+            "correct_answer": "Inzoka mu kugenda nta maguru"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mvuye guhamba nyogokuru aza ankurikiye",
+            "option_1": "Igitoki",
+            "option_2": "Ivu",
+            "option_3": "Urusenda",
+            "option_4": "Igitiritiri",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze mu gahinga nyarira ab‘epfo",
+            "option_1": "Ikiyoni",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Imvura",
+            "option_4": "Umugezi",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Ikirungurira",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Inzuki",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kirisha amazuru",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Umuvumbyi",
+            "option_3": "Umuvuba",
+            "option_4": "Agacaca",
+            "correct_answer": "Umuvuba"
+        }
+    }
+]

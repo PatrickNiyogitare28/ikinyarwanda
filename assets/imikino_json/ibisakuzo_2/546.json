@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 511
+    },
+    {
+        "sakwe_1": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Inda",
+            "option_2": "Agahoro mu ntoki",
+            "option_3": "Ingwa",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aha hari agati kadacanwa",
+            "option_1": "Ubwato",
+            "option_2": "Akanyoni karitse ku nzira",
+            "option_3": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "option_4": "Amaso",
+            "correct_answer": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akangaratete ka terera tugende dore umunsi uragiye",
+            "option_1": "Igare",
+            "option_2": "Igikoro",
+            "option_3": "Inyundo z'abacuzi",
+            "option_4": "Ifuni mu rutara",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kagenda gatonnye kagera ibwami kagatona",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Umugore utwite",
+            "option_3": "Inkari z'inkoko",
+            "option_4": "Ikinyamunyu",
+            "correct_answer": "Ikinyamunyu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imanika mahahara imanura amahano kwa mfura zitarya",
+            "option_1": "Imodoka",
+            "option_2": "Inzugi z'imigano, umukokwe",
+            "option_3": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "option_4": "Ikinwa cya nyirabarazana",
+            "correct_answer": "Inzugi z'imigano, umukokwe"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_3": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "option_4": "Urusenge",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nirirwa nicaye nkirirwa nicaye",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Intebe",
+            "option_3": "Umugezi utemba ugasiga amabuye",
+            "option_4": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "correct_answer": "Intebe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Urudigidi uruvuza mudido",
+            "option_1": "Inda",
+            "option_2": "Amahundo",
+            "option_3": "Uruyuzi; umugezi",
+            "option_4": "Urutumbwe",
+            "correct_answer": "Urutumbwe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze ku gasozi nti \"bahinzi baho baho\"",
+            "option_1": "Agahwa mu rwondo",
+            "option_2": "Inkono",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Gusitara ku ibuye",
+            "correct_answer": "Intuku z'amasaka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndu mugufi nakiranya so nkamutsinda",
+            "option_1": "Ubwato",
+            "option_2": "Inzoga",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Ubunyenyeri",
+            "correct_answer": "Ubunyenyeri"
+        }
+    }
+]

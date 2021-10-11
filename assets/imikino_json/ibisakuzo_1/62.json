@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 204
+    },
+    {
+        "sakwe_1": {
+            "question": "Aho wakabona kagutera guseka",
+            "option_1": "Ikigori",
+            "option_2": "Inyoni",
+            "option_3": "Insina; amateke",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Urusenda",
+            "option_2": "Ibaruwa",
+            "option_3": "Telefoni",
+            "option_4": "Icyobo",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Radiyo",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Umubagazi",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Cyamatimbatimba cyamaguru umunani umwana w'umushoferi akandagiye iburayi",
+            "option_1": "Umuyaga",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Imvura",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Gusaba uwo wimye",
+            "option_2": "Umukandara",
+            "option_3": "Umusuzi",
+            "option_4": "Icyumweru",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Ibitotsi",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Amaguru y'inkware",
+            "option_4": "Ifaranga",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Umugezi",
+            "option_2": "Inzu itagira abantu",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Agasongero k'inzu",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zana akebo nzane akandi tujye gutara intagwira",
+            "option_1": "Ibitotsi",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Umunyereri",
+            "correct_answer": "Ubwoya bw' inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Ukwezi",
+            "option_2": "Umuheto n'umwambi",
+            "option_3": "Igikeri",
+            "option_4": "Ikaziya ya primus",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Tuvuye mo umwe ntitwarya",
+            "option_1": "Uruzi",
+            "option_2": "Amashyiga (y'inyuma)",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Umutego",
+            "correct_answer": "Amashyiga (y'inyuma)"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 466
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera inkangara ya Makaci batera icumu igakinga ikibaba",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Umugore unnya kugihuru",
+            "option_3": "Ijambo ry'umwami",
+            "option_4": "Isuka",
+            "correct_answer": "Umugore unnya kugihuru"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ziramuje mu Nyarubande",
+            "option_1": "Inkono",
+            "option_2": "Ikigega kitagira amasaka",
+            "option_3": "Agahinda ku murima",
+            "option_4": "Intuku z'amasaka",
+            "correct_answer": "Intuku z'amasaka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Gaju iriruka ntirenga",
+            "option_1": "Uruyuki",
+            "option_2": "Umukenke",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Igisabo",
+            "correct_answer": "Umukenke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kamennye urutare gataha i Mpushi",
+            "option_1": "Urugo udasangamo nyoko",
+            "option_2": "Urukwavu",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ibisakuzo bya Nyirasapfu",
+            "option_1": "Irobe",
+            "option_2": "Amafuni mu rukoro",
+            "option_3": "Inkoko",
+            "option_4": "Igihuna",
+            "correct_answer": "Amafuni mu rukoro"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inkuba irarenga",
+            "option_1": "Inyundo y'umucuruzi",
+            "option_2": "Ukwezi",
+            "option_3": "Isha mu ibanga",
+            "option_4": "Igifu",
+            "correct_answer": "Isha mu ibanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyabwiza mu mpinga",
+            "option_1": "Umwana uri munda ya nyina",
+            "option_2": "Ikirungurira",
+            "option_3": "Umbwato; ibitwikurura",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Umbwato; ibitwikurura"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Umwana wanjye yavutse afite inda",
+            "option_1": "Umuheha",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Inzuki",
+            "option_4": "Akabuno k'imfizi",
+            "correct_answer": "Umuheha"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramakoberanya",
+            "option_1": "Ifaranga",
+            "option_2": "Agakono ko mu cyi",
+            "option_3": "Intashya",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Agakono ko mu cyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rukara irajegeza umudende",
+            "option_1": "Ikizu kitarimo abantu",
+            "option_2": "Igihumyo",
+            "option_3": "Umugore utwite",
+            "option_4": "Urushishi ku igufa",
+            "correct_answer": "Urushishi ku igufa"
+        }
+    }
+]

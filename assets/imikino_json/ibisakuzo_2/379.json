@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 45
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze mu mpinga ndizihiza",
+            "option_1": "Inzoga",
+            "option_2": "Igikona",
+            "option_3": "Inzu",
+            "option_4": "Umwuho w'amateke",
+            "correct_answer": "Umwuho w'amateke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze ku gasozi mbona abagore bambaye impeta bose",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Igisindu",
+            "option_3": "Umugabo wambaye umwenda mushya",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Igira inyuma y'inzu bagupfunde ibirozi",
+            "option_1": "Ibiboga bigaze",
+            "option_2": "Amenyo",
+            "option_3": "Ibijumaba",
+            "option_4": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "correct_answer": "Ibiboga bigaze"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera amazi ajya ruguru",
+            "option_1": "Ivunja",
+            "option_2": "Agahinda mu murima",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Umwana usanze se na nyina batariyo",
+            "correct_answer": "Amazi mu muheha"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imparakajosi ya Nyamujyana, impara ironsa batanu",
+            "option_1": "Ibicuma ku nkangara",
+            "option_2": "Inkoko mu rutoki",
+            "option_3": "Umuheto n'imyambi",
+            "option_4": "Amarira y'imbwa",
+            "correct_answer": "Umuheto n'imyambi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Shirika amazinda ngutume ikuzimu",
+            "option_1": "Inda",
+            "option_2": "Igikona n'umutsima",
+            "option_3": "Ikinyoro cy'umusaza",
+            "option_4": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "correct_answer": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inyuma ya Ndiza urwenge rurahonya",
+            "option_1": "Impatwe z'umusaza",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Uruzi; ishami ry'uruzi",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rutumba ruturitse rw'i Buganza irangana iki?",
+            "option_1": "Mu murima w'inkoko",
+            "option_2": "Amaguru k'urushishi",
+            "option_3": "Umusore",
+            "option_4": "Ifaranga",
+            "correct_answer": "Amaguru k'urushishi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngira inka nkayirya igenda",
+            "option_1": "Umwobo mu nzira",
+            "option_2": "Ikibwana cy'imbwa mu masinde",
+            "option_3": "Uruyuzi; umugezi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Uruyuzi; umugezi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera agasaza kakiri agasore",
+            "option_1": "Ifundi",
+            "option_2": "Umwuho w'amateke",
+            "option_3": "Urugi",
+            "option_4": "Inda",
+            "correct_answer": "Ifundi"
+        }
+    }
+]

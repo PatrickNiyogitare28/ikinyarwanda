@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 573
+    },
+    {
+        "sakwe_1": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Inyenyeri",
+            "option_4": "Ururabo",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Ururimi n'amenyo",
+            "option_2": "Ibishokoro",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Igitiritiri",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirarumbaraye",
+            "option_1": "Urutare",
+            "option_2": "Inyundo",
+            "option_3": "Igisozi kirekire",
+            "option_4": "Umuyaga",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abagwabiro bashinze inteko",
+            "option_1": "Umucaca",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera icyatumye umugabo ataryama",
+            "option_1": "Inkingi",
+            "option_2": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mutamu irarembera mu bisi n'iyayo",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Umuzi w'urutare",
+            "option_3": "Umuyaga mu muyange",
+            "option_4": "Uruhinja",
+            "correct_answer": "Umuyaga mu muyange"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Ukwezi n'inyenyeri",
+            "option_3": "Umurozi",
+            "option_4": "Inuma ku rukoma",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Ibiradiyo biteganye",
+            "option_3": "Igihaza",
+            "option_4": "Igisenge",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Igitiritiri",
+            "option_3": "Ibishokoro",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inkuba ikubita ikwerekejeho umugongo",
+            "option_1": "Akababi k'umuvumu",
+            "option_2": "Umuheto",
+            "option_3": "Ifaranga",
+            "option_4": "Isusa",
+            "correct_answer": "Umuheto"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 111
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo zirabyina urungora",
+            "option_1": "Akazi mu nzira",
+            "option_2": "Agasuna",
+            "option_3": "Ikirago",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ikiyongoyongo cya Nyirabayogoma kiruka ikijya epfo n'ikijya ruguru",
+            "option_1": "Umuriro, umuyaga",
+            "option_2": "Abahizi",
+            "option_3": "Agaca mu nkoko",
+            "option_4": "Inkingi",
+            "correct_answer": "Umuriro, umuyaga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Umuntu muremure w'imyenge mu nnyo n'umwenda wera",
+            "option_1": "Isha mu mukenke",
+            "option_2": "Umwangange",
+            "option_3": "Amashyiga",
+            "option_4": "Injishi z'igisabo",
+            "correct_answer": "Injishi z'igisabo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Negetse umuzinga ku ngoma ya Gahindiro n'ubu nturinjira",
+            "option_1": "Igitama cyaguye mu mukokwe",
+            "option_2": "Imyenge y'amazuru",
+            "option_3": "Umutsi mu nda",
+            "option_4": "Igikona",
+            "correct_answer": "Imyenge y'amazuru"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyiragirimana afite inde",
+            "option_1": "Ikigorigori",
+            "option_2": "Agahoro mu ntoki",
+            "option_3": "Uruboho",
+            "option_4": "Imvura igwa ku gitikatika",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite abana bakicara ku ntebe imwe",
+            "option_1": "Igitsina cy'amateke",
+            "option_2": "Intumbi y'ihene",
+            "option_3": "Umuyaga",
+            "option_4": "Imodoka",
+            "correct_answer": "Igitsina cy'amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rupfupfu yarapfuye adiga undi Rupfupfu",
+            "option_1": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_2": "Ijisho rya mukeba",
+            "option_3": "Umugezi utemba ugasiga amabuye",
+            "option_4": "Umukenke",
+            "correct_answer": "Umugezi utemba ugasiga amabuye"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite abakobwa kuva ku ngoma ya Gahindiro n'ubu ntibararamukanya",
+            "option_1": "Ikirago; ikiringiti",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Inkombe n'uruzi",
+            "option_4": "Imfunzo",
+            "correct_answer": "Inkombe n'uruzi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Umwana w'umwami hejuru y'urupfu",
+            "option_1": "Ubwato mu ruzi",
+            "option_2": "Amarira y'imbwa",
+            "option_3": "Akazizi k'amata",
+            "option_4": "Intore n'umutsima",
+            "correct_answer": "Ubwato mu ruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku gasozi nti \"bana banjye murizihiwe\"",
+            "option_1": "Imfizi y'intama",
+            "option_2": "Igiti gishigukanye n'imizi yacyo",
+            "option_3": "Ijambo rya mukeba",
+            "option_4": "Amasaka y'umuterero; insina zikaragiye",
+            "correct_answer": "Amasaka y'umuterero; insina zikaragiye"
+        }
+    }
+]

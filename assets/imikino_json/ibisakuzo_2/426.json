@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 669
+    },
+    {
+        "sakwe_1": {
+            "question": "Kati \"Jyiii!\", kati \"izibukire!\"",
+            "option_1": "Umugore utwite",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Igishyimbo cy'umutura",
+            "correct_answer": "Igishyimbo cy'umutura"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndi Rutebuka kw'iteme ndi Rutebuka ku iteke nti \"mbe mwiriwe Rezida !\"",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Urukwavu",
+            "option_3": "Amara",
+            "option_4": "Igitokd kigwanye n'insina",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Barateka ntibaminina",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Inzogera",
+            "option_3": "Amazi y'inyama",
+            "option_4": "Igihu",
+            "correct_answer": "Amazi y'inyama"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Segikwekwe umutwe wa Mukono",
+            "option_1": "Igitama cyaguye mu mukokwe",
+            "option_2": "Umwobo mu masaka",
+            "option_3": "Isi n' ijuru",
+            "option_4": "Umuko mu mukokwe",
+            "correct_answer": "Umuko mu mukokwe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hirya umuganda no hino umuganda",
+            "option_1": "Inzoga mu kibindi",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Urukorogoto",
+            "option_4": "Ururimi hagati y'amenyo",
+            "correct_answer": "Ururimi hagati y'amenyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata umuhoro mfate undi tujye gutema ikidatemeka",
+            "option_1": "Ifaranga",
+            "option_2": "Umuzi w' urutare",
+            "option_3": "Ifuni mu rutara",
+            "option_4": "Uruyuki",
+            "correct_answer": "Umuzi w' urutare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Mukara ikamwe ayera murumana wa Muhoro",
+            "option_1": "Amateke",
+            "option_2": "Umuyenzi",
+            "option_3": "Ibirago",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Umuyenzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Cyimitse ingere gihetse Rwigema kigiye gusumba Tarasi umwami w'i Gisaka",
+            "option_1": "Ikigori",
+            "option_2": "Igikona n'umutsima",
+            "option_3": "Umwuho w'amateke",
+            "option_4": "Urusyo",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Iwacu twikwije impindu twese",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Isake; impanda",
+            "option_4": "Inzogera",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyamwiza mu ibanga",
+            "option_1": "Umwangange",
+            "option_2": "Ubunyerere",
+            "option_3": "Imbaragasa",
+            "option_4": "Inzara n'umwijuto",
+            "correct_answer": "Umwangange"
+        }
+    }
+]

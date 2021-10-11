@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 589
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Iteke",
+            "option_2": "Ubwatsi busakaye inzu",
+            "option_3": "Umurabyo",
+            "option_4": "Imvura",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Ibirago",
+            "option_2": "Imyugariro",
+            "option_3": "Imvura",
+            "option_4": "Inopho",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Agasuzi",
+            "option_2": "Ibibabi by'ikibonobono",
+            "option_3": "Igisenge",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyangufi arasekura uburo",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Umukandara",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Ifundi mu mamera",
+            "correct_answer": "Ifundi mu mamera"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Sida",
+            "option_3": "Indumane",
+            "option_4": "Ukwezi",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Akayira kajya mu kigega",
+            "option_2": "Agacaca",
+            "option_3": "Umubagazi",
+            "option_4": "Umusuzi wa so",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiramutarataje abagabo",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ifaranga",
+            "option_3": "Ibitotsi",
+            "option_4": "Umuzi w'urutare",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inyana y'ishyanga iratema ishyamba",
+            "option_1": "Ibitotsi",
+            "option_2": "Inyana y'umutavu",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Agahinda k'umutima"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bihu byumye arenze urugo",
+            "option_1": "Imbeho ku rugi",
+            "option_2": "Umuneke",
+            "option_3": "Ikiyoni",
+            "option_4": "Indumane",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Njugunye igihaza gihinguranya amarembo",
+            "option_1": "Amapapayi",
+            "option_2": "Ikirungurira",
+            "option_3": "Umupira mu izamu",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Umupira mu izamu"
+        }
+    }
+]

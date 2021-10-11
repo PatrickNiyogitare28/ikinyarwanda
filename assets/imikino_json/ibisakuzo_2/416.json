@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 568
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkubise uruti mu nkike ya ruguru ruhinguka i Nyarugenge",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Umuntu ubara inkuru cyane",
+            "option_3": "Umusuzi",
+            "option_4": "Akanyoni karitse ku nzira",
+            "correct_answer": "Umuntu ubara inkuru cyane"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mu nzu umu tuboze ibibuno twese",
+            "option_1": "Inkingi",
+            "option_2": "Inzara yica umusore",
+            "option_3": "Ubwato",
+            "option_4": "Intore n'amata",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inyabune ya butanu yagiye kwenda inani kwa mirongo inani",
+            "option_1": "Imirya y'intanga",
+            "option_2": "Ubwato mu kiyaga; mu ruzi",
+            "option_3": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Imirya y'intanga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Imana y'ishyanga irabagira mu ishyamba",
+            "option_1": "Agahwa mu rwondo",
+            "option_2": "Agakongorerwa",
+            "option_3": "Ishavu",
+            "option_4": "Ururo mu mateke",
+            "correct_answer": "Ishavu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Agacwende kanjye kabaye kure mba  ngukoreyemo",
+            "option_1": "Ukwezi",
+            "option_2": "Umuntu ubara inkuru cyane",
+            "option_3": "Umusoro",
+            "option_4": "Icyiyoni mu isoko",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyamunini umugwa",
+            "option_1": "Umuheto n'imyambi",
+            "option_2": "Mpinga",
+            "option_3": "Igikona",
+            "option_4": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "correct_answer": "Mpinga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kajugujugu ka Kamarankoni",
+            "option_1": "Ikigega kirimo ubusa",
+            "option_2": "Umwana uri munda ya nyina",
+            "option_3": "Uruyuki",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rumanika amahahara rumanura amahoro",
+            "option_1": "Uruyuki",
+            "option_2": "Intashya",
+            "option_3": "Inkumi yiba",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Inkumi yiba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite abana bakicara ku ntebe imwe",
+            "option_1": "Igitoki n'insina bigwanye",
+            "option_2": "Igitsina cy'amateke",
+            "option_3": "Isinde",
+            "option_4": "Akagabo ko mu irebe",
+            "correct_answer": "Igitsina cy'amateke"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Akatsi ko ku nzu",
+            "option_3": "Amabere",
+            "option_4": "Uruhu rw'intama",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 170
+    },
+    {
+        "sakwe_1": {
+            "question": "Ngira inka nkayikamira mu murizo",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Agahinda ku mutima",
+            "option_3": "Umusatsi; inzara",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akatagira Inka ntikagire umugeni kagura iki?",
+            "option_1": "Umbwato; ibitwikurura",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Agahanga k'ihene",
+            "option_4": "Agacuma",
+            "correct_answer": "Agahanga k'ihene"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirisha amazuru",
+            "option_1": "Umuvuba",
+            "option_2": "Icyagumbwa (inopfu)",
+            "option_3": "Wasaza ubuhiri mu muhini!!",
+            "option_4": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rukara irona umurama",
+            "option_1": "Injishi z'igisabo",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Umwana w'ifundi",
+            "option_4": "Umurunga",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igiti kiguye i Nyanza tugikwirwa amashami twese",
+            "option_1": "Ijambo ry'umwami",
+            "option_2": "Amashaza ku rujyo",
+            "option_3": "Inyundo z'abacuzi",
+            "option_4": "Ikigori ku nzira",
+            "correct_answer": "Ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rudandi na Rukambura",
+            "option_1": "Radiyo",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Agakono k'impengeri",
+            "option_4": "Inzara n'umwijuto",
+            "correct_answer": "Inzara n'umwijuto"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kuki ujundika inyama ntuzimire",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Igitonyanga",
+            "option_3": "Ururimi mu kanywa",
+            "option_4": "Igikona",
+            "correct_answer": "Ururimi mu kanywa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nteruye nyoko n'ubuhuruhuru  ndunda mu mbere",
+            "option_1": "Inkari z'inkoko",
+            "option_2": "Umusambi",
+            "option_3": "Agakatsi ku butanda",
+            "option_4": "Inkono n' ibipfuko",
+            "correct_answer": "Inkono n' ibipfuko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Cyatanze umuzungu kwambara karavati",
+            "option_1": "Umuvuba",
+            "option_2": "Igikona",
+            "option_3": "Kwatsa mu ziko",
+            "option_4": "Inkombe n'uruzi",
+            "correct_answer": "Igikona"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nzamutse agasozi ubutogotogo buramvuna",
+            "option_1": "Umusambi",
+            "option_2": "Imbeba mu muguta",
+            "option_3": "Ikinyoro mu rubavu",
+            "option_4": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "correct_answer": "Ubuhuzu mu bitugu; inkota mu bitugu"
+        }
+    }
+]

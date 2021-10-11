@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 452
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndakubise ndirahira nijye mutware wa Mburamatare",
+            "option_1": "Gusitara",
+            "option_2": "Ikiringiti",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Ibikongorwa by'ibisheke",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Umusuzi wa so",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hakurya duuuuuu, hakuno duuuuuu",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Ibiradiyo biteganye",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ibiradiyo biteganye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Inyegamo y'umusore warongoye",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kora aha",
+            "option_1": "Umunyeshuri wabaye uwa mbere",
+            "option_2": "Ikawa",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umunyeshuri wabaye uwa mbere"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abakobwa banjye bose bikwije impindu",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Imvura",
+            "option_3": "Ibishokoro",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngenda gahoro ariko nzagerayo",
+            "option_1": "Ifaranga",
+            "option_2": "Ifaranga",
+            "option_3": "Igikeri",
+            "option_4": "Gusitara",
+            "correct_answer": "Igikeri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mvuye ikuzimu bampa akabando",
+            "option_1": "Igikoro",
+            "option_2": "Umutwe",
+            "option_3": "Ubunyereri",
+            "option_4": "Isoko",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kwigerezaho yikoreye ibyo atazi umubare",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Umusatsi ku mutwe",
+            "option_4": "Ikirago",
+            "correct_answer": "Umusatsi ku mutwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Urusenda",
+            "option_2": "Umuheto n'umwambi",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Izuba",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    }
+]

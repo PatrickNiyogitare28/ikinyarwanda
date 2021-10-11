@@ -1,0 +1,39 @@
+name: ikinyarwanda
+description: word games in Kinyarwanda.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_it: ^7.2.0
+  stacked: ^2.2.5
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/imikino_json/ibisakuzo_1/
+    - assets/imikino_json/ibisakuzo_2/
+    - assets/imikino_json/ikeshamvugo/
+    - assets/imikino_json/imiganimigufi/
+    - assets/imikino_json/incamarenga/
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/OpenSans-Bold.ttf
+          weight: 700

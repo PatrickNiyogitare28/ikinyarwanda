@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 402
+    },
+    {
+        "sakwe_1": {
+            "question": "Rukondakonda umuhoro wo mu Kinyaga",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Ikivumvuri",
+            "option_3": "Icyibo",
+            "option_4": "Ubuheri mu gihata",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Sehene agiye iwabo",
+            "option_1": "Inturo mu rutare",
+            "option_2": "Agasongera",
+            "option_3": "Igikona",
+            "option_4": "Umunyinya",
+            "correct_answer": "Inturo mu rutare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite Inka nirusimbuka migina",
+            "option_1": "Imboni",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Umuriro",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Imboni"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkubise agahini hasi nti bazimu nimuzuke",
+            "option_1": "Umutozo",
+            "option_2": "Ifundi mu murama",
+            "option_3": "Ingara z'iminyinya",
+            "option_4": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "correct_answer": "Umutozo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Sebihu sogokuru",
+            "option_1": "Insina",
+            "option_2": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "option_3": "Igihuna",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Igihuna"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akangaratete ka terera tugende dore umunsi uragiye",
+            "option_1": "Ubunyenyeri",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Igare",
+            "option_4": "Umutanoga ku rutare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Waterera Sebaya ntiwayiheza",
+            "option_1": "Inkari mu murama",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Umurizo w'ihene",
+            "option_4": "Umuyaga; umusuzi; amazi",
+            "correct_answer": "Umurizo w'ihene"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ni jye muzindutsi wa cyane nasanze umuzimu yicaye ku kaguru",
+            "option_1": "Urugori rw'ibishyimbo",
+            "option_2": "Urutoki mu nkono y'itabi",
+            "option_3": "Inkware",
+            "option_4": "Ingwa",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Impeta Kajiga ya Rujinja ironsa umunani",
+            "option_1": "Amaguru k'urushishi",
+            "option_2": "Ikizu kitarimo abantu",
+            "option_3": "Inzara y'uruhinja",
+            "option_4": "Injishi y'igisabo",
+            "correct_answer": "Injishi y'igisabo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kujya mu bajiji wari umujiji",
+            "option_1": "Umugina mu rufunzo; umwishywa mu isusa",
+            "option_2": "Umuriro",
+            "option_3": "Uruyuki",
+            "option_4": "Igitoki n'amakoma yacyo",
+            "correct_answer": "Umugina mu rufunzo; umwishywa mu isusa"
+        }
+    }
+]

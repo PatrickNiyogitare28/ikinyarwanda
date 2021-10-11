@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 793
+    },
+    {
+        "sakwe_1": {
+            "question": "Cyamusamasama cyamunumanuma inka z'umwami zirasana zirahira",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Ibikingi by'irembo",
+            "option_3": "Ikiyiko ku mbehe",
+            "option_4": "Ijisho",
+            "correct_answer": "Ikiyiko ku mbehe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inkuba ebyiri zihindiye i Bwishaza",
+            "option_1": "Inzara mu bana",
+            "option_2": "Inzuho ebyiri mu ntango",
+            "option_3": "Mu murima w'inkoko",
+            "option_4": "Umusambi; abashi b'inkingi",
+            "correct_answer": "Inzuho ebyiri mu ntango"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nambutse uruzi nkubita umwogo w'inda hasi",
+            "option_1": "Umuziha w'inzovu",
+            "option_2": "Intashya",
+            "option_3": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_4": "Radiyo",
+            "correct_answer": "Intashya"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze aho ndora amenyo ya Ruganzu",
+            "option_1": "Uburo ku rugo",
+            "option_2": "Ibikingi by'amarembo",
+            "option_3": "Inkoko",
+            "option_4": "Umuneke",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkubise uruti mu nkike ya ruguru ruhinguka i Nyarugenge",
+            "option_1": "Ikinyoro cy'umusaza",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Umusaza ku cyahi, amaraso ku murundi",
+            "option_4": "Umuntu ubara inkuru cyane",
+            "correct_answer": "Umuntu ubara inkuru cyane"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Tora ifumba ntore Indi tujye kwibaza",
+            "option_1": "Gutsika uruzi",
+            "option_2": "Indarama",
+            "option_3": "Amahinda y'inkuba",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Gutsika uruzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ubumomo so ubuguru bw'isi",
+            "option_1": "Amaguru yanjye n'ayawe",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Ibihaza",
+            "option_4": "Umuziha w'inzovu",
+            "correct_answer": "Amaguru yanjye n'ayawe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera umuriro uzimya undi",
+            "option_1": "Intore n'umutsima",
+            "option_2": "Igishirira kiguye mu mazi ashyushye",
+            "option_3": "Ifuni",
+            "option_4": "Ikijumba",
+            "correct_answer": "Igishirira kiguye mu mazi ashyushye"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inyuma ya Ndiza urwenge rurahonya",
+            "option_1": "Ishavu",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bicinyigiri bya Bikangaga Bikondo byacuzwe n'abantu",
+            "option_1": "Amenyo",
+            "option_2": "Imanzi mu maribori",
+            "option_3": "Inyenyeri",
+            "option_4": "Ibirago",
+            "correct_answer": "Ibirago"
+        }
+    }
+]

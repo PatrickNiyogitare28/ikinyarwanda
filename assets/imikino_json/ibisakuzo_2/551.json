@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 786
+    },
+    {
+        "sakwe_1": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Igare",
+            "option_2": "Ikigore kivuye mu mazu kenshi",
+            "option_3": "Ipfundo ry'urudodo",
+            "option_4": "Urujyo ku nkoko",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngiye bambaye ubusa ndi akana ngaruka narabyaye Kandi nambaye",
+            "option_1": "Ikigori",
+            "option_2": "Ikiziba mu mpinga",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Umwana uri munda ya nyina",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hakurya hena, hakuno hena",
+            "option_1": "Umuntu uri kuri ipikipiki",
+            "option_2": "Abagore babagara",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Abagore babagara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze aho ndora amenyo ya Ruganzu",
+            "option_1": "Inzu iguye",
+            "option_2": "Imashini idoda (icyarahani)",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Inyabutongo",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirabujunjuri ubujunjuri",
+            "option_1": "Amaguru ya muhuhirizi",
+            "option_2": "Imashini idoda (icyarahani)",
+            "option_3": "Amashaza ku rujyo",
+            "option_4": "Abagore babagara",
+            "correct_answer": "Amashaza ku rujyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inkongoro ya Dodo inyweramo Dodo wenyine",
+            "option_1": "Uruyuzi",
+            "option_2": "Umuvumbuko w'intare",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Urubura mu masaka",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Aka kayira kasiba twashira twese",
+            "option_1": "Inzara y'umusore",
+            "option_2": "Inzira ijya mu kigega",
+            "option_3": "Inkombe n'uruzi",
+            "option_4": "Agasongero",
+            "correct_answer": "Inzira ijya mu kigega"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kagema ijuru",
+            "option_1": "Akanyoni gatwawe n'amazi",
+            "option_2": "Imigeri",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Akumba k'urukoma",
+            "correct_answer": "Akumba k'urukoma"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagareb",
+            "option_1": "Ibitotsi",
+            "option_2": "Umwumba w'urukoma",
+            "option_3": "Umuvuba",
+            "option_4": "Icyagumbwa",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Zirakutse zisiga mweru inyuma",
+            "option_1": "Umusambi",
+            "option_2": "Igishwemu cy'amase",
+            "option_3": "Isinde",
+            "option_4": "Ibuye n'umutarimba",
+            "correct_answer": "Isinde"
+        }
+    }
+]

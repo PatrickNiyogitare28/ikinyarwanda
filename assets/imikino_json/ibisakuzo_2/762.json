@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 508
+    },
+    {
+        "sakwe_1": {
+            "question": "Mu gikombe ngo, \"hobe",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Hobe!\"",
+            "option_3": "Ingata mu ruhira",
+            "option_4": "Gusitara ku ibuye",
+            "correct_answer": "Hobe!\""
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kayogoyogo mushiki wa Ntare",
+            "option_1": "Igishyitsi cy'umusave n'umubirizi",
+            "option_2": "Inzogera",
+            "option_3": "Agaheha mu gacuma",
+            "option_4": "K'umutima w'undi",
+            "correct_answer": "Agaheha mu gacuma"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mubikombe ngo, \"gi!\"",
+            "option_1": "Agakatsi ku butanda",
+            "option_2": "Ikirondwe",
+            "option_3": "Icyibo",
+            "option_4": "Umuhazi ugwanye umuguta",
+            "correct_answer": "Umuhazi ugwanye umuguta"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rukondakonda umuhoro wo mu Kinyaga",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Urusenge",
+            "option_3": "Uruheri mu gihata",
+            "option_4": "Umusore warongoye",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera amakara y'umuntu",
+            "option_1": "Akabuye gahonze isuka akandi kakayigorora",
+            "option_2": "Intore n'umutsima",
+            "option_3": "Umwumba w'insina",
+            "option_4": "Umusatsi",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gaturutse ikuzimu gashyushye",
+            "option_1": "Inyundo z'abacuzi",
+            "option_2": "Ikibwana cy'imbwa",
+            "option_3": "Akana n'insina",
+            "option_4": "Urubumbiro; itongo",
+            "correct_answer": "Akana n'insina"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Sebihu sogokuru",
+            "option_1": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_2": "Igihuna",
+            "option_3": "Urubariro",
+            "option_4": "Umuvuba",
+            "correct_answer": "Igihuna"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Twabirikana mwimanyi",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Inzuho ebyiri mu ntango",
+            "option_3": "Inzira ijya mu kigega",
+            "option_4": "Ikibyindi",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Sogokuru w'ibihigi nyinshi",
+            "option_1": "Umugore utwite",
+            "option_2": "Umutobotobo",
+            "option_3": "Intorezo n'irago",
+            "option_4": "Radiyo",
+            "correct_answer": "Umutobotobo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Imisozi irashika ibikanu",
+            "option_1": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_2": "Abahizi",
+            "option_3": "Ibitotsi",
+            "option_4": "Agahanga k'ihene",
+            "correct_answer": "Abahizi"
+        }
+    }
+]

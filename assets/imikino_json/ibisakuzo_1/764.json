@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 340
+    },
+    {
+        "sakwe_1": {
+            "question": "Twavukiye rimwe ariko ntitureshya",
+            "option_1": "Umugezi",
+            "option_2": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_3": "Igisabo",
+            "option_4": "Imisozi",
+            "correct_answer": "Imisozi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dore aho so arenga n'ibikote bibi",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ikiringiti",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Ururimi",
+            "option_2": "Igikoro",
+            "option_3": "Amagambo yo ku rurembo",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karihuta",
+            "option_1": "Imvura",
+            "option_2": "Ijwi",
+            "option_3": "Igikeri",
+            "option_4": "Igare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akayuriyuri kwa Ntibazirikana inshuti y'urupfu",
+            "option_1": "Umuntu",
+            "option_2": "Inzuki",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Icyo nsasira ntikirame",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Ikawa",
+            "option_3": "Ururabo",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nteye igiti nsarura amabuye",
+            "option_1": "Urutara",
+            "option_2": "Kaburimbo",
+            "option_3": "Ifaranga",
+            "option_4": "Iteke",
+            "correct_answer": "Iteke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama shenge",
+            "option_1": "Umwana w'uruhinja",
+            "option_2": "Ifurwe",
+            "option_3": "Akayunguruzo",
+            "option_4": "Urupfu",
+            "correct_answer": "Umwana w'uruhinja"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagenze amahanga, Simbona igiti gikora idosiye",
+            "option_1": "Radiyo",
+            "option_2": "Inkingi",
+            "option_3": "Ikaramu",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Ikaramu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Ibitotsi",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Imisozi",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    }
+]

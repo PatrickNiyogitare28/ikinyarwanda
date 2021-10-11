@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 371
+    },
+    {
+        "sakwe_1": {
+            "question": "Kazikure irya, kazikure ino kati \"Ni izanjye na Runana\"",
+            "option_1": "Ibiryo ku mbebe",
+            "option_2": "Umununi ku gicumucumu",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Umununi ku gicumucumu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mweru n'iyayo",
+            "option_1": "Ikibyindi",
+            "option_2": "Urusyo n'ingasire",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Inyundo z'abacuzi",
+            "correct_answer": "Urusyo n'ingasire"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "So na data ko bameze impara inzoga y'ibwami izakorera nde ?",
+            "option_1": "Isogo n'inyabutongo",
+            "option_2": "Amarira y'imbwa",
+            "option_3": "Ibihaza",
+            "option_4": "Umuzi w' urutare",
+            "correct_answer": "Ibihaza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nshoye mukara nkura mweru",
+            "option_1": "Ikizubazuba",
+            "option_2": "Agahundo",
+            "option_3": "Amamera n'ifu",
+            "option_4": "Inuma ku ishaka",
+            "correct_answer": "Amamera n'ifu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zirarima mu bikombe bya Ndiza",
+            "option_1": "Agakongorerwa",
+            "option_2": "Inzara mu ruheri",
+            "option_3": "Uruhabuzo",
+            "option_4": "Isuka",
+            "correct_answer": "Inzara mu ruheri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Sebihu sogokuru",
+            "option_1": "Igishyimbo cy'umutura",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Imondo mu gihu",
+            "option_4": "Igihuna",
+            "correct_answer": "Igihuna"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karavugira i Bumpanika",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Agasongera",
+            "option_3": "Akagasire ku rusyo",
+            "option_4": "Ibisya by'umutwakazi",
+            "correct_answer": "Akagasire ku rusyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "I Gisaka ntibacinyira bangana amacinya",
+            "option_1": "Umuyaga",
+            "option_2": "Isuka",
+            "option_3": "Amenyo",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Amenyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Narakuze ndakururumba nanirwa no kwasa inkwi",
+            "option_1": "Ingwa",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Igihondohondo",
+            "option_4": "Urubumbiro; itongo",
+            "correct_answer": "Igihondohondo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nahurenye inko nyinshi ncyurana imwe gusa",
+            "option_1": "Ubunwa bw'ikirondwe",
+            "option_2": "Impatwe z'umusaza",
+            "option_3": "Uburo ku rugo",
+            "option_4": "Umusigati",
+            "correct_answer": "Umusigati"
+        }
+    }
+]

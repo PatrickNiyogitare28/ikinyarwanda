@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 546
+    },
+    {
+        "sakwe_1": {
+            "question": "Imyuko yo kwa Mahanga iruka umuriro",
+            "option_1": "Indabo z'amashaza",
+            "option_2": "Imbunda",
+            "option_3": "Amatwi",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Imbunda"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ni iki cyatanze umuzungu kwambara karuvati",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Ikiyoni",
+            "option_3": "Firigo",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akabaje umugabo kamurenza impinge",
+            "option_1": "Urupfu",
+            "option_2": "Ifaranga",
+            "option_3": "Umupira mu izamu",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Ifaranga",
+            "option_2": "Inyamunyo",
+            "option_3": "Inyoni",
+            "option_4": "Ikiryango cy'inzu",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama arusha nyoko amabuno manini",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Igisabo",
+            "option_3": "Corogati",
+            "option_4": "Umuneke",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Inyamunyo",
+            "option_2": "Umuzungu n'umwirabura",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Isi n'ijuru",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Insina",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Imodoka",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Imirizo y'inka",
+            "option_2": "Akarago ko mu irebe",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Ibirenge by'umuntu",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abambarantama ba Ntaragonda batwara amacumu bayacuritse",
+            "option_1": "Ibinono by'inka",
+            "option_2": "Imirizo y'inka",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Imirizo y'inka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ni iki cyatanze umuzungu kugenda mu ivatiri",
+            "option_1": "Ururabo ry'amashyaza",
+            "option_2": "Ifu",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Akanyamasyo"
+        }
+    }
+]

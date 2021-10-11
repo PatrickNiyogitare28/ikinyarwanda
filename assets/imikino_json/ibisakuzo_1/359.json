@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 163
+    },
+    {
+        "sakwe_1": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Izina ryawe",
+            "option_2": "Insina; amateke",
+            "option_3": "Ifaranga",
+            "option_4": "Umutsima",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Cya matambatamba cya maguru munani",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Uruyuzi",
+            "option_3": "Inkingi",
+            "option_4": "Ijwi",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Isusa",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Agakecuru ka;anutse i Nyarushurushuru kiteye imirwa munani",
+            "option_1": "Ifaranga",
+            "option_2": "Ukwezi",
+            "option_3": "Ururimi",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Intete z'ibigori"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Inyundo",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Icyobo",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Icyo nsasira ntikirame",
+            "option_1": "Ikawa",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Inkoko n'inkware",
+            "option_4": "Izuba",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Ibaruwa",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Ifaranga",
+            "option_4": "Izuba ry'impeshyi",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Nyiramaningiri",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Inzara y'umusore",
+            "option_4": "Umukondo w'inyana",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Dore iryo shyamba ritabona",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Ikawa",
+            "option_3": "Umusatsi w'intabwa",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Umusatsi w'intabwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Ivunja",
+            "option_2": "Igitoki",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Ikigori",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    }
+]

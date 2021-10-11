@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 486
+    },
+    {
+        "sakwe_1": {
+            "question": "Ca bugufi baragosora",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Igishorobwa",
+            "option_3": "Intosho mu manga",
+            "option_4": "Amashyiga",
+            "correct_answer": "Ifundi mu murama"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rukondakonda umuhoro wo mu Kinyaga",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Agakatsi ku butanda",
+            "option_3": "Amashyiga",
+            "option_4": "Ishenyi n'intorezo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Wambukije umwami utagira amaguru",
+            "option_1": "Ingwa",
+            "option_2": "Isuri",
+            "option_3": "Urusyo",
+            "option_4": "Ibigori bifite imisatsi",
+            "correct_answer": "Urusyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze ku gasozi nti \"bana banjye murizihiwe\"",
+            "option_1": "Intimba mu nda",
+            "option_2": "Inkari z'inkoko",
+            "option_3": "Amasaka y'umuterero; insina zikaragiye",
+            "option_4": "Intore n'umutsima",
+            "correct_answer": "Amasaka y'umuterero; insina zikaragiye"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku gasozi Mpanga amatama nti amata y'abashumba yabuze",
+            "option_1": "Akabuno k'imfizi",
+            "option_2": "Intorezo; urushishi; intosho",
+            "option_3": "Amazi ku rukangara",
+            "option_4": "Umwumano w'ishashi",
+            "correct_answer": "Umwumano w'ishashi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera rwagikoba rwakimanika rutaribwa n'imbeba",
+            "option_1": "Umuko mu mukokwe",
+            "option_2": "Inzogera",
+            "option_3": "Igihandure",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama Arusha nyoko gukimbagira inkanda",
+            "option_1": "Inda mu ihururu",
+            "option_2": "Amasaka",
+            "option_3": "Ururimi rwawe",
+            "option_4": "Inturo mu muvumo",
+            "correct_answer": "Inda mu ihururu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hirya nakubira no hino nakubira",
+            "option_1": "Amabondo y'ihene",
+            "option_2": "Inshishi",
+            "option_3": "Injishi y'igisabo",
+            "option_4": "Icyugu mu nshoce",
+            "correct_answer": "Amabondo y'ihene"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ruhuga iratema imanga",
+            "option_1": "Umuriro",
+            "option_2": "Inturo mu ntare",
+            "option_3": "Amahundo",
+            "option_4": "Insitare",
+            "correct_answer": "Umuriro"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Sogokuru ajya mu birunga yanzuze he?",
+            "option_1": "Umurunga",
+            "option_2": "Imbaragasa",
+            "option_3": "Amazi mu gisura",
+            "option_4": "Umwijima",
+            "correct_answer": "Amazi mu gisura"
+        }
+    }
+]

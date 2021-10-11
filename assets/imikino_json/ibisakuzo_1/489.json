@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 141
+    },
+    {
+        "sakwe_1": {
+            "question": "Akana kanjye ni maguru ya Sarwaya",
+            "option_1": "Indumane",
+            "option_2": "Firigo",
+            "option_3": "Uruyuzi",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho wakabona kagutera guseka",
+            "option_1": "Amata",
+            "option_2": "Ikigori",
+            "option_3": "Igikoro",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kamanutse kibarangura no hasi kati, nkaba nzasubirayo ndakambura data",
+            "option_1": "Ikiringiti",
+            "option_2": "Akababi k'umuvumu",
+            "option_3": "Imyugariro",
+            "option_4": "Kukwanduza sida",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Inkono y'amapfa",
+            "option_2": "Ibiti by'ikawa",
+            "option_3": "Umuyaga",
+            "option_4": "Amabere",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ni iki cyatanze umuzungu kwambara karuvati",
+            "option_1": "Ikiyoni",
+            "option_2": "Uruyuzi",
+            "option_3": "Ibishokoro",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Umubagazi",
+            "option_2": "Ibibabi by'ikibonobono",
+            "option_3": "Ibigori",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Ibigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Ibibabi by'ikibonobono",
+            "option_3": "Ifaranga",
+            "option_4": "Imodoka",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Ikiyoni",
+            "option_2": "Inyamunyo",
+            "option_3": "Ibitotsi",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirandarindari",
+            "option_1": "Ubunyobwa",
+            "option_2": "Ibaruwa",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Amabere",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyiramariza ari mu mpinga",
+            "option_1": "Ubunyereri",
+            "option_2": "Kubuza umuryi kurya",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Indabo z'amashaza"
+        }
+    }
+]

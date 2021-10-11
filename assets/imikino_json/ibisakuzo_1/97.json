@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 556
+    },
+    {
+        "sakwe_1": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Urwembe mu musatsi",
+            "option_2": "Umurabyo",
+            "option_3": "Umuporisi",
+            "option_4": "Umubagazi",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite igihugu cy'abagabo",
+            "option_1": "Indege",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Umuzi w'urutare",
+            "correct_answer": "Imisatsi y'ibigori"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Amano y'umuntu",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Igiheri mu ruhara",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ishime nyoko aratwite",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Igisheke",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Urwina",
+            "correct_answer": "Urwina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Umunyeshuri",
+            "option_2": "Umuzungu mu modoka",
+            "option_3": "Ibabi by'ibibonobono",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Inyoni",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Izuba ry'impeshyi",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Inyoni"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karadundaraye",
+            "option_1": "Imbunda",
+            "option_2": "Umuzungu n'umwirabura",
+            "option_3": "Akabyindi k'umushumba",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Akabyindi k'umushumba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zagarika amahembe ntiwamenya izo nyoko yakowe",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Ibiti by'ikawa",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Icyumweru",
+            "correct_answer": "Ibiti by'ikawa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Agakecuru kocyejwe n'igikoma",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Ifaranga",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    }
+]

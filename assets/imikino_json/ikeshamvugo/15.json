@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 27
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Inka nyinshi",
+            "answer": "Ishyo (zigeze ku munani)"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Mushiki wa data",
+            "answer": "Masenge"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Kumeneka k'urusyo",
+            "answer": "Gusandara"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Amata inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Amata y'inka yenda guteka",
+            "answer": "Amagonera, amasuga, amanga"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Amaze kuvura",
+            "answer": "Ikivuguto"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Uwo muntu yafashwe ari kumwe n'ibiyobyabwenge",
+            "answer": "Uwo muntu yafatanywe ibiyobyabwenge"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amata bavanze n'amazi",
+            "answer": "Umwerera"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Aho umwami yabonaniraga n'abaturage",
+            "answer": "Ku karubanda"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Amata y'inka yimye",
+            "answer": "Amasitu"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Aho batereka amata",
+            "answer": "Uruhimbi"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Amajwi menshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Umukeno mwinshi",
+            "answer": "Imikeno (umwikubo w'umukeno urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Sugende",
+            "answer": "Ntugende"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Kurekeraho gukamwa",
+            "answer": "Guteka"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Amago",
+            "answer": "Ingo"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Kwigizayo ifu basya",
+            "answer": "Gukoma ifu"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kudonda urusyo",
+            "answer": "Gukoma urusyo"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Amata y'inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Umushishi, agashinge bahanaguza urusyo",
+            "answer": "Umwanzuzo"
+        }
+    }
+]

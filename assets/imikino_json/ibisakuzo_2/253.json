@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 556
+    },
+    {
+        "sakwe_1": {
+            "question": "Ingabo yanjye yuma ihagaze",
+            "option_1": "Ishyari ntiriba rito",
+            "option_2": "Intosho",
+            "option_3": "Urusenge",
+            "option_4": "Intosho",
+            "correct_answer": "Urusenge"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirabyungwane",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Agakenya kw'imbaragasa",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Umusoro",
+            "correct_answer": "Amarira y'imbwa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kujya mu bajiji wari umujiji",
+            "option_1": "Igitonyanga",
+            "option_2": "Inzara mu bana",
+            "option_3": "Ubukumi bwa so na nyoko",
+            "option_4": "Umugina mu rufunzo; umwishywa mu isusa",
+            "correct_answer": "Umugina mu rufunzo; umwishywa mu isusa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bitamba araguye n'ingabo ze zose",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Inzira ijya mu kigega",
+            "option_3": "Igitoki n'insina bigwanye",
+            "option_4": "Umusigati",
+            "correct_answer": "Igitoki n'insina bigwanye"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku gasozi Mpanga amatama nti amata y'abashumba yabuze",
+            "option_1": "Ishyiga ry'inyuma",
+            "option_2": "Imbaragasa",
+            "option_3": "Umwumano w'ishashi",
+            "option_4": "Umuhotora; umuhoro",
+            "correct_answer": "Umwumano w'ishashi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Igikona\n \nbikumburanye bibana",
+            "option_2": "Ifundi",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ziravuga i Nyamirama",
+            "option_1": "Urutumbwe",
+            "option_2": "Ubunyerere",
+            "option_3": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_4": "Inshuzi mu cyansi",
+            "correct_answer": "Inshuzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Cyagize amenyo cyabamaze",
+            "option_1": "Urugi",
+            "option_2": "Ikiganza",
+            "option_3": "Nyankari",
+            "option_4": "Amara",
+            "correct_answer": "Nyankari"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nkubise urutare mbona imyase",
+            "option_1": "Igare",
+            "option_2": "Umuhotora; umuhoro",
+            "option_3": "Ibirago",
+            "option_4": "Inkuba",
+            "correct_answer": "Inkuba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bakaribata n'umuhungu we Bajogo",
+            "option_1": "Umwana w'ifundi",
+            "option_2": "Igikona",
+            "option_3": "Ikigega kirimo ubusa",
+            "option_4": "Mihigo",
+            "correct_answer": "Igikona"
+        }
+    }
+]

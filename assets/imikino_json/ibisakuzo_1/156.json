@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 106
+    },
+    {
+        "sakwe_1": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Amabya",
+            "option_3": "Ikirago",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndakubise ndirahira nijye mutware wa Mburamatare",
+            "option_1": "Ingasire",
+            "option_2": "Gusitara",
+            "option_3": "Ibishokoro",
+            "option_4": "Umusuzi",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Ifu",
+            "option_2": "Inopho",
+            "option_3": "Ifaranga",
+            "option_4": "Ibikongorwa by'ibisheke",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Izina ryawe",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_4": "Insina",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abakobwa banjye barara bahagaze bwacya bakaryama",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Imyugariro",
+            "option_3": "Umwarimu",
+            "option_4": "Umuporisi",
+            "correct_answer": "Imyugariro"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Zisa zitagira isano",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Igare",
+            "option_3": "Amazi",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Inkoko n'inkware"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inka yanjye nyizirika ku nzira uyinyuzeho wese akayishitura",
+            "option_1": "Urutoryi",
+            "option_2": "Umuyaga",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Umutego",
+            "correct_answer": "Urutoryi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zana akebo nzane akandi tujye gutara intagwira",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Umuvuba",
+            "option_4": "Igisheke",
+            "correct_answer": "Ubwoya bw' inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bihu byumye arenze urugo",
+            "option_1": "Ifundi mu mamera",
+            "option_2": "Agacaca",
+            "option_3": "Isusa",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagenze henshi mbura incuti",
+            "option_1": "Uruhara rw'umusaza",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Ubwato hejuru y'ikiyaga",
+            "option_4": "Urupfu",
+            "correct_answer": "Urupfu"
+        }
+    }
+]

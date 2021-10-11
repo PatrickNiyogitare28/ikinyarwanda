@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 604
+    },
+    {
+        "sakwe_1": {
+            "question": "Faraziya aceza yicaye",
+            "option_1": "Amashaza",
+            "option_2": "Ifaranga",
+            "option_3": "Ibirundiro",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramikuku arakukuza mu mikuku ya Shyorongi",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Inyenyeri",
+            "option_4": "Igiheri mu ruhara",
+            "correct_answer": "Igiheri mu ruhara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Dore isoko idakama amazi",
+            "option_1": "Umugore utwite",
+            "option_2": "Urutoryi",
+            "option_3": "Agacaca",
+            "option_4": "Amarira mu maso",
+            "correct_answer": "Amarira mu maso"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mvuye ikuzimu bampa akabando",
+            "option_1": "Uruzi",
+            "option_2": "Igikoro",
+            "option_3": "Urwiri",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku ruhiza nyara i Buriza nti Bahinzi nimuhingure",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Icyumweru",
+            "option_3": "Ibigori",
+            "option_4": "Corogati",
+            "correct_answer": "Icyumweru"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Agatsinsino",
+            "option_2": "Igitoki",
+            "option_3": "Inopho",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akabaje umugabo kamurenza impinge",
+            "option_1": "Inzuki",
+            "option_2": "Umurabyo",
+            "option_3": "Ifaranga",
+            "option_4": "Umukondo w'inyana",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nkiza ibyo bitoki bya so binsaba inyama",
+            "option_1": "Icyobo",
+            "option_2": "Amenyo",
+            "option_3": "Ibabi by'ibibonobono",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Ibabi by'ibibonobono"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kirabyataraye",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Agacaca",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ikibyindi cy'umushumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera icyambuka amazi kitagira amaguru",
+            "option_1": "Imbaragasa",
+            "option_2": "Ikiyoni",
+            "option_3": "Ijwi",
+            "option_4": "Uruhinja",
+            "correct_answer": "Ijwi"
+        }
+    }
+]

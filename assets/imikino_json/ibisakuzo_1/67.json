@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 744
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Gusitara",
+            "option_2": "Ifaranga",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Igisenge",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Umwijima n'urumuri",
+            "option_2": "Inkingi",
+            "option_3": "Ibitotsi",
+            "option_4": "Isoko",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Umurabyo",
+            "option_2": "Imodoka yabuze lisansi",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Amacandwe y'incira",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Inyenyeri",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkuruye umugozi ishyamba rirahubangana",
+            "option_1": "Umukobwa ubonye iwabo hashya",
+            "option_2": "Umwana w'umwami",
+            "option_3": "Umusore wishwe n'inzara",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Umusore wishwe n'inzara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Baragata bakagatanaga ubwiza bwako",
+            "option_1": "Igitiritiri",
+            "option_2": "Umuheto",
+            "option_3": "Ijambo rya perezida",
+            "option_4": "Ikirunga",
+            "correct_answer": "Igitiritiri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Ifaranga",
+            "option_2": "Urwina",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Ikirungurira",
+            "option_2": "Umutsima",
+            "option_3": "Ifaranga",
+            "option_4": "Izina ryawe",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Dore aho so arenga n'ibikote bibi",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Amashaza",
+            "option_3": "Ikivumvuri",
+            "option_4": "Urutara",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Kaburimbo",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Urutara",
+            "option_4": "Umutego",
+            "correct_answer": "Kaburimbo"
+        }
+    }
+]

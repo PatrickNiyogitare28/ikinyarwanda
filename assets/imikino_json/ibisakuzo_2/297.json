@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 355
+    },
+    {
+        "sakwe_1": {
+            "question": "Buhiri bwa Kamango yakubitaga so amuruta",
+            "option_1": "Uruyuki",
+            "option_2": "Urubura mu makoma",
+            "option_3": "Imvura ku iteke",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karenze impinga kannya ibibuye",
+            "option_1": "Agacuma",
+            "option_2": "Inkari z'inkoko",
+            "option_3": "Icyobo",
+            "option_4": "Umuhumetso",
+            "correct_answer": "Umuhumetso"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite imfizi y'ihariye ishyanga rya yonyine",
+            "option_1": "Igikona",
+            "option_2": "Agahinda mu murima",
+            "option_3": "Umurabyo",
+            "option_4": "Umusore warongoye",
+            "correct_answer": "Agahinda mu murima"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndaguteruye ndakwesa urahindukira urandeba",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Inkingi",
+            "option_3": "Ubunyerere",
+            "option_4": "Icyiyoni",
+            "correct_answer": "Ubunyerere"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Serushababisha ni mwene rugadiga",
+            "option_1": "Utuzu tw'abashumba",
+            "option_2": "Amafuni mu rukoro",
+            "option_3": "Inguri",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inguri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akarago kanjye kazinze neza",
+            "option_1": "Igihumyo",
+            "option_2": "Igisabo",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Inkoko",
+            "correct_answer": "Umwumba w'urukoma"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mvuye ikuzimu nkinze ingabo imwe",
+            "option_1": "Igikoro",
+            "option_2": "Igihumyo",
+            "option_3": "Akishywa mu rutoki",
+            "option_4": "Umwumbati",
+            "correct_answer": "Igihumyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera igisogo nyamutentema",
+            "option_1": "Akagata mu rwobo",
+            "option_2": "Umuziha w'inzovu",
+            "option_3": "Umugore unnya kugihuru",
+            "option_4": "Ikirago",
+            "correct_answer": "Umuziha w'inzovu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera akarya ntikannye",
+            "option_1": "Ikirondwe",
+            "option_2": "Igikongorwa",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Uruyuki",
+            "correct_answer": "Ikirondwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Igira hakurya nange nigire hakuno duterane injunguto z'imiseke",
+            "option_1": "Umuziha w'inzovu",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Urubura",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Urubura"
+        }
+    }
+]

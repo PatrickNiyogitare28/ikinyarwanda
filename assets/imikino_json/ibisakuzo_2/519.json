@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 352
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze aho ndora amenyo ya Ruganzu",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Gusaba uwo wenyine",
+            "option_3": "Igihondohondo",
+            "option_4": "Ibikingi by'amarembo",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inkuba",
+            "option_1": "Igitonyanga",
+            "option_2": "Ingabo y'ubuki",
+            "option_3": "Umuzungu ku ipikipiki",
+            "option_4": "Rugo",
+            "correct_answer": "Rugo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kabatama i Bukoma",
+            "option_1": "Akagata mu rwobo",
+            "option_2": "Intebe",
+            "option_3": "Mahina",
+            "option_4": "Igihuru gihiye uruhande rumwe",
+            "correct_answer": "Akagata mu rwobo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Rudakambirwa rwa mugabo udafungura akebo kamwe",
+            "option_1": "Urutete",
+            "option_2": "Umuzungu ku ipikipiki",
+            "option_3": "Imvura",
+            "option_4": "Inkombe n'uruzi",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngiye mu ibarabara nsanga akagaramiye  inzira",
+            "option_1": "Umujugujugu mu ihene",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Agakongorerwa",
+            "option_4": "Ibuye n'umutarimba",
+            "correct_answer": "Agakongorerwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mbonye inkoni nziza mbura inzira ngo njye kuyica",
+            "option_1": "Ikirungurira",
+            "option_2": "Umusaza ku cyahi, amaraso ku murundi",
+            "option_3": "Kudashobora kurongora mushiki wawe",
+            "option_4": "Umusigati",
+            "correct_answer": "Kudashobora kurongora mushiki wawe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kajugujugu ka Kamarankoni",
+            "option_1": "Ikigoli",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Uruyuki",
+            "option_4": "Akabeba mu buki",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Ishoka mu rukwi",
+            "option_2": "Inda mu nkanda",
+            "option_3": "Akumba k'urukoma",
+            "option_4": "Amaguru y'umusambi",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "I Burundi n'i Bunyabungo inama ni imwe",
+            "option_1": "Umusoro",
+            "option_2": "Ubunwa bw'ikirondwe",
+            "option_3": "Amahindu mu mateke",
+            "option_4": "Inkono ku ziko",
+            "correct_answer": "Inkono ku ziko"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kidimba cya Muragi umwana w'umuganda ntawe utamugira",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Igishyimbo cy'umutura",
+            "option_3": "Ubwato mu ruzi",
+            "option_4": "Umwumba w'urukoma",
+            "correct_answer": "Inkono y'itabi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 744
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirankungurumanyu",
+            "option_1": "Umusatsi",
+            "option_2": "Umwobo mu masaka",
+            "option_3": "Umuvuba",
+            "option_4": "Igihuru gihiye uruhande rumwe",
+            "correct_answer": "Igihuru gihiye uruhande rumwe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Isuka irokeye ni yo ihinga neza",
+            "option_1": "Agahanga k'ifumberi",
+            "option_2": "Inzara yica umusore",
+            "option_3": "Ikiba cy'ubwatsi",
+            "option_4": "Ikinwa cya nyirabarazana",
+            "correct_answer": "Ikinwa cya nyirabarazana"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nshoye mukara nkura mweru",
+            "option_1": "Amamera n'ifu",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "Imiduha",
+            "correct_answer": "Amamera n'ifu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Uragaramye i Buganza n'inkindi n'inkweto ntuzi ko bwakeye",
+            "option_1": "Imende ku ruzi",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Akayuzi hejuru y'urupfu",
+            "option_4": "Amazi mu muheha",
+            "correct_answer": "Akayuzi hejuru y'urupfu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera Mugemaguru wa Rujugira wamumenya nkaguhemba",
+            "option_1": "Inzara",
+            "option_2": "Inyenyeri ku ijuru",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Ikivugirizo",
+            "correct_answer": "Inyenyeri ku ijuru"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kajugujugu ka Kamarankoni",
+            "option_1": "Akamangu mu muvumu",
+            "option_2": "Uruyuki",
+            "option_3": "Ururo mu mateke",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Udukongorwa tw'imisigati",
+            "option_2": "Ibigori",
+            "option_3": "Insina; amateke",
+            "option_4": "Urusyo n'ingasire",
+            "correct_answer": "Ibigori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Igitabo cya Mutara ntawutagishengera",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Intosho",
+            "option_3": "Umucaca mu ruzi",
+            "option_4": "Ikibuguzo, igisoro",
+            "correct_answer": "Ikibuguzo, igisoro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kamuhanda ntiwayiterera",
+            "option_1": "Ikirizo cy'intama",
+            "option_2": "Ingata mu ruhira",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Ingingi z'amasaka",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavugira i Bumpanika",
+            "option_1": "Imende ku ruzi",
+            "option_2": "Umugore uhetse",
+            "option_3": "Ubunyerere",
+            "option_4": "Akagasire ku rusyo",
+            "correct_answer": "Akagasire ku rusyo"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 606
+    },
+    {
+        "sakwe_1": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Isakamburira ry'inzu",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Izuba",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mama nshuti",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Ikirago",
+            "option_3": "Agatsinsino",
+            "option_4": "Ijwi",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Akaguru gacumbagira",
+            "option_2": "Imanzi mu maribori",
+            "option_3": "Imbwa mu masinde",
+            "option_4": "Amagambo yo ku rurembo",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Fata umuhoro mfate undi tujye gutema ibidatemeka",
+            "option_1": "Igisheke",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Amazi",
+            "option_4": "Sida",
+            "correct_answer": "Amazi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igira hino ncuti",
+            "option_1": "Ikiringiti",
+            "option_2": "Agacaca",
+            "option_3": "Igikoro",
+            "option_4": "Sida",
+            "correct_answer": "Ikiringiti"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akabaje umugabo kamurenza impinge",
+            "option_1": "Ifaranga",
+            "option_2": "Isahani yaguye ingese",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze mu ishyamba rimpa umwezi",
+            "option_1": "Imana",
+            "option_2": "Imbunda",
+            "option_3": "Ibizu bitagira abantu",
+            "option_4": "Ibarizo",
+            "correct_answer": "Ibarizo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Ibitotsi",
+            "option_2": "Ibigori",
+            "option_3": "Ikigori",
+            "option_4": "Ikawa n'umumenamabuye",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Igihandure",
+            "option_3": "Inyoni",
+            "option_4": "Kwirebera mu kirahuri",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Inyundo",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Urutare",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    }
+]

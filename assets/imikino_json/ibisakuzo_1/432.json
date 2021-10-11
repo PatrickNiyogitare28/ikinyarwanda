@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 313
+    },
+    {
+        "sakwe_1": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Ururimi n'amenyo",
+            "option_2": "Igisabo",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Umuzungu n'umwirabura",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Umuheto n'umwambi",
+            "option_3": "Umuvuba",
+            "option_4": "Izuba",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Agatsinsino",
+            "option_2": "Nyiramaningiri",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Ibinono by'inka",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kana kanjye ngwino nguhe impamba",
+            "option_1": "Umunyeshuri",
+            "option_2": "Ikibyindi cy'umushumba",
+            "option_3": "Ikawa",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Umunyeshuri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Ibabi by'ibibonobono",
+            "option_2": "Agatsinsino",
+            "option_3": "Isoko",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Amazi",
+            "option_2": "Ikivugirizo",
+            "option_3": "Amabere",
+            "option_4": "Ingasire",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_3": "Ifaranga",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abakobwa banjye baraturanye ariko ntibaramukanya",
+            "option_1": "Icyobo",
+            "option_2": "Igitoki",
+            "option_3": "Igisheke",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Icyo nsasira ntikirame",
+            "option_1": "Ikawa",
+            "option_2": "Urwiri",
+            "option_3": "Akayuzi mu rubibi",
+            "option_4": "Ibirago",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Indogobe ishaje",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Ipikipiki",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    }
+]

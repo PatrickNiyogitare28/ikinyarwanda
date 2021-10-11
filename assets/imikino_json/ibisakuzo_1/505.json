@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 212
+    },
+    {
+        "sakwe_1": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Igitoki",
+            "option_2": "Umusore wishwe n'inzara",
+            "option_3": "Amapapayi",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze mu Rwanda ndeba mu mahanga",
+            "option_1": "Televiziyo",
+            "option_2": "Urusenda",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Isoko",
+            "correct_answer": "Televiziyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirarumbaraye",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Izina ryawe",
+            "option_3": "Igisozi kirekire",
+            "option_4": "Ukwezi",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Urira rubariro ubone ishyano",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Umuvumbyi",
+            "option_4": "Imyugariro",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ntuye heza njye ngira Imana",
+            "option_1": "Abavomyi",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Ifu",
+            "option_4": "Amarira mu maso",
+            "correct_answer": "Umugina wo mu gishanga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Umusore wishwe n'inzara",
+            "option_2": "Isoko",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Indege",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Kubuza umuryi kurya",
+            "option_4": "Umurozi",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Umusuzi wa so",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kana kanjye ngwino nguhe impamba",
+            "option_1": "Ururimi n'amenyo",
+            "option_2": "Amase y'inka",
+            "option_3": "Indege",
+            "option_4": "Umunyeshuri",
+            "correct_answer": "Umunyeshuri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Igikeri",
+            "option_3": "Izina ryawe",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Izina ryawe"
+        }
+    }
+]

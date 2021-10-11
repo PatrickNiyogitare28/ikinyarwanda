@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 591
+    },
+    {
+        "sakwe_1": {
+            "question": "Kuba ahirengeye si ko kwumva",
+            "option_1": "Agasongero",
+            "option_2": "Amarira y'imbwa",
+            "option_3": "Ikigega kirimo ubusa",
+            "option_4": "Inda muruhara",
+            "correct_answer": "Agasongero"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera ijigija y'igihugu wayimenya nkabgu nkaguhemba",
+            "option_1": "Isekurume",
+            "option_2": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_3": "Inyundo z'abacuzi",
+            "option_4": "Isuka",
+            "correct_answer": "Isuka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Watambana ingabo mu rutare",
+            "option_1": "Radiyo",
+            "option_2": "Ikigori",
+            "option_3": "Imyenge y'amazuru",
+            "option_4": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirakibindigiri mu Mutara",
+            "option_1": "Umusigati",
+            "option_2": "Intete y'ururo",
+            "option_3": "Ikivugirizo",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Intete y'ururo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkurira umuhoro mu rutoki",
+            "option_1": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_2": "Isake",
+            "option_3": "Inkumi yiba",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera Nyiraforongo",
+            "option_1": "Inda mu nkanda",
+            "option_2": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_3": "Imbwa mu masinde",
+            "option_4": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera inkangara ya Makaci batera icumu igakinga ikibaba",
+            "option_1": "Ikinwa cya nyirabarazana",
+            "option_2": "Radiyo",
+            "option_3": "Ikinyoro cy'umusaza",
+            "option_4": "Umugore unnya kugihuru",
+            "correct_answer": "Umugore unnya kugihuru"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Ikigoli",
+            "option_2": "Ingwa",
+            "option_3": "Ikigore kivuye mu mazu kenshi",
+            "option_4": "Igihumyo",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kamanutse kavuga amangara",
+            "option_1": "Urubura",
+            "option_2": "Inkota mu bitugu",
+            "option_3": "Urusisiro",
+            "option_4": "Umuyaga",
+            "correct_answer": "Urusisiro"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Zirabunombanomba zirabukatakata inyambo za Mukeshimana",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Agahundo",
+            "option_3": "Agafuni mu mushike",
+            "option_4": "Akabwana mu gatabire",
+            "correct_answer": "Akabwana mu gatabire"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 735
+    },
+    {
+        "sakwe_1": {
+            "question": "Abagwabiro bashinze inteko",
+            "option_1": "Ururabo rw'ikawa",
+            "option_2": "Umunyereri",
+            "option_3": "Ifaranga",
+            "option_4": "Umucaca",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Faraziya aceza yicaye",
+            "option_1": "Akayunguruzo",
+            "option_2": "Intare",
+            "option_3": "Umukobwa ubonye iwabo hashya",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abambarantama ba Ntaragonda batwara amacumu bayacuritse",
+            "option_1": "Igisenge",
+            "option_2": "Umurozi",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Imirizo y'inka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze mu ishyamba rimpa umwezi",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Ibarizo",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Ibarizo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Dore mukara yateye ku irembo",
+            "option_1": "Amase",
+            "option_2": "Isekuru",
+            "option_3": "Izina ryawe",
+            "option_4": "Urwina",
+            "correct_answer": "Amase"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Amabere",
+            "option_2": "Umugono w'ishashi",
+            "option_3": "Ikigori",
+            "option_4": "Ifaranga",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Imodoka yabuze lisansi",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Innyo y'ihene",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Ikiyoni",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Igisenge",
+            "option_4": "Ukwezi",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Ifu",
+            "option_2": "Umuzi w'urutare",
+            "option_3": "Ibitotsi",
+            "option_4": "Inzoga mu muheha",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hakurya urwererane, hakuno urwererane",
+            "option_1": "Sone yo ku irembo",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Ibabi by'ibibonobono",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Ururabo ry'amashyaza"
+        }
+    }
+]

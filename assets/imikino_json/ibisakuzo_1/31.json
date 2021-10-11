@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 299
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndimugufi nahina so",
+            "option_1": "Umuheto",
+            "option_2": "Icyanzu",
+            "option_3": "Intete z'ibigori",
+            "option_4": "Radiyo",
+            "correct_answer": "Icyanzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Umugezi",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Ibishokoro",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ko undeba ndaguha",
+            "option_1": "Imvura",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hunga gahinda ataguca umurundi",
+            "option_1": "Inyegamo y'umusore warongoye",
+            "option_2": "Inzu itagira abantu",
+            "option_3": "Inzoka",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Inzoka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Inopfu",
+            "option_3": "Icyobo",
+            "option_4": "Uruzi",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpiritse indobo ikwira hose",
+            "option_1": "Igare",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Iteke",
+            "option_4": "Akanyana mu nda ya nyina",
+            "correct_answer": "Amagambo yo ku rurembo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akana kanjye kabyina neza",
+            "option_1": "Inyana y'umutavu",
+            "option_2": "Ibitotsi",
+            "option_3": "Ikirunga",
+            "option_4": "Ibibabi by'ikibonobono",
+            "correct_answer": "Inyana y'umutavu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Imbunda",
+            "option_2": "Urwembe mu musatsi",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Umubagazi",
+            "option_3": "Ubunyereri",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Biratinyana",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Ikibuno",
+            "option_4": "Imisozi",
+            "correct_answer": "Umwijima n'urumuri"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 567
+    },
+    {
+        "sakwe_1": {
+            "question": "Mama arusha nyoko amabuno manini",
+            "option_1": "Ifaranga",
+            "option_2": "Igisabo",
+            "option_3": "Amaguru y'inkware",
+            "option_4": "Igikatsi",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Umubagazi",
+            "option_2": "Imbaragasa",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Umuheto",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Igikatsi",
+            "option_3": "Umuvure",
+            "option_4": "Umurozi",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Iyo umugabo ageze mu rutopki abanza iki?",
+            "option_1": "Ikivugirizo",
+            "option_2": "Indumane",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bihindira ikuzimu",
+            "option_1": "Imyambi y'ikibiriti",
+            "option_2": "Ifaranga ku meza",
+            "option_3": "Ikawa n'umumenamabuye",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Inkono y'amapfa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hagarara hakuno,mpagarare hakurya turate abeza",
+            "option_1": "Amenyo",
+            "option_2": "Ifaranga",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Amenyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Zagarika amahembe ntiwamenya izo nyoko yakowe",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Ibiti by'ikawa",
+            "option_3": "Ukwezi n'inyenyeri",
+            "option_4": "Igare",
+            "correct_answer": "Ibiti by'ikawa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inka yanjye yimira mu kinono, ikabyarira mu ihembe",
+            "option_1": "Inyama",
+            "option_2": "Igitoki",
+            "option_3": "Intore mu rwabya",
+            "option_4": "Imvura",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Umuvuba",
+            "option_2": "Imirizo y'inka",
+            "option_3": "Ururimi",
+            "option_4": "Abavomyi",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Ingasire",
+            "option_3": "Umugina mu rufunzo",
+            "option_4": "Ikawa n'umumenamabuye",
+            "correct_answer": "Ingasire"
+        }
+    }
+]

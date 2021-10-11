@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 71
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkeje Umwami wo mu kirere, angabira ibiryoshye",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Ikivumvuri",
+            "option_4": "Inzuki",
+            "correct_answer": "Inzuki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umuzungu atwara imodoka umusatsi uri hanze",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_3": "Ikigori",
+            "option_4": "Umugezi",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bisa bidasa",
+            "option_1": "Igikoro",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Ikawa n'umumenamabuye",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Ikawa n'umumenamabuye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kirihura nk'ikitagira amaso",
+            "option_1": "Indumane",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Ikirago",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Imodoka yabuze feri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Ikirago",
+            "option_4": "Urukoma n'insina",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Indumane",
+            "option_2": "Igitoki",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Amacandwe y'incira",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Umunyeshuri wabaye uwa mbere",
+            "option_3": "Akayunguruzo",
+            "option_4": "Sida",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana banjye bangana bose",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Ifundi",
+            "option_3": "Buji",
+            "option_4": "Akaguru gacumbagira",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Agakecuru ka;anutse i Nyarushurushuru kiteye imirwa munani",
+            "option_1": "Amase y'inka",
+            "option_2": "Intete z'ibigori",
+            "option_3": "Ururimi n'amenyo",
+            "option_4": "Umuvuba",
+            "correct_answer": "Intete z'ibigori"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Amashaza",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Umupira mu izamu",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    }
+]

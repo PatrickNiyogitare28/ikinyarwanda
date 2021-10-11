@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 226
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze ku rutare ndasa umwambi umara abana b' abatwa",
+            "option_1": "Inzara",
+            "option_2": "Umwumbati",
+            "option_3": "Akamuga karimo ibishyimbo",
+            "option_4": "Irobe",
+            "correct_answer": "Inzara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Abahizi",
+            "option_2": "Urubariro",
+            "option_3": "Urugi",
+            "option_4": "Umusigati",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kera imbere kakirabura inyuma kagatona ibwami",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Igitoki",
+            "option_3": "Ibipfunsi",
+            "option_4": "Urugo",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Zirashotse zisiga mukara mu ibuga",
+            "option_1": "Ibigori bifite imisatsi",
+            "option_2": "Igishwemu cy'amase",
+            "option_3": "Ikirungurira",
+            "option_4": "Ibuye n'umutarimba",
+            "correct_answer": "Igishwemu cy'amase"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ububumbabumbe bubiri mu itaba ry'umusozi",
+            "option_1": "Agashyo mu nyama",
+            "option_2": "Akabeba mu buki",
+            "option_3": "Amabere",
+            "option_4": "Ibipfuko",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera akabyara katimye",
+            "option_1": "Insina; amateke",
+            "option_2": "Ikirungurira",
+            "option_3": "Agahinda mu murima",
+            "option_4": "Insina",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ni jye muzindutsi wa cyane nasanze aho urupfu ruteze urugori",
+            "option_1": "Urubumbiro; itongo",
+            "option_2": "Ubwoya bw'inka",
+            "option_3": "Umurunga",
+            "option_4": "Akazuba karashe",
+            "correct_answer": "Urubumbiro; itongo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze ku gasozi ndasa Rugina mu bihaha",
+            "option_1": "Ikigega kitagira amasaka",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Ururimi mu kanywa",
+            "option_4": "Umunyinya",
+            "correct_answer": "Ikigega kitagira amasaka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Sesera aha dushire",
+            "option_1": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_2": "Ikinyagu",
+            "option_3": "Imodoka",
+            "option_4": "Amasaka ku rusyo",
+            "correct_answer": "Amasaka ku rusyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera ikiruma kitagira umunwa",
+            "option_1": "Igiseke",
+            "option_2": "Ibipfunsi",
+            "option_3": "Imbwa",
+            "option_4": "Agakongorerwa",
+            "correct_answer": "Igiseke"
+        }
+    }
+]

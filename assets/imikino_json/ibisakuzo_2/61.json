@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 282
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkubise urutare mbona imyase",
+            "option_1": "Ikinyoro cy'umusaza",
+            "option_2": "Uruyuki",
+            "option_3": "Uruzi; ishami ry'uruzi",
+            "option_4": "Inkuba",
+            "correct_answer": "Inkuba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rukara rw'amacece aturutse hirya wayacekwa",
+            "option_1": "Umusirikare",
+            "option_2": "Agafuni mu mushike",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Inkono n'urweso",
+            "correct_answer": "Umusirikare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera Rugina igana intaho",
+            "option_1": "Intembatembe",
+            "option_2": "Umuntu uri ku ipikipiki",
+            "option_3": "Ikizubazuba",
+            "option_4": "Umugata",
+            "correct_answer": "Ikizubazuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Byagira biti, \"po!!!\"",
+            "option_1": "Umusambi",
+            "option_2": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_3": "Gusaba uwo wenyine",
+            "option_4": "Imfizi y'intama",
+            "correct_answer": "Imfizi y'intama"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku gasozi Mpanga amatama nti amata y'abashumba yabuze",
+            "option_1": "Isunzu ryawe",
+            "option_2": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_3": "Ibipfuko",
+            "option_4": "Umwumano w'ishashi",
+            "correct_answer": "Umwumano w'ishashi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ni jye muzindutsi wa cyane nasanze aho urupfu ruteze urugori",
+            "option_1": "Inkuba",
+            "option_2": "Uruyongoyongo",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Urubumbiro; itongo",
+            "correct_answer": "Urubumbiro; itongo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Iteze neza ntiyica",
+            "option_1": "Umugondoro w'ibishyimbo",
+            "option_2": "Umusambi",
+            "option_3": "Uruhabuzo",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Ibere ry'inkumi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hapfuye Senkopfu hasigara Semfunda",
+            "option_1": "Urubumbiro; itongo",
+            "option_2": "Imigondoro w'ibishyimbo",
+            "option_3": "Imyambi mu murana",
+            "option_4": "Igiti gishigukanye n'imizi yacyo",
+            "correct_answer": "Imigondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngeze munsi y'urugo nkuka itako",
+            "option_1": "Agahanga k'ifumberi",
+            "option_2": "Akanyoni karitse ku nzira",
+            "option_3": "Umwana usanze se na nyina batariyo",
+            "option_4": "Intasya",
+            "correct_answer": "Umwana usanze se na nyina batariyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Ikigori",
+            "option_2": "Radiyo",
+            "option_3": "Mihigo",
+            "option_4": "Igisura",
+            "correct_answer": "Igisura"
+        }
+    }
+]

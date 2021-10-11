@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 728
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkuruye urusuri ishyamba rirahungabana",
+            "option_1": "Imyotsi",
+            "option_2": "Igitoki",
+            "option_3": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_4": "Inzara y'umusore; ijambo ry'umwami",
+            "correct_answer": "Inzara y'umusore; ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kibuguje i Ndorwa kigarura ingabo kigeze mu mpinga gishinga feni",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Imirya y'intanga",
+            "option_3": "Ikigori",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rugaragura mugabo rwa mugabo ikuzimu yahidirimanze",
+            "option_1": "Umwobo mu masaka",
+            "option_2": "Agahinda k'umutima",
+            "option_3": "Umwumbati",
+            "option_4": "Amaso",
+            "correct_answer": "Umwumbati"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Twabirikana mwimanyi",
+            "option_1": "Akanyoni gatwawe n'amazi",
+            "option_2": "Agafundi",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpuye n'Imana yikoreye intebu",
+            "option_1": "Inyundo y'umucuruzi",
+            "option_2": "Ipfupfu ry'impfizi",
+            "option_3": "Inuma",
+            "option_4": "Ikibwana cy'imbwa mu masinde",
+            "correct_answer": "Ipfupfu ry'impfizi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mtumye Mbindigiri i Nyanza",
+            "option_1": "Umuhotora; umuhoro",
+            "option_2": "Inkono mu mashyiga",
+            "option_3": "Inkangara",
+            "option_4": "Ikirago",
+            "correct_answer": "Inkangara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama arusha nyoko kwambara inigi zera",
+            "option_1": "Icyiyone",
+            "option_2": "Inkuba mu rugano",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngira inka nkayibagira hagati y'imisozi itatu",
+            "option_1": "Ikigoli",
+            "option_2": "Isekurume",
+            "option_3": "Inda",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Inda"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabyungwane",
+            "option_1": "Ikigori",
+            "option_2": "Agacebe k'intama",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Umusatsi",
+            "correct_answer": "Amarira y'imbwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Ibigori",
+            "option_2": "Igitonyanga cy'imvura",
+            "option_3": "Umugore utwite",
+            "option_4": "Ipfupfu ry'impfizi",
+            "correct_answer": "Ibigori"
+        }
+    }
+]

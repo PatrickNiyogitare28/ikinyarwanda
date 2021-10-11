@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 588
+    },
+    {
+        "sakwe_1": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Umusazi",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Inyundo",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Urwembe mu musatsi",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ca bugufi uce nyokobukwe indiba y'innyo",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Inyamunyo",
+            "option_3": "Imisozi",
+            "option_4": "Igicucucucu",
+            "correct_answer": "Igikoro, igihaza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Amarira mu maso",
+            "option_4": "Izuba",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Dore abakobwa berekana amabere",
+            "option_1": "Amapapayi",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Ikibya cy'umusaza",
+            "correct_answer": "Amapapayi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ayi mama hiya",
+            "option_1": "Inuma ku rukoma",
+            "option_2": "Uruyuzi",
+            "option_3": "Abavomyi",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Inuma ku rukoma"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera ikibyutsa umugabo mu gicuku",
+            "option_1": "Umukobwa ubonye iwabo hashya",
+            "option_2": "Ifaranga",
+            "option_3": "Akayunguruzo",
+            "option_4": "Kwirebera mu kirahuri",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dombidori",
+            "option_1": "Intore mu rwabya",
+            "option_2": "Umuturanyi mubi",
+            "option_3": "Umugore ujya iwabo",
+            "option_4": "Amabere",
+            "correct_answer": "Intore mu rwabya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rutuku mu gitebo",
+            "option_1": "Abavomyi",
+            "option_2": "Umunyeshuri",
+            "option_3": "Umuzungu mu modoka",
+            "option_4": "Igihaza",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_3": "Inyamunyo",
+            "option_4": "Ibabi by'ibibonobono",
+            "correct_answer": "Inyamunyo"
+        }
+    }
+]

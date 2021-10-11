@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 227
+    },
+    {
+        "sakwe_1": {
+            "question": "Rutuku rw'umuzungu kuri ubu ageze he?",
+            "option_1": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_2": "Igisura",
+            "option_3": "Intobo",
+            "option_4": "Agahwa m'urwondo",
+            "correct_answer": "Intobo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera Rukara hejuru y'urupfu",
+            "option_1": "Urubura mu masaka",
+            "option_2": "Akotsi k'abatabazi",
+            "option_3": "Igihumyo",
+            "option_4": "Ubwato mu ruzi",
+            "correct_answer": "Ubwato mu ruzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngiye inyuma y'inzu ntoragura umuhoro",
+            "option_1": "Ikidasesa",
+            "option_2": "Ikirago; ikiringiti",
+            "option_3": "Ikiba cy'ubwatsi",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rwigira inturike",
+            "option_1": "Intumbi y'ihene",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Umuziha w'inzovu",
+            "option_4": "Intebe",
+            "correct_answer": "Intumbi y'ihene"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera akakuriye mu murama",
+            "option_1": "Ivu",
+            "option_2": "Akana kavutse kadashyitse",
+            "option_3": "Ikiba cy'ubwatsi",
+            "option_4": "Umutumba",
+            "correct_answer": "Akana kavutse kadashyitse"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze mu mpinga ndizihiza",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Imodoka",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Ubukumi bwa so na nyoko",
+            "correct_answer": "Umwuho w'amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rukondakonda yamaze inka i Murera",
+            "option_1": "Uruhabuzo",
+            "option_2": "Umusambi; abashi b'inkingi",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Ikijumba",
+            "correct_answer": "Uruhabuzo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akarago kanjye kazinze neza",
+            "option_1": "Urusogo mu mukobwe",
+            "option_2": "Urutumbwe",
+            "option_3": "Ishyiga ry'inyuma",
+            "option_4": "Umwumba w'urukoma",
+            "correct_answer": "Umwumba w'urukoma"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Wavuka wari waterera cya Mahangire",
+            "option_1": "Umusambi",
+            "option_2": "Umurunga",
+            "option_3": "Umusambi",
+            "option_4": "Ivu",
+            "correct_answer": "Umurunga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Ikizu kitarimo abantu",
+            "option_2": "Umurabyo",
+            "option_3": "Amara",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Ikizu kitarimo abantu"
+        }
+    }
+]

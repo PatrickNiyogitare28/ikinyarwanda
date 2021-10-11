@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 543
+    },
+    {
+        "sakwe_1": {
+            "question": "Rwakajwiga arira ku nkomo",
+            "option_1": "Ifaranga",
+            "option_2": "Ibibabi by'ikibonobono",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Imbwa ishumitse"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bwenge bwa none bwagutana",
+            "option_1": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Ururimi",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Kudashyira ingasire mu masaka ngo iyasye"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mvuye aha nshyutswe ngera iyo nshaka",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Inkware",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Amabere y'inkumi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abana banjye bangana bose",
+            "option_1": "Ifundi",
+            "option_2": "Ururabo",
+            "option_3": "Umuheto n'umwambi",
+            "option_4": "Ikibuno",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Umuturanyi mubi",
+            "option_2": "Umusuzi",
+            "option_3": "Igisabo",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nkubuze sinabaho",
+            "option_1": "Akayira kajya mu kigega",
+            "option_2": "Umusazi",
+            "option_3": "Inyama",
+            "option_4": "Umutwe",
+            "correct_answer": "Umutwe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akana kanjye kabyina neza",
+            "option_1": "Agakono k'inzara",
+            "option_2": "Urusenda",
+            "option_3": "Ikigori",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Inyana y'umutavu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Umuporisi",
+            "option_3": "Ukwezi n'inyenyeri",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hakurya duuuuuu, hakuno duuuuuu",
+            "option_1": "Ukwezi",
+            "option_2": "Ibitotsi",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Ibiradiyo biteganye"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rutuku mu gitebo",
+            "option_1": "Telefoni",
+            "option_2": "Umuzungu mu modoka",
+            "option_3": "Ifurwe",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    }
+]

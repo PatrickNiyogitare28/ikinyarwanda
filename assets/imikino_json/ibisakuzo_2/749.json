@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 87
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera Rugina igana intaho",
+            "option_1": "Ikizubazuba",
+            "option_2": "Inuma mu kigega",
+            "option_3": "Ururimi",
+            "option_4": "Umutumba w'insina",
+            "correct_answer": "Ikizubazuba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiranshoreke",
+            "option_1": "Inda mu nkanda",
+            "option_2": "Igihumyo; umwobo",
+            "option_3": "Ifundi ku rukoma",
+            "option_4": "Agacuma",
+            "correct_answer": "Agacuma"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Baguha akabando urwaye iki?",
+            "option_1": "Umugore utwite",
+            "option_2": "Umubuyenge w'intosho",
+            "option_3": "Igikoro",
+            "option_4": "Inkono n'urweso",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mama Arusha nyoko gukimbagira inkanda",
+            "option_1": "Igishyimbo cy'umutura",
+            "option_2": "Ipfupfu ry'impfizi",
+            "option_3": "Inda mu ihururu",
+            "option_4": "Umwungu",
+            "correct_answer": "Inda mu ihururu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkongoro ya Dodo inyweramo Dodo wenyine",
+            "option_1": "Agafuni kabagarira amasaka",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Igare",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera Inka irisha mu ishyamba ryayo ryonyine",
+            "option_1": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Urubura",
+            "option_4": "Ubutanda ku muvure",
+            "correct_answer": "Agahinda ku murima"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutumba ruturitse rw'i Buganza irangana iki?",
+            "option_1": "Igitembatembe",
+            "option_2": "Amaguru k'urushishi",
+            "option_3": "Umunyorogoto",
+            "option_4": "Amateke",
+            "correct_answer": "Amaguru k'urushishi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngira inka igakamwa igaramye bwira ikubama",
+            "option_1": "Umuvure",
+            "option_2": "Umwana usanze se na nyina batariyo",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Umusigati",
+            "correct_answer": "Umuvure"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Njugunye akabuye ku Karubanda baragatanguranwa",
+            "option_1": "Ifaranga",
+            "option_2": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_3": "Umugezi utemba ugasiga amabuye",
+            "option_4": "Umugore uhetse",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Igishyitsi cy'umusave n'umubirizi",
+            "option_2": "Isha mu mukenke",
+            "option_3": "Umugondoro w'ibishyimbo",
+            "option_4": "Urusenge",
+            "correct_answer": "Urusenge"
+        }
+    }
+]

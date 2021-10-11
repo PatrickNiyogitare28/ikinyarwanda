@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 638
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Umuvuba",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ikibuno",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Ikibuno"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyuze mu rutoki abasirikare baramfata",
+            "option_1": "Amano y'umuntu",
+            "option_2": "Ibishokoro",
+            "option_3": "Firigo",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Ibishokoro"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rwakajwiga arira ku nkomo",
+            "option_1": "Inkware",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Ikaramu",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Imbwa ishumitse"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ariya mabuye ya rubarabara wayabara ukayarangiza",
+            "option_1": "Inyama",
+            "option_2": "Icyanzu, ubunyereri",
+            "option_3": "Ivu",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama arusha nyoko amabuno manini",
+            "option_1": "Umuyaga",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Radiyo",
+            "option_4": "Igisabo",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Iyo umugabo ageze mu rutopki abanza iki?",
+            "option_1": "Isoko",
+            "option_2": "Ikivugirizo",
+            "option_3": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_4": "Agakecuru kocyejwe n'igikoma",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ntiwigore ndaje",
+            "option_1": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_2": "Umuturanyi mubi",
+            "option_3": "Ipikipiki",
+            "option_4": "Igicucucucu",
+            "correct_answer": "Ipikipiki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Wambazaga ibyo uzi kubera iki?",
+            "option_1": "Ibizu bitagira abantu",
+            "option_2": "Ishapure n'amasengesho",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Umwarimu",
+            "correct_answer": "Umwarimu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Inshya z' umutwakazi",
+            "option_4": "Gusitara",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Agakono k'amanywa",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    }
+]

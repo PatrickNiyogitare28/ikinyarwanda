@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 690
+    },
+    {
+        "sakwe_1": {
+            "question": "Cyagize amenyo cyabamaze",
+            "option_1": "Ijisho",
+            "option_2": "Uruyuzi",
+            "option_3": "Nyankari",
+            "option_4": "Ikigore kivuye mu mazu kenshi",
+            "correct_answer": "Nyankari"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karavuga ruhuma",
+            "option_1": "Akamangu mu muvumu",
+            "option_2": "Ingingi z'amasaka",
+            "option_3": "Uruyuki",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Akamangu mu muvumu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera igitutsi kirekire cyamanutse i Muramba",
+            "option_1": "Imende ku ruzi",
+            "option_2": "Inshunzi z'amata mu cyansi",
+            "option_3": "Igitonyanga",
+            "option_4": "Umuganda",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mugongo mugari mperuka abana",
+            "option_1": "Ingwa",
+            "option_2": "Agahanga k'ifumberi",
+            "option_3": "Ikigori",
+            "option_4": "Uburiri; urusenge",
+            "correct_answer": "Uburiri; urusenge"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyamurenga na Nyiragongo bashinze akaburi",
+            "option_1": "Inuma mu ntabire",
+            "option_2": "Radiyo",
+            "option_3": "Inzira ijya mu kigega",
+            "option_4": "Agashwi k'inkoko",
+            "correct_answer": "Inuma mu ntabire"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ca bugufi turase Bigungira",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Inopfu",
+            "option_3": "Uruzi ku rutare",
+            "option_4": "Umugunguzi",
+            "correct_answer": "Umugunguzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutagataga rwa Karimumatongo umwambere wa Buzutu",
+            "option_1": "Umuce wo mu irebe",
+            "option_2": "Insina",
+            "option_3": "Inda",
+            "option_4": "Icyagumbwa (inopfu)",
+            "correct_answer": "Inda"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zana icyansi cy'amatwi irinikiye",
+            "option_1": "Icyagumbwa (inopfu)",
+            "option_2": "Imyashi",
+            "option_3": "Ikinyankari",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Ikinyankari"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Tora uruho ntore urundi tujye kwiyumya",
+            "option_1": "Amaganga y'isha",
+            "option_2": "Agacuma",
+            "option_3": "Isinde",
+            "option_4": "Inzara mu bana",
+            "correct_answer": "Amaganga y'isha"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngiye nca amayogi ngera iyo nshaka",
+            "option_1": "Umuhanda",
+            "option_2": "Akanyoni karitse ku nzira",
+            "option_3": "Agatsinsino k'uruhinja",
+            "option_4": "Uruheri mu gihata",
+            "correct_answer": "Umuhanda"
+        }
+    }
+]

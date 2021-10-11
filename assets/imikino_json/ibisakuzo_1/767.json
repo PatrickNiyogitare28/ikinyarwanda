@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 794
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Umuheto",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho ndaye n'aho ngeze mpasiga umwanda",
+            "option_1": "Ifundi mu mamera",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Amase y'inka",
+            "option_4": "Akanyoni yaritse ku nzira",
+            "correct_answer": "Amase y'inka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inkoni yanjye nyibyaza amazi, nashaka nkyibyaza amabuye",
+            "option_1": "Amarira mu maso",
+            "option_2": "Radiyo",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Igisheke",
+            "correct_answer": "Igisheke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite umugabo unganza",
+            "option_1": "Ibitotsi",
+            "option_2": "Inyoni",
+            "option_3": "Ubunyobwa",
+            "option_4": "Urutara",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Umugina mu rufunzo",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Ikibuno",
+            "correct_answer": "Ikibuno"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Amabya",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Imvura",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira imbehe nyinshi ariko nkabura iyo ndiraho",
+            "option_1": "Ibiganza",
+            "option_2": "Uruhinja",
+            "option_3": "Imbwa mu masinde",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Ibiganza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Ubunyereri",
+            "option_2": "Ubunyobwa",
+            "option_3": "Ururimi n'amenyo",
+            "option_4": "Amata",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kuba ahirengeye siko kwumva",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Igisheke",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Ifundi mu mamera",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ninjye muzindutsi wa cyane, hari aho nasanze umuzimu yiyunamiriye",
+            "option_1": "Umugore utwite",
+            "option_2": "Umutego",
+            "option_3": "Amashyiga (y'inyuma)",
+            "option_4": "Amatwi",
+            "correct_answer": "Umutego"
+        }
+    }
+]

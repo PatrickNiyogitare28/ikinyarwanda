@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 481
+    },
+    {
+        "sakwe_1": {
+            "question": "Mukore ubone",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Intare",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Igikeri",
+            "option_3": "Intore mu rwabya",
+            "option_4": "Telefoni",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Gusitara",
+            "option_2": "Innyo y'ihene",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Firigo",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera amazi atemba ajya ruguru",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Ikibyindi cy'umushumba",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inzoga mu muheha"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karadundaraye",
+            "option_1": "Amapapayi",
+            "option_2": "Inyenyeri",
+            "option_3": "Akabyindi k'umushumba",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Akabyindi k'umushumba"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Imodoka",
+            "option_3": "Ibitotsi",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Amabuye ya Nyirubuyenge wayabara ntiwayashobora",
+            "option_1": "Iteke",
+            "option_2": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Ukwezi n'inyenyeri",
+            "correct_answer": "Ukwezi n'inyenyeri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Inzoka mu kugenda nta maguru",
+            "option_2": "Inzara y'umusore",
+            "option_3": "Inzara n'inyota",
+            "option_4": "Sida",
+            "correct_answer": "Inzara n'inyota"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Ikivugirizo",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Uruhinja",
+            "option_4": "Gusitara",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Ibitotsi",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Inyoni",
+            "option_4": "Umutwe",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 789
+    },
+    {
+        "sakwe_1": {
+            "question": "Inyama y'urusaku mu rugo rw'imiseke imbere nyamagana",
+            "option_1": "Agatonyanga k'imvura",
+            "option_2": "Umwumba w'insina",
+            "option_3": "Umuporisi",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Ururimi n'amenyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inka yanjye nyizirika ku nzira uyinyuzeho wese akayishitura",
+            "option_1": "Amashyiga (y'inyuma)",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Urutoryi",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Urutoryi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Insina",
+            "option_3": "Ifundi mu mamera",
+            "option_4": "Urukoma n'insina",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Fata akebo nanjye mfate akandi tujye kwahira intagwira",
+            "option_1": "Ubwoya bw'inka",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Ingoto y'umugabo",
+            "option_4": "Umupira mu izamu",
+            "correct_answer": "Ubwoya bw'inka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hunga gahinda ataguca umurundi",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Urutoryi",
+            "option_3": "Urwogerezo",
+            "option_4": "Inzoka",
+            "correct_answer": "Inzoka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kwigerezaho yikoreye ibyo atazi umubare",
+            "option_1": "Umuvuba",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Ibirago",
+            "option_4": "Agasongero k'inzu",
+            "correct_answer": "Umusatsi ku mutwe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Ifaranga",
+            "option_3": "Ikawa",
+            "option_4": "Ikibya cy'umusaza",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Buji",
+            "option_2": "Umusatsi",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Urutara",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Urutara",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Umugina wo mu gishanga",
+            "option_4": "Ibirago",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana banjye bambaye ibisa by'ibitambaro",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Ikaziya ya primus",
+            "option_3": "Imyambi y'ikibiriti",
+            "option_4": "Amase y'inka",
+            "correct_answer": "Imyambi y'ikibiriti"
+        }
+    }
+]

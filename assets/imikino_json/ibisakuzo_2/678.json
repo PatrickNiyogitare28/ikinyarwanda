@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 730
+    },
+    {
+        "sakwe_1": {
+            "question": "Ak'imitana ak'imitari kararenze mu mpinga",
+            "option_1": "Agahundo",
+            "option_2": "Umwijima",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Amazi mu gisura",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyamweru mu matovu",
+            "option_1": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "option_2": "Igitare",
+            "option_3": "Imegeri",
+            "option_4": "Isuka",
+            "correct_answer": "Imegeri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyamutukura umutindi",
+            "option_1": "Urubwija",
+            "option_2": "Umuzi w' urutare",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Agaheha mu gacuma",
+            "correct_answer": "Urubwija"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyiramana yadehesheje",
+            "option_1": "Ikinyoro cy'umusaza",
+            "option_2": "Amasaka y'umuterero; insina zikaragiye",
+            "option_3": "Ikiganza",
+            "option_4": "Ingoma mu isoko",
+            "correct_answer": "Ingoma mu isoko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kwa Rwangeyo icyumweru",
+            "option_1": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_2": "Umusatsi",
+            "option_3": "Igifu",
+            "option_4": "Urubumbiro; itongo",
+            "correct_answer": "Igifu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyamunini umugwa",
+            "option_1": "Ibirayi bikiri mu gitaka",
+            "option_2": "Mpinga",
+            "option_3": "Inyambo z'umutindi",
+            "option_4": "Umwironge",
+            "correct_answer": "Mpinga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Terura Mutamu uyitereke ku rutare uyikize ubutuna",
+            "option_1": "Umwungu",
+            "option_2": "Amateke",
+            "option_3": "Igitare",
+            "option_4": "Ikigoli",
+            "correct_answer": "Amateke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Sine irarisha hejuru y'urupfu",
+            "option_1": "Umusigati",
+            "option_2": "Ubwato mu kiyaga; mu mazi",
+            "option_3": "Umuce wo mu irebe",
+            "option_4": "Igikuku",
+            "correct_answer": "Ubwato mu kiyaga; mu mazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Umwana w'umwami amanutse akubita agatoki ku kandi",
+            "option_1": "Imodoka",
+            "option_2": "Kudashobora kurongora mushiki wawe",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kaributumbi kaributurike ino mine Patri Kabgayi",
+            "option_1": "Agahundo",
+            "option_2": "Uruyange; amaguru ya muhuhirizi",
+            "option_3": "Ikirungurira",
+            "option_4": "Imfunzo",
+            "correct_answer": "Ikirungurira"
+        }
+    }
+]

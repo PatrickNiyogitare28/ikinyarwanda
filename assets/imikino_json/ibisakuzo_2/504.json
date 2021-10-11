@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 470
+    },
+    {
+        "sakwe_1": {
+            "question": "Kirya ni iki?",
+            "option_1": "Hobe!\"",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Igitsure cya mukeba",
+            "option_4": "Umusure mu ngungu; ikinya mu kwaha",
+            "correct_answer": "Igitsure cya mukeba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mama arusha nyoko amabuno",
+            "option_1": "Umusambi",
+            "option_2": "Intembatembe",
+            "option_3": "Isovu",
+            "option_4": "Amaguru ya muhuhirizi",
+            "correct_answer": "Intembatembe"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera imiringa magana atanu bizira gutira",
+            "option_1": "Inzara",
+            "option_2": "Amaso",
+            "option_3": "Insina y'ikinyangurube",
+            "option_4": "Amasaka",
+            "correct_answer": "Amasaka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aka kagabo kakwica so",
+            "option_1": "Umununi ku gicumucumu",
+            "option_2": "Ingata mu ruhira",
+            "option_3": "Agahwa m'urwondo",
+            "option_4": "Umuvure",
+            "correct_answer": "Agahwa m'urwondo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera Rusharara Imana y'i Gisaka",
+            "option_1": "Ikinyagu",
+            "option_2": "Intimba mu nda",
+            "option_3": "Wasaza ubuhiri mu muhini!!",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Intimba mu nda"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hirya nakubira no hino nakubira",
+            "option_1": "Radiyo",
+            "option_2": "Urugo udasangamo nyoko",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Amabondo y'ihene"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Tabara umwana w'umwami agiye kugwa mwiriba",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Intumbi y'ihene",
+            "option_3": "Ikigori",
+            "option_4": "Umucaca",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera igisogo nyamutentema",
+            "option_1": "Igihumyo; umwobo",
+            "option_2": "Umuzungu mu modoka",
+            "option_3": "Umuziha w'inzovu",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Umuziha w'inzovu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kimenyi w'amenyo abiri",
+            "option_1": "Igisura",
+            "option_2": "Ishyari ntiriba rito",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Umuntu uri kuri ipikipiki",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera amazi ajya ruguru",
+            "option_1": "Uruyuzi",
+            "option_2": "Amazi mu muheha",
+            "option_3": "Agaseke mu ruzi",
+            "option_4": "Umuyaga",
+            "correct_answer": "Amazi mu muheha"
+        }
+    }
+]

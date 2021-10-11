@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 618
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagenze henshi mbura incuti",
+            "option_1": "Urupfu",
+            "option_2": "Umugezi",
+            "option_3": "Igikatsi",
+            "option_4": "Televiziyo",
+            "correct_answer": "Urupfu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Umugore utwite",
+            "option_2": "Umwana w'umwami",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ni iki cyatanze umuzungu kugenda mu ivatiri",
+            "option_1": "Amashaza",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Ifaranga",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Akanyamasyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ijisho ryanjye rimurika hose",
+            "option_1": "Izuba",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Umugina wo mu gishanga",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite inkwi zanjye zumye, ariko nazicana ntizake",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Uruhara",
+            "option_3": "Ifaranga",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gakore bakwice",
+            "option_1": "Ibiganza",
+            "option_2": "Ibirago",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Agakono k'inzara",
+            "correct_answer": "Agakono k'inzara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Amabere",
+            "option_2": "Ifaranga",
+            "option_3": "Gusitara",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aka kagabo kahina so",
+            "option_1": "Igiheri mu ruhara",
+            "option_2": "Inyenyeri",
+            "option_3": "Ingara z'iminyinya",
+            "option_4": "Icyanzu, ubunyereri",
+            "correct_answer": "Icyanzu, ubunyereri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zishotse zitendeje, zikuka ziteye hejuru",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Intete z'ibigori",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Abavomyi",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mutumbagira wa Rujugira",
+            "option_1": "Inzara y'umusore",
+            "option_2": "Umwumba w'insina",
+            "option_3": "Umukecuru wataye ikijigo cye",
+            "option_4": "Akanyana mu nda ya nyina",
+            "correct_answer": "Umwumba w'insina"
+        }
+    }
+]

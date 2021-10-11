@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 454
+    },
+    {
+        "sakwe_1": {
+            "question": "Nta kamwe nta akandi ngere iyo!!",
+            "option_1": "Udukongorwa",
+            "option_2": "Inkota mu bitugu",
+            "option_3": "Umurabyo",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Udukongorwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Igishorankwanzi cyamanutse gihora gikwiza ab'iwanyu bose imigoma",
+            "option_1": "Ikirizo cy'intama",
+            "option_2": "Umugozi w'ibijumba",
+            "option_3": "Ikigori",
+            "option_4": "Ikirago",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kati \"bambari\", kati \"ba!\"",
+            "option_1": "Ikigore kivuye mu mazu kenshi",
+            "option_2": "Akaganza k'uruhinja",
+            "option_3": "Akagori",
+            "option_4": "Agatonyanga ku kigega",
+            "correct_answer": "Agatonyanga ku kigega"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kidimba cya Muragi umwana w'umuganda ntawe utamugira",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Imende ku mugezi",
+            "option_3": "Intimba mu nda",
+            "option_4": "Urusogo mu mukobwe",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kibamba imennye urugo",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Imegeri",
+            "option_3": "Umucaca",
+            "option_4": "Ikizu kitarimo abantu",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nturutse hanze ndeba umuntu ngeze mu nzu ndamubura",
+            "option_1": "Agasongera",
+            "option_2": "Imvura",
+            "option_3": "Ubwato mu ruzi",
+            "option_4": "Igihumyo",
+            "correct_answer": "Agasongera"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kati \"Jyiii!\", kati \"izibukire!\"",
+            "option_1": "Igitoki",
+            "option_2": "Igishyimbo cy'umutura",
+            "option_3": "Intare",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Igishyimbo cy'umutura"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera rwa Kimanuka rutaribwa b'inyoni",
+            "option_1": "Agasuna",
+            "option_2": "Umwijima",
+            "option_3": "Akanyita k'uruhu",
+            "option_4": "Ibikingi by'amarembo",
+            "correct_answer": "Umwijima"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karabambaje kiradandaje",
+            "option_1": "Ingoma mu isoko",
+            "option_2": "Ikirago",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ibikaci bikaciraniye muri Nyagafunzo, ibisiga bizapfana umukumo",
+            "option_1": "Ibirayi bikiri mu gitaka",
+            "option_2": "Amabondo y'ihene",
+            "option_3": "Amabere y'inkumi",
+            "option_4": "Amahururu y'ababi",
+            "correct_answer": "Amabere y'inkumi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 52
+    },
+    {
+        "sakwe_1": {
+            "question": "Rugangazi rugangaye mu nzuzi",
+            "option_1": "Umwumba w'insina",
+            "option_2": "Umusoro",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Inzugi z'imigano, umukokwe",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nk'aka kanya",
+            "option_1": "Umugengararo w'amasaka",
+            "option_2": "Ugutwi kw'imbeba",
+            "option_3": "Amata n'amatezano; mukungwa na nyabarongo",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Imashini idoda (icyarahani)"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Gihegege mushiki wa Ntare",
+            "option_1": "Inkari z'inkoko",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Akabeba mu buki",
+            "option_4": "Amaso",
+            "correct_answer": "Akabeba mu buki"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mbonye umusore w'i Gisaka asomera igisate cy'umutsima",
+            "option_1": "Amata n'umutsima",
+            "option_2": "Inzugi z'imigano, umukokwe",
+            "option_3": "Ikigori",
+            "option_4": "Umurabyo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karisha umuntu kurunga",
+            "option_1": "Uruyuki",
+            "option_2": "Amaso",
+            "option_3": "Uruyuki",
+            "option_4": "Akazizi k'amata",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera umutumbagiro wa Rujugira",
+            "option_1": "Ijisho",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Ibere ry'inkumi",
+            "option_4": "Umwumba w'urukoma",
+            "correct_answer": "Umwumba w'urukoma"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ziravuga i Nyamirama",
+            "option_1": "Inshuzi mu cyansi",
+            "option_2": "Ikizubazuba",
+            "option_3": "Indarama",
+            "option_4": "Ibivumvuri",
+            "correct_answer": "Inshuzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Sogokuru aryoha aboze",
+            "option_1": "Urukumbi mu menyo",
+            "option_2": "Radiyo",
+            "option_3": "Ivunja",
+            "option_4": "Umuneke",
+            "correct_answer": "Umuneke"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kabatama ku bukoro",
+            "option_1": "Urugori rw'ibishyimbo",
+            "option_2": "Igikona n'umutsima",
+            "option_3": "Ingata mu ruhira",
+            "option_4": "Uruyuki",
+            "correct_answer": "Ingata mu ruhira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera muremure waje none",
+            "option_1": "Amaraso ku murundi, umugezi utemba",
+            "option_2": "Umuganda",
+            "option_3": "Udukongorwa",
+            "option_4": "Agafundi",
+            "correct_answer": "Umuganda"
+        }
+    }
+]

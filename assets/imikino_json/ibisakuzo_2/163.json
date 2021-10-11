@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 233
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite igihugu cy'abagabo gusa",
+            "option_1": "Inyenyeri",
+            "option_2": "Urugo udasangamo nyoko",
+            "option_3": "Ibigori bifite imisatsi",
+            "option_4": "Imbaragasa mu kirenge",
+            "correct_answer": "Ibigori bifite imisatsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imisozi iriyorosa ibigondo",
+            "option_1": "Ikirizo cy'intama",
+            "option_2": "Ivubi; uruyuki",
+            "option_3": "Ibihu, inzuki",
+            "option_4": "Intore n'umutsima",
+            "correct_answer": "Ibihu, inzuki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera rwagikoba rwakimanika rutaribwa n'imbeba",
+            "option_1": "Imvura",
+            "option_2": "Inzogera",
+            "option_3": "Insitare",
+            "option_4": "Inzira",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rukara iracumita Rutare yanga",
+            "option_1": "Inda mu musatsi",
+            "option_2": "Igisabo",
+            "option_3": "Inyamanza",
+            "option_4": "Amaguru yanjye n'ayawe",
+            "correct_answer": "Inda mu musatsi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfukumfuku yatura so ku mucaca",
+            "option_1": "Umurabyo",
+            "option_2": "Imyashi",
+            "option_3": "Umusemburo",
+            "option_4": "Ubwato",
+            "correct_answer": "Umusemburo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kagema ijuru",
+            "option_1": "Umwobo mu nzira",
+            "option_2": "Akanyoni karitse ku nzira",
+            "option_3": "Akumba k'urukoma",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Akumba k'urukoma"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze ku gasozi nti \"bana banjye murizihiwe\"",
+            "option_1": "Amasaka y'umuterero; insina zikaragiye",
+            "option_2": "Radiyo",
+            "option_3": "Irobe",
+            "option_4": "Umuce wo mu irebe",
+            "correct_answer": "Amasaka y'umuterero; insina zikaragiye"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirancurucumba aracura inkweto",
+            "option_1": "Umuheto",
+            "option_2": "Igihondohondo",
+            "option_3": "Inkoko mu rutoki",
+            "option_4": "Inzu irimo ubusa",
+            "correct_answer": "Inkoko mu rutoki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Dore ibitoki bya so ngo biransaba inyama",
+            "option_1": "Ifaranga",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Akaganza k'uruhinja",
+            "option_4": "Ibibonobono",
+            "correct_answer": "Ibibonobono"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mushenyi araguye n'ingabo y'umuyobe",
+            "option_1": "Igicaniro; igisabo",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Umujugujugu mu ihene",
+            "option_4": "Igitokd kigwanye n'insina",
+            "correct_answer": "Igitokd kigwanye n'insina"
+        }
+    }
+]

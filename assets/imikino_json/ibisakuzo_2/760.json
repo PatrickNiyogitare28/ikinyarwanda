@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 243
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera Rukarata ruje rukamaira",
+            "option_1": "Ababirigi",
+            "option_2": "Ingata mu ruhira",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Ibisya by'umutwakazi",
+            "correct_answer": "Ababirigi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kati \"papari\",kati \"pa\", inzubukira nayikiye kwa Rwamugenzi",
+            "option_1": "Ivu",
+            "option_2": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_3": "Imyotsi",
+            "option_4": "Ibisunzu bya rusake",
+            "correct_answer": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nirirwa nicaye nkirirwa nicaye",
+            "option_1": "Umurara w'uburo",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Intebe",
+            "option_4": "Agahinja",
+            "correct_answer": "Intebe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umwana w'umwami yaruka wanywa",
+            "option_1": "Igisabo",
+            "option_2": "Intorezo",
+            "option_3": "Ibarizo ry'ingoma",
+            "option_4": "Uruho",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kabatama i Bukoma",
+            "option_1": "Umugore utwite",
+            "option_2": "Akagata mu rwobo",
+            "option_3": "Igisura",
+            "option_4": "Akato mu kiyaga",
+            "correct_answer": "Akagata mu rwobo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karavugira i Bumpanika",
+            "option_1": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_2": "Igihumyo",
+            "option_3": "Akagasire ku rusyo",
+            "option_4": "Akayuki k'akungu",
+            "correct_answer": "Akagasire ku rusyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiransibura i Burundi",
+            "option_1": "Abavomyi",
+            "option_2": "Umurabyo",
+            "option_3": "Umurabyo",
+            "option_4": "Icyiyoni mu isoko",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karera dee!!",
+            "option_1": "Akaganza k'uruhinja",
+            "option_2": "Ubutanda ku muvure",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Imende ku ruzi",
+            "correct_answer": "Akaganza k'uruhinja"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Umusemburo",
+            "option_2": "Agahinda ku mutima",
+            "option_3": "Gusitara ku ibuye",
+            "option_4": "Urusenge",
+            "correct_answer": "Urusenge"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kwa Rwangeyo icyumweru",
+            "option_1": "Umusatsi",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Igifu",
+            "option_4": "Amenyo",
+            "correct_answer": "Igifu"
+        }
+    }
+]

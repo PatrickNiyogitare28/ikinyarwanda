@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 757
+    },
+    {
+        "sakwe_1": {
+            "question": "Ngira inka nkayikamira mu murizo",
+            "option_1": "Isake",
+            "option_2": "Igihumyo",
+            "option_3": "Umuhotora; umuhoro",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mushenyi araguye n'ingabo y'umuyobe",
+            "option_1": "Igitokd kigwanye n'insina",
+            "option_2": "Ijisho rya mukeba",
+            "option_3": "Umwishywa ku rutare",
+            "option_4": "Igishyitsi cy'umusave n'umubirizi",
+            "correct_answer": "Igitokd kigwanye n'insina"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kwa Bucondo barakocagurana",
+            "option_1": "Umuzi w' urutare",
+            "option_2": "Imiduha",
+            "option_3": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_4": "Inkoko mu rutoki",
+            "correct_answer": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngira abana umuto yatanze umukuru gusabwa",
+            "option_1": "Inda mu nnyo",
+            "option_2": "Umutsi mu nda",
+            "option_3": "Umucaca",
+            "option_4": "Icyagumbwa (inopfu)",
+            "correct_answer": "Icyagumbwa (inopfu)"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Irengerenge",
+            "option_1": "Intumbi y'ihene",
+            "option_2": "Igiteke mu nkono",
+            "option_3": "Inda mu mutwe",
+            "option_4": "Inzogera",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imana y'i Burundi irashoka ntikuka",
+            "option_1": "Amashyiga",
+            "option_2": "Ibivumvuri",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Urusenge",
+            "correct_answer": "Agahinda k'umutima"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Cya mbiri mbiriri cya mwiza wa so",
+            "option_1": "Urukumbi mu menyo",
+            "option_2": "Inyundo z'abacuzi",
+            "option_3": "Isake",
+            "option_4": "Igiteke mu nkono",
+            "correct_answer": "Igiteke mu nkono"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Urambaze wampaye iki?",
+            "option_1": "Urubwija",
+            "option_2": "Ibarizo",
+            "option_3": "Ukuguru kw'imbaragasa",
+            "option_4": "Umugozi w'ibijumba",
+            "correct_answer": "Umugozi w'ibijumba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze mu irembo mbona Bukoramungabo mu nda",
+            "option_1": "Ikivumvuri",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Urutumbwe",
+            "option_4": "Igicaniro; igisabo",
+            "correct_answer": "Ikigega kirimo ubusa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nkubise inda hasi ndamutsa umwami i Remera",
+            "option_1": "Urufunzo",
+            "option_2": "Ibere ry'inkumi",
+            "option_3": "Intasya",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Intasya"
+        }
+    }
+]

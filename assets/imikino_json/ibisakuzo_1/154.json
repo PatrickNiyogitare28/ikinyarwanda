@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 424
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Ifaranga",
+            "option_2": "Umurabyo",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Isi n'ijuru",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aka kagabo kahina so",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Akayunguruzo",
+            "option_3": "Umwarimu",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Icyanzu, ubunyereri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mama arusha nyoko amabuno manini",
+            "option_1": "Agacaca",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Igisabo",
+            "option_4": "Buji",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze mu ishyamba rimpa umwezi",
+            "option_1": "Ibibabi by'ikibonobono",
+            "option_2": "Ibarizo",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Amazi",
+            "correct_answer": "Ibarizo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyagiwe n'imvura imbuza guhinga",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Amacandwe y'incira",
+            "option_3": "Ifaranga",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Amacandwe y'incira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpiritse indobo ikwira hose",
+            "option_1": "Amagambo yo ku rurembo",
+            "option_2": "Icebe ry'inka",
+            "option_3": "Ibabi by'ibibonobono",
+            "option_4": "Ururimi",
+            "correct_answer": "Amagambo yo ku rurembo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Isusa",
+            "option_2": "Radiyo",
+            "option_3": "Igikoro, igihaza",
+            "option_4": "Ifaranga",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nkiza ibyo bitoki bya so binsaba inyama",
+            "option_1": "Ikiryango cy'inzu",
+            "option_2": "Gutara ibitoki",
+            "option_3": "Ubwoya bw'inka",
+            "option_4": "Ibabi by'ibibonobono",
+            "correct_answer": "Ibabi by'ibibonobono"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera akabaribari kamanutse mu ijuru kaje gushashura abagabo",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Igihepfu ku mugina",
+            "option_3": "Ifaranga",
+            "option_4": "Ibikongorwa by'ibisheke",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Sida",
+            "option_4": "Umurozi",
+            "correct_answer": "Sida"
+        }
+    }
+]

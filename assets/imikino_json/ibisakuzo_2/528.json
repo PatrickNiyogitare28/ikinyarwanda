@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 653
+    },
+    {
+        "sakwe_1": {
+            "question": "Iwacu twikwije impindu twese",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Umuneke",
+            "option_4": "Ururimi hagati y'amenyo",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngira inka nkayirya igenda",
+            "option_1": "Umucundura",
+            "option_2": "Uruyuzi; umugezi",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Uruyuzi; umugezi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Samuduha ku mubanga",
+            "option_1": "Inturo mu muvumo",
+            "option_2": "Umwana uri munda ya nyina",
+            "option_3": "Ikinyoro mu gahanga k'umusore",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Ikinyoro mu gahanga k'umusore"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Igihumyo; umwobo",
+            "option_2": "Akatsi ko ku nzu",
+            "option_3": "Inzara n'umwijuto",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama arusha nyoko kunogera inkanda",
+            "option_1": "Ijisho rya mukeba",
+            "option_2": "Inkuba",
+            "option_3": "Ipfundo ry'urudodo",
+            "option_4": "Umusambi; ikinyabwoya",
+            "correct_answer": "Umusambi; ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Byagira biti, \"po!!!\"",
+            "option_1": "Ikirago",
+            "option_2": "Inturo mu rutare",
+            "option_3": "Imfizi y'intama",
+            "option_4": "Urushishi ku igufa",
+            "correct_answer": "Imfizi y'intama"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mu rugo rw'imiseke hagati Nyamagana",
+            "option_1": "Ikijumba",
+            "option_2": "Igitoki n'amakoma",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Ikigori",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Gikubise Ngaru kigaruza Ngaruye kiraza gishyatama aho",
+            "option_1": "Ikigore cy'ikiva mu nzu",
+            "option_2": "Ishyiga ry'inyuma",
+            "option_3": "Inyambo z'umutindi",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Ikigore cy'ikiva mu nzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Makasi ihuye n'indi",
+            "option_1": "Uruhabuzo",
+            "option_2": "Ibuye n'umutarimba",
+            "option_3": "Ibiganza",
+            "option_4": "Isi n'ijuru",
+            "correct_answer": "Ibuye n'umutarimba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngira umugozi nkawutahiriza ntiwuzure",
+            "option_1": "Umurara w'uburo",
+            "option_2": "Ibuye n'umutarimba",
+            "option_3": "Inzira",
+            "option_4": "Icyiyone",
+            "correct_answer": "Inzira"
+        }
+    }
+]

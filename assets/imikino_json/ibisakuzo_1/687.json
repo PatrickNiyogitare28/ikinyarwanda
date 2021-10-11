@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 36
+    },
+    {
+        "sakwe_1": {
+            "question": "Inka yanjye yimira mu kinono, ikabyarira mu ihembe",
+            "option_1": "Umucaca",
+            "option_2": "Amata",
+            "option_3": "Igitoki",
+            "option_4": "Urwiri",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Inopho",
+            "option_2": "Ikigori",
+            "option_3": "Umuntu",
+            "option_4": "Inzuki",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Firigo",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Ifaranga",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Isi n'ijuru",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Ururabo rw'ikawa",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkuba ikubita ikwerekejeho umugongo",
+            "option_1": "Umuheto",
+            "option_2": "Amashaza",
+            "option_3": "Akatsi ko ku nzu",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Twaraye ihinga isuka iramungwa",
+            "option_1": "Isahani yaguye ingese",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Indogobe ishaje",
+            "correct_answer": "Isahani yaguye ingese"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kambaye inkonya katazi iyo zavuye",
+            "option_1": "Icyanzu",
+            "option_2": "Uruhinja",
+            "option_3": "Gusitara",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Uruhinja"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kiribwa kidahingwa",
+            "option_1": "Inyama",
+            "option_2": "Ifaranga",
+            "option_3": "Igitoki",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Inyama"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abakobwa banjye baraturanye ariko ntibaramukanya",
+            "option_1": "Ifaranga",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Umwana w'uruhinja",
+            "option_4": "Igikeri",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Ubwatsi busakaye inzu",
+            "option_3": "Icyobo",
+            "option_4": "Ijwi",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    }
+]

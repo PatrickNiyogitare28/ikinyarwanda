@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 332
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite ingungu ebyiri zinyambutsa uruzi iteka",
+            "option_1": "Akagata mu rwobo",
+            "option_2": "Ikigori",
+            "option_3": "Amaso",
+            "option_4": "Agahwa mu rwondo",
+            "correct_answer": "Amaso"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tora agakoni ntore akandi tujye gukubita Ruyiyenza yamaze ubwatsi",
+            "option_1": "Inzara mu ruheri",
+            "option_2": "Umusambi",
+            "option_3": "Umwobo mu nzira",
+            "option_4": "Igikona",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Uko turi iwacu twese turi bagufi",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Urutare rwo mu nzira",
+            "option_3": "Ubwato",
+            "option_4": "Amashyiga",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera ba Manzi bitwaza amacumu bayacuritse",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Ubwanwa",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Imirizo y'inka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite abana bakicara ku ntebe imwe",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Igitembatembe",
+            "option_3": "Ijoro",
+            "option_4": "Igitsina cy'amateke",
+            "correct_answer": "Igitsina cy'amateke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akebo ka Dede kariramo Dede wenyine",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Ivunja",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mamahinda mamahi",
+            "option_1": "Abakomyi b'insyo",
+            "option_2": "Inkono n' ibipfuko",
+            "option_3": "Umusenyi",
+            "option_4": "Amahinda y'inkuba",
+            "correct_answer": "Amahinda y'inkuba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Shaka agafuni nshake akandi tujye kurima imizi ya Ruhozozo ikuzimu",
+            "option_1": "Ururimi",
+            "option_2": "Urusisiro",
+            "option_3": "Akazuba karashe",
+            "option_4": "Imizi y'urutare",
+            "correct_answer": "Imizi y'urutare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyoko na mama bapfuye iki?",
+            "option_1": "Umusambi",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Umusoro",
+            "correct_answer": "Agahaza ko mu rubibi; inkongoro z'abana"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndasiye inuma ku mukimbagiro wa Bugoyi ahi kuva amaraso iva ifu",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Ikiziha cy'inzovu",
+            "option_3": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_4": "Ivubi; uruyuki",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 768
+    },
+    {
+        "sakwe_1": {
+            "question": "Rukara rw'umwami yicarira abagabo batatu",
+            "option_1": "Inkono",
+            "option_2": "Ibaruwa",
+            "option_3": "Umwarimu",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Inzuki",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Inopho",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nshinze umwe ndasakara",
+            "option_1": "Ifaranga",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Icyobo",
+            "option_4": "Icyobo",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kinyuka inabi, cyanyuka ineza nkizihirwa",
+            "option_1": "Ikibuno",
+            "option_2": "Izuba",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Izuba ry'impeshyi",
+            "correct_answer": "Izuba ry'impeshyi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Ibikongorwa by'ibisheke",
+            "option_2": "Uruhara",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Ipikipiki",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Umugina mu rufunzo",
+            "option_2": "Urutare",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Ikawa",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Inyundo",
+            "option_2": "Agasuzi",
+            "option_3": "Urutoryi",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Umugezi",
+            "option_2": "Inopho",
+            "option_3": "Ibizu bitagira abantu",
+            "option_4": "Inyundo",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Urira rubariro ubone ishyano",
+            "option_1": "Akayunguruzo",
+            "option_2": "Igihandure",
+            "option_3": "Ikiringiti",
+            "option_4": "Uburiri bw'umwami",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Ibaruwa",
+            "option_2": "Ifaranga",
+            "option_3": "Ikigori",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    }
+]

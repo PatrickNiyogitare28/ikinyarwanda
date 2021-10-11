@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 370
+    },
+    {
+        "sakwe_1": {
+            "question": "Agakono k'iwacu ni imbungiramihigo",
+            "option_1": "Umurabyo",
+            "option_2": "Igitsina cy'amateke",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Akazizi k'amata",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramakoberanya",
+            "option_1": "Igitoki",
+            "option_2": "Agakono ko mu cyi",
+            "option_3": "Umwironge",
+            "option_4": "Inkinwa cya nyirabarazana",
+            "correct_answer": "Agakono ko mu cyi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Matama wa vure",
+            "option_1": "Ubwato mu ruzi",
+            "option_2": "Umuntu uri ku ipikipiki",
+            "option_3": "Ikirago",
+            "option_4": "Umuyaga",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aho ndi aha ndareba muhaha ya Nkoronko",
+            "option_1": "Ubwato mu ruzi",
+            "option_2": "Imbwa",
+            "option_3": "Akana kavutse kadashyitse",
+            "option_4": "Ikigega kirimo ubusa",
+            "correct_answer": "Ikigega kirimo ubusa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rusimbuka mu masaka umwami w'abaderevu",
+            "option_1": "Icyiyoni",
+            "option_2": "Igishwemu cy'amase",
+            "option_3": "Umusambi",
+            "option_4": "Ingara z'iminyinya",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kagaju irasekura umusenyi",
+            "option_1": "Inkware",
+            "option_2": "Isake",
+            "option_3": "Igiseke",
+            "option_4": "Amaso",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze hano nkubita inkoni yanjye i Buzi",
+            "option_1": "Umurabyo",
+            "option_2": "Ukuguru kw'imbaragasa",
+            "option_3": "Akanyita k'uruhu",
+            "option_4": "Ibikingi by'amarembo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ruvuzo irivuga ikibumba",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Inzoga mu kibindi",
+            "option_3": "Igitonyanga cy'imvura",
+            "option_4": "Umusaza n'umwana",
+            "correct_answer": "Inzoga mu kibindi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mbindigiri agiye i Nyanza",
+            "option_1": "Umwana usanze se na nyina batariyo",
+            "option_2": "Irobe n'umutsima",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Igihandure",
+            "correct_answer": "Irobe n'umutsima"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Musatsi murende umukobwa utagira inenge",
+            "option_1": "Ibirayi bikiri mu gitaka",
+            "option_2": "Umwambi",
+            "option_3": "Urufunzo",
+            "option_4": "Umugezi utemba ugasiga amabuye",
+            "correct_answer": "Urufunzo"
+        }
+    }
+]

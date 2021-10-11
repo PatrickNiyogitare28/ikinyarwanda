@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 505
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze aho ndora amenyo ya Ruganzu",
+            "option_1": "Imondo mu gihu",
+            "option_2": "Umugore ujya kuzimura",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Amahururu y'ababi",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutega icyatanze abazungu kwambara ingofero",
+            "option_1": "Inopfu",
+            "option_2": "Igihumyo",
+            "option_3": "Ururimi mu kanywa",
+            "option_4": "Urugo udasangamo nyoko",
+            "correct_answer": "Igihumyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ruvuzo irivuga ikibumba",
+            "option_1": "Inzoga mu kibindi",
+            "option_2": "Akadiho k'imbwa",
+            "option_3": "Icyiyoni",
+            "option_4": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "correct_answer": "Inzoga mu kibindi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ibuka hakurya",
+            "option_1": "Utuzu tw'abashumba",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "correct_answer": "Utuzu tw'abashumba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Amabyi y'umushumba",
+            "option_2": "Akanigi mu ijosi",
+            "option_3": "Imondo mu gihu",
+            "option_4": "Igisura",
+            "correct_answer": "Igisura"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukondakonda umuhoro wo mu Kinyaga",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Umugore utwite",
+            "option_3": "Agahoro mu ntoki",
+            "option_4": "Inzu",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mu rugo rw'imiseke hagati Nyamagana",
+            "option_1": "Akamangu mu muvumu",
+            "option_2": "Icyuho; ikibyindi",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Urume ku musororo",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dore iryo shyamba ritabona",
+            "option_1": "Umuziha w'inzovu",
+            "option_2": "Amabere y'inkumi",
+            "option_3": "Umusatsi w'intabwa",
+            "option_4": "Igikuku",
+            "correct_answer": "Umusatsi w'intabwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mama Arusha nyoko gukimbagira inkanda",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Umusatsi; inzara",
+            "option_3": "Inda mu ihururu",
+            "option_4": "Ikibuguzo, igisoro",
+            "correct_answer": "Inda mu ihururu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndi Rutebuka kw'iteme ndi Rutebuka ku iteke nti \"mbe mwiriwe Rezida !\"",
+            "option_1": "Umwumba w'insina",
+            "option_2": "Uruyuki",
+            "option_3": "Urukwavu",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Urukwavu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 719
+    },
+    {
+        "sakwe_1": {
+            "question": "Kino si igisebe ni myambi",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Ikibuguzo, igisoro",
+            "option_3": "Imyenge y'amazuru",
+            "option_4": "Igikuku",
+            "correct_answer": "Igikuku"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiransibura i Burundi",
+            "option_1": "Amaso",
+            "option_2": "Umurabyo",
+            "option_3": "Ikibando n'urugi; urugi ku muryango",
+            "option_4": "Umuneke",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inyuma ya Gacu barahima intebu",
+            "option_1": "Mihigo",
+            "option_2": "Ikinwa cya nyirabarazana",
+            "option_3": "Uruheri mu gihata",
+            "option_4": "Abavomyi",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nirirwa ntambuka bukira nkibatambuka",
+            "option_1": "Isi n' ijuru",
+            "option_2": "Amaguru yanjye n'ayawe",
+            "option_3": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_4": "Umutumba",
+            "correct_answer": "Umutumba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirabugazi arazigaramiye",
+            "option_1": "Ishenyi n'intorezo",
+            "option_2": "Urusenge",
+            "option_3": "Umunyinya",
+            "option_4": "Akazi mu nzira",
+            "correct_answer": "Akazi mu nzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Igisambu gisigaye hagati y'uruhira",
+            "option_2": "Imvura",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Umuzi w' urutare",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutuku rwa Ndubaruba yari umugabo nuko yasize imbwa",
+            "option_1": "Umuzi w' urutare",
+            "option_2": "Umuriro",
+            "option_3": "Ururimi",
+            "option_4": "Agahinda ku mutima",
+            "correct_answer": "Umuriro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Urarenga mpinguka",
+            "option_1": "Inshunzi z'amata mu cyansi",
+            "option_2": "Umusaza n'umwana",
+            "option_3": "Ifundi",
+            "option_4": "Ababirigi",
+            "correct_answer": "Umusaza n'umwana"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kamuhanda ntiwayiterera",
+            "option_1": "Igikona",
+            "option_2": "Inda mu mutwe",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera ishongashonga nagutera ikikakika nagutera akantu kaba iwanyu wakemenya nkaguhemba",
+            "option_1": "Ubwanwa",
+            "option_2": "Ishenyi n'intorezo",
+            "option_3": "Agahwa mu rwondo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ishenyi n'intorezo"
+        }
+    }
+]

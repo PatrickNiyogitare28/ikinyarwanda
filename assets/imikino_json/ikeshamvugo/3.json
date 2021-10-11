@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 14
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ndamuyoka",
+            "answer": "Ndamubona (ndamutahura)"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Abajama",
+            "answer": "Urungano"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Uduta",
+            "answer": "Amata"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Amaze amezi atandatu",
+            "answer": "Amavuta akuze"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Kudonda urusyo",
+            "answer": "Gukoma urusyo"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Agati bavurugisha",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Kumena amata ubishaka",
+            "answer": "Kuyabikira, kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amanama",
+            "answer": "Inama"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Agati bavurugisha amata",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Nari nataramubona",
+            "answer": "Nari ntaramubona"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Amata inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Kuyavanamo amavuta",
+            "answer": "Kwavura, gusobanura"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Kumeneka k'urusyo",
+            "answer": "Gusandara"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Imana ibahereze umugisha",
+            "answer": "Imana ibahe umugisha"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ibuye baseraho",
+            "answer": "Urusyo"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Ayaraye ataravura",
+            "answer": "Umubanji"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Umwana w'umwuzukuru",
+            "answer": "Umwuzukuruza"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Ingurube nyinshi",
+            "answer": "Umugana (zirenze imwe)"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Uwo muntu yafashwe ari kumwe n'ibiyobyabwenge",
+            "answer": "Uwo muntu yafatanywe ibiyobyabwenge"
+        }
+    }
+]

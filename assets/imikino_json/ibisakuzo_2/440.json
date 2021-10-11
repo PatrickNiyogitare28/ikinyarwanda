@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 471
+    },
+    {
+        "sakwe_1": {
+            "question": "Wacana mu ruzi umuriro ukaka?",
+            "option_1": "Ivu",
+            "option_2": "Inda mu nkanda",
+            "option_3": "Ubwato",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kakubagarira",
+            "option_1": "Uruboho",
+            "option_2": "Inshunzi z'amata mu cyansi",
+            "option_3": "Ikiziba mu mpinga",
+            "option_4": "Agahinzi kamwe mu murima",
+            "correct_answer": "Agahinzi kamwe mu murima"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera rwa Kimanuka rutaribwa b'inyoni",
+            "option_1": "Agatsinsino k'uruhinja",
+            "option_2": "Umwijima",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Ikibyindi",
+            "correct_answer": "Umwijima"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkubise inkoni hasi ndi mu gikari intanga ikambere",
+            "option_1": "Uruyuki",
+            "option_2": "Imanzi mu maribori",
+            "option_3": "Amazimwe yo ku rurembo",
+            "option_4": "Icyiyone",
+            "correct_answer": "Amazimwe yo ku rurembo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama arusha nyoko kwambarira abakwe",
+            "option_1": "Amashyiga",
+            "option_2": "Ibipfunsi",
+            "option_3": "Uruhu rw'intama",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Uruhu rw'intama"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Twagize umuzinga ku ngoma ya Gahindiro na n'ubu nturinjira",
+            "option_1": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_2": "Umwijima",
+            "option_3": "Amazuru",
+            "option_4": "Igihumyo",
+            "correct_answer": "Amazuru"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera igitutsi kimanutse kwa Rwatangaho cyiteye imigoma itatu",
+            "option_1": "K'umutima w'undi",
+            "option_2": "Ubuheri mu gihata",
+            "option_3": "Uruho",
+            "option_4": "Ikigori",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Imisozi irashya Rukaba yo ntishya",
+            "option_1": "Ikigore cy'ikiva mu nzu",
+            "option_2": "Igihondohondo",
+            "option_3": "Urutare",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gitsimba igiheneko",
+            "option_1": "Igitama cyaguye mu mukokwe",
+            "option_2": "Amahururu y'ababi",
+            "option_3": "Imirya y'intanga",
+            "option_4": "Inzira",
+            "correct_answer": "Igitama cyaguye mu mukokwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ak'imitana ak'imitari kararenze mu mpinga",
+            "option_1": "Igitabo cy'umusoro",
+            "option_2": "Igikongorwa",
+            "option_3": "Gusitara ku ibuye",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Akanyugunyugu"
+        }
+    }
+]

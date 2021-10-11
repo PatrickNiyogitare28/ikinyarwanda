@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 48
+    },
+    {
+        "sakwe_1": {
+            "question": "Natumba naturika ni ibuye rya Kagbayi",
+            "option_1": "Agatonyanga k'imvura",
+            "option_2": "Ishapure n'amasengesho",
+            "option_3": "Umuheto n'umwambi",
+            "option_4": "Ururabo",
+            "correct_answer": "Ishapure n'amasengesho"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nicaye iwacu murika isi",
+            "option_1": "Ururabo rw'ikawa",
+            "option_2": "Ijuru n'ukwezi",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Izuba",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ibuye ry'umusozi ryimuye umugabo",
+            "option_1": "Abavomyi",
+            "option_2": "Ikigori",
+            "option_3": "Ifaranga",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ijisho ryanjye rimurika hose",
+            "option_1": "Izuba",
+            "option_2": "Igitiritiri",
+            "option_3": "Umwumba w'insina",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngeze mu ishyamba rirahungabana",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Igihepfu ku mugina",
+            "option_3": "Inopfu",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Inzara y'umusore"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gakore bakwice",
+            "option_1": "Agakono k'inzara",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Ukwezi n'inyenyeri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Agakono k'inzara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akamarimari kamanutse i Burayi kaje kamara abantu",
+            "option_1": "Amatwi",
+            "option_2": "Ifaranga",
+            "option_3": "Umunyeshuri",
+            "option_4": "Urutare",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nshinze umwe ndasakara",
+            "option_1": "Icyobo",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Urwembe mu musatsi",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite inkwi zanjye zumye, ariko nazicana ntizake",
+            "option_1": "Isoko",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inka yanjye nyikama igenda",
+            "option_1": "Uruyuzi",
+            "option_2": "Amarira mu maso",
+            "option_3": "Icyobo",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Uruyuzi"
+        }
+    }
+]

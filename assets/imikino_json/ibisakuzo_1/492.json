@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 297
+    },
+    {
+        "sakwe_1": {
+            "question": "Njugunye akabuye ku karubanda baragatanguranwa",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ifaranga",
+            "option_3": "Umusatsi ku mutwe",
+            "option_4": "Amapapayi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kirarumbaraye",
+            "option_1": "Ikibuno",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Ururimi rwawe",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ubutaka bw'iwacu turabuteka",
+            "option_1": "Ifu",
+            "option_2": "Igikatsi",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Kubuza umuryi kurya",
+            "correct_answer": "Ifu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Ifaranga",
+            "option_2": "Ikawa",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nturutse hanze mbona umuntu ninjiye ndamubure",
+            "option_1": "Ifaranga",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Ururabo rw'ikawa",
+            "option_2": "Inzu itagira abantu",
+            "option_3": "Ururabo",
+            "option_4": "Amapapayi",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Iyo umugabo ageze mu rutopki abanza iki?",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Ikivugirizo",
+            "option_3": "Ifu",
+            "option_4": "Agakono k'inzara",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rukara rw'umwami yicarira abagabo batatu",
+            "option_1": "Ifurwe",
+            "option_2": "Inkware",
+            "option_3": "Inkono",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Sida",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Isi n'ijuru",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Icyanzu",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    }
+]

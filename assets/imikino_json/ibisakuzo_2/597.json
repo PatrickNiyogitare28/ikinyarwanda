@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 713
+    },
+    {
+        "sakwe_1": {
+            "question": "Kirahara dudu",
+            "option_1": "Inuma mu kigega",
+            "option_2": "Ukuguru kw'imbaragasa",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Imbwa ifite igufa",
+            "correct_answer": "Inuma mu kigega"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hirya harahiye no hino harahiye hasigaye  urukumbi rwa Sasa",
+            "option_1": "Ishenyi n'intorezo",
+            "option_2": "Inzira",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Inzira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Banga ingata mbange indi tujye kwikorera ka kaguru ka Dondi i Budaha",
+            "option_1": "Ukuguru kw'imbaragasa",
+            "option_2": "Ubwato mu kiyaga; mu mazi",
+            "option_3": "Utuzu tw'abashumba",
+            "option_4": "Ikizu kitarimo abantu",
+            "correct_answer": "Ukuguru kw'imbaragasa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mabanda imbaragasa",
+            "option_1": "Agahinda k'umutima",
+            "option_2": "Ikinyoro mu rubavu",
+            "option_3": "Ifundi",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Ikinyoro mu rubavu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nambutse uruzi nkubita umwogo w'inda hasi",
+            "option_1": "Imyotsi",
+            "option_2": "Amarira y'imbwa",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Intashya",
+            "correct_answer": "Intashya"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gihe umunzeri",
+            "option_1": "Ijwi",
+            "option_2": "Uruyongoyongo",
+            "option_3": "Ifaranga",
+            "option_4": "Umuhinzi umwe mu murima",
+            "correct_answer": "Umuhinzi umwe mu murima"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Urugi",
+            "option_2": "Umugore ujya kuzimura",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Icyobo",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera Rugina igana intaho",
+            "option_1": "Ikizubazuba",
+            "option_2": "Ikinyoro mu gahanga k'umusore",
+            "option_3": "Amasaka",
+            "option_4": "Icyiyoni mu isoko",
+            "correct_answer": "Ikizubazuba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abeza bararamukanya",
+            "option_1": "Uruyuki",
+            "option_2": "Inzu",
+            "option_3": "Ikinyamushongo",
+            "option_4": "Umugengararo w'amasaka",
+            "correct_answer": "Ikinyamushongo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Tora ubuhiri ntore ubundi tujye kuvumbura inyamaswa itagira umurizo",
+            "option_1": "Intosho",
+            "option_2": "Inzogera",
+            "option_3": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_4": "Umwana uri munda ya nyina",
+            "correct_answer": "Intosho"
+        }
+    }
+]

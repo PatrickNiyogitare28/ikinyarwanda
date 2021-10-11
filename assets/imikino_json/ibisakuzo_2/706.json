@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 746
+    },
+    {
+        "sakwe_1": {
+            "question": "Makasi ihuye n'indi",
+            "option_1": "Agatsinsino k'uruhinja",
+            "option_2": "Ingoma",
+            "option_3": "Umwobo mu masaka",
+            "option_4": "Ibuye n'umutarimba",
+            "correct_answer": "Ibuye n'umutarimba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kabindi birima nzagusanga ivomo",
+            "option_1": "Ivunja",
+            "option_2": "Igitonyanga",
+            "option_3": "Inzugi z'imigano, umukokwe",
+            "option_4": "Icyagumbwa",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyoko ko ari munini yakwambara inkanda ya Ruhondo?",
+            "option_1": "Umwambi",
+            "option_2": "Agahinda k'umutima",
+            "option_3": "Icyagumbwa (inopfu)",
+            "option_4": "Ijuru; uruhu w'imbaragasa",
+            "correct_answer": "Ijuru; uruhu w'imbaragasa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ugiye mu rutoki ubanza iki?",
+            "option_1": "Ikivugirizo",
+            "option_2": "Ikiziba mu mpinga",
+            "option_3": "Umucaca",
+            "option_4": "Ikizamini",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nk'aka kanya",
+            "option_1": "Urugo udasangamo nyoko",
+            "option_2": "Gusaba uwo wenyine",
+            "option_3": "Igikongorwa",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Imashini idoda (icyarahani)"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nsanze aho urupfu rwihaganyura",
+            "option_1": "Umunyinya",
+            "option_2": "Ifuni mu mushike",
+            "option_3": "Umusigati",
+            "option_4": "Ururimi",
+            "correct_answer": "Ifuni mu mushike"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Umwobo wa Dede uturamo Dede wenyine",
+            "option_1": "Isovu",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Imiduha",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kazikure irya, kazikure ino kati \"Ni izanjye na Runana\"",
+            "option_1": "Ikigore cy'ikiva mu nzu",
+            "option_2": "Umutozo",
+            "option_3": "Umununi ku gicumucumu",
+            "option_4": "Inkware",
+            "correct_answer": "Umununi ku gicumucumu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ruvuzo ikwirukana mu nka",
+            "option_1": "Imvi zikuye umusatsi w'ubuto",
+            "option_2": "Ibitotsi",
+            "option_3": "Inzoga mu kibindi",
+            "option_4": "Uruhiza",
+            "correct_answer": "Imvi zikuye umusatsi w'ubuto"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kwa Bucondo barakocagurana",
+            "option_1": "Ikirunga",
+            "option_2": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_3": "Ikigori",
+            "option_4": "Amara",
+            "correct_answer": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa"
+        }
+    }
+]

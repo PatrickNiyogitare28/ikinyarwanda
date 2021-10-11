@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 583
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyoko ko ari munini yakwambara inkanda ya Ruhondo?",
+            "option_1": "Akato mu kiyaga",
+            "option_2": "Ijuru; uruhu w'imbaragasa",
+            "option_3": "Imvi zikuye umusatsi w'ubuto",
+            "option_4": "Igihuru gihiye uruhande rumwe",
+            "correct_answer": "Ijuru; uruhu w'imbaragasa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye ikuzimu mpinnye agatoki",
+            "option_1": "Umugondoro w'ibishyimbo",
+            "option_2": "Agafuni kabagarira amasaka",
+            "option_3": "Kudashobora kurongora mushiki wawe",
+            "option_4": "Amaguru yanjye n'ayawe",
+            "correct_answer": "Umugondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Behu behu!!!",
+            "option_1": "Uruyuki",
+            "option_2": "Umwironge",
+            "option_3": "Agatonyanga",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Umwironge"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndasera i Gahanga nkagosorera i Kabondo",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Imyotsi",
+            "option_3": "Agahinzi kamwe mu murima",
+            "option_4": "Guhekenya amasaka",
+            "correct_answer": "Guhekenya amasaka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nahurenye inko nyinshi ncyurana imwe gusa",
+            "option_1": "Ijambo rya mukeba",
+            "option_2": "Umugore utwite",
+            "option_3": "Umusigati",
+            "option_4": "Icyibo",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse kavuga amangara",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Ubuheri mu gihata",
+            "option_3": "Urusisiro",
+            "option_4": "Igitokd kigwanye n'insina",
+            "correct_answer": "Urusisiro"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nturutse hanze ndeba umuntu ngeze mu nzu ndamubura",
+            "option_1": "Agasongera",
+            "option_2": "Ifi",
+            "option_3": "Kubona aho nyokobukwe yiyuhagira",
+            "option_4": "Ingata mu ruhira",
+            "correct_answer": "Agasongera"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama arusha nyoko ibikinga",
+            "option_1": "Umunyorogoto",
+            "option_2": "Igisambu gisigaye hagati y'uruhira",
+            "option_3": "Uruhiza",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Uruhiza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kibamba imennye urugo",
+            "option_1": "Umucaca",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Umusatsi",
+            "option_4": "Ibirayi",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nsanze aho urupfu rwihaganyura",
+            "option_1": "Akagasire ku rusyo",
+            "option_2": "Umutsima; intosho",
+            "option_3": "Umugore ujya kuzimura",
+            "option_4": "Ifuni mu mushike",
+            "correct_answer": "Ifuni mu mushike"
+        }
+    }
+]

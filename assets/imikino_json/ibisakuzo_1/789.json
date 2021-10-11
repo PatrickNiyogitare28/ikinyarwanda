@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 108
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Umugore utwite",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Inkingi",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Uruhinja",
+            "option_3": "Imodoka",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zenguruka duhure",
+            "option_1": "Umutsima",
+            "option_2": "Umukandara",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Radiyo",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Ifaranga",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Igare",
+            "option_3": "Ifaranga",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ni iki cyatanze umuzungu kwicara mu ifuteyi",
+            "option_1": "Isakamburira ry'inzu",
+            "option_2": "Imbaragasa",
+            "option_3": "Ikiringiti",
+            "option_4": "Amabya",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze ku ruhiza nyara i Buriza nti Bahinzi nimuhingure",
+            "option_1": "Ururabo",
+            "option_2": "Ifaranga",
+            "option_3": "Icyumweru",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Icyumweru"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kana kanjye ngwino nguhe impamba",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Sida",
+            "option_3": "Igitoki",
+            "option_4": "Umunyeshuri",
+            "correct_answer": "Umunyeshuri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabugenge n'ubugenge bwayo",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Umugono w'ishashi",
+            "option_3": "Umusuzi",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Inzoka mu kugenda nta maguru"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inka yanjye nyikama igenda",
+            "option_1": "Icyobo",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Kubuza umuryi kurya",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Uruyuzi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 358
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera Rutumba ruturitse rutare rw'iyapfuye ejo",
+            "option_1": "Umwironge",
+            "option_2": "Isekurume y'intama",
+            "option_3": "Ikigorigori",
+            "option_4": "Amata n'umutsima",
+            "correct_answer": "Isekurume y'intama"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akaguru k'umuringa n'akaboko k'umuringa byaterana byabyara umuyumbu",
+            "option_1": "Umwijima",
+            "option_2": "Urusenge",
+            "option_3": "Igihondohondo",
+            "option_4": "Agafuni mu mushike",
+            "correct_answer": "Igihondohondo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite abana nkabasiga nkabanogereza  nkabasubiza mu nda",
+            "option_1": "Inkono n'urweso",
+            "option_2": "Igikona\n \nbikumburanye bibana",
+            "option_3": "Imyambi mu murana",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Imyambi mu murana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Igiti gishigukanye n'imizi yacyo",
+            "option_2": "Akatsi ko ku nzu",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Agafundi",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mbonye umusore w'i Gisaka asomera igisate cy'umutsima",
+            "option_1": "Umurabyo",
+            "option_2": "Urukwavu",
+            "option_3": "Umwumano w'ishashi",
+            "option_4": "Agahwa mu rwondo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyiramukuru umuturirwa",
+            "option_1": "Ibuye ryica isuka irindi rikayigorora",
+            "option_2": "Umucundura",
+            "option_3": "Inshunzi z'amata mu cyansi",
+            "option_4": "Inkoko",
+            "correct_answer": "Umucundura"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Naba aha nakugeta",
+            "option_1": "Imbaragasa",
+            "option_2": "Intebe",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera Rukara aho igaramya mu bitare bya Mashyiga",
+            "option_1": "Uburo",
+            "option_2": "Umugezi",
+            "option_3": "Uruhu rw'imbwa",
+            "option_4": "Urukumbi mu menyo",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Ingingi z'amasaka",
+            "option_2": "Ingata mu ruhira",
+            "option_3": "Imvi zikuye umusatsi w'ubuto",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirabambari yambaye impu munani",
+            "option_1": "Amashyiga",
+            "option_2": "Ikigori",
+            "option_3": "Ikiyiko ku mbehe",
+            "option_4": "Ikigoli",
+            "correct_answer": "Ikigoli"
+        }
+    }
+]

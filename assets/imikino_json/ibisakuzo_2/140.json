@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 115
+    },
+    {
+        "sakwe_1": {
+            "question": "Nasanze nyamunsi yasa inkwi munsi y'inzira",
+            "option_1": "Uturaso ku murundi",
+            "option_2": "Inzogera",
+            "option_3": "Inyamanza",
+            "option_4": "Irobe n'umutsima",
+            "correct_answer": "Inyamanza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyabukongoro yamaze inka i Murera",
+            "option_1": "Isuka",
+            "option_2": "Umwambi",
+            "option_3": "Imvura ku iteke",
+            "option_4": "Uruhabuzo",
+            "correct_answer": "Uruhabuzo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ikibyoya ikibyanwa mu mpinga ya Bwanacyambwe",
+            "option_1": "Umunyinya",
+            "option_2": "Umugore utwite",
+            "option_3": "Kudashobora kurongora mushiki wawe",
+            "option_4": "Icyugu mu nshoce",
+            "correct_answer": "Icyugu mu nshoce"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkuruye urusuri ishyamba rirahungabana",
+            "option_1": "Ibiryo ku mbebe",
+            "option_2": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_3": "Ugutwi kw'imbeba",
+            "option_4": "Inzara y'umusore; ijambo ry'umwami",
+            "correct_answer": "Inzara y'umusore; ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imikorere ya Nyiranzana nagize ngo ibiryo bye ntibizaribwa none ndatora n'urwo hasi",
+            "option_1": "Inzara",
+            "option_2": "Inzuki n'ubuki",
+            "option_3": "Uruboho",
+            "option_4": "Isogo n'inyabutongo",
+            "correct_answer": "Inzuki n'ubuki"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera ingingo ikeba amazi",
+            "option_1": "Inda muruhara",
+            "option_2": "Uruho",
+            "option_3": "Uburo",
+            "option_4": "Umwana uri munda ya nyina",
+            "correct_answer": "Uruho"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bisa bidasa ururo n'urumanfu",
+            "option_1": "Amasaka n'urukungu",
+            "option_2": "Umuyaga",
+            "option_3": "Ikigore cy'ikiva mu nzu",
+            "option_4": "Igi ry'inkoko",
+            "correct_answer": "Amasaka n'urukungu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Data aranyishe data wacu arankiza",
+            "option_1": "Umutozo",
+            "option_2": "Ururimi",
+            "option_3": "Agahinda mu murima",
+            "option_4": "Ibuye ryica isuka irindi rikayigorora",
+            "correct_answer": "Ibuye ryica isuka irindi rikayigorora"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kivuye i Nduga kiririmba",
+            "option_1": "Inda muruhara",
+            "option_2": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_3": "Ikirizo cy'intama",
+            "option_4": "Imbaragasa mu kirenge",
+            "correct_answer": "Ikirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyabugenge n'ubugenge bwayo",
+            "option_1": "Uruboho",
+            "option_2": "Agafundi",
+            "option_3": "Mu murima w'inkoko",
+            "option_4": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "correct_answer": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 19
+    },
+    {
+        "sakwe_1": {
+            "question": "Dore isoko idakama amazi",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Amarira mu maso",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Urwina",
+            "correct_answer": "Amarira mu maso"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirandarindari",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Imvura",
+            "option_3": "Ibitotsi",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Igisenge",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Amase y'inka",
+            "option_2": "Sida",
+            "option_3": "Telefoni",
+            "option_4": "Inyama",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hepfo aha hanyuze akabindi gasenze amatito",
+            "option_1": "Umugore utwite",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Ikiyoni",
+            "option_4": "Imbunda",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aka kariza so",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Ishapure n'amasengesho",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ruvudukana imbaraga, rukavumera rutagira amahembe",
+            "option_1": "Umubagazi",
+            "option_2": "Agacaca",
+            "option_3": "Ingoto y'umugabo",
+            "option_4": "Imodoka",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nubatse urugo hejuru y'urupfu",
+            "option_1": "Ubwato hejuru y'ikiyaga",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Ubwoya bw' inka",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Ubwato hejuru y'ikiyaga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Umugore utwite",
+            "option_2": "Ikigori",
+            "option_3": "Gusitara",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana b'abarundi barasana bakiri bato",
+            "option_1": "Umusuzi",
+            "option_2": "Umuheto",
+            "option_3": "Ifurwe",
+            "option_4": "Urupfu",
+            "correct_answer": "Ifurwe"
+        }
+    }
+]

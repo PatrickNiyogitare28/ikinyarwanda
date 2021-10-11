@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 433
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite inkwi zanjye zumye, ariko nazicana ntizake",
+            "option_1": "Ifaranga",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Ishuri",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akababaje umugabo kamurenza impinga",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Ifaranga",
+            "option_3": "Ikaramu",
+            "option_4": "Ijwi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Ivunja mu kirenge",
+            "option_2": "Amashaza",
+            "option_3": "Ibaruwa",
+            "option_4": "Ibikongorwa by'ibisheke",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Kukwanduza sida",
+            "option_2": "Telefoni",
+            "option_3": "Umukobwa ubonye iwabo hashya",
+            "option_4": "Inopfu",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hepfo ngo pi, hirya ngo pi",
+            "option_1": "Igisenge",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Imvura",
+            "option_4": "Uruzi",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Igikoro",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Imbeho ku rugi",
+            "option_4": "Urupfu",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nkubise umupira ugera i Ngozi",
+            "option_1": "Ibaruwa",
+            "option_2": "Imvura",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Inuma ku rukoma",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ibuye ry'umusozi ryimuye umugabo",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Amase y'inka",
+            "option_3": "Ifaranga",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Ukwezi",
+            "option_2": "Firigo",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Abavomyi",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Ikawa",
+            "option_3": "Ifaranga",
+            "option_4": "Agasongero k'inzu",
+            "correct_answer": "Ikawa"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 18
+    },
+    {
+        "sakwe_1": {
+            "question": "Kirabyataraye ku ntebe y'ikinyarwanda",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Ifaranga",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Izuba",
+            "correct_answer": "Ikibya cy'umusaza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho ndaye n'aho ngeze mpasiga umwanda",
+            "option_1": "Amase y'inka",
+            "option_2": "Inkware",
+            "option_3": "Ibitotsi",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Amase y'inka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagenze henshi mbura incuti",
+            "option_1": "Ibitotsi",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Urupfu",
+            "option_4": "Umusatsi ku mutwe",
+            "correct_answer": "Urupfu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Ifaranga",
+            "option_2": "Agasuzi",
+            "option_3": "Uruhinja",
+            "option_4": "Ifaranga",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akabaje umugabo kamurenza impinge",
+            "option_1": "Ifaranga",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Ikirago",
+            "option_4": "Amata",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ikiyoni",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ibishokoro",
+            "option_3": "Isoko",
+            "option_4": "Intore mu rwabya",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze ku rutare mpamagara Majigo nti amata y'abashumba yabuze",
+            "option_1": "Umugore ujya iwabo",
+            "option_2": "Umugono w'ishashi",
+            "option_3": "Inzoka mu kugenda nta maguru",
+            "option_4": "Igihaza",
+            "correct_answer": "Umugono w'ishashi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Umugina mu rufunzo",
+            "option_2": "Umugore ujya iwabo",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Tuvuye mo umwe ntitwarya",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Amashyiga (y'inyuma)",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Amashyiga (y'inyuma)"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 539
+    },
+    {
+        "sakwe_1": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Ivunja mu kirenge",
+            "option_2": "Inyundo",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Akanyoni yaritse ku nzira",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dusetse tuzanduranya",
+            "option_1": "Gusitara",
+            "option_2": "Ifaranga",
+            "option_3": "Umuporisi",
+            "option_4": "Amata",
+            "correct_answer": "Umuporisi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Icyanzu cyanjye ngicamo nkafunga",
+            "option_1": "Ifaranga",
+            "option_2": "Indumane",
+            "option_3": "Akayunguruzo",
+            "option_4": "Ifaranga ku meza",
+            "correct_answer": "Indumane"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Agatonyanga k'imvura",
+            "option_2": "Akayuzi mu rubibi",
+            "option_3": "Imana",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Urusenda",
+            "option_2": "Ibikongorwa by'ibisheke",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite inka yimira mu ibondo ikabyarira mu rubavu",
+            "option_1": "Ifaranga",
+            "option_2": "Ikigori",
+            "option_3": "Ururimi",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Ikaramu",
+            "option_2": "Ubunyereri",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akayuriyuri kwa Ntibazirikana inshuti y'urupfu",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Ikirungurira",
+            "option_3": "Imbwa mu masinde",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Inopho",
+            "option_2": "Amaguru y'inkware",
+            "option_3": "Amabya",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Faraziya aceza yicaye",
+            "option_1": "Ubwatsi busakaye inzu",
+            "option_2": "Akayunguruzo",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Kaburimbo",
+            "correct_answer": "Akayunguruzo"
+        }
+    }
+]

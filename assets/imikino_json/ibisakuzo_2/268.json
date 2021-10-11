@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 430
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyamurenga i Buzi",
+            "option_1": "Isake; impanda",
+            "option_2": "Ibyiyone",
+            "option_3": "Ubwato mu ruzi",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Isake; impanda"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nirirwa ntambuka bukira nkibatambuka",
+            "option_1": "Imiyenzi",
+            "option_2": "Umwijima",
+            "option_3": "Umutumba",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Umutumba"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inka zanjye zaragiye zirarima zirarimagura",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Inda mu nnyo",
+            "option_3": "Imyotsi",
+            "option_4": "Igishirira kiguye mu mazi ashyushye",
+            "correct_answer": "Inda mu nnyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hakurya hena, hakuno hena",
+            "option_1": "Abagore babagara",
+            "option_2": "Imigeri",
+            "option_3": "Imvi zikuye umusatsi w'ubuto",
+            "option_4": "Amata n'umutsima",
+            "correct_answer": "Abagore babagara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "So na data bava inda imwe batanyijwe n'iki?",
+            "option_1": "Ishoka mu rukwi",
+            "option_2": "Umugengararo w'amasaka",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Wavuka wari waterera cya Mahangire",
+            "option_1": "Umurunga",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Umuriro",
+            "option_4": "Ingoma",
+            "correct_answer": "Umurunga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Urambaze wampaye iki?",
+            "option_1": "Uruboho",
+            "option_2": "Umugozi w'ibijumba",
+            "option_3": "Ikirenge",
+            "option_4": "Icyugu",
+            "correct_answer": "Umugozi w'ibijumba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngira inka ikarisha mu Rwanda rwose",
+            "option_1": "Inzara mu bana",
+            "option_2": "Ijisho",
+            "option_3": "Insina",
+            "option_4": "Icyiyoni mu isoko",
+            "correct_answer": "Ijisho"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Sebihu sogokuru",
+            "option_1": "Amazi ku rukangara",
+            "option_2": "Ikibuguzo, igisoro",
+            "option_3": "Insina y'ikinyangurube",
+            "option_4": "Igihuna",
+            "correct_answer": "Igihuna"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Makasi ihuye n'indi",
+            "option_1": "Ibuye n'umutarimba",
+            "option_2": "Ikinyabwoya; uruyongoyongo",
+            "option_3": "Igicuma bacuncumura",
+            "option_4": "Akagori",
+            "correct_answer": "Ibuye n'umutarimba"
+        }
+    }
+]

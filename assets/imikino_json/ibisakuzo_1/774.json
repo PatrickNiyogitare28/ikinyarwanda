@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 623
+    },
+    {
+        "sakwe_1": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Ibitotsi",
+            "option_3": "Akanyana mu nda ya nyina",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Gusitara",
+            "option_3": "Umusazi",
+            "option_4": "Icyumweru",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Dombidori",
+            "option_1": "Intore mu rwabya",
+            "option_2": "Uruhara rw'umusaza",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Intore mu rwabya"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Ibigori",
+            "option_2": "Inzoga m'umuheha (umukenke)",
+            "option_3": "Umugore utwite",
+            "option_4": "Urutare",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Aho Mutara na Mutaga barwaniye ntiharamera utwatsi",
+            "option_1": "Agatsinsino",
+            "option_2": "Ijambo rya perezida",
+            "option_3": "Ibirundiro",
+            "option_4": "Umuntu",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Ubuto bwa so na nyoko",
+            "option_3": "Ibaruwa",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Ubuto bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Icwende ryanjye rimbaye kure mba ngukoreyemo",
+            "option_1": "Ukwezi",
+            "option_2": "Urupfu",
+            "option_3": "Corogati",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Igicucucucu",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Amabya",
+            "option_4": "Ibigori",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ko So na Nyoko bameze uruhara, inzoga z'I Bwami zizikorera nde",
+            "option_1": "Ubwoya bw' inka",
+            "option_2": "Isoko",
+            "option_3": "Igihaza",
+            "option_4": "Intore mu rwabya",
+            "correct_answer": "Igihaza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Inopho",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Amabere",
+            "option_4": "Amagambo yo ku rurembo",
+            "correct_answer": "Amabere"
+        }
+    }
+]

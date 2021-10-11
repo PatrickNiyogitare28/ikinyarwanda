@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 677
+    },
+    {
+        "sakwe_1": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Imana",
+            "option_2": "Corogati",
+            "option_3": "Agacaca",
+            "option_4": "Igikoro",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite inka yimira mu ibondo ikabyarira mu rubavu",
+            "option_1": "Imisozi",
+            "option_2": "Ikigori",
+            "option_3": "Insina; amateke",
+            "option_4": "Umuyaga mu muyange",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Umuneke",
+            "option_2": "Umukecuru wataye ikijigo cye",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Urwembe mu musatsi",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagare",
+            "option_1": "Ibitotsi",
+            "option_2": "Gusitara",
+            "option_3": "Ikigori",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Ibaruwa",
+            "option_3": "Umutsima",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Ifaranga",
+            "option_2": "Umukecuru wurira ikigega",
+            "option_3": "Igitiritiri",
+            "option_4": "Ivu",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karakurizaga karakurutaga wa duri we?",
+            "option_1": "Umusatsi ku mutwe",
+            "option_2": "Urupfu",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Ingoto y'umugabo",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati parararara, kati pa",
+            "option_1": "Umugore utwite",
+            "option_2": "Ifaranga",
+            "option_3": "Ifaranga ku meza",
+            "option_4": "Ibirago",
+            "correct_answer": "Ifaranga ku meza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Ururabo",
+            "option_2": "Inzara n'inyota",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Igare",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Ukwezi",
+            "option_2": "Ingasire",
+            "option_3": "Umwijima n'urumuri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ingasire"
+        }
+    }
+]

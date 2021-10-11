@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 133
+    },
+    {
+        "sakwe_1": {
+            "question": "Akamarimari kamanutse i Burayi kaje kamara abantu",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Ifaranga",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Icyanzu",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngeze mu ishyamba rirahungabana",
+            "option_1": "Icyumweru",
+            "option_2": "Ibaruwa",
+            "option_3": "Inzara y'umusore",
+            "option_4": "Agasongero k'inzu",
+            "correct_answer": "Inzara y'umusore"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagenze amahanga, Simbona igiti gikora idosiye",
+            "option_1": "Imana",
+            "option_2": "Ikaramu",
+            "option_3": "Ijwi",
+            "option_4": "Imbunda",
+            "correct_answer": "Ikaramu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera amazi atemba ajya ruguru",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Inzoga mu muheha",
+            "option_3": "Umuvuba",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Inzoga mu muheha"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Ubunyobwa",
+            "option_2": "Imbwa ishumitse",
+            "option_3": "Ibaruwa",
+            "option_4": "Inyundo",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ntuye heza njye ngira Imana",
+            "option_1": "Ifaranga",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Igare",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Umugina wo mu gishanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndakubise ndirahira nijye mutware wa Mburamatare",
+            "option_1": "Isakamburira ry'inzu",
+            "option_2": "Gusitara",
+            "option_3": "Inyoni",
+            "option_4": "Imisozi",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Ifaranga",
+            "option_2": "Amashyiga (y'inyuma)",
+            "option_3": "Kaburimbo",
+            "option_4": "Indogobe ishaje",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Amabya",
+            "option_2": "Akayuzi mu rubibi",
+            "option_3": "Inzara n'inyota",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hunga gahinda ataguca umurundi",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Inzoka",
+            "option_3": "Amano y'umuntu",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Inzoka"
+        }
+    }
+]

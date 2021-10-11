@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 403
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya duuuuuu, hakuno duuuuuu",
+            "option_1": "Inopho",
+            "option_2": "Ibiradiyo biteganye",
+            "option_3": "Igitoki",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ibiradiyo biteganye"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ibikongorwa by'ibisheke",
+            "option_2": "Intoki ku biganza",
+            "option_3": "Ifaranga",
+            "option_4": "Inyegamo y'umusore warongoye",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kana kanjye ngwino nguhe impamba",
+            "option_1": "Umunyeshuri",
+            "option_2": "Isakamburira ry'inzu",
+            "option_3": "Igikoro",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umunyeshuri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Akamarimari kamanutse i Burayi kaje kamara abantu",
+            "option_1": "Ifaranga",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Umukecuru wurira ikigega",
+            "option_4": "Ibirago",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Ikiyoni",
+            "option_2": "Isakamburira ry'inzu",
+            "option_3": "Gusitara",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Akanyamasyo",
+            "option_2": "Ikiyoni",
+            "option_3": "Umuneke",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nciye inkanda mpirika n'inkingi",
+            "option_1": "Urukoma n'insina",
+            "option_2": "Ikibuno",
+            "option_3": "Umusuzi",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Urukoma n'insina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Cyasamye kitaryana",
+            "option_1": "Umuheto",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ikiryango cy'inzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mutumbagira wa Rujugira",
+            "option_1": "Gusitara",
+            "option_2": "Urutare",
+            "option_3": "Umwumba w'insina",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Umwumba w'insina"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Amata",
+            "option_3": "Kaburimbo",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Amata"
+        }
+    }
+]

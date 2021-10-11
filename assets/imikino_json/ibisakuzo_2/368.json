@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 134
+    },
+    {
+        "sakwe_1": {
+            "question": "Ishyamba ritanze umwezi",
+            "option_1": "Ibarizo ry'ingoma",
+            "option_2": "Igitoki n'amakoma yacyo",
+            "option_3": "Umuhazi ugwanye umuguta",
+            "option_4": "Ingoma",
+            "correct_answer": "Ibarizo ry'ingoma"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bicinyigiri bya Bikangaga Bikondo byacuzwe n'abantu",
+            "option_1": "Inzoga",
+            "option_2": "Urubumbiro; itongo",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Ibirago",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Cyagize amenyo cyabamaze",
+            "option_1": "Uruhabuzo",
+            "option_2": "Imbaragasa",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Nyankari",
+            "correct_answer": "Nyankari"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bihubyumye arenze urugo",
+            "option_1": "Ifuni mu mushike",
+            "option_2": "Igitonyanga",
+            "option_3": "Igikona\n \nbikumburanye bibana",
+            "option_4": "Urukwavu",
+            "correct_answer": "Igikona\n \nbikumburanye bibana"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Imbwa mu masinde, amarira y'imbwa",
+            "option_2": "Ikidasesa",
+            "option_3": "Umusigati",
+            "option_4": "Umwisheshe",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nteye ijuru umusonga",
+            "option_1": "Umwumba w'urukoma",
+            "option_2": "Inkwana z'amateke",
+            "option_3": "Agasongero",
+            "option_4": "Amahundo",
+            "correct_answer": "Agasongero"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiranshoreke",
+            "option_1": "Akabuno k'imfizi",
+            "option_2": "Umusore",
+            "option_3": "Agacuma",
+            "option_4": "Umutsi mu nda",
+            "correct_answer": "Agacuma"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rutubya amarobe rutubura amabondo umusonga wa rugadika",
+            "option_1": "Ikirungurira",
+            "option_2": "Umusore",
+            "option_3": "Umusigati",
+            "option_4": "Agacebe k'intama",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mu kwidumbura wari mwene Nyakwidumbura",
+            "option_1": "Ubukumi bwa so na nyoko",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Amahindu mu mateke",
+            "option_4": "Inkota mu bitugu",
+            "correct_answer": "Inkota mu bitugu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho wabereye wari waterara Muhangiro ?",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Umusemburo",
+            "option_3": "Ikirunga",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Ikirunga"
+        }
+    }
+]

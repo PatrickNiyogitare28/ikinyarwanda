@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 725
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye barara bahagaze bakirirwa bahagaze",
+            "option_1": "Ibigori",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Inkingi",
+            "option_4": "Amazi",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Umusazi",
+            "option_3": "Urupfu",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Corogati",
+            "option_2": "Ikawa",
+            "option_3": "Ifaranga",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karihuta",
+            "option_1": "Igare",
+            "option_2": "Imodoka yabuze lisansi",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Impeke y'uburo",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akamarimari kamanutse i Burayi kaje kamara abantu",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Ivu",
+            "option_3": "Ifaranga",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ujya kurasa inkuba arabandarara",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Umwarimu",
+            "option_3": "Televiziyo",
+            "option_4": "Kwatsa mu ziko",
+            "correct_answer": "Kwatsa mu ziko"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Insina",
+            "option_3": "Imanzi mu maribori",
+            "option_4": "Igisheke",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Baragata bakagatanaga ubwiza bwako",
+            "option_1": "Umugore utwite",
+            "option_2": "Igisate cy'umutsima",
+            "option_3": "Ibiradiyo biteganye",
+            "option_4": "Igitiritiri",
+            "correct_answer": "Igitiritiri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karadundaraye",
+            "option_1": "Ibiradiyo biteganye",
+            "option_2": "Akabyindi k'umushumba",
+            "option_3": "Imisozi",
+            "option_4": "Inzoga mu muheha",
+            "correct_answer": "Akabyindi k'umushumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Byumve uhore",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Ikigori",
+            "option_3": "Ururabo rw'ikawa",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Umusuzi wa so"
+        }
+    }
+]

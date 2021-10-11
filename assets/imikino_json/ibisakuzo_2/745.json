@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 584
+    },
+    {
+        "sakwe_1": {
+            "question": "Tamba nyoko aratetse",
+            "option_1": "Umuyenzi",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Inkono yuzuye ibiryo",
+            "correct_answer": "Inkono yuzuye ibiryo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umwana w'umwami yaruka wanywa",
+            "option_1": "Mu murima w'inkoko",
+            "option_2": "Igisabo",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ndara mpinga bugacya",
+            "option_1": "Agahinda k'umutima",
+            "option_2": "Ikigori",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Agahinda ku mutima",
+            "correct_answer": "Agahinda ku mutima"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze mu gahinga mbona Rusengo mu maraka",
+            "option_1": "Udukongorwa tw'imisigati",
+            "option_2": "Inkono itogota",
+            "option_3": "Ivubi; uruyuki",
+            "option_4": "Umugozi w'ibijumba",
+            "correct_answer": "Inkono itogota"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite ibiti imizi yabyo yakuze ijya hejuru, amashami yabyo areba hasi",
+            "option_1": "Ubwanwa",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Mihigo",
+            "option_4": "Agacurama",
+            "correct_answer": "Ubwanwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nabusobeka ntiwabusobanura",
+            "option_1": "Ibisya by'umutwakazi",
+            "option_2": "Amata n'amatezano; mukungwa na nyabarongo",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Akayuzi hejuru y'urupfu",
+            "correct_answer": "Amata n'amatezano; mukungwa na nyabarongo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Yatangiye kubaho ari umwe kugeza n'ubu akiriho Ari umwe",
+            "option_1": "Umusoro",
+            "option_2": "Umuce wo mu irebe",
+            "option_3": "Agatsinsino k'uruhinja",
+            "option_4": "Urupfu",
+            "correct_answer": "Urupfu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Data aranyishe data wacu arankiza",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Ubwanwa",
+            "option_3": "Ibuye ryica isuka irindi rikayigorora",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Ibuye ryica isuka irindi rikayigorora"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngira inka nkayibagira hagati y'imisozi itatu",
+            "option_1": "Inda",
+            "option_2": "Igitabo cy'umusoro",
+            "option_3": "Agahundo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inda"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirabumpurimpuri arabyina haruguru aho",
+            "option_1": "Ikibyindi",
+            "option_2": "Amaso",
+            "option_3": "Umwijima",
+            "option_4": "Izo ngohe zawe",
+            "correct_answer": "Izo ngohe zawe"
+        }
+    }
+]

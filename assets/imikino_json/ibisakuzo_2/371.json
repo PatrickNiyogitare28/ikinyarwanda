@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 235
+    },
+    {
+        "sakwe_1": {
+            "question": "Ziramuje mu Nyarubande",
+            "option_1": "Urubwija",
+            "option_2": "Intebe",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Igi ry'inkoko",
+            "correct_answer": "Intuku z'amasaka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ca bugufi baragosora",
+            "option_1": "Mahina",
+            "option_2": "Ifundi mu murama",
+            "option_3": "Urutare",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Ifundi mu murama"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyamurenga na Nyiragongo bashinze akaburi",
+            "option_1": "Inturo mu muvumo",
+            "option_2": "Umusigati",
+            "option_3": "Icyagumbwa (inopfu)",
+            "option_4": "Inuma mu ntabire",
+            "correct_answer": "Inuma mu ntabire"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirampirima umwami w'i Ndorwa",
+            "option_1": "Igisabo",
+            "option_2": "Ikigori",
+            "option_3": "Indarama",
+            "option_4": "Imodoka",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kashira amanga karakanyagwa",
+            "option_1": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_2": "Imiduha",
+            "option_3": "Igitabo cy'umusoro",
+            "option_4": "Hobe!\"",
+            "correct_answer": "Agacumu kica inkurikirane; akobo kavuna umubyeyi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera rwa kimanuka rutaribwa n'imbeba",
+            "option_1": "Inzogera",
+            "option_2": "Inshunzi z'amata mu cyansi",
+            "option_3": "Ibihu, inzuki",
+            "option_4": "Imigeri",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nkubise urutare mbona imyase",
+            "option_1": "Igitsina cy'amateke",
+            "option_2": "Inkuba",
+            "option_3": "Ingabo y'ubuki",
+            "option_4": "Ibibonobono",
+            "correct_answer": "Inkuba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nabyaye umwana, ariko mubandi bana niwe mpora njya guta",
+            "option_1": "Ibishyinga",
+            "option_2": "Umusatsi",
+            "option_3": "Agacuma",
+            "option_4": "Icyobo",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kabandabanda mu murima wa Marara",
+            "option_1": "Imbwa",
+            "option_2": "Umukobwa ureba agacumu kishe musaza we",
+            "option_3": "Agahanga k'ifumberi",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Imbwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngira abana bagaturana ntibaramukanye",
+            "option_1": "Umuyaga",
+            "option_2": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Umwana w'ifundi",
+            "correct_answer": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango"
+        }
+    }
+]

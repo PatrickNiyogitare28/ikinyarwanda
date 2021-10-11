@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 628
+    },
+    {
+        "sakwe_1": {
+            "question": "Banga ingata mbange indi tujye kwikorera ka kaguru ka Dondi i Budaha",
+            "option_1": "Ukuguru kw'imbaragasa",
+            "option_2": "Igihumyo; umwobo",
+            "option_3": "Ikigori",
+            "option_4": "Ikiganza",
+            "correct_answer": "Ukuguru kw'imbaragasa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Katunga ijuru",
+            "option_1": "Agahundo",
+            "option_2": "Akanyita k'uruhu",
+            "option_3": "Intorezo n'irago",
+            "option_4": "Amazi mu muheha",
+            "correct_answer": "Agahundo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Negetse umuzinga ku ngoma ya Gahindiro n'ubu nturinjira",
+            "option_1": "Umuvumbuko w'intare",
+            "option_2": "Ibiganza",
+            "option_3": "Umugina, inzira",
+            "option_4": "Imyenge y'amazuru",
+            "correct_answer": "Imyenge y'amazuru"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umugabo urimbana impuzu mu mpinga ya Gihubuke",
+            "option_1": "Umuganda",
+            "option_2": "Akana kavutse kadashyitse",
+            "option_3": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igitabo cya Mutara ntawutagishengera",
+            "option_1": "Inkari z'inkoko",
+            "option_2": "Ikibuguzo, igisoro",
+            "option_3": "Mahina",
+            "option_4": "Imizi y'urutare",
+            "correct_answer": "Ikibuguzo, igisoro"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze ku manga Imana ibaza impa",
+            "option_1": "Intete y'ururo",
+            "option_2": "Isuri",
+            "option_3": "Umugore utwite",
+            "option_4": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mu rugo rw'imiseke hagati Nyamagana",
+            "option_1": "Kudashobora kurongora mushiki wawe",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Umusambi",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Katurutse i Bujinja",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Agatsinsino k'uruhinja",
+            "option_3": "Uruhindu rw'indushyi",
+            "option_4": "Umuce wo mu irebe",
+            "correct_answer": "Agatsinsino k'uruhinja"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inyumba isakaje inyuma",
+            "option_1": "Ingwe",
+            "option_2": "Uruyuki",
+            "option_3": "Ikinyogote",
+            "option_4": "Agasuzi",
+            "correct_answer": "Ikinyogote"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngira inka nkayikamira mu rubavu",
+            "option_1": "Umusirikare",
+            "option_2": "Ifuni mu mushike",
+            "option_3": "Ikigoli",
+            "option_4": "Amarira y'imbwa",
+            "correct_answer": "Ikigoli"
+        }
+    }
+]

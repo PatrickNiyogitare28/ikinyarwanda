@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 8
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ikintu cyo mbaza",
+            "answer": "Ikintu mbaza"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Murumuna, mukuru wa data",
+            "answer": "Data wacu"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Gutangira gusya",
+            "answer": "Kwanzika"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Aho umwami yabonaniraga n'abaturage",
+            "answer": "Ku karubanda"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Kurangiza koza icyansi",
+            "answer": "Guhumuza"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Kumena amata utabishatse",
+            "answer": "Kuyabogora"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Musaza wa mama",
+            "answer": "Marume"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Umwana wa nyirarume, nyirasenge w'umuntu",
+            "answer": "Umubyara, mubyara wa…"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Amata bavanze n'amazi",
+            "answer": "Umwerera"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Ibuye bakomesha urusyo",
+            "answer": "Intosho"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Igicuma bashyiramo amata",
+            "answer": "Icyansi"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Irembo ryo mu gikari",
+            "answer": "Icyanzu"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Ay'abashumba",
+            "answer": "Imyezo"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Kudonda urusyo",
+            "answer": "Gukoma urusyo"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Kuyasuka mu gisabo",
+            "answer": "Kuyabuganiza"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Ay'ikivuguto kitavuruze",
+            "answer": "Amenda"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Uduta",
+            "answer": "Amata"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Igitandukanya icyumba n'ikindi mu nzu ya kinyarwanda",
+            "answer": "Inyegamo"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Nyina w'umugabo, umugore wange",
+            "answer": "Mabukwe"
+        }
+    }
+]

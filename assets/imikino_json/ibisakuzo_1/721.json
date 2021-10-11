@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 418
+    },
+    {
+        "sakwe_1": {
+            "question": "Mama arusha nyoko kwambarira ubukwe",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Akabyindi k'umushumba",
+            "option_3": "Ikigori",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nicaye iwacu murika isi",
+            "option_1": "Ibirundiro",
+            "option_2": "Izuba",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Umuvure",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Ijambo rya perezida",
+            "option_2": "Agasuzi",
+            "option_3": "Igikoro",
+            "option_4": "Ifundi mu mamera",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Iyo umugabo ageze mu rutopki abanza iki?",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ikivugirizo",
+            "option_3": "Urupfu",
+            "option_4": "Umugezi",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Umuzungu atwara imodoka umusatsi uri hanze",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Agahinda k'umutima",
+            "option_3": "Akanyana mu nda ya nyina",
+            "option_4": "Ikigori",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aho Mutara na Mutaga barasaniraga hacitse ubikuba",
+            "option_1": "Isusa",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Urwogerezo",
+            "option_4": "Ikaziya ya primus",
+            "correct_answer": "Urwogerezo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ca bugufi uce nyokobukwe indiba y'innyo",
+            "option_1": "Amenyo",
+            "option_2": "Ubunyobwa",
+            "option_3": "Inyenyeri",
+            "option_4": "Igikoro, igihaza",
+            "correct_answer": "Igikoro, igihaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karibarangura ku rutare",
+            "option_1": "Amabya",
+            "option_2": "Agacaca",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Ikawa",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nahinze mu mpinga nsarura mu gapfunsi",
+            "option_1": "Umusatsi",
+            "option_2": "Isahani yaguye ingese",
+            "option_3": "Agakecuru kocyejwe n'igikoma",
+            "option_4": "Inopho",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Ivunja mu kirenge",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Ifurwe",
+            "correct_answer": "Imirya y'inanga"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 270
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndara mpinga bugacya",
+            "option_1": "Urukwavu",
+            "option_2": "Umutozo",
+            "option_3": "Inturo mu rutare",
+            "option_4": "Agahinda ku mutima",
+            "correct_answer": "Agahinda ku mutima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kati \"papari\" kati \"pa\", mukuru wayo iti mpore",
+            "option_1": "Urume ku musororo",
+            "option_2": "Ubwato mu ruzi",
+            "option_3": "Akuho mu ntango",
+            "option_4": "Umusoro",
+            "correct_answer": "Akuho mu ntango"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nabusobeka ntiwabusobanura",
+            "option_1": "Agahinzi kamwe mu murima",
+            "option_2": "Ibihu, inzuki",
+            "option_3": "Amata n'amatezano; mukungwa na nyabarongo",
+            "option_4": "Inda mu nnyo",
+            "correct_answer": "Amata n'amatezano; mukungwa na nyabarongo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rwigira inturike",
+            "option_1": "Urujyo ku nkoko",
+            "option_2": "Umuvuba",
+            "option_3": "Intumbi y'ihene",
+            "option_4": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "correct_answer": "Intumbi y'ihene"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Sogokuru Sebarame yapfuye apfuna ivu",
+            "option_1": "Imivuba; inkono y'itabi",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Inzara yica umusore",
+            "option_4": "Ikigega",
+            "correct_answer": "Imivuba; inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Wacana mu ruzi umuriro ukaka?",
+            "option_1": "Radiyo",
+            "option_2": "Impatwe z'umusaza",
+            "option_3": "Uruyuzi",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nahurenye inko nyinshi ncyurana imwe gusa",
+            "option_1": "Umusigati",
+            "option_2": "Inuma mu kigega",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Akayuki k'akungu",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ndi Rutebuka kw'iteme ndi Rutebuka ku iteke nti \"mbe mwiriwe Rezida !\"",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Umuyaga",
+            "option_3": "Urukwavu",
+            "option_4": "Umwangange",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kaniginigi kaniga amazi karota he?",
+            "option_1": "Ibirago",
+            "option_2": "Amaguru yanjye n'ayawe",
+            "option_3": "Inturo mu muvumo",
+            "option_4": "Agashwi k'inkoko",
+            "correct_answer": "Agashwi k'inkoko"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata kagina tuyirase",
+            "option_1": "Agahwa mu rwondo",
+            "option_2": "Akato mu kiyaga",
+            "option_3": "Urugo",
+            "option_4": "Amaganga y'isha",
+            "correct_answer": "Urugo"
+        }
+    }
+]

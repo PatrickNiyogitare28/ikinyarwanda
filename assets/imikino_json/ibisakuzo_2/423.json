@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 255
+    },
+    {
+        "sakwe_1": {
+            "question": "Imisozi irahiye hasigaye rukumbi rwa Shaza",
+            "option_1": "Uburo ku rugo",
+            "option_2": "Amashyiga",
+            "option_3": "Umugina, inzira",
+            "option_4": "Ikirondwe",
+            "correct_answer": "Umugina, inzira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nakunombanomba nagukatakata ni ingabo yanjye rukatiriza",
+            "option_1": "Agakatsi ku butanda",
+            "option_2": "Uruyuki",
+            "option_3": "Imana",
+            "option_4": "Umuheto",
+            "correct_answer": "Agakatsi ku butanda"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Wanzitse mu ruzi ndasya",
+            "option_1": "Igihandure",
+            "option_2": "Inyundo z'abacuzi",
+            "option_3": "Umucaca",
+            "option_4": "Urusenge",
+            "correct_answer": "Urusenge"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ako nateye i Mwonga ntikaravayo",
+            "option_1": "Igikongorwa",
+            "option_2": "Igishirira kiguye mu mazi ashyushye",
+            "option_3": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_4": "Amazi y'inyama",
+            "correct_answer": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Umusigati",
+            "option_2": "Ishyiga ry'inyuma",
+            "option_3": "Ibibonobono",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Minyaruko aranyarutse  Ruganzu ati \"ndindira aho\"",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Igikona n'umutsima",
+            "option_4": "Akayuki k'akungu",
+            "correct_answer": "Igikona n'umutsima"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Fata sogokuru atagwa mu ruzi",
+            "option_1": "Imvi zikuye umusatsi w'ubuto",
+            "option_2": "K'umutima w'undi",
+            "option_3": "Agahwa m'urwondo",
+            "option_4": "Umucaca",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nabyaye abakobwa benshi umubi muri bo abatanga gusabwa",
+            "option_1": "Ifundi",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Inopfu",
+            "option_4": "Umusemburo mu kibindi",
+            "correct_answer": "Inopfu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Igiteye imbabazi",
+            "option_1": "Akana n'insina",
+            "option_2": "Ikizamini",
+            "option_3": "Agakono k'amapfa",
+            "option_4": "Ikibwana cy'imbwa",
+            "correct_answer": "Ikibwana cy'imbwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku gashyinga ndashyenga",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Agakono k' inzara",
+            "option_3": "Inkware",
+            "option_4": "Intore y'amahingura",
+            "correct_answer": "Inkware"
+        }
+    }
+]

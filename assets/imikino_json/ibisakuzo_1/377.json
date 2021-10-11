@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 266
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye bambaye ibisa by'ibitambaro",
+            "option_1": "Imyambi y'ikibiriti",
+            "option_2": "Amazi",
+            "option_3": "Ibabi by'ibibonobono",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Imyambi y'ikibiriti"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zishotse zitendeje, zikuka ziteye hejuru",
+            "option_1": "Ikiyoni",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Abavomyi",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Amatwi",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Umuvumbyi",
+            "option_4": "Igisabo",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bakobwa ntimukanseke nabuze aho mpisha",
+            "option_1": "Ikawa n'umumenamabuye",
+            "option_2": "Innyo y'ihene",
+            "option_3": "Umusazi",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Innyo y'ihene"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ayi napfa nakira, simbizi",
+            "option_1": "Icyanzu",
+            "option_2": "Akanyoni yaritse ku nzira",
+            "option_3": "Inyoni",
+            "option_4": "Ingufuri hejuru y'isanduku",
+            "correct_answer": "Akanyoni yaritse ku nzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera nakwiteguye",
+            "option_1": "Igikoro",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Gusitara",
+            "option_4": "Agakono k'amanywa",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Ibitotsi",
+            "option_3": "Umurozi",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ruvudukana imbaraga, rukavumera rutagira amahembe",
+            "option_1": "Imodoka",
+            "option_2": "Isi n'ijuru",
+            "option_3": "Amazi",
+            "option_4": "Amase",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Iki gikunda inshyi",
+            "option_1": "Akayunguruzo",
+            "option_2": "Inyamunyo",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Yankamiye mu kitoze, angaburira ibiryoshye",
+            "option_1": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_2": "Ikivumvuri",
+            "option_3": "Abavomyi",
+            "option_4": "Igikatsi",
+            "correct_answer": "Ibiryo biri mu nkono ifite imbyiro"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 783
+    },
+    {
+        "sakwe_1": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Agatsinsino",
+            "option_4": "Ifaranga",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Ikigori",
+            "option_2": "Igisenge",
+            "option_3": "Ibibabi by'ikibonobono",
+            "option_4": "Sida",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Ubuto bwa so na nyoko",
+            "option_3": "Ifaranga",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Agakono k'amanywa",
+            "option_2": "Isusa",
+            "option_3": "Izuba",
+            "option_4": "Akarere ku nsina",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Dore isoko idakama amazi",
+            "option_1": "Inyamunyo",
+            "option_2": "Ikivugirizo",
+            "option_3": "Amarira mu maso",
+            "option_4": "Ubuto bwa so na nyoko",
+            "correct_answer": "Amarira mu maso"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nkeje Umwami wo mu kirere, angabira ibiryoshye",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Inzuki",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Ingoto y'umugabo",
+            "correct_answer": "Inzuki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abakobwa banjye barara bahagaze bwacya bakaryama",
+            "option_1": "Ibitotsi",
+            "option_2": "Umuneke",
+            "option_3": "Imyugariro",
+            "option_4": "Amapapayi",
+            "correct_answer": "Imyugariro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hari agate utakurira",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Umunyereri",
+            "option_3": "Umuntu",
+            "option_4": "Impeke y'uburo",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Umugore ujya iwabo",
+            "option_2": "Amashaza",
+            "option_3": "Igikoro",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Ifaranga",
+            "option_3": "Akayunguruzo",
+            "option_4": "Televiziyo",
+            "correct_answer": "Ifaranga"
+        }
+    }
+]

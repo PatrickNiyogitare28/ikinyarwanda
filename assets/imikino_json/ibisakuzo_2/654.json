@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 191
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera Nyirampirigita ombaba zitarya",
+            "option_1": "Ubuheri mu gihata",
+            "option_2": "Urusisiro",
+            "option_3": "Imanzi mu maribori",
+            "option_4": "Ifuni mu rutara",
+            "correct_answer": "Ifuni mu rutara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Gaju iriruka ntirenga",
+            "option_1": "Umusore warongoye",
+            "option_2": "Ishoka mu rukwi",
+            "option_3": "Umukenke",
+            "option_4": "Umucundura",
+            "correct_answer": "Umukenke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karacunda ngwegwe",
+            "option_1": "Intete y'ururo",
+            "option_2": "Agaseke mu ruzi",
+            "option_3": "Ikizamini",
+            "option_4": "Umutsima; intosho",
+            "correct_answer": "Agaseke mu ruzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Igisambu gisigaye hagati y'uruhira",
+            "option_3": "Ijisho",
+            "option_4": "Inzara",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kinigirije umugara mu mpinga ya Rusoro",
+            "option_1": "Igikona\n \nbikumburanye bibana",
+            "option_2": "Inopfu",
+            "option_3": "Umucaca",
+            "option_4": "Ibirago",
+            "correct_answer": "Inopfu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gituku my gitebo",
+            "option_1": "Ubunyerere",
+            "option_2": "Umugezi utemba ugasiga amabuye",
+            "option_3": "Akazi mu nzira",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hepfo aha rurakubana",
+            "option_1": "Isekurume",
+            "option_2": "Igitsina cy'amateke",
+            "option_3": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "option_4": "Ukwezi",
+            "correct_answer": "Umusaza cyangwa umukecuru n'agashyitsi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inyuma ya Ndiza urwenge rurahonya",
+            "option_1": "Ibirayi",
+            "option_2": "Amasaka",
+            "option_3": "Umucaca",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata kagina tuyirase",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Igihuna",
+            "option_3": "Ibihaza",
+            "option_4": "Urugo",
+            "correct_answer": "Urugo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata sogokuru atagwa mu ruzi",
+            "option_1": "Urukwavu",
+            "option_2": "Igihandure",
+            "option_3": "Umucaca",
+            "option_4": "Umusambi; ikinyabwoya",
+            "correct_answer": "Umucaca"
+        }
+    }
+]

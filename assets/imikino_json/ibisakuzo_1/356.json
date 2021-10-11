@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 647
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Urutare",
+            "option_2": "Umugore utwite",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Corogati",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nahinze mu mpinga nsarura mu gapfunsi",
+            "option_1": "Umusatsi",
+            "option_2": "Agahinda k'umutima",
+            "option_3": "Imbwa mu masinde",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abakobwa banjye baranaga amajosi",
+            "option_1": "Umugezi",
+            "option_2": "Corogati",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Igikeri",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkubise urushyi rurumira",
+            "option_1": "Ifaranga",
+            "option_2": "Insina",
+            "option_3": "Ikibuno",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Ibara ry'inka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyiramikuku arakukuza mu mikuku ya Shyorongi",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Ifu",
+            "option_4": "Igiheri mu ruhara",
+            "correct_answer": "Igiheri mu ruhara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Banterere anyuze aha",
+            "option_1": "Umuvure",
+            "option_2": "Igicucucucu",
+            "option_3": "Ukwezi n'inyenyeri",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira imbehe nyinshi ariko nkabura iyo ndiraho",
+            "option_1": "Ibiganza",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Ubwoya bw'inka",
+            "option_4": "Intoki ku biganza",
+            "correct_answer": "Ibiganza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Yankamiye mu kitoze, angaburira ibiryoshye",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_3": "Indege",
+            "option_4": "Buji",
+            "correct_answer": "Ibiryo biri mu nkono ifite imbyiro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Umugezi",
+            "option_2": "Amapapayi",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Inyamunyo",
+            "option_3": "Ifaranga",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Ifaranga"
+        }
+    }
+]

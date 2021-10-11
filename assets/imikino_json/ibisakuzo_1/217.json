@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 779
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Ikivugirizo",
+            "option_2": "Ikirungurira",
+            "option_3": "Abavomyi",
+            "option_4": "Urwiri",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kora aha",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Igisheke",
+            "option_3": "Umunyeshuri wabaye uwa mbere",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Umunyeshuri wabaye uwa mbere"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata umuhoro mfate undi tujye gutema ibidatemeka",
+            "option_1": "Umubagazi",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Amazi",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Amazi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirandarindari",
+            "option_1": "Amase y'inka",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Akatsi ko ku nzu",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama arusha nyoko amabuno manini",
+            "option_1": "Intete z'ibigori",
+            "option_2": "Imyambi y'ikibiriti",
+            "option_3": "Igisabo",
+            "option_4": "Igikoro, igihaza",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Njugunye igihaza gihinguranya amarembo",
+            "option_1": "Agacaca",
+            "option_2": "Ifaranga ku meza",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Umupira mu izamu",
+            "correct_answer": "Umupira mu izamu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Zigaritse amahembe zose ntiwamenya iyo nyoko yakowe",
+            "option_1": "Ikigori",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Ifaranga",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Ingara z'iminyinya"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Agakecuru ka;anutse i Nyarushurushuru kiteye imirwa munani",
+            "option_1": "Amashyiga (y'inyuma)",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Umusore wishwe n'inzara",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Intete z'ibigori"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Byumve uhore",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Akarago ko mu irebe",
+            "option_3": "Ifaranga",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Umusuzi wa so"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Ubunyereri",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Igitoki",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Igitoki"
+        }
+    }
+]

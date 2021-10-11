@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 154
+    },
+    {
+        "sakwe_1": {
+            "question": "Birafora ntibirase",
+            "option_1": "Igitoki",
+            "option_2": "Ibitotsi",
+            "option_3": "Ingoto y'umugabo",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Ingoto y'umugabo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inka yanjye yimira mu kinono, ikabyarira mu ihembe",
+            "option_1": "Igihepfu ku mugina",
+            "option_2": "Igitoki",
+            "option_3": "Agacaca",
+            "option_4": "Umunyereri",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mama nshuti",
+            "option_1": "Ijambo rya perezida",
+            "option_2": "Amenyo",
+            "option_3": "Ikirago",
+            "option_4": "Umuporisi",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Televiziyo",
+            "option_2": "Ikigori",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Ibirago",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Akayira kajya mu kigega",
+            "option_2": "Urutara",
+            "option_3": "Igikatsi",
+            "option_4": "Ikigori",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Igitoki",
+            "option_2": "Inopho",
+            "option_3": "Umuzungu mu modoka",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Corogati",
+            "option_2": "Umusuzi wa so",
+            "option_3": "Ibigori",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Ibigori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama arusha nyoko kwambarira ubukwe",
+            "option_1": "Amase y'inka",
+            "option_2": "Umugore utwite",
+            "option_3": "Ikigori",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyuze mu rutoki abasirikare baramfata",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umurabyo",
+            "option_3": "Ibishokoro",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ibishokoro"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Ururimi",
+            "option_2": "Televiziyo",
+            "option_3": "Indabo z'amashaza",
+            "option_4": "Ingasire",
+            "correct_answer": "Ingasire"
+        }
+    }
+]

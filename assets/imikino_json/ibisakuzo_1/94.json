@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 563
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo ngo pi, hirya ngo pi",
+            "option_1": "Buji",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Amazi",
+            "option_4": "Imvura",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ayiiiiii, ayiiiiiiii",
+            "option_1": "Imihanda, uruzi, inzira",
+            "option_2": "Umukobwa ubonye iwabo hashya",
+            "option_3": "Amata",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Umukobwa ubonye iwabo hashya"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ariya mabuye ya rubarabara wayabara ukayarangiza",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Inyenyeri",
+            "option_4": "Urutara",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Inyundo",
+            "option_2": "Ikirungurira",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Agatsinsino",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ntuye heza njye ngira Imana",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Umugina wo mu gishanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Umwana w'uruhinja",
+            "option_3": "Agacaca",
+            "option_4": "Ikawa",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Isoko",
+            "option_3": "Urutare",
+            "option_4": "Urwina",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Aka kariza so",
+            "option_1": "Agatsinsino",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Natumba naturika ni ibuye rya Kagbayi",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Ururabo",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Ishapure n'amasengesho",
+            "correct_answer": "Ishapure n'amasengesho"
+        }
+    }
+]

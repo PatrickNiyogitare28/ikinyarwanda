@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 46
+    },
+    {
+        "sakwe_1": {
+            "question": "Kari n'imyambi kari n'imiheto karahamiriza imbere ya Sambwe",
+            "option_1": "Amasaka n'urukungu",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Umwisheshe",
+            "option_4": "Inzara mu bana",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nta kamwe nta akandi ngere iyo!!",
+            "option_1": "Umusemburo",
+            "option_2": "Udukongorwa",
+            "option_3": "Igitoki n'insina bigwanye",
+            "option_4": "Umuyaga",
+            "correct_answer": "Udukongorwa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hita i Nyarubuye mpite mu Mbiyo tuzahurire i Nyanza",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Urubariro",
+            "option_3": "Igicuma bacuncumura",
+            "option_4": "Uburiri bw'umwami",
+            "correct_answer": "Urubariro"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Amaguru y'umusambi",
+            "option_2": "Ibigori bifite imisatsi",
+            "option_3": "Amasuka",
+            "option_4": "Imondo mu gihu",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zikutse zera inzara",
+            "option_1": "Ipfundo ry'urudodo",
+            "option_2": "Icyobo",
+            "option_3": "Ikiyege",
+            "option_4": "Imfunzo",
+            "correct_answer": "Imfunzo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rutondagitamugogo mugabo utuye mu ishyamba",
+            "option_1": "Indarama",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Umuhumetso",
+            "option_4": "Uturaso ku murundi",
+            "correct_answer": "Indarama"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nkoni mu kugukubita yarakuneshaga",
+            "option_1": "Uruyuki",
+            "option_2": "Ikidasesa",
+            "option_3": "Ikidasesa",
+            "option_4": "Ikiyiko ku mbehe",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkuba ikubita ku butaka ya Rujinja abayimira",
+            "option_1": "Ikijumba",
+            "option_2": "Umutumba w'insina",
+            "option_3": "Inkari z'inkoko",
+            "option_4": "Ukwezi ku ijuru",
+            "correct_answer": "Ikijumba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kiracunda runete",
+            "option_1": "Ijisho rya mukeba",
+            "option_2": "Amasaka ku rusyo",
+            "option_3": "Imirizo cy'intama",
+            "option_4": "Intuku z'amasaka",
+            "correct_answer": "Imirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Ikinwa cya nyirabarazana",
+            "option_2": "Ibigori",
+            "option_3": "Impururu z'umutindi",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    }
+]

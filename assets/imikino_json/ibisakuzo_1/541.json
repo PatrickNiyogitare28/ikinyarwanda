@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 716
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Umukecuru wataye ikijigo cye",
+            "option_2": "Amarira mu maso",
+            "option_3": "Ururabo",
+            "option_4": "Ubwayo bw'inka",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Imirya y'inanga",
+            "option_3": "Ifaranga",
+            "option_4": "Amabya",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Izuba",
+            "option_2": "Amapapayi",
+            "option_3": "Amata",
+            "option_4": "Umugore ujya iwabo",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Insina",
+            "option_2": "Ururabo",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Basenye ibikingi by'amarembo Rutamu yanze gukwirwamo",
+            "option_1": "Inyama",
+            "option_2": "Televiziyo",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Nyiramaningiri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Icyanzu cyanjye ngicamo nkafunga",
+            "option_1": "Igicucucucu",
+            "option_2": "Indumane",
+            "option_3": "Ibaruwa",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Indumane"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Igihandure",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Inyoni",
+            "option_4": "Inyegamo y'umusore warongoye",
+            "correct_answer": "Inyoni"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nahinze mu mpinga nsarura mu gapfunsi",
+            "option_1": "Igikoro",
+            "option_2": "Inyegamo y'umusore warongoye",
+            "option_3": "Umusatsi",
+            "option_4": "Umuvure",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Icyobo",
+            "option_2": "Imana",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Agahinda k'umutima",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Igisenge",
+            "option_2": "Telefoni",
+            "option_3": "Indabo z'amashaza",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Telefoni"
+        }
+    }
+]

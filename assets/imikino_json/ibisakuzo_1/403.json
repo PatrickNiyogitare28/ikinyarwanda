@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 258
+    },
+    {
+        "sakwe_1": {
+            "question": "Ishime nyoko aratwite",
+            "option_1": "Imvura",
+            "option_2": "Akabyindi k'umushumba",
+            "option_3": "Urwina",
+            "option_4": "Urwembe mu musatsi",
+            "correct_answer": "Urwina"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Inkingi",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Amabere",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Inyenyeri",
+            "option_3": "Umusazi",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera inyamaswa igendesha amaguru 4 mu gitondo, amaguru 2 saa sita, n'amaguru 3 nimugoroba",
+            "option_1": "Inzara y'umusore",
+            "option_2": "Ibaruwa",
+            "option_3": "Umuntu",
+            "option_4": "Agasuzi",
+            "correct_answer": "Umuntu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igira hino ncuti",
+            "option_1": "Ikawa",
+            "option_2": "Ikiringiti",
+            "option_3": "Izuba",
+            "option_4": "Inkono",
+            "correct_answer": "Ikiringiti"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nicaye iwacu murika isi",
+            "option_1": "Igikoro",
+            "option_2": "Inyoni",
+            "option_3": "Ukwezi",
+            "option_4": "Izuba",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Dore iryo shyamba ritabona",
+            "option_1": "Uruzi",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Umusatsi w'intabwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Igisabo",
+            "option_2": "Akayunguruzo",
+            "option_3": "Umwarimu",
+            "option_4": "Igisenge",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Abavomyi",
+            "option_2": "Umurabyo",
+            "option_3": "Ifu",
+            "option_4": "Ikivugirizo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Uruyuzi",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Ibitotsi",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    }
+]

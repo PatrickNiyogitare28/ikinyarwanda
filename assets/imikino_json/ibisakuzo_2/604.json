@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 693
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirarupfu aradehesheje",
+            "option_1": "Ubukumi bwa so na nyoko",
+            "option_2": "Icyiyoni mu isoko",
+            "option_3": "Inzara",
+            "option_4": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "correct_answer": "Icyiyoni mu isoko"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kati \"Jyiii!\", kati \"izibukire!\"",
+            "option_1": "Amazi mu gisura",
+            "option_2": "Ikibando n'urugi; urugi ku muryango",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Igishyimbo cy'umutura",
+            "correct_answer": "Igishyimbo cy'umutura"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rutikanga yamaze ubwatsi",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Umusambi",
+            "option_3": "Ishoka mu rukwi",
+            "option_4": "Ikigori",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rugangazi rugangaye mu nzuzi",
+            "option_1": "Umurabyo",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Igihumyo",
+            "option_4": "Imana",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera rwa Kimanuka rutaribwa b'inyoni",
+            "option_1": "Umwijima",
+            "option_2": "Akayuzi hejuru y'urupfu",
+            "option_3": "Agafuni mu mushike",
+            "option_4": "Ikirizo cy'intama",
+            "correct_answer": "Umwijima"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Segikwekwe umutwe wa Mukono",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Umutumba",
+            "option_3": "Inkono n'urweso",
+            "option_4": "Umuko mu mukokwe",
+            "correct_answer": "Umuko mu mukokwe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Terera Rubona ubone ishyano",
+            "option_1": "Insina",
+            "option_2": "Intebe",
+            "option_3": "Ingata mu ruhira",
+            "option_4": "Uburiri bw'umwami",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana b'umwami bicaye kuntebe imwe",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Uruyuki",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abana b'umwami baratanguranywa mu ngoma",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Ifurwe",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Abakomyi b'insyo",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Igisura",
+            "option_2": "Umuhoro",
+            "option_3": "Urutare",
+            "option_4": "Agahwa mu rwondo",
+            "correct_answer": "Igisura"
+        }
+    }
+]

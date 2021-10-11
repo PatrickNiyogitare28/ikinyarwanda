@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 672
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata akebo nanjye mfate akandi tujye kwahira intagwira",
+            "option_1": "Umugezi",
+            "option_2": "Ibaruwa",
+            "option_3": "Umuvumbyi",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Ubwoya bw'inka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ko undeba ndaguha",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Umuntu",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Ibitotsi",
+            "option_3": "Firigo",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Zana akebo nzane akandi tujye gutara intagwira",
+            "option_1": "Ifurwe",
+            "option_2": "Umugezi",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Ubwoya bw' inka",
+            "correct_answer": "Ubwoya bw' inka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mukore ubone",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Akayunguruzo",
+            "option_4": "Igisozi kirekire",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karatembashyashya",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Ivu",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mugongo mugari mpekera abana",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Urutara",
+            "option_3": "Umurabyo",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Urutara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dombidori",
+            "option_1": "Inkono",
+            "option_2": "Inzoka mu kugenda nta maguru",
+            "option_3": "Ururabo rw'ikawa",
+            "option_4": "Intore mu rwabya",
+            "correct_answer": "Intore mu rwabya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Imodoka yabuze lisansi",
+            "option_2": "Imitumba",
+            "option_3": "Umugezi",
+            "option_4": "Umuzungu n'umwirabura",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kacira bucece",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Amarira mu maso",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Icebe ry'inka"
+        }
+    }
+]

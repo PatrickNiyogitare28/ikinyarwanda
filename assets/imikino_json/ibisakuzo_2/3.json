@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 494
+    },
+    {
+        "sakwe_1": {
+            "question": "Mugina ni uwa Muko",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Uruyuki",
+            "option_3": "Ikivugirizo",
+            "option_4": "Imutsi wo ku kibuno",
+            "correct_answer": "Imutsi wo ku kibuno"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyoko na mama bapfuye iki?",
+            "option_1": "Imfunzo",
+            "option_2": "Ibigori bifite imisatsi",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Injishi y'igisabo",
+            "correct_answer": "Agahaza ko mu rubibi; inkongoro z'abana"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Maguru ijana kabuno kaboze, hembe rimwe",
+            "option_1": "Umusambi",
+            "option_2": "Insina",
+            "option_3": "Inzu",
+            "option_4": "Ikinyogote",
+            "correct_answer": "Inzu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Umuyenzi",
+            "option_2": "Igikona",
+            "option_3": "Igisura",
+            "option_4": "Icyugu",
+            "correct_answer": "Igisura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera rwa kimanuka rutaribwa n'imbeba",
+            "option_1": "Agaca mu nkoko",
+            "option_2": "Inzogera",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Ijambo ry'umwami",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndu mugufi nakiranya so nkamutsinda",
+            "option_1": "Ibibonobono",
+            "option_2": "Ikizubazuba",
+            "option_3": "Inkono",
+            "option_4": "Ubunyenyeri",
+            "correct_answer": "Ubunyenyeri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera igitutsi kimanutse kwa Rwatangaho cyiteye imigoma itatu",
+            "option_1": "Ikigori",
+            "option_2": "Umuntu ubara inkuru cyane",
+            "option_3": "Igihu",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirabujunjuri ubujunjuri",
+            "option_1": "Umusigati",
+            "option_2": "Amashaza ku rujyo",
+            "option_3": "Isha mu ibanga",
+            "option_4": "Umusaza ku cyahi, amaraso ku murundi",
+            "correct_answer": "Amashaza ku rujyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Nyamuniga wa Muko",
+            "option_1": "Umusore",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Ikinyoro cy'umusaza",
+            "option_4": "Amasaka",
+            "correct_answer": "Ikinyoro cy'umusaza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kagera iruje",
+            "option_1": "Ikiziha cy'inzovu",
+            "option_2": "Agahwa m'urwondo",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "correct_answer": "Ikiziha cy'inzovu"
+        }
+    }
+]

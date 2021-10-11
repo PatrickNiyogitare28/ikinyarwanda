@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 415
+    },
+    {
+        "sakwe_1": {
+            "question": "Aho wabereye wataramye  ku kabuhanda",
+            "option_1": "Icyiyoni mu isoko",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Ubwato mu ruzi",
+            "option_4": "Umwungu",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kiza abayumbu ku rugo",
+            "option_1": "Uruboho",
+            "option_2": "Ikivumvuri",
+            "option_3": "Imiyenzi",
+            "option_4": "Ikigagara",
+            "correct_answer": "Imiyenzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ak'imitana ak'imitari kararenze mu mpinga",
+            "option_1": "Abavomyi",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Amashaza akaranze",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Imbere ndi imanzi n'inyuma ndi imanzi",
+            "option_1": "Igisabo",
+            "option_2": "Isekurume",
+            "option_3": "Intimba mu nda",
+            "option_4": "Icyansi, akanyita k'uruhu",
+            "correct_answer": "Icyansi, akanyita k'uruhu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ni jye muzindutsi wa cyane nasanze kwa Byucyucyu bacyugariye",
+            "option_1": "Imvura igwa ku gitikatika",
+            "option_2": "Amahundo",
+            "option_3": "Urusisiro",
+            "option_4": "Akabuno k'imfizi",
+            "correct_answer": "Akabuno k'imfizi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukina ma gasiza rwa Senyakazana twigabe",
+            "option_1": "Icyuho; ikibyindi",
+            "option_2": "Ikizubazuba",
+            "option_3": "Umusambi",
+            "option_4": "Umusoro",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kiti \"tiku\", kiti \"dumburi\", kiti \"databuja nkumbuye i Rwanda",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Inuma mu kigega",
+            "option_3": "Umusemburo mu kibindi",
+            "option_4": "Isake; impanda",
+            "correct_answer": "Umusemburo mu kibindi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nakunombanomba nagukatakata ni ingabo yanjye rukatiriza",
+            "option_1": "Agakatsi ku butanda",
+            "option_2": "Ibipfuko",
+            "option_3": "Urusenge",
+            "option_4": "Inopfu",
+            "correct_answer": "Agakatsi ku butanda"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akababaje umugabo kamurenza impinga",
+            "option_1": "Ijambo rya mukeba",
+            "option_2": "Inyundo y'umucuruzi",
+            "option_3": "Ifaranga",
+            "option_4": "Umwobo mu masaka",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kahemena",
+            "option_1": "Imizi y'urutare",
+            "option_2": "Intebe",
+            "option_3": "Igitembatembe",
+            "option_4": "Akotsi k'abatabazi",
+            "correct_answer": "Akotsi k'abatabazi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 131
+    },
+    {
+        "sakwe_1": {
+            "question": "Iwacu duteze ingori twese",
+            "option_1": "Umugengararo w'amasaka",
+            "option_2": "Igicaniro; igisabo",
+            "option_3": "Ikidasesa",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Umugengararo w'amasaka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Uragaramye i Buganza n'inkindi n'inkweto ntuzi ko bwakeye",
+            "option_1": "Akayuzi hejuru y'urupfu",
+            "option_2": "Umubiri w'umuntu",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Inzara",
+            "correct_answer": "Akayuzi hejuru y'urupfu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rutagataga rwa Karimumatongo umwambere wa Buzutu",
+            "option_1": "Umuriro",
+            "option_2": "Inda",
+            "option_3": "Ururimi",
+            "option_4": "Igihuna",
+            "correct_answer": "Inda"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nteruye nyoko n'ubuhuruhuru  ndunda mu mbere",
+            "option_1": "Inkono n' ibipfuko",
+            "option_2": "Imodoka mu muhanda",
+            "option_3": "Ikigori",
+            "option_4": "Intore mu muhogo",
+            "correct_answer": "Inkono n' ibipfuko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Iy'uruvurivundi, iy'uruvurivundi iyo bakubita ivu rigatuma",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Umutsima; intosho",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Umusigati",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka zanjye zaragiye zigaruka mu mpinga y'abankunda",
+            "option_1": "Injishi z'igisabo",
+            "option_2": "Umuyaga",
+            "option_3": "Igitabo cy'umusoro",
+            "option_4": "Igikona",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mahuhu hakurya",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Ikinyankari",
+            "option_3": "Inzu irimo ubusa",
+            "option_4": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "correct_answer": "Inzu irimo ubusa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rugugura yaguye inyuma ya Ngiga",
+            "option_1": "Agahinda ku murima",
+            "option_2": "Imvura igwa ku gitikatika",
+            "option_3": "Igishirira kiguye mu mazi ashyushye",
+            "option_4": "Amaganga y'isha",
+            "correct_answer": "Imvura igwa ku gitikatika"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirankungurumanyu",
+            "option_1": "Ibipfuko",
+            "option_2": "Ingwe",
+            "option_3": "Igihuru gihiye uruhande rumwe",
+            "option_4": "Urushishi ku igufa",
+            "correct_answer": "Igihuru gihiye uruhande rumwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akigize umugozi kakigira umuganda kagashyira umwami ku murwa",
+            "option_1": "Umuhotora; umuhoro",
+            "option_2": "Umuganda",
+            "option_3": "Umusambi",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Umuhotora; umuhoro"
+        }
+    }
+]

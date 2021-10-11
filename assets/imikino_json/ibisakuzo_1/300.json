@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 114
+    },
+    {
+        "sakwe_1": {
+            "question": "Kinyuka inabi, cyanyuka ineza nkizihirwa",
+            "option_1": "Umurabyo",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Umukondo w'inyana",
+            "option_4": "Izuba ry'impeshyi",
+            "correct_answer": "Izuba ry'impeshyi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Imbunda",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Uruhara rw'umusaza",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Aka kariza so",
+            "option_1": "Ikivugirizo",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Faraziya aceza yicaye",
+            "option_1": "Umuneke",
+            "option_2": "Ifaranga",
+            "option_3": "Umuntu",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Igisheke",
+            "option_2": "Umunyereri",
+            "option_3": "Inzara y'umusore",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Dore aho so arenga n'ibikote bibi",
+            "option_1": "Igitoki",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ikibya cy'umusaza",
+            "option_4": "Agahinda k'umutima",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera akabaribari kamanutse mu ijuru kaje gushashura abagabo",
+            "option_1": "Ifaranga",
+            "option_2": "Igicucucucu",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Agenda neza nuko yanga abanjye",
+            "option_1": "Abavomyi",
+            "option_2": "Urutoryi",
+            "option_3": "Intare",
+            "option_4": "Isusa",
+            "correct_answer": "Intare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nkubise umupira ugera i Ngozi",
+            "option_1": "Amagambo yo ku rurembo",
+            "option_2": "Ubunyereri",
+            "option_3": "Ibaruwa",
+            "option_4": "Agasongero k'inzu",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyoko si ukunnya arahurutura",
+            "option_1": "Akayunguruzo",
+            "option_2": "Ifaranga",
+            "option_3": "Inyundo",
+            "option_4": "Amabya",
+            "correct_answer": "Akayunguruzo"
+        }
+    }
+]

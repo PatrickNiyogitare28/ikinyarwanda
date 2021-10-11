@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 9
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ingurube nyinshi",
+            "answer": "Umugana (zirenze imwe)"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Ay'inka yapfushije",
+            "answer": "Ubusuri"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Kumena igisabo",
+            "answer": "Kukibyarira"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Sugende",
+            "answer": "Ntugende"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Amata inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Ndamuyoka",
+            "answer": "Ndamubona (ndamutahura)"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Igitandukanya icyumba n'ikindi mu nzu ya kinyarwanda",
+            "answer": "Inyegamo"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Nyina w'umugabo, umugore wange",
+            "answer": "Mabukwe"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Amata bagikama",
+            "answer": "Inshyushyu"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Agati bavurugisha amata",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Ay'abashumba",
+            "answer": "Imyezo"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Kuyavanamo amavuta",
+            "answer": "Kwavura, gusobanura"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Ayaraye ataravura",
+            "answer": "Umubanji"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Ayacamukijwe agashyirwamo imibavu",
+            "answer": "Amadahano"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ibyo banywesha amata",
+            "answer": "Imikerenke, injome, imimuna"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Umugabo wa mushiki wange",
+            "answer": "Muramu wange"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Aho basohokera bataha",
+            "answer": "Ku irembo"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Se (nyina) b'umukwe wawe, umukazana wawe",
+            "answer": "Bamwana wawe"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 693
+    },
+    {
+        "sakwe_1": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Ipikipiki",
+            "option_3": "Umuheto n'umwambi",
+            "option_4": "Amabere",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Igisheke",
+            "option_2": "Ibaruwa",
+            "option_3": "Insina; amateke",
+            "option_4": "Ubwoya bw' inka",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Ijwi",
+            "option_2": "Urupfu",
+            "option_3": "Kaburimbo",
+            "option_4": "Isusa",
+            "correct_answer": "Kaburimbo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ko So na Nyoko bameze uruhara, inzoga z'I Bwami zizikorera nde",
+            "option_1": "Igihaza",
+            "option_2": "Isakamburira ry'inzu",
+            "option_3": "Ikibyindi cy'umushumba",
+            "option_4": "Ikirunga",
+            "correct_answer": "Igihaza"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Basenye ibikingi by'amarembo Rutamu yanze gukwirwamo",
+            "option_1": "Agacaca",
+            "option_2": "Firigo",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Nyiramaningiri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye nyikama igaramye",
+            "option_1": "Sone yo ku irembo",
+            "option_2": "Imirya y'inanga",
+            "option_3": "Ifaranga",
+            "option_4": "Umuvure",
+            "correct_answer": "Umuvure"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana banjye bicaye bose",
+            "option_1": "Ibirundiro",
+            "option_2": "Igisabo",
+            "option_3": "Ubunyobwa",
+            "option_4": "Inzoga m'umuheha (umukenke)",
+            "correct_answer": "Ibirundiro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dore abakobwa berekana amabere",
+            "option_1": "Urusenda",
+            "option_2": "Inyoni",
+            "option_3": "Amapapayi",
+            "option_4": "Uruhara rw'umusaza",
+            "correct_answer": "Amapapayi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Urwogerezo",
+            "option_3": "Inyundo",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inyana y'ishyanga iratema ishyamba",
+            "option_1": "Gusitara",
+            "option_2": "Ikaramu",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Umuneke",
+            "correct_answer": "Agahinda k'umutima"
+        }
+    }
+]

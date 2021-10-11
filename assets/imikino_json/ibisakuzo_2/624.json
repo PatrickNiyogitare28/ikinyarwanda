@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 75
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndara mpinga bugacya",
+            "option_1": "Igitoki",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Agahinda ku mutima",
+            "option_4": "Amaguru yanjye n'ayawe",
+            "correct_answer": "Agahinda ku mutima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rwegamanangabo rwa Ngaboyegamanye ingabo mu nkike ya ruguru",
+            "option_1": "Agatwa mu ibumba",
+            "option_2": "Umusoro",
+            "option_3": "Urushishi rufite ishaka",
+            "option_4": "Ivunja",
+            "correct_answer": "Urushishi rufite ishaka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Jya mu mubande ubandwe Kagoro",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Inzara y'umusore; ijambo ry'umwami",
+            "option_3": "Ishinya y'urushishi",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umututsi muremure yamaze imigondoro mu murima",
+            "option_1": "Uruhabuzo mu ntoke",
+            "option_2": "Umusigati",
+            "option_3": "Amazimwe yo ku rurembo",
+            "option_4": "Imondo mu gihu",
+            "correct_answer": "Uruhabuzo mu ntoke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rukara rw'amacece aturutse hirya nyoko arayacekwa",
+            "option_1": "Imyobo y'ifuku urwanwa rw'umuhoro",
+            "option_2": "Umuyenzi",
+            "option_3": "Umbwato; ibitwikurura",
+            "option_4": "Imodoka",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera uruzungu uruzunguriza murizo rwagiye uruzunguzungu gahahira abana rukararirana",
+            "option_1": "Ikigore cy'ikiva mu nzu",
+            "option_2": "Intore mu muhogo",
+            "option_3": "Ikinyabwoya; uruyongoyongo",
+            "option_4": "Urusyo",
+            "correct_answer": "Ikinyabwoya; uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bikumburanye bitazahura",
+            "option_1": "Isi n'ijuru",
+            "option_2": "Inkono y'itabi",
+            "option_3": "Ijambo ry'umwami",
+            "option_4": "Igiko gihiriye mu ruhura",
+            "correct_answer": "Isi n'ijuru"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngira inka nkayikamira mu murizo",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Igitoki n'amakoma",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Intorezo",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera ikigira inyama ntikagire igufa",
+            "option_1": "Inkono ku mashyiga",
+            "option_2": "Abarinzi b'inyoni; inzara mu bana",
+            "option_3": "Ikirondwe",
+            "option_4": "Umwungu",
+            "correct_answer": "Ikirondwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera Cyurweru cyambaye umwenda kwa Rwangeyo rwa Makombe",
+            "option_1": "Urume ku musororo",
+            "option_2": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_3": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_4": "Utuzu tw'abashumba",
+            "correct_answer": "Urume ku musororo"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 615
+    },
+    {
+        "sakwe_1": {
+            "question": "Umwana w'umwami yaruka wanywa",
+            "option_1": "Intosho",
+            "option_2": "Igisabo",
+            "option_3": "Intete y'ururo",
+            "option_4": "Ururimi",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndaguteruye ndakwesa urahindukira urandeba",
+            "option_1": "Amasaka ku rusyo",
+            "option_2": "Inda mu nnyo",
+            "option_3": "Ubunyerere",
+            "option_4": "Inopfu",
+            "correct_answer": "Ubunyerere"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata so ndongore nyoko",
+            "option_1": "Amashaza akaranze",
+            "option_2": "Ishoka mu giti",
+            "option_3": "Akabwana mu gatabire",
+            "option_4": "Imbwa",
+            "correct_answer": "Ishoka mu giti"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ingobyi ngari ni yo impekera abana",
+            "option_1": "Inyamanza",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Ubwato",
+            "option_4": "Agaseke mu ruzi",
+            "correct_answer": "Ubwato"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera agatsengenetse",
+            "option_1": "Urusenge",
+            "option_2": "Nyankari",
+            "option_3": "Igihandure",
+            "option_4": "Akanyoni karitse ku nzira",
+            "correct_answer": "Akanyoni karitse ku nzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ko uri mukuru wa kera wari wabona ishinya ya Dede?",
+            "option_1": "Imvi zikuye umusatsi w'ubuto",
+            "option_2": "Ishinya y'urushishi",
+            "option_3": "Umutumba",
+            "option_4": "Umwungu mu mbibe",
+            "correct_answer": "Ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nshoye mukara nkura mweru",
+            "option_1": "Amamera n'ifu",
+            "option_2": "Isuka",
+            "option_3": "Igisabo",
+            "option_4": "Umwumba w'urukoma",
+            "correct_answer": "Amamera n'ifu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Imisozi irashya Rukaba yo ntishya",
+            "option_1": "Imana",
+            "option_2": "Urutare",
+            "option_3": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_4": "Inuma mu ntabire",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Aho ndi aha ndareba muhaha ya Nkoronko",
+            "option_1": "Igikoro",
+            "option_2": "Inkware",
+            "option_3": "Umuriro, umuyaga",
+            "option_4": "Ikigega kirimo ubusa",
+            "correct_answer": "Ikigega kirimo ubusa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Zirabunombanomba zirabukatakata inyambo za Mukeshimana",
+            "option_1": "Umbwato; ibitwikurura",
+            "option_2": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_3": "Akumba k'urukoma",
+            "option_4": "Akabwana mu gatabire",
+            "correct_answer": "Akabwana mu gatabire"
+        }
+    }
+]

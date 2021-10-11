@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 79
+    },
+    {
+        "sakwe_1": {
+            "question": "Umwana wanjye yirirwa agenda akarara agenda",
+            "option_1": "Gusitara",
+            "option_2": "Umugezi",
+            "option_3": "Ibishokoro",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Umugezi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Inyenyeri",
+            "option_3": "Urwogerezo",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Ijuru n'ukwezi",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Radiyo",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Ijambo rya perezida",
+            "option_2": "Umuzi w'urutare",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Agacaca",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Twaraye ihinga isuka iramungwa",
+            "option_1": "Ibitotsi",
+            "option_2": "Isahani yaguye ingese",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Kubuza umuryi kurya",
+            "correct_answer": "Isahani yaguye ingese"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Icyanzu cyanjye ngicamo nkafunga",
+            "option_1": "Ibiganza",
+            "option_2": "Isusa",
+            "option_3": "Indumane",
+            "option_4": "Inkware",
+            "correct_answer": "Indumane"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Iteke",
+            "option_3": "Amano y'umuntu",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Ibirenge by'umuntu",
+            "option_2": "Umugore ujya iwabo",
+            "option_3": "Ingasire",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Ikawa",
+            "option_2": "Urutare",
+            "option_3": "Ifaranga",
+            "option_4": "Isusa",
+            "correct_answer": "Isusa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Njugunye igihaza gihinguranya amarembo",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Inyana y'umutavu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umupira mu izamu"
+        }
+    }
+]

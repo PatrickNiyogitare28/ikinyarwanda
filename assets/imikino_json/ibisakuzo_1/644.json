@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 375
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye barara bahagaze bakirirwa bahagaze",
+            "option_1": "Inkingi",
+            "option_2": "Igikoro",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Igikeri",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ariya mabuye ya rubarabara wayabara ukayarangiza",
+            "option_1": "Igikatsi",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Inyenyeri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kamanutse kibarangura no hasi kati, nkaba nzasubirayo ndakambura data",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Amazi",
+            "option_3": "Akayunguruzo",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mukore ubone",
+            "option_1": "Ishuri",
+            "option_2": "Ikirunga",
+            "option_3": "Ibarizo",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Inopho",
+            "option_2": "Ifaranga",
+            "option_3": "Ikirungurira",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngenda gahoro ariko nzagerayo",
+            "option_1": "Inzara y'umusore",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Ikigori",
+            "option_4": "Igikeri",
+            "correct_answer": "Igikeri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Agenda neza nuko yanga abanjye",
+            "option_1": "Agacaca",
+            "option_2": "Intare",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Ikigori",
+            "correct_answer": "Intare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nshinze umwe ndasakara",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Icyobo",
+            "option_4": "Umuporisi",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kiribwa kidahingwa",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Umubagazi",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Inyama",
+            "correct_answer": "Inyama"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Inkingi",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 529
+    },
+    {
+        "sakwe_1": {
+            "question": "Kera imbere kakirabura inyuma kagatona ibwami",
+            "option_1": "Umuheto n'imyambi",
+            "option_2": "Isi n'ijuru",
+            "option_3": "Amenyo",
+            "option_4": "Igitoki",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Navutse mpinnye urutoki",
+            "option_1": "Igihuna",
+            "option_2": "Umuzi w' urutare",
+            "option_3": "Urusogo mu mukobwe",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Umugondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirarupfu aradehesheje",
+            "option_1": "Ikinyamushongo",
+            "option_2": "Ifaranga",
+            "option_3": "Icyiyoni mu isoko",
+            "option_4": "Akanyoni karitse ku nzira",
+            "correct_answer": "Icyiyoni mu isoko"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Sine irarisha hejuru y'urupfu",
+            "option_1": "Ubwato mu kiyaga; mu mazi",
+            "option_2": "Akazuba karashe",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Umuko mu mukokwe",
+            "correct_answer": "Ubwato mu kiyaga; mu mazi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hepfo aha hanyuze impehe",
+            "option_1": "Imirizo y'inka",
+            "option_2": "Ikiziba mu mpinga",
+            "option_3": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_4": "Umubiri w'umuntu",
+            "correct_answer": "Inzuki zitagira urwuri; inka zidafite imfizi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nteruye nyoko n'ubuhuruhuru  ndunda mu mbere",
+            "option_1": "Ikinyoro cy'umusaza",
+            "option_2": "Isuri",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Inkono n' ibipfuko",
+            "correct_answer": "Inkono n' ibipfuko"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Igira inyuma y'urugo nkuvumburire impongo itagira umurizo",
+            "option_1": "Inturo mu rutare",
+            "option_2": "Icyiyone",
+            "option_3": "Umubuyenge w'intosho",
+            "option_4": "Igisenge cy'inzu",
+            "correct_answer": "Umubuyenge w'intosho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nkubise inda hasi ndamutsa umwami i Remera",
+            "option_1": "Intasya",
+            "option_2": "Amasaka ku rusyo",
+            "option_3": "Umwambi",
+            "option_4": "Imirya y'intanga",
+            "correct_answer": "Intasya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gacika gasubiraho",
+            "option_1": "Umwumbati",
+            "option_2": "Imfunzo",
+            "option_3": "Urwara",
+            "option_4": "Gutsika uruzi",
+            "correct_answer": "Urwara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hagarara hakuno mpagarare hakurya duterane ibidashyika",
+            "option_1": "Ibipfunsi",
+            "option_2": "Isi n' ijuru",
+            "option_3": "Inkono n'urweso",
+            "option_4": "Amaguru y'umusambi",
+            "correct_answer": "Ibipfunsi"
+        }
+    }
+]

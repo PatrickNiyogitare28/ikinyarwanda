@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 374
+    },
+    {
+        "sakwe_1": {
+            "question": "Murarajuru wa Rujugira ntagikoza ibirenge hasi",
+            "option_1": "Umuce wo mu irebe",
+            "option_2": "Akagata mu rwobo",
+            "option_3": "Inkono y'itabi",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Umwumba w'insina"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze ku rutare ndasa umwambi umara abana b' abatwa",
+            "option_1": "Inzara",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Irobe n'umutsima",
+            "option_4": "Ibuye ryica isuka irindi rikayigorora",
+            "correct_answer": "Inzara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sebihu sogokuru",
+            "option_1": "Igihuna",
+            "option_2": "Icyiyoni",
+            "option_3": "Hobe!\"",
+            "option_4": "Inzara",
+            "correct_answer": "Igihuna"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ko urusurumbira uzarwambuka?",
+            "option_1": "Umusatsi",
+            "option_2": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_3": "Igihandure",
+            "option_4": "Umucaca mu ruzi",
+            "correct_answer": "Umucaca mu ruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngira inka ikimira mu kinono ikabyarira mu kanwa",
+            "option_1": "Ikigori ku nzira",
+            "option_2": "Insina",
+            "option_3": "Amazi",
+            "option_4": "Imende ku ruzi",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nteye ijuru umusonga",
+            "option_1": "Agasongero",
+            "option_2": "Inzara",
+            "option_3": "Radiyo",
+            "option_4": "Umuvumu",
+            "correct_answer": "Agasongero"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rivudukana imbaraga ruvumera rutagira amabere",
+            "option_1": "Urutare",
+            "option_2": "Igiti gishigukanye n'imizi yacyo",
+            "option_3": "Imodoka",
+            "option_4": "Igishyimbo cy'umutura",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hagarara mu mpinga uhagaritswe n'umugabo utakuruta",
+            "option_1": "Imbaragasa",
+            "option_2": "Imodoka",
+            "option_3": "Ubunyenyeri",
+            "option_4": "Ibikingi by'irembo",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngira imbuga nayiharuye ku ngoma ya Gahindiro n'ubu ntiramera akatsi",
+            "option_1": "Ikiganza",
+            "option_2": "Wasaza ubuhiri mu muhini!!",
+            "option_3": "Umununi ku gicumucumu",
+            "option_4": "Ururo mu mateke",
+            "correct_answer": "Ikiganza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Terura Mutamu uyitereke ku rutare uyikize ubutuna",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Amateke",
+            "option_3": "Ikinyankari",
+            "option_4": "Ikinwa cya nyirabarazana",
+            "correct_answer": "Amateke"
+        }
+    }
+]

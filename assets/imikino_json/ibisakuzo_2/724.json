@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 110
+    },
+    {
+        "sakwe_1": {
+            "question": "Maguru ijana kabuno kaboze, hembe rimwe",
+            "option_1": "Inzu",
+            "option_2": "Uruhiza",
+            "option_3": "Igitonyanga",
+            "option_4": "Akanigi mu ijosi",
+            "correct_answer": "Inzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ni jye muzindutsi wa cyane nasanze aho urupfu rutunga inigi",
+            "option_1": "Isogo n'inyabutongo",
+            "option_2": "Umurara w'uburo",
+            "option_3": "Urume ku musororo",
+            "option_4": "Umuhazi ugwanye umuguta",
+            "correct_answer": "Urume ku musororo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyiragirimana afite inde",
+            "option_1": "Uruboho",
+            "option_2": "Intasya",
+            "option_3": "Insitare",
+            "option_4": "Imvura",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Navutse mpinnye urutoki",
+            "option_1": "Ifaranga",
+            "option_2": "Agahinda ku mutima",
+            "option_3": "Igishyimbo cy'umutura",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Umugondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera Cyurweru cyambaye umwenda kwa Rwangeyo rwa Makombe",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Umutanoga ku rutare",
+            "option_3": "Urusyo n'ingasire",
+            "option_4": "Urume ku musororo",
+            "correct_answer": "Urume ku musororo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndasera i Gahanga nkagosorera i Kabondo",
+            "option_1": "Guhekenya amasaka",
+            "option_2": "Agasongero",
+            "option_3": "Umusemburo",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Guhekenya amasaka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Iri waribonye he",
+            "option_1": "Umurara w'uburo",
+            "option_2": "Imodoka mu muhanda",
+            "option_3": "Ikiyege",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Umurara w'uburo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nta musimbutsi wa cyane wasimbutse urugata",
+            "option_1": "Umuyenzi",
+            "option_2": "Ingabo y'ubuki",
+            "option_3": "Inzoga",
+            "option_4": "Amasaka n'urukungu",
+            "correct_answer": "Inzoga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rugangazi rugangaye mu nzuzi",
+            "option_1": "Ikigoli",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Isuka",
+            "option_4": "Imfunzo",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata sogokuru atagwa mu ruzi",
+            "option_1": "Umucaca",
+            "option_2": "Ijwi",
+            "option_3": "Ibivumvuri",
+            "option_4": "Ifundi",
+            "correct_answer": "Umucaca"
+        }
+    }
+]

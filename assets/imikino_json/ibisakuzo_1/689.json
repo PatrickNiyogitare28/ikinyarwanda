@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 383
+    },
+    {
+        "sakwe_1": {
+            "question": "Nabonye umugenzi ku nziga ebyiri",
+            "option_1": "Inzoga m'umuheha (umukenke)",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Igare",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nturutse hanze mbona umuntu ninjiye ndamubure",
+            "option_1": "Igikatsi",
+            "option_2": "Ishapure n'amasengesho",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Igare",
+            "option_3": "Inyoni",
+            "option_4": "Impeke y'uburo",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Agacaca",
+            "option_2": "Akayuzi mu rubibi",
+            "option_3": "Telefoni",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bagatake bagasamaze bakabihise ubwiza bwako",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Ingasire",
+            "option_4": "Imitumba",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngwino unkize igisebs cy'umufunzo",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Ikivumvuri",
+            "option_3": "Uruyuzi",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Umuturanyi mubi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Ururabo rw'ikawa",
+            "option_2": "Ibikongorwa by'ibisheke",
+            "option_3": "Ikigori",
+            "option_4": "Ikigori",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ndya nkurye",
+            "option_1": "Umunyeshuri",
+            "option_2": "Ifaranga",
+            "option_3": "Uruzi",
+            "option_4": "Urusenda",
+            "correct_answer": "Urusenda"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zishotse zitendeje, zikuka ziteye hejuru",
+            "option_1": "Izina ryawe",
+            "option_2": "Abavomyi",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Imyambi y'ikibiriti",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abakobwa banjye bose bikwije impindu",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    }
+]

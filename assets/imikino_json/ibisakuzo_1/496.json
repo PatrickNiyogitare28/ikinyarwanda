@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 741
+    },
+    {
+        "sakwe_1": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Ibibabi by'ikibonobono",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Corogati",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kirarumbaraye",
+            "option_1": "Igisozi kirekire",
+            "option_2": "Umukobwa ubonye iwabo hashya",
+            "option_3": "Ubunyobwa",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Corogati",
+            "option_4": "Imitumba",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Zigaritse amahembe zose ntiwamenya iyo nyoko yakowe",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Ikaziya ya primus",
+            "option_3": "Amapapayi",
+            "option_4": "Intoki ku biganza",
+            "correct_answer": "Ingara z'iminyinya"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkoni yanjye nyibyaza amazi, nashaka nkyibyaza amabuye",
+            "option_1": "Umutego",
+            "option_2": "Umuyaga",
+            "option_3": "Igisheke",
+            "option_4": "Umutwe",
+            "correct_answer": "Igisheke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Ibiboga byagaze",
+            "option_2": "Umukecuru wurira ikigega",
+            "option_3": "Ikirago",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama nshuti",
+            "option_1": "Agahinda k'umutima",
+            "option_2": "Ikirago",
+            "option_3": "Umugono w'ishashi",
+            "option_4": "Ibizu bitagira abantu",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Ifu",
+            "option_2": "Umuvumbyi",
+            "option_3": "Ikirunga",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Ishapure n'amasengesho",
+            "option_2": "Inyana y'umutavu",
+            "option_3": "Umugina mu rufunzo",
+            "option_4": "Inopho",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka kariza so",
+            "option_1": "Ibinono by'inka",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Ikibuno",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Akanyarirajisho"
+        }
+    }
+]

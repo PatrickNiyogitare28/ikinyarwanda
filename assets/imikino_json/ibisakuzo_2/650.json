@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 377
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite igihugu cy'abagabo gusa",
+            "option_1": "Ibigori bifite imisatsi",
+            "option_2": "Intuku z'amasaka",
+            "option_3": "Umusatsi",
+            "option_4": "Agahwa m'urwondo",
+            "correct_answer": "Ibigori bifite imisatsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umututsi muremure yamaze imigondoro mu murima",
+            "option_1": "Umugezi utemba ugasiga amabuye",
+            "option_2": "Isi n' ijuru",
+            "option_3": "Uruhabuzo mu ntoke",
+            "option_4": "Akabuno k'imfizi",
+            "correct_answer": "Uruhabuzo mu ntoke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bihubyumye arenze urugo",
+            "option_1": "Amenyo",
+            "option_2": "Intebe",
+            "option_3": "Umucaca",
+            "option_4": "Igikona\n \nbikumburanye bibana",
+            "correct_answer": "Igikona\n \nbikumburanye bibana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mvuye ikuzimu mpinnye agatoki",
+            "option_1": "Amazi mu muheha",
+            "option_2": "Inguri",
+            "option_3": "Umugondoro w'ibishyimbo",
+            "option_4": "Icyiyone",
+            "correct_answer": "Umugondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkuba ikubita ikwerekeje umugongo",
+            "option_1": "Umusuzi",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Umuheto",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ibuka hakurya",
+            "option_1": "Utuzu tw'abashumba",
+            "option_2": "Ikirungurira",
+            "option_3": "Agafuni kabagarira amasaka",
+            "option_4": "Ijambo ry'umwami",
+            "correct_answer": "Utuzu tw'abashumba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mukara n'iyayo",
+            "option_1": "Inkono n'urweso",
+            "option_2": "Inkuba n'umurabyo",
+            "option_3": "Ishyari ntiriba rito",
+            "option_4": "Igikoro",
+            "correct_answer": "Inkono n'urweso"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rwamirenge i Bugoyi",
+            "option_1": "Igitonyanga",
+            "option_2": "Imvura ku iteke",
+            "option_3": "Isake y'inkoko",
+            "option_4": "Umununi ku itabi",
+            "correct_answer": "Isake y'inkoko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyabwiza mu mpinga",
+            "option_1": "Umbwato; ibitwikurura",
+            "option_2": "Umusoro",
+            "option_3": "Akagori",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Umbwato; ibitwikurura"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngiye inyuma y'inzu ntoragura umuhoro",
+            "option_1": "Intebe",
+            "option_2": "Umunyorogoto",
+            "option_3": "Inda mu mutwe",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    }
+]

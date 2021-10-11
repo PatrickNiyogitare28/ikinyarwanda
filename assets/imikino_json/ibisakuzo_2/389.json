@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 571
+    },
+    {
+        "sakwe_1": {
+            "question": "Uransaba ndaguha",
+            "option_1": "Umuyenzi",
+            "option_2": "Uruhabuzo",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Imigondoro w'ibishyimbo",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tora akebo ntore akandi tujye gutara intagwira",
+            "option_1": "Inda mu ruhara",
+            "option_2": "K'umutima w'undi",
+            "option_3": "Inkono ku mashyiga",
+            "option_4": "Inyabutongo",
+            "correct_answer": "Inyabutongo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana b'umwami bicaye kuntebe imwe",
+            "option_1": "Amashyiga",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Umutsima; intosho",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kiti \"tiku\", kiti \"dumburi\", kiti \"databuja nkumbuye i Rwanda",
+            "option_1": "Imigeri",
+            "option_2": "Inyenyeri",
+            "option_3": "Umusemburo mu kibindi",
+            "option_4": "Imbwa ifite igufa",
+            "correct_answer": "Umusemburo mu kibindi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngira umwana akarara agenda",
+            "option_1": "Igitabo cy'umusoro",
+            "option_2": "Umugezi",
+            "option_3": "Akayuki k'akungu",
+            "option_4": "Ikinyoro mu rubavu",
+            "correct_answer": "Umugezi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bibiri ngo piii",
+            "option_1": "Ijwi",
+            "option_2": "Imvura ku iteke",
+            "option_3": "Umugezi utemba ugasiga amabuye",
+            "option_4": "Ikigori",
+            "correct_answer": "Imvura ku iteke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze ku gasozi nzana ifuro ry'amata",
+            "option_1": "Ijwi",
+            "option_2": "Uruboho",
+            "option_3": "Ibirayi",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata agakono mfata akandi tujye guherekeza Nyamuhirimanga",
+            "option_1": "Icyibo",
+            "option_2": "Umugore utwite",
+            "option_3": "Akadiho k'imbwa",
+            "option_4": "Inzira ijya mu kigega",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Inzoga mu kibindi",
+            "option_2": "Akadiho k'imbwa",
+            "option_3": "Agahwa mu rwondo",
+            "option_4": "Amaguru y'umusambi",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Imvura igwa ku gitikatika",
+            "option_2": "Ibicuma ku nkangara",
+            "option_3": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_4": "Urugo udasangamo nyoko",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    }
+]

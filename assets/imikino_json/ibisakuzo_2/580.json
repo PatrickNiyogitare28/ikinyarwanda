@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 528
+    },
+    {
+        "sakwe_1": {
+            "question": "Karazigurira",
+            "option_1": "Umubuyenge w'intosho",
+            "option_2": "Umurara w'uburo",
+            "option_3": "Akazizi k'amata",
+            "option_4": "Umusatsi",
+            "correct_answer": "Akazizi k'amata"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akari inyuma ya ndiza urakazi?",
+            "option_1": "Inzugi z'imigano, umukokwe",
+            "option_2": "Igitonyanga",
+            "option_3": "Igitoki",
+            "option_4": "Inyana iri mu nda ya nyina",
+            "correct_answer": "Inyana iri mu nda ya nyina"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bashinze urukiramende ku ngoma ya Gahindiro n'ubu sindarugendera ngo ndusimbutse",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Rugo",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bicinyigiri bya Bikangaga Bikondo byacuzwe n'abantu",
+            "option_1": "Ibirago",
+            "option_2": "Imyenge y'amazuru",
+            "option_3": "Ikirungurira",
+            "option_4": "Umugozi w'ibijumba",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyamunsi aragendera hejuru y'urupfu",
+            "option_1": "Amabondo y'ihene",
+            "option_2": "Agasongera",
+            "option_3": "Irobe",
+            "option_4": "Umushoferi w'indege",
+            "correct_answer": "Umushoferi w'indege"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze ku gasozi mbona abagore bambaye impeta bose",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Umusatsi",
+            "option_4": "Ikinyamushongo",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kamanutse kibarangura kati, \"nkazasubirayo ndakambura data\"",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Agatonyanga",
+            "option_4": "Igisura",
+            "correct_answer": "Agatonyanga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kararima na Mwimanyi",
+            "option_1": "Ikivugirizo",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Urubwija",
+            "option_4": "Akanyoni gatwawe n'amazi",
+            "correct_answer": "Akanyoni gatwawe n'amazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ubonye ngo tuvugane ijambo ndisange munsi y'inzira",
+            "option_1": "Abarinzi b'inyoni; inzara mu bana",
+            "option_2": "Igishyimbo cy'umutura",
+            "option_3": "Igikongorwa",
+            "option_4": "Ijoro",
+            "correct_answer": "Igikongorwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Imisozi iriyorosa ibigondo",
+            "option_1": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_2": "Igiti gishigukanye n'imizi yacyo",
+            "option_3": "Ibihu, inzuki",
+            "option_4": "Umusambi",
+            "correct_answer": "Ibihu, inzuki"
+        }
+    }
+]

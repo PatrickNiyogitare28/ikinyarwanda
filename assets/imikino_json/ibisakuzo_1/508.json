@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 100
+    },
+    {
+        "sakwe_1": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Ibitotsi",
+            "option_3": "Agahinda k'inkumi",
+            "option_4": "Izuba ry'impeshyi",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kirihura nk'ikitagira amaso",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Umwarimu",
+            "option_4": "Imodoka yabuze feri",
+            "correct_answer": "Imodoka yabuze feri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zenguruka duhure",
+            "option_1": "Umukandara",
+            "option_2": "Umunyeshuri",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Isoko",
+            "option_2": "Umugore utwite",
+            "option_3": "Umuturanyi mubi",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ibiti byanjye byaka bidacika",
+            "option_1": "Isekuru",
+            "option_2": "Buji",
+            "option_3": "Igihaza",
+            "option_4": "Inopho",
+            "correct_answer": "Buji"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Urira rubariro ubone ishyano",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Igikatsi",
+            "option_2": "Umuzungu wambaye amadarubindi",
+            "option_3": "Amata",
+            "option_4": "Uburiri bw'umwami",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abakobwa banjye baraturanye ariko ntibaramukanya",
+            "option_1": "Imyambi y'ikibiriti",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_4": "Ikawa",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nkubuze sinabaho",
+            "option_1": "Umutwe",
+            "option_2": "Umukecuru wataye ikijigo cye",
+            "option_3": "Sida",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Umutwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ni iki cyatanze umuzungu kwicara mu ifuteyi",
+            "option_1": "Inyana y'umutavu",
+            "option_2": "Imitumba",
+            "option_3": "Ibiradiyo biteganye",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Imbaragasa"
+        }
+    }
+]

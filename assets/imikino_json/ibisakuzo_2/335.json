@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 306
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirabyiri ntacyshirira inyana",
+            "option_1": "Igicuma bacuncumura",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Intore mu muhogo",
+            "option_4": "Ibisya by'umutwakazi",
+            "correct_answer": "Ibisya by'umutwakazi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tora agakoni ntore akandi tujye gukubita Ruyiyenza yamaze ubwatsi",
+            "option_1": "Umuhinzi umwe mu murima",
+            "option_2": "Nyankari",
+            "option_3": "Umuhoro",
+            "option_4": "Umusambi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Agatiritiri kaje kaduruza, kaje kuzatina umugabo",
+            "option_1": "Umusore",
+            "option_2": "Ubwato mu kiyaga; mu mazi",
+            "option_3": "Imbaragasa mu kirenge",
+            "option_4": "Isake",
+            "correct_answer": "Umusore"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umututsi muremure yamaze imigondoro mu murima",
+            "option_1": "Ubunyenyeri",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Uruhabuzo mu ntoke",
+            "option_4": "Wasaza ubuhiri mu muhini!!",
+            "correct_answer": "Uruhabuzo mu ntoke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera Cyurweru cyambaye umwenda kwa Rwangeyo rwa Makombe",
+            "option_1": "Umusuzi",
+            "option_2": "Abahizi",
+            "option_3": "Urume ku musororo",
+            "option_4": "Imende ku mugezi",
+            "correct_answer": "Urume ku musororo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukandagira amabare rwa maguru munani; rukara iryamiye umukumba",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Imisoto y'ikigega",
+            "option_3": "Amazuru",
+            "option_4": "Umugozi w'ibijumba",
+            "correct_answer": "Imisoto y'ikigega"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Igira inyuma y'inzu uce y'umuze n'umunzenze",
+            "option_1": "Isuri",
+            "option_2": "Inkono yuzuye ibiryo",
+            "option_3": "Urusenge",
+            "option_4": "Urusogo n'urusogi",
+            "correct_answer": "Urusogo n'urusogi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ubugeni bw'ino burampuha",
+            "option_1": "Imvura ku iteke",
+            "option_2": "Umucaca",
+            "option_3": "Agakenya kw'imbaragasa",
+            "option_4": "Wasaza ubuhiri mu muhini!!",
+            "correct_answer": "Wasaza ubuhiri mu muhini!!"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngira inka nkayisasira amahwa nkayorosa andi",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Ururimi",
+            "option_3": "Imondo mu gihu",
+            "option_4": "Urukorogoto",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirabigirigita mu murombero",
+            "option_1": "Imyungu ku ruyuzi",
+            "option_2": "Ikiyege",
+            "option_3": "Umugore ujya kuzimura",
+            "option_4": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "correct_answer": "Umugore ujya kuzimura"
+        }
+    }
+]

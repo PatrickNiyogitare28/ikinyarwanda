@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 102
+    },
+    {
+        "sakwe_1": {
+            "question": "Kirihura nk'ikitagira amaso",
+            "option_1": "Imigomdoro yibishyimbo",
+            "option_2": "Isi n'ijuru",
+            "option_3": "Umurabyo",
+            "option_4": "Imodoka yabuze feri",
+            "correct_answer": "Imodoka yabuze feri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rutuku mu gitebo",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Kaburimbo",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Ururimi",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Cya matambatamba cya maguru munani",
+            "option_1": "Isakamburira ry'inzu",
+            "option_2": "Ukwezi n'inyenyeri",
+            "option_3": "Akayunguruzo",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Isekuru",
+            "option_2": "Inyoni",
+            "option_3": "Isoko",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ijwi",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Umukobwa ubonye iwabo hashya",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndaguteruye ndakwesa, urahindukira urandeba",
+            "option_1": "Igikatsi",
+            "option_2": "Icyumweru",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Ubunyereri",
+            "correct_answer": "Ubunyereri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abakobwa banjye barara bahagaze bwacya bakaryama",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Ingasire",
+            "option_3": "Imyugariro",
+            "option_4": "Corogati",
+            "correct_answer": "Imyugariro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkuba ikubita ikwerekejeho umugongo",
+            "option_1": "Indege",
+            "option_2": "Ibirundiro",
+            "option_3": "Umuheto",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gakore bakwice",
+            "option_1": "Ikivumvuri",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Ubunyobwa",
+            "option_4": "Agakono k'inzara",
+            "correct_answer": "Agakono k'inzara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nta kujya mu bajiji utari umujiji",
+            "option_1": "Umugina mu rufunzo",
+            "option_2": "Corogati",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Igihandure",
+            "correct_answer": "Umugina mu rufunzo"
+        }
+    }
+]

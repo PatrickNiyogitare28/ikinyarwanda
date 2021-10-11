@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 263
+    },
+    {
+        "sakwe_1": {
+            "question": "Tora akuho ntore akandi tujye guhaha igume hepfo aha",
+            "option_1": "Inkari z'inkoko",
+            "option_2": "Inkombe n'uruzi",
+            "option_3": "Isogo n'inyabutongo",
+            "option_4": "Igisenge",
+            "correct_answer": "Inkari z'inkoko"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Narabudoze ndabudanagira nabukubise ku ngoma ya Rukatiriza",
+            "option_1": "Ikirizo cy'intama",
+            "option_2": "Urubariro",
+            "option_3": "Ubutanda ku muvure",
+            "option_4": "Insina",
+            "correct_answer": "Ubutanda ku muvure"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Isake; impanda",
+            "option_2": "Ingwa",
+            "option_3": "Igishyimbo cy'umutura",
+            "option_4": "Uruhiza",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyiramaganya inyuma y'urugo",
+            "option_1": "Ikiziba mu mpinga",
+            "option_2": "Umwijima",
+            "option_3": "Indiga mu ihene",
+            "option_4": "Ugutwi kw'imbeba",
+            "correct_answer": "Indiga mu ihene"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ruhuga iratema imanga",
+            "option_1": "Igishwemu cy'amase",
+            "option_2": "Amazimwe yo ku rurembo",
+            "option_3": "Umuriro",
+            "option_4": "Urusenge",
+            "correct_answer": "Umuriro"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera Mvuye kure wa Semutiku",
+            "option_1": "Umusaza n'umwana",
+            "option_2": "Umwumba w'urukoma",
+            "option_3": "Umununi ku itabi",
+            "option_4": "Igitonyanga cy'imvura",
+            "correct_answer": "Igitonyanga cy'imvura"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kuba ahirengeye si ko kwumva",
+            "option_1": "Igitonyanga",
+            "option_2": "Ikivumvuri",
+            "option_3": "Agasongero",
+            "option_4": "Agacebe k'intama",
+            "correct_answer": "Agasongero"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Imisozi iriyorosa ibigondo",
+            "option_1": "Igihandure",
+            "option_2": "Ibihu, inzuki",
+            "option_3": "Ikiganza",
+            "option_4": "Umugore uhetse",
+            "correct_answer": "Ibihu, inzuki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rukara rwa Nyabicuma yaturuka hariya wayacekwa",
+            "option_1": "Umutsi mu nda",
+            "option_2": "Imodoka",
+            "option_3": "Ibyiyone",
+            "option_4": "Ivunja",
+            "correct_answer": "Ibyiyone"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ni jye muzindutsi wa cyane nasanze umupfu atsibagura inzira",
+            "option_1": "Umunyorogoto",
+            "option_2": "Umuzungu mu modoka",
+            "option_3": "Uruyange; amaguru ya muhuhirizi",
+            "option_4": "Insina",
+            "correct_answer": "Umunyorogoto"
+        }
+    }
+]

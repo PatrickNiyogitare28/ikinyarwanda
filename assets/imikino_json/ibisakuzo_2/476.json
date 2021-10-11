@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 3
+    },
+    {
+        "sakwe_1": {
+            "question": "Sogokuru aryoha aboze",
+            "option_1": "Igishyitsi cy'umusave n'umubirizi",
+            "option_2": "Inyabutongo",
+            "option_3": "Umuneke",
+            "option_4": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "correct_answer": "Umuneke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirakigeri  aganje mu mpinga Ntumba",
+            "option_1": "Ikiziba mu mpinga",
+            "option_2": "Akamangu mu muvumu",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Ibikingi by'amarembo",
+            "correct_answer": "Ikiziba mu mpinga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Tora  agahini ntore akandi tujye gushaka icyo tutazabona",
+            "option_1": "Imizi y'urutare",
+            "option_2": "Ivunja",
+            "option_3": "Umusambi",
+            "option_4": "Umusemburo",
+            "correct_answer": "Imizi y'urutare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirandirima umugore munini yicaye icukiro",
+            "option_1": "Umwana w'ifundi",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Inzu",
+            "option_4": "Ikiyege",
+            "correct_answer": "Ikiyege"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gatukura katokeje",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Radiyo",
+            "option_3": "Umwana w'ifundi",
+            "option_4": "Ururimi",
+            "correct_answer": "Umwana w'ifundi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Umututsi muremure yamaze imigondoro mu murima",
+            "option_1": "Imizi y'urutare",
+            "option_2": "Ababirigi",
+            "option_3": "Uruhabuzo mu ntoke",
+            "option_4": "Urusenge",
+            "correct_answer": "Uruhabuzo mu ntoke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpuye n'Imana yikoreye intebu",
+            "option_1": "Ubwoya bw'inka",
+            "option_2": "Ipfupfu ry'impfizi",
+            "option_3": "Isha mu mukenke",
+            "option_4": "Ikibyindi",
+            "correct_answer": "Ipfupfu ry'impfizi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mweru n'iyayo",
+            "option_1": "Umugina, inzira",
+            "option_2": "Imyambi mu murana",
+            "option_3": "Amahururu y'ababi",
+            "option_4": "Urusyo n'ingasire",
+            "correct_answer": "Urusyo n'ingasire"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ndica simporwe",
+            "option_1": "Ikibuguzo, igisoro",
+            "option_2": "Uruzi",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Inyabutongo",
+            "correct_answer": "Uruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nturutse hanze ndeba umuntu ngeze mu nzu ndamubura",
+            "option_1": "Isuka",
+            "option_2": "Imodoka",
+            "option_3": "Injishi y'igisabo",
+            "option_4": "Agasongera",
+            "correct_answer": "Agasongera"
+        }
+    }
+]

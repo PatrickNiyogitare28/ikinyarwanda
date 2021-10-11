@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 401
+    },
+    {
+        "sakwe_1": {
+            "question": "Nabyaye abakobwa benshi uwapfuye ijisho muri bo abatanga gusabwa",
+            "option_1": "Ikiryango cy'inzu",
+            "option_2": "Inyundo",
+            "option_3": "Amaguru y'inkware",
+            "option_4": "Inopfu",
+            "correct_answer": "Inopfu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Ibikongorwa by'ibisheke",
+            "option_2": "Umuyaga",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Umupira mu izamu",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Inyoni",
+            "option_2": "Ingoto y'umugabo",
+            "option_3": "Ibitotsi",
+            "option_4": "Imitumba",
+            "correct_answer": "Inyoni"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Ishapure n'amasengesho",
+            "option_2": "Isoko",
+            "option_3": "Inyundo",
+            "option_4": "Imodoka yabuze feri",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Indogobe ishaje",
+            "option_2": "Televiziyo",
+            "option_3": "Izina ryawe",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Umukandara",
+            "option_2": "Umugezi",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ibuye ry'umusozi ryimuye umugabo",
+            "option_1": "Ifaranga",
+            "option_2": "Umurabyo",
+            "option_3": "Ibirago",
+            "option_4": "Inzara n'inyota",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati parararara, kati pa",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Ifaranga ku meza",
+            "option_3": "Ingasire",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Ifaranga ku meza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze mu ishyamba rimpa umwezi",
+            "option_1": "Ibarizo",
+            "option_2": "Ifaranga",
+            "option_3": "Amase",
+            "option_4": "Ukwezi",
+            "correct_answer": "Ibarizo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Uruyuzi",
+            "option_3": "Ikirunga",
+            "option_4": "Amase",
+            "correct_answer": "Akarere ku nsina"
+        }
+    }
+]

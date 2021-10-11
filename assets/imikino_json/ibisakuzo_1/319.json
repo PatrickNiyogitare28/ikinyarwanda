@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 676
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata akebo nanjye mfate akandi tujye kwahira intagwira",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Ubwoya bw'inka",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Ubwoya bw'inka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Isekuru",
+            "option_2": "Ifaranga",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Inkono",
+            "correct_answer": "Isekuru"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zisa zitagira isano",
+            "option_1": "Izuba",
+            "option_2": "Inkoko n'inkware",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Inkoko n'inkware"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Ingasire",
+            "option_2": "Umurabyo",
+            "option_3": "Amata",
+            "option_4": "Inzoka",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Kaburimbo",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Uruhara",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Kaburimbo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Inzoga m'umuheha (umukenke)",
+            "option_2": "Ibikongorwa by'ibisheke",
+            "option_3": "Ifundi mu mamera",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Sogokuru aryoha aboze",
+            "option_1": "Umugina mu rufunzo",
+            "option_2": "Umuneke",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Urupfu",
+            "correct_answer": "Umuneke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite inka yanjye nyiragira ku manga ntitembe",
+            "option_1": "Imyugariro",
+            "option_2": "Amatwi",
+            "option_3": "Ubunyobwa",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Amatwi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Izina ryawe",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rutinduka yitabiriye guhamba umuturanyi we",
+            "option_1": "Akaguru gacumbagira",
+            "option_2": "Ifaranga",
+            "option_3": "Agacaca",
+            "option_4": "Gutara ibitoki",
+            "correct_answer": "Gutara ibitoki"
+        }
+    }
+]

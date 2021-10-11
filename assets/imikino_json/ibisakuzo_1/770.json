@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 382
+    },
+    {
+        "sakwe_1": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Umurozi",
+            "option_2": "Ifaranga",
+            "option_3": "Ibaruwa",
+            "option_4": "Umunyeshuri wabaye uwa mbere",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Ukwezi",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Igisheke",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Imitumba",
+            "option_2": "Agasuzi",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Urutara",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gakore bakwice",
+            "option_1": "Umucaca",
+            "option_2": "Uruyuzi",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Igihaza",
+            "correct_answer": "Agakono k'inzara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abana b'Umwami bicaye ku ntebe imwe",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Intoki ku biganza",
+            "option_3": "Agasuzi",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Intoki ku biganza"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nteye igiti nsarura amabuye",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Iteke",
+            "option_3": "Ibaruwa",
+            "option_4": "Umugezi",
+            "correct_answer": "Iteke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Umusatsi",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Umubagazi",
+            "option_2": "Ibitotsi",
+            "option_3": "Uruhinja",
+            "option_4": "Umuvure",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Uruhinja",
+            "option_2": "Ingasire",
+            "option_3": "Umunyeshuri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ingasire"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kati parararara, kati pa",
+            "option_1": "Umurozi",
+            "option_2": "Amase",
+            "option_3": "Ifaranga ku meza",
+            "option_4": "Akarago ko mu irebe",
+            "correct_answer": "Ifaranga ku meza"
+        }
+    }
+]

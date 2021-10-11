@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 524
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera Inka irisha mu ishyamba ryayo ryonyine",
+            "option_1": "Ubukumi bwa so na nyoko",
+            "option_2": "Agatonyanga ku kigega",
+            "option_3": "Ikibyindi",
+            "option_4": "Agahinda ku murima",
+            "correct_answer": "Agahinda ku murima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Agakecuru Nyarudindiri kamanutse I Gacu na Mpanga kikoreye imigoma itanu",
+            "option_1": "Imfunzo",
+            "option_2": "Umuriro",
+            "option_3": "Umusambi",
+            "option_4": "Imyungu ku ruyuzi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Cyakwica cya Mburamatare",
+            "option_1": "Ubwato mu kiyaga; mu mazi",
+            "option_2": "Ikirago",
+            "option_3": "Agacebe k'intama",
+            "option_4": "Insitare",
+            "correct_answer": "Insitare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inyagarinyagari bana ba mama",
+            "option_1": "Amahundo",
+            "option_2": "Ikizu kitarimo abantu",
+            "option_3": "Amazi ku rukangara",
+            "option_4": "Agahinja",
+            "correct_answer": "Amazi ku rukangara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rukara irajegeza umudende",
+            "option_1": "Inzogera",
+            "option_2": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_3": "Imizi y'urutare",
+            "option_4": "Urushishi ku igufa",
+            "correct_answer": "Urushishi ku igufa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngira inka igakamwa igaramye bwira ikubama",
+            "option_1": "Umuvure",
+            "option_2": "Umwangange",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "Umusambi",
+            "correct_answer": "Umuvure"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Cyurweru cyambaye umwenda kwa Rwangeyo rwa Makombe",
+            "option_1": "Inzira",
+            "option_2": "Urume ku musororo",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Ikinyamushongo",
+            "correct_answer": "Urume ku musororo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngeze mu gahinga mfunga feri",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Agashwi k'inkoko",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Inda mu ihururu",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyamukata ntimena",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Igihu",
+            "option_3": "Ikirenge",
+            "option_4": "Inyundo z'abacuzi",
+            "correct_answer": "Ikirenge"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abarezi babiri bahuriye mu iriba",
+            "option_1": "Inda",
+            "option_2": "Inshunzi z'amata mu cyansi",
+            "option_3": "Ururimi rwawe",
+            "option_4": "Umuheto n'imyambi",
+            "correct_answer": "Inshunzi z'amata mu cyansi"
+        }
+    }
+]

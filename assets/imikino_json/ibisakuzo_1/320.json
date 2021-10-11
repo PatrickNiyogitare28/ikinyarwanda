@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 173
+    },
+    {
+        "sakwe_1": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Ibaruwa",
+            "option_3": "Umwana w'uruhinja",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Amazi yacu arusha ay'ahandi kuryoha",
+            "option_1": "Amata",
+            "option_2": "Imitumba",
+            "option_3": "Umunyereri",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Ikawa",
+            "option_2": "Imanzi mu maribori",
+            "option_3": "Agatonyanga k'imvura",
+            "option_4": "Ijuru n'ukwezi",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Inzuki",
+            "option_3": "Ikiringiti",
+            "option_4": "Umubagazi",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zenguruka duhure",
+            "option_1": "Umukecuru wataye ikijigo cye",
+            "option_2": "Ijwi",
+            "option_3": "Umwijima n'urumuri",
+            "option_4": "Umukandara",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Ikawa",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Agatonyanga k'imvura",
+            "option_4": "Gutara ibitoki",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Inopfu",
+            "option_4": "Telefoni",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Aho Mutara na Mutaga barasaniraga n'ubu haracyatorwa inkurwe",
+            "option_1": "Uruhara rw'umusaza",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Umukecuru wataye ikijigo cye",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruhara rw'umusaza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Insina",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Injangwe ihagaze ku meza ishaka imbeba",
+            "correct_answer": "Insina"
+        }
+    }
+]

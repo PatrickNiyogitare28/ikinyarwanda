@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 341
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze mu irembo mbona Bukoramungabo mu nda",
+            "option_1": "Inzira ijya mu kigega",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Inkono ku mashyiga",
+            "option_4": "Inzu iguye",
+            "correct_answer": "Ikigega kirimo ubusa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Igira inyuma y'inzu uce y'umuze n'umunzenze",
+            "option_1": "Urusogo n'urusogi",
+            "option_2": "Igitonyanga",
+            "option_3": "Uburiri; urusenge",
+            "option_4": "Indiga mu ihene",
+            "correct_answer": "Urusogo n'urusogi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sehene agiye iwabo",
+            "option_1": "Inturo mu rutare",
+            "option_2": "Uruyuki",
+            "option_3": "Igihondohondo",
+            "option_4": "Umukenke",
+            "correct_answer": "Inturo mu rutare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Agasongera",
+            "option_2": "Kubona aho nyokobukwe yiyuhagira",
+            "option_3": "Igicuma bacuncumura",
+            "option_4": "Amashyiga",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Icy'ubwoya icy'impwempwe cyagarika impanga mu mpinga ya Bwanacyambwe",
+            "option_1": "Inuma ku ishaka",
+            "option_2": "Umusoro",
+            "option_3": "Urukangaga",
+            "option_4": "Umwungu mu ncoce",
+            "correct_answer": "Umwungu mu ncoce"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inyagarinyagari bana ba mama",
+            "option_1": "Abakomyi b'insyo",
+            "option_2": "Amazi ku rukangara",
+            "option_3": "Umwironge",
+            "option_4": "Umusure mu ngungu; ikinya mu kwaha",
+            "correct_answer": "Amazi ku rukangara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiramparagata bivemo umukwe wa Minani",
+            "option_1": "Uburo ku rugo",
+            "option_2": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_3": "Icyuho; ikibyindi",
+            "option_4": "Impururu z'ababi",
+            "correct_answer": "Umusure mu ngungu; ikinya mu kwaha"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Gaturutse ikuzimu gashyushye",
+            "option_1": "Akana n'insina",
+            "option_2": "Ikirungurira",
+            "option_3": "Imende ku mugezi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Akana n'insina"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Imodoka",
+            "option_2": "Ibicuma ku nkangara",
+            "option_3": "Umugore utwite",
+            "option_4": "Intubu n'urutwe",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abatutsi barebare baturutse i Ruhanga",
+            "option_1": "Imvura",
+            "option_2": "Igitonyanga cy'imvura",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Igitoki n'amakoma yacyo",
+            "correct_answer": "Imvura"
+        }
+    }
+]

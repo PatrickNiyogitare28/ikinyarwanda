@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 325
+    },
+    {
+        "sakwe_1": {
+            "question": "Mukara w'i Karambi irabira rikarenga",
+            "option_1": "Inzoga",
+            "option_2": "Icyiyone",
+            "option_3": "Umukenke",
+            "option_4": "Umugina, inzira",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rivudukana imbaraga ruvumera rutagira amabere",
+            "option_1": "Imodoka",
+            "option_2": "Akababi kumuvumu",
+            "option_3": "Ikiyege",
+            "option_4": "Igitonyanga cy'imvura",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Imisozi yarahiye isiga inkuba n'imiheto",
+            "option_1": "Umwisheshe",
+            "option_2": "Igitare",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Umusigati",
+            "correct_answer": "Igitare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karenze impinga kannya ibibuye",
+            "option_1": "Akana kavutse kadashyitse",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Umuhumetso",
+            "option_4": "Umurunga",
+            "correct_answer": "Umuhumetso"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Cyamutimbatimba cya ngoma y'abatindi",
+            "option_1": "Inyabutongo",
+            "option_2": "Igitoki n'amakoma",
+            "option_3": "Umuvumu",
+            "option_4": "Umugina, inzira",
+            "correct_answer": "Igitoki n'amakoma"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karavuga ruhuma",
+            "option_1": "Amara",
+            "option_2": "Akamangu mu muvumu",
+            "option_3": "Igishorobwa",
+            "option_4": "Inkono itogota",
+            "correct_answer": "Akamangu mu muvumu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gikubise Ngaru kigaruza Ngaruye kiraza gishyatama aho",
+            "option_1": "Ifi",
+            "option_2": "Igisabo",
+            "option_3": "Igihondohondo",
+            "option_4": "Ikigore cy'ikiva mu nzu",
+            "correct_answer": "Ikigore cy'ikiva mu nzu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati \"pyo!\" Rugamabara ati \"ndaje\"",
+            "option_1": "Amata n'umutsima",
+            "option_2": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "option_3": "Imutsi wo ku kibuno",
+            "option_4": "Uruho",
+            "correct_answer": "Amata n'umutsima"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ingurukira y'umuvumu yameze mu kivure",
+            "option_1": "Urusogo mu mukobwe",
+            "option_2": "Abakomyi b'insyo",
+            "option_3": "Ikinyankari",
+            "option_4": "Akaganza k'uruhinja",
+            "correct_answer": "Urusogo mu mukobwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Igikona n'umutsima",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Umusore warongoye",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    }
+]

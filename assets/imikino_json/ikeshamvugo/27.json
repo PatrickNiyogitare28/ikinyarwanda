@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 11
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Umugana mwinshi",
+            "answer": "Imigana (umwikubo w'umugana urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Aho batereka amata",
+            "answer": "Uruhimbi"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Gutega urusyo ngo rudatemba",
+            "answer": "Kurushyigikira"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Ayo ikamwe bwa kabiri",
+            "answer": "Amarindira"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Amata y'inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Ayaraye ataravura",
+            "answer": "Umubanji"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Kumena igisabo",
+            "answer": "Kukibyarira"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Kubika icyansi, igisabo",
+            "answer": "Kukiranga"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Umwana wa musaza w'umuntu",
+            "answer": "Umwisengeneza"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Musaza wa mama",
+            "answer": "Marume"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Ingurube nyinshi",
+            "answer": "Umugana (zirenze imwe)"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Amata avanze n'amazi",
+            "answer": "Umwerera"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Amata y'inka ikibyara",
+            "answer": "Umuhondo"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Umwana w'ubuvivi",
+            "answer": "Ubuvivure"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Umukumbi mwinshi",
+            "answer": "Imikumbi (umwikubo w'umukumbi urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ifu inoze cyane",
+            "answer": "Inono"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Murumuna, mukuru wa data",
+            "answer": "Data wacu"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Agati bavurugisha amata",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Nyina w'umugabo, umugore wange",
+            "answer": "Mabukwe"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Murumuna, mukuru, musaza w'umugore wange",
+            "answer": "Muramu wange"
+        }
+    }
+]

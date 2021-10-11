@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 474
+    },
+    {
+        "sakwe_1": {
+            "question": "Barugerageze barugere imigozi barushyire hagati y'abagabo",
+            "option_1": "Intore n'umutsima",
+            "option_2": "Igicuma bacuncumura",
+            "option_3": "Umusambi",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Intore n'umutsima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ishenyi isenya urw'undi ihora mu rwuguriro",
+            "option_1": "Inzara y'uruhinja",
+            "option_2": "Umusambane",
+            "option_3": "Ishavu",
+            "option_4": "Igihuru gihiye uruhande rumwe",
+            "correct_answer": "Umusambane"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Dore ibyo bigutu bya so ngo birarenga urugo",
+            "option_1": "Ikivumvuri",
+            "option_2": "Igihumyo",
+            "option_3": "Isuka mu icukiro",
+            "option_4": "Icyobo",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera umuriro uzimya undi",
+            "option_1": "Igishirira kiguye mu mazi ashyushye",
+            "option_2": "Ikizubazuba",
+            "option_3": "Ikinyagu",
+            "option_4": "Agasongero",
+            "correct_answer": "Igishirira kiguye mu mazi ashyushye"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Narabudoze ndabudanagira nabukubise ku ngoma ya Rukatiriza",
+            "option_1": "Ubutanda ku muvure",
+            "option_2": "Ikinyagu",
+            "option_3": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_4": "Umusoro",
+            "correct_answer": "Ubutanda ku muvure"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata agakono mfata akandi tujye guherekeza Nyamuhirimanga",
+            "option_1": "Urusenge",
+            "option_2": "Umugore utwite",
+            "option_3": "Intete y'ururo",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Urugo udasangamo nyoko",
+            "option_2": "Igitama cyaguye mu mukokwe",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Ubwato mu ruzi",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite abana ntiwababara",
+            "option_1": "Agahinzi kamwe mu murima",
+            "option_2": "Intashya",
+            "option_3": "Agatonyanga",
+            "option_4": "Uburo",
+            "correct_answer": "Uburo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Agakoni kanjye ka rutigatiga nashaka nagatuma umwami",
+            "option_1": "Ingabo y'ubuki",
+            "option_2": "Inkono y'itabi",
+            "option_3": "Urusyo",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Ingabo y'ubuki"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Imisozi irashya Rukaba yo ntishya",
+            "option_1": "Ikiba cy'ubwatsi",
+            "option_2": "Ikidasesa",
+            "option_3": "Urutare",
+            "option_4": "Igitoki n'amakoma yacyo",
+            "correct_answer": "Urutare"
+        }
+    }
+]

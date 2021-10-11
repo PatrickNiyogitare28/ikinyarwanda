@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 339
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Amabya",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Imodoka",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyangufi arasekura uburo",
+            "option_1": "Ibaruwa",
+            "option_2": "Ishapure n'amasengesho",
+            "option_3": "Igikoro",
+            "option_4": "Ifundi mu mamera",
+            "correct_answer": "Ifundi mu mamera"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bacuye dutanguranwe",
+            "option_1": "Ifaranga",
+            "option_2": "Ijwi",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Umusore wishwe n'inzara",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Igikatsi",
+            "option_2": "Igisheke",
+            "option_3": "Televiziyo",
+            "option_4": "Inshya z' umutwakazi",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zisa zitagira isano",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Igare rigeze ahazamuka",
+            "option_3": "Inkoko n'inkware",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Inkoko n'inkware"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Byumve uhore",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Gusitara",
+            "option_3": "Umusuzi wa so",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Umusuzi wa so"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Umunyereri",
+            "option_2": "Igitoki",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Gutara ibitoki",
+            "option_2": "Uruyuzi",
+            "option_3": "Kaburimbo",
+            "option_4": "Akayuzi mu rubibi",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera nakwiteguye",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Igare rigeze ahazamuka",
+            "option_3": "Gusitara",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Umucaca",
+            "option_2": "Umuntu",
+            "option_3": "Amabere",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Amabere"
+        }
+    }
+]

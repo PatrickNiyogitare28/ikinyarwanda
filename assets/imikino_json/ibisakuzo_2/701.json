@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 330
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Uruzi; ishami ry'uruzi",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Umurara w'uburo",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hagarara mu itahe najye mpagarare mu itongo",
+            "option_1": "Ubunyerere",
+            "option_2": "Intashya",
+            "option_3": "Umugabo wambaye umwenda mushya",
+            "option_4": "Ifundi",
+            "correct_answer": "Intashya"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Urace inkoni ngufi turagiye mu ishyamba",
+            "option_1": "Umusatsi",
+            "option_2": "Umusigati",
+            "option_3": "Amahururu y'ababi",
+            "option_4": "Igiteke mu nkono",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Ingwa",
+            "option_2": "Umugore ujya kuzimura",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Igihumyo; umwobo",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kati \"pyo!\" Rugamabara ati \"ndaje\"",
+            "option_1": "Ifaranga",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Ubuheri mu gihata",
+            "option_4": "Umusigati",
+            "correct_answer": "Amata n'umutsima"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze mu irembo mbona Bukoramungabo mu nda",
+            "option_1": "Ikidasesa",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Umuntu uri kuri ipikipiki",
+            "option_4": "Ubutanda ku muvure",
+            "correct_answer": "Ikigega kirimo ubusa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mvuye aha ncumbagira ngera iyo nshaka",
+            "option_1": "Akayuki k'akungu",
+            "option_2": "Ibisunzu bya rusake",
+            "option_3": "Uruboho",
+            "option_4": "Amafundi",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karagonda isebeya",
+            "option_1": "Ifundi",
+            "option_2": "Uruyuki",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Agafundi ko ku nzira\n \nmaganyiro",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bashinze urukiramende ku ngoma ya Gahindiro n'ubu sindarugendera ngo ndusimbutse",
+            "option_1": "Umurara w'uburo",
+            "option_2": "Akazizi k'amata",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Uruyuki",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Ikidasesa",
+            "option_3": "Ipfundo ry'urudodo",
+            "option_4": "Ubutanda ku muvure",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    }
+]

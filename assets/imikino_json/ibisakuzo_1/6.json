@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 777
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Firigo",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Urukoma n'insina",
+            "option_4": "Ibiganza",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Imodoka",
+            "option_2": "Sida",
+            "option_3": "Inyenyeri",
+            "option_4": "Amata",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rukara rw'umwami yicarira abagabo batatu",
+            "option_1": "Inkono",
+            "option_2": "Ivunja",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Zagarika amahembe ntiwamenya izo nyoko yakowe",
+            "option_1": "Ibizu bitagira abantu",
+            "option_2": "Ibiti by'ikawa",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Ikigori",
+            "correct_answer": "Ibiti by'ikawa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama shenge",
+            "option_1": "Ibitotsi",
+            "option_2": "Ibikongorwa by'ibisheke",
+            "option_3": "Sone yo ku irembo",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Umwana w'uruhinja"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hakurya ni urwererane, hakuno ni urwererane",
+            "option_1": "Ifaranga",
+            "option_2": "Ururabo rw'ikawa",
+            "option_3": "Umurabyo",
+            "option_4": "Igikoro",
+            "correct_answer": "Ururabo rw'ikawa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Amabere",
+            "option_2": "Agatsinsino",
+            "option_3": "Umusatsi w'intabwa",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Umuvumbyi",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Ifurwe",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ikigori",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Ikiryango cy'inzu",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Twaraye ihinga isuka iramungwa",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Akatsi ko ku nzu",
+            "option_3": "Isahani yaguye ingese",
+            "option_4": "Umubagazi",
+            "correct_answer": "Isahani yaguye ingese"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 762
+    },
+    {
+        "sakwe_1": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Umurabyo",
+            "option_2": "Uruhu rw'intama",
+            "option_3": "Igitonyanga",
+            "option_4": "Ishyiga ry'inyuma",
+            "correct_answer": "Ishyiga ry'inyuma"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiraburemo bamurengeje urugo",
+            "option_1": "Inuma ku ishaka",
+            "option_2": "Umusemburo",
+            "option_3": "Amaguru ya muhuhirizi",
+            "option_4": "Ibipfuko",
+            "correct_answer": "Ibipfuko"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Cyamutimbatimba cya ngoma y'abatindi",
+            "option_1": "Igitoki n'amakoma",
+            "option_2": "Intore y'amahingura",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Gutsika uruzi",
+            "correct_answer": "Igitoki n'amakoma"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Cyimitse ingere gihetse Rwigema kigiye gusumba Tarasi umwami w'i Gisaka",
+            "option_1": "Ijambo rya mukeba",
+            "option_2": "Ikigori",
+            "option_3": "Urubura",
+            "option_4": "Imizi y'urutare",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngira umutabo ugahingwa n'isuka y'indoko",
+            "option_1": "Inkinwa cya nyirabarazana",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Umwangange",
+            "option_4": "Umuce wo mu irebe",
+            "correct_answer": "Inkinwa cya nyirabarazana"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ubunyenyeri bwa Karongi bwaciye intungura ibara",
+            "option_1": "Umwumano w'ishashi",
+            "option_2": "Akaganza k'uruhinja",
+            "option_3": "Umbusore ugwanye ingabo",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Umbusore ugwanye ingabo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ntereye agashami mu gishanga amashami akwira irwanda",
+            "option_1": "Imbaragasa mu kirenge",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Inkono yuzuye ibiryo",
+            "option_4": "Amabere",
+            "correct_answer": "Ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Umugabo urimbana impuzu mu mpinga ya Gihubuke",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Ibere ry'inkumi",
+            "option_4": "Ababirigi",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ingurukira y'umuvumu yameze mu kivure",
+            "option_1": "Isake; impanda",
+            "option_2": "Urusogo mu mukobwe",
+            "option_3": "Umwumbati",
+            "option_4": "Agasuna",
+            "correct_answer": "Urusogo mu mukobwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavugira i Bumpanika",
+            "option_1": "Akagasire ku rusyo",
+            "option_2": "Umucundura",
+            "option_3": "Igiteke mu nkono",
+            "option_4": "Agahinja",
+            "correct_answer": "Akagasire ku rusyo"
+        }
+    }
+]

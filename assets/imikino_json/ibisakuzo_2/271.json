@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 641
+    },
+    {
+        "sakwe_1": {
+            "question": "Kujya mu bajiji wari umujiji",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umuyaga",
+            "option_3": "Umugina mu rufunzo; umwishywa mu isusa",
+            "option_4": "Inzara n'umwijuto",
+            "correct_answer": "Umugina mu rufunzo; umwishywa mu isusa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngira umwana nkamugaburira urushyi rumwe agahaga",
+            "option_1": "Urugo",
+            "option_2": "Inkono y'itabi",
+            "option_3": "Agasuzi",
+            "option_4": "Agakono k'amapfa",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngira inka nkayisasira amahwa nkayorosa andi",
+            "option_1": "Ururimi",
+            "option_2": "Intoki",
+            "option_3": "Urusenge",
+            "option_4": "Ikibwana cy'imbwa",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hirya hariya hari imizo n'iminzenzi",
+            "option_1": "Umusore",
+            "option_2": "Isogo n'inyabutongo",
+            "option_3": "Igitsina cy'amateke",
+            "option_4": "Ivubi; uruyuki",
+            "correct_answer": "Isogo n'inyabutongo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inka zanjye zaragiye zigaruka mu mpinga y'abankunda",
+            "option_1": "Umuyaga",
+            "option_2": "Inkota mu bitugu",
+            "option_3": "Imyenge y'amazuru",
+            "option_4": "Igisabo",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gihegege mushiki wa Ntare",
+            "option_1": "Umusemburo mu kibindi",
+            "option_2": "Imigondoro y'ibishyimbo",
+            "option_3": "Akabeba mu buki",
+            "option_4": "Ibijumaba",
+            "correct_answer": "Akabeba mu buki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nubatse urugo hejuru y'urupfu",
+            "option_1": "Ubwato mu kiyaga; mu ruzi",
+            "option_2": "Imiduha",
+            "option_3": "Inkware",
+            "option_4": "Icyibo",
+            "correct_answer": "Ubwato mu kiyaga; mu ruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Uruhu rw'imbwa",
+            "option_2": "Imondo mu gihu",
+            "option_3": "Akatsi ko ku nzu",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nasanze nyamunsi yasa inkwi munsi y'inzira",
+            "option_1": "Inyamanza",
+            "option_2": "Umwana w'ifundi",
+            "option_3": "Abakomyi b'insyo",
+            "option_4": "Ikinyogote",
+            "correct_answer": "Inyamanza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyamunsi aragendera hejuru y'urupfu",
+            "option_1": "Inzara mu ruheri",
+            "option_2": "Urutumbwe",
+            "option_3": "Umushoferi w'indege",
+            "option_4": "Ijambo rya mukeba",
+            "correct_answer": "Umushoferi w'indege"
+        }
+    }
+]

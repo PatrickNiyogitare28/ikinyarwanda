@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 324
+    },
+    {
+        "sakwe_1": {
+            "question": "Turatemba shyashyari",
+            "option_1": "Igikoro",
+            "option_2": "Insina",
+            "option_3": "Uruhabuzo mu ntoke",
+            "option_4": "Uruzi ku rutare",
+            "correct_answer": "Uruzi ku rutare"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tabara umwana w'umwami agiye kugwa mwiriba",
+            "option_1": "Impururu z'umutindi",
+            "option_2": "Umucaca",
+            "option_3": "Urujyo ku nkoko",
+            "option_4": "Inkono yuzuye ibiryo",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyoko arusha mama amabuno manini",
+            "option_1": "Intashya",
+            "option_2": "Nyankari",
+            "option_3": "Igitembatembe",
+            "option_4": "Ifaranga",
+            "correct_answer": "Igitembatembe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Rugina igana intaho",
+            "option_1": "Igihondohondo",
+            "option_2": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "option_3": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_4": "Ikizubazuba",
+            "correct_answer": "Ikizubazuba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_2": "Urusenge",
+            "option_3": "Isekurume y'intama",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Urusenge"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Ipfundo ry'urudodo",
+            "option_2": "Inguri",
+            "option_3": "Amashyiga",
+            "option_4": "Urugori rw'ibishyimbo",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ni jye muzindutsi wa cyane nasanze umuzimu yicaye ku kaguru",
+            "option_1": "Umudwedwe",
+            "option_2": "Inkware",
+            "option_3": "Umukenke",
+            "option_4": "Ifurwe",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inyabutatu ya butanu ku ngoyi imwe",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Imyungu ku ruyuzi",
+            "option_3": "Umuhinzi umwe mu murima",
+            "option_4": "Inshuzi mu cyansi",
+            "correct_answer": "Imyungu ku ruyuzi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ndagukubita nkakwitaza nitwa umugaragu wa Mburamatare",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Umugore utwite",
+            "option_3": "Icebe ry'imbaragasa",
+            "option_4": "Ururimi",
+            "correct_answer": "Gusitara ku ibuye"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho Ruhondo yabagiwe ntihateze kuzashira ibinure",
+            "option_1": "Inkono ku mashyiga",
+            "option_2": "Ubuzuru bw'imbwa",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Igitoki",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    }
+]

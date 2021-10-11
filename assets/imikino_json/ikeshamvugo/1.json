@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 7
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Kugendera kimwe",
+            "answer": "Kugendera rimwe"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Se wa data, mama",
+            "answer": "Sogokuru"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Sugende",
+            "answer": "Ntugende"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Mushiki w'umugabo wawe",
+            "answer": "Muramukazi"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Amata y'inka ikibyara",
+            "answer": "Umuhondo"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Se wa sogokuru, nyogokuru",
+            "answer": "Sogokuruza"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Umugabo wa mushiki wange",
+            "answer": "Muramu wange"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Mubigenze utyo",
+            "answer": "Mubigenze mutyo"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Aho basohokera bataha",
+            "answer": "Ku irembo"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Ariho amazi abira",
+            "answer": "Ari mu mazi abira"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Amata y'inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Umugana mwinshi",
+            "answer": "Imigana (umwikubo w'umugana urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Aho babika inkota",
+            "answer": "Urwubati"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Yiga amerika",
+            "answer": "Yiga muri amerika"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Kumena igisabo",
+            "answer": "Kukibyarira"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Indirimbo nyinshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Amago",
+            "answer": "Ingo"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kumena amata ubishaka",
+            "answer": "Kuyabikira, kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Amata y'inka ihaka",
+            "answer": "Amasitu"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Imbere h'umuheto",
+            "answer": "Ku ruhembe"
+        }
+    }
+]

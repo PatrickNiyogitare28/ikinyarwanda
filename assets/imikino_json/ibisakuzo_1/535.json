@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 214
+    },
+    {
+        "sakwe_1": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Ifaranga",
+            "option_2": "Amabere",
+            "option_3": "Igisozi kirekire",
+            "option_4": "Ingoto y'umugabo",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hagarara hakuno,mpagarare hakurya turate abeza",
+            "option_1": "Icyobo",
+            "option_2": "Amenyo",
+            "option_3": "Ifaranga",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amenyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana b'Umwami bicaye ku ntebe imwe",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Intoki ku biganza",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Ifu",
+            "correct_answer": "Intoki ku biganza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kirihura nk'ikitagira amaso",
+            "option_1": "Ibirenge by'umuntu",
+            "option_2": "Umugezi",
+            "option_3": "Isusa",
+            "option_4": "Imodoka yabuze feri",
+            "correct_answer": "Imodoka yabuze feri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Inyamunyo",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Igare rigeze ahazamuka",
+            "option_4": "Icyobo",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rutuku mu gitebo",
+            "option_1": "Amashaza",
+            "option_2": "Icyumweru",
+            "option_3": "Ifaranga",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana banjye bangana bose",
+            "option_1": "Imbunda",
+            "option_2": "Ifundi",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Kwirebera mu kirahuri",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Umusazi",
+            "option_3": "Inkono",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Gusitara",
+            "option_2": "Isusa",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Imodoka",
+            "correct_answer": "Isusa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Iteke",
+            "option_2": "Icyobo",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Isoko",
+            "correct_answer": "Icyobo"
+        }
+    }
+]

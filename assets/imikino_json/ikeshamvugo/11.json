@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 19
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Kuyavanamo amavuta",
+            "answer": "Kwavura, gusobanura"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Ay'ikivuguto kitavuruze",
+            "answer": "Amenda"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Amata y'inka ikibyara",
+            "answer": "Umuhondo"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Umugana mwinshi",
+            "answer": "Imigana (umwikubo w'umugana urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Ibyo bakoresha mu mata byose",
+            "answer": "Ibyansi"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Ibuye baseraho",
+            "answer": "Urusyo"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Amaze kuvura",
+            "answer": "Ikivuguto"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Ibiti bitandukanya isambu n'indi",
+            "answer": "Urubibi"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Ayo ikamwe bwa kabiri",
+            "answer": "Amarindira"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Ibiti bakingisha mu irembo",
+            "answer": "Imyugariro"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Amago",
+            "answer": "Ingo"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Sisiteme [system] dukoreramo",
+            "answer": "Uburyo dukoreramo"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Amata bagikama",
+            "answer": "Inshyushyu"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Nyina wa data,  mama",
+            "answer": "Nyogokuru"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Umwana w'ubuvivi",
+            "answer": "Ubuvivure"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Kubika icyansi, igisabo",
+            "answer": "Kukiranga"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Indirimbo nyinshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Abajama",
+            "answer": "Urungano"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Amata yiriwe",
+            "answer": "Amirire"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Ibuye bakomesha urusyo",
+            "answer": "Intosho"
+        }
+    }
+]

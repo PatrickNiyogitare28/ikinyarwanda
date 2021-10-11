@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 602
+    },
+    {
+        "sakwe_1": {
+            "question": "Nta kamwe nta akandi ngere iyo!!",
+            "option_1": "Irobe",
+            "option_2": "Udukongorwa",
+            "option_3": "Umusambi",
+            "option_4": "Agahinda mu murima",
+            "correct_answer": "Udukongorwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera igisumba ngari",
+            "option_1": "Ururimi",
+            "option_2": "Udukongorwa",
+            "option_3": "Uruyuzi",
+            "option_4": "Ururo mu mateke",
+            "correct_answer": "Ururo mu mateke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kagaga iri hagati y'urugano",
+            "option_1": "Inuma mu ntabire",
+            "option_2": "Imboni",
+            "option_3": "Ururimi",
+            "option_4": "Amahindu mu mateke",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kidimba cya Muragi umwana w'umuganda ntawe utamugira",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Umwironge",
+            "option_3": "Igicaniro; igisabo",
+            "option_4": "Ikiziba mu mpinga",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ikigira izina ntikigire ibara",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Umuyaga; umusuzi; amazi",
+            "option_3": "Umusatsi",
+            "option_4": "Agaheha mu gacuma",
+            "correct_answer": "Umuyaga; umusuzi; amazi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Sehene agiye iwabo",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Inturo mu rutare",
+            "option_3": "Umuheto n'imyambi",
+            "option_4": "Ibipfuko",
+            "correct_answer": "Inturo mu rutare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira inka nkayirya igenda",
+            "option_1": "Injuma y'uruhinja",
+            "option_2": "Umuhoro",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Uruyuzi; umugezi",
+            "correct_answer": "Uruyuzi; umugezi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Tora ubuhiri ntore ubundi tujye kuvumbura inyamaswa itagira umurizo",
+            "option_1": "Isogo n'inyabutongo",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Intosho",
+            "option_4": "Ikigoli",
+            "correct_answer": "Intosho"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nirirwa ntambuka bukira nkibatambuka",
+            "option_1": "Ifaranga",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Umutumba",
+            "option_4": "Umugore unnya kugihuru",
+            "correct_answer": "Umutumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Agakono k'iwacu ni imbungiramihigo",
+            "option_1": "Umuriro",
+            "option_2": "Ikijumba",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Umusambi",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    }
+]

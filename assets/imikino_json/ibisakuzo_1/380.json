@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 128
+    },
+    {
+        "sakwe_1": {
+            "question": "Ni iki cyatanze umuzungu kwambara karuvati",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Ikiyoni",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Ifaranga",
+            "option_2": "Umuneke",
+            "option_3": "Ikiryango cy'inzu",
+            "option_4": "Igihandure",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kiribwa kidahingwa",
+            "option_1": "Uruhara",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Ifaranga",
+            "option_4": "Inyama",
+            "correct_answer": "Inyama"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Icyo nsasira ntikirame",
+            "option_1": "Igihandure",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Ikawa",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Icwende ryanjye rimbaye kure mba ngukoreyemo",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Ukwezi",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nkubise umupira ugera i Ngozi",
+            "option_1": "Igisenge",
+            "option_2": "Ibaruwa",
+            "option_3": "Indumane",
+            "option_4": "Ivunja",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngenda gahoro ariko nzagerayo",
+            "option_1": "Ifu",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Igikeri",
+            "correct_answer": "Igikeri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyoko si ukunnya arahurutura",
+            "option_1": "Inyana y'umutavu",
+            "option_2": "Akayunguruzo",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Igikatsi",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Igicucucucu",
+            "option_4": "Kubuza umuryi kurya",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Agakono k'amanywa",
+            "option_2": "Umurabyo",
+            "option_3": "Umugore utwite",
+            "option_4": "Umuheto",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 129
+    },
+    {
+        "sakwe_1": {
+            "question": "Aka kariza so",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Ijambo rya perezida",
+            "option_3": "Inyama",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Ishyiga",
+            "option_2": "Ifurwe",
+            "option_3": "Inyamunyo",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Umusaza Sacyoya agendera ku kabando kamwe",
+            "option_1": "Igikoro",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Biteganya bitazahura",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Ibitotsi",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Imana",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inka yanjye nyikama igenda",
+            "option_1": "Igisheke",
+            "option_2": "Uruyuzi",
+            "option_3": "Umukecuru wataye ikijigo cye",
+            "option_4": "Umuheto",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Amabere",
+            "option_2": "Igisabo",
+            "option_3": "Igihandure",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Ishyiga",
+            "option_2": "Indabo z'amashaza",
+            "option_3": "Ikaramu",
+            "option_4": "Amacandwe y'incira",
+            "correct_answer": "Ishyiga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Amazi yacu arusha ay'ahandi kuryoha",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Ifaranga",
+            "option_3": "Amata",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Uruyuzi",
+            "option_2": "Umucaca",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Kubuza umuryi kurya",
+            "option_3": "Umuvuba",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    }
+]

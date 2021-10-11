@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 757
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Urwembe mu musatsi",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Inkono",
+            "option_4": "Urutare",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramutarataje abagabo",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Icyobo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Twavukiye rimwe ariko ntitureshya",
+            "option_1": "Imisozi",
+            "option_2": "Umugore utwite",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Imisozi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abana banjye bicaye bose",
+            "option_1": "Umugezi",
+            "option_2": "Imirya y'inanga",
+            "option_3": "Ikibuno",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Ibirundiro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Ibibabi by'ikibonobono",
+            "option_2": "Imvura",
+            "option_3": "Akabyindi k'umushumba",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndakubise ndirahira nijye mutware wa Mburamatare",
+            "option_1": "Ikivugirizo",
+            "option_2": "Gusitara",
+            "option_3": "Inshya z' umutwakazi",
+            "option_4": "Akayuzi mu rubibi",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Agenda neza nuko yanga abanjye",
+            "option_1": "Umucaca",
+            "option_2": "Intare",
+            "option_3": "Ibizu bitagira abantu",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Intare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Ibaruwa",
+            "option_3": "Umusazi",
+            "option_4": "Amase y'inka",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nkuruye umugozi ishyamba rirahubangana",
+            "option_1": "Umusore wishwe n'inzara",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Intete z'ibigori",
+            "option_4": "Inyama",
+            "correct_answer": "Umusore wishwe n'inzara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Umugore ujya iwabo",
+            "option_2": "Igikoro",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Ishyiga",
+            "correct_answer": "Ishyiga"
+        }
+    }
+]

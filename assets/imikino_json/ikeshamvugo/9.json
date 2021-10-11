@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 30
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ay'ikivuguto kitavuruze",
+            "answer": "Amenda"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Ikintu cyo mbaza",
+            "answer": "Ikintu mbaza"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Yiga amerika",
+            "answer": "Yiga muri amerika"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Uwo muntu yafashwe ari kumwe n'ibiyobyabwenge",
+            "answer": "Uwo muntu yafatanywe ibiyobyabwenge"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Intama,ihene nyinshi",
+            "answer": "Umukumbi (zigeze ku munani)"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Aduhe ubusobanuro burambuye",
+            "answer": "Aduhe ibisobanura birambuye"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Sisiteme [system] dukoreramo",
+            "answer": "Uburyo dukoreramo"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amata y'inka ihaka",
+            "answer": "Amasitu"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Amashyi menshi",
+            "answer": "Urufaya"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Nyina wa data,  mama",
+            "answer": "Nyogokuru"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Amavuta yisigwa",
+            "answer": "Ikimuri"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Se wa data, mama",
+            "answer": "Sogokuru"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Kumena igisabo",
+            "answer": "Kukibyarira"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Umwana w'ubuvivi",
+            "answer": "Ubuvivure"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Ingurube nyinshi",
+            "answer": "Umugana (zirenze imwe)"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ay'inka yapfushije",
+            "answer": "Ubusuri"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Indirimbo nyinshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Se (nyina) b'umukwe wawe, umukazana wawe",
+            "answer": "Bamwana wawe"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Amata inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    }
+]

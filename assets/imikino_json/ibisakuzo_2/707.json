@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 421
+    },
+    {
+        "sakwe_1": {
+            "question": "Kujya mu bajiji wari umujiji",
+            "option_1": "Isha mu ibanga",
+            "option_2": "Amaso",
+            "option_3": "Uruboho",
+            "option_4": "Umugina mu rufunzo; umwishywa mu isusa",
+            "correct_answer": "Umugina mu rufunzo; umwishywa mu isusa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho umugabo ahinze ntasarura",
+            "option_1": "Igi ry'inkoko",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Imbaragasa",
+            "option_4": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bitamba araguye n'ingabo ze zose",
+            "option_1": "Igitoki n'insina bigwanye",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "correct_answer": "Igitoki n'insina bigwanye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "I Burundi n'i Bunyabungo inama ni imwe",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Isuka",
+            "option_3": "Ibirago",
+            "option_4": "Imigondoro w'ibishyimbo",
+            "correct_answer": "Inkono ku ziko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karavugira i Tanama",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Umugabo wambaye umwenda mushya",
+            "option_4": "Inkono ku ziko",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kiti \"tiku\", kiti \"dumburi\", kiti \"databuja nkumbuye i Rwanda",
+            "option_1": "Umusemburo mu kibindi",
+            "option_2": "Urubura mu masaka",
+            "option_3": "Agashwi k'inkoko",
+            "option_4": "Umunyorogoto",
+            "correct_answer": "Umusemburo mu kibindi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nambutse uruzi ndangaje innyo",
+            "option_1": "Umutobotobo",
+            "option_2": "Uruyongoyongo",
+            "option_3": "Umugata",
+            "option_4": "Ubwanwa",
+            "correct_answer": "Umugata"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Agakoni kanjye ka rutigatiga nashaka nagatuma umwami",
+            "option_1": "Ukuguru kw'imbaragasa",
+            "option_2": "Ingabo y'ubuki",
+            "option_3": "Amazi ku rukangara",
+            "option_4": "Umusuzi",
+            "correct_answer": "Ingabo y'ubuki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera umuriro uzimya undi",
+            "option_1": "Insina y'ikinyangurube",
+            "option_2": "Igishirira kiguye mu mazi ashyushye",
+            "option_3": "Inkono n' ibipfuko",
+            "option_4": "Uburiri; urusenge",
+            "correct_answer": "Igishirira kiguye mu mazi ashyushye"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kakwica kakwigarika akambari ka Matene",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Amazi mu gisura",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Agahwa mu rwondo",
+            "correct_answer": "Agahwa mu rwondo"
+        }
+    }
+]

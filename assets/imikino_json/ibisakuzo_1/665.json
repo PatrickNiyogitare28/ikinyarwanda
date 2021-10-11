@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 613
+    },
+    {
+        "sakwe_1": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Ukwezi n'inyenyeri",
+            "option_3": "Inopho",
+            "option_4": "Agakono k'amanywa",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Baguhaga akabando urwaye iki?",
+            "option_1": "Igikoro",
+            "option_2": "Igikoro",
+            "option_3": "Iteke",
+            "option_4": "Amata",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Umutwe",
+            "option_2": "Inopho",
+            "option_3": "Ubwato hejuru y'ikiyaga",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hepfo ngo pi, hirya ngo pi",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Imvura",
+            "option_3": "Igitiritiri",
+            "option_4": "Inyoni",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Biratinyana",
+            "option_1": "Umusore wishwe n'inzara",
+            "option_2": "Ibitotsi",
+            "option_3": "Ifundi",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Umwijima n'urumuri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Amabere",
+            "option_3": "Umusatsi",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Aho Mutara na Mutaga barasaniraga n'ubu haracyatorwa inkurwe",
+            "option_1": "Intoki ku biganza",
+            "option_2": "Ururimi n'amenyo",
+            "option_3": "Intare",
+            "option_4": "Uruhara rw'umusaza",
+            "correct_answer": "Uruhara rw'umusaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Ifaranga ku meza",
+            "option_3": "Ifaranga",
+            "option_4": "Indege",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Havuyemo umwe ntitwabimenya",
+            "option_1": "Indumane",
+            "option_2": "Imodoka yabuze feri",
+            "option_3": "Amenyo",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Ubwatsi busakaye inzu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rutinduka yitabiriye guhamba umuturanyi we",
+            "option_1": "Umutego",
+            "option_2": "Umwana w'uruhinja",
+            "option_3": "Ingoto y'umugabo",
+            "option_4": "Gutara ibitoki",
+            "correct_answer": "Gutara ibitoki"
+        }
+    }
+]

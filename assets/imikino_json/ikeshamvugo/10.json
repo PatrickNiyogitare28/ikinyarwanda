@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 21
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Amata bagikama",
+            "answer": "Inshyushyu"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Amata y'abashumba",
+            "answer": "Imyezo"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Imbere mu nzu",
+            "answer": "Mu mbere"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Irembo ryo mu gikari",
+            "answer": "Icyanzu"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Umukeno mwinshi",
+            "answer": "Imikeno (umwikubo w'umukeno urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Amajwi menshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Ay'inka yapfushije",
+            "answer": "Ubusuri"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Amata y'inka ihaka",
+            "answer": "Amasitu"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Kumena amata ubishatse",
+            "answer": "Kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Imbere h'umuheto",
+            "answer": "Ku ruhembe"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Ibiti 2 banyuramo hagati bajya ku irembo",
+            "answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Ishyo ryinshi",
+            "answer": "Amashyo (umwikubo w'ishyo rirenze rimwe)"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Umwana wa musaza w'umuntu",
+            "answer": "Umwisengeneza"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Ndavuze ati",
+            "answer": "Ndavuze nti"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Mushiki wa data",
+            "answer": "Masenge"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kumena igisabo",
+            "answer": "Kukibyarira"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Aho batereka amata",
+            "answer": "Uruhimbi"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Gutangira gusya",
+            "answer": "Kwanzika"
+        }
+    }
+]

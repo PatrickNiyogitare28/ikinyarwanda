@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 4
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Mubigenze utyo",
+            "answer": "Mubigenze mutyo"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Se wa data, mama",
+            "answer": "Sogokuru"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Aduhe ubusobanuro burambuye",
+            "answer": "Aduhe ibisobanura birambuye"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Isonga ry'uruhindu (umunwa)",
+            "answer": "Umuretso"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Ibiti bakingisha mu irembo",
+            "answer": "Imyugariro"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Gutega urusyo ngo rudatemba",
+            "answer": "Kurushyigikira"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Kurangiza gusya",
+            "answer": "Kwanzura"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Aho umwami yaciraga imanza",
+            "answer": "Ku gitabo cy'intarengwa"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Inka nyinshi",
+            "answer": "Ishyo (zigeze ku munani)"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Nyina wa data,  mama",
+            "answer": "Nyogokuru"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Ishyo ryinshi",
+            "answer": "Amashyo (umwikubo w'ishyo rirenze rimwe)"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Ibiti bitandukanya isambu n'indi",
+            "answer": "Urubibi"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Kugura urusyo",
+            "answer": "Gukosha urusyo"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Ndamuyoka",
+            "answer": "Ndamubona (ndamutahura)"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Igitandukanya icyumba n'ikindi mu nzu ya kinyarwanda",
+            "answer": "Inyegamo"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Amata y'inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kuyamena agucitse",
+            "answer": "Kuyabogora"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Ayaraye ataravura",
+            "answer": "Umubanji"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Ingurube nyinshi",
+            "answer": "Umugana (zirenze imwe)"
+        }
+    }
+]

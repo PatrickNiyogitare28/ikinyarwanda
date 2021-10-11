@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 506
+    },
+    {
+        "sakwe_1": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Ururabo rw'ikawa",
+            "option_2": "Ibiti by'ikawa",
+            "option_3": "Agasuzi",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hakurya urwererane, hakuno urwererane",
+            "option_1": "Ibitotsi",
+            "option_2": "Ukwezi n'inyenyeri",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Ururabo ry'amashyaza"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana banjye barara bahagaze bakirirwa bahagaze",
+            "option_1": "Inkingi",
+            "option_2": "Izuba ry'impeshyi",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mama nshuti",
+            "option_1": "Izuba",
+            "option_2": "Imana",
+            "option_3": "Amata",
+            "option_4": "Ikirago",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umuzungu mu modoka",
+            "option_3": "Corogati",
+            "option_4": "Uruzi",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Agakecuru ka;anutse i Nyarushurushuru kiteye imirwa munani",
+            "option_1": "Inopfu",
+            "option_2": "Akayunguruzo",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Intete z'ibigori",
+            "correct_answer": "Intete z'ibigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rwakajwiga arira ku nkomo",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Akarere ku nsina",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Imbwa ishumitse"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Ibitotsi",
+            "option_2": "Ifaranga",
+            "option_3": "Ifundi",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gitare n'iyayo birakina",
+            "option_1": "Ikirago",
+            "option_2": "Ijuru n'ukwezi",
+            "option_3": "Umuheto n'umwambi",
+            "option_4": "Umurabyo",
+            "correct_answer": "Ijuru n'ukwezi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Ibaruwa",
+            "option_2": "Inyoni",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Inyoni"
+        }
+    }
+]

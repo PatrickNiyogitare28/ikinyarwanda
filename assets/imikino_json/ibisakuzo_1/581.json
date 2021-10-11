@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 756
+    },
+    {
+        "sakwe_1": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Ifaranga",
+            "option_2": "Ibitotsi",
+            "option_3": "Igitiritiri",
+            "option_4": "Igisozi kirekire",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Ibitotsi bya mu gitondo",
+            "option_3": "Inyenyeri",
+            "option_4": "Urutare",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akamanimbanimba,ingoma zo kwa Magagi zivuga zinihira",
+            "option_1": "Buji",
+            "option_2": "Umwumba w'insina",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Isusa",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ujya kurasa inkuba arabandarara",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Urupfu",
+            "option_3": "Izuba",
+            "option_4": "Icyumweru",
+            "correct_answer": "Kwatsa mu ziko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Agasuzi",
+            "option_2": "Intoki ku biganza",
+            "option_3": "Akayunguruzo",
+            "option_4": "Ibigori",
+            "correct_answer": "Ibigori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Intare",
+            "option_2": "Urupfu",
+            "option_3": "Ikawa",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Inopho",
+            "option_2": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_3": "Impeke y'uburo",
+            "option_4": "Ubunyereri",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Izina ryawe",
+            "option_2": "Umubagazi",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngiye mu rutoki nsimbuka abapfumu bapfuye",
+            "option_1": "Imitumba",
+            "option_2": "Imana",
+            "option_3": "Igikoro, igihaza",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Imitumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nabyaye abakobwa benshi uwapfuye ijisho muri bo abatanga gusabwa",
+            "option_1": "Intoki ku biganza",
+            "option_2": "Inyenyeri",
+            "option_3": "Amazi",
+            "option_4": "Inopfu",
+            "correct_answer": "Inopfu"
+        }
+    }
+]

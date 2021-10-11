@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 356
+    },
+    {
+        "sakwe_1": {
+            "question": "Aka katega so",
+            "option_1": "Umusuzi",
+            "option_2": "Imitumba",
+            "option_3": "Umuntu",
+            "option_4": "Agacaca",
+            "correct_answer": "Agacaca"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyuze mu nsi y'urugo bamfunda ibirozi",
+            "option_1": "Inyoni",
+            "option_2": "Imodoka yabuze lisansi",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Ibiboga byagaze"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Gaju irashubera mu mukenke",
+            "option_1": "Inkingi",
+            "option_2": "Umuyaga",
+            "option_3": "Igikoro",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyangufi arasekura uburo",
+            "option_1": "Ubunyereri",
+            "option_2": "Ifaranga",
+            "option_3": "Ifundi mu mamera",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Ifundi mu mamera"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Sogokuru aryoha aboze",
+            "option_1": "Umuneke",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Umuzungu mu modoka",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Umuneke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Baragata bakagatanaga ubwiza bwako",
+            "option_1": "Agacaca",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Amashaza",
+            "option_4": "Igitiritiri",
+            "correct_answer": "Igitiritiri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Umwijima n'urumuri",
+            "option_2": "Ikigori",
+            "option_3": "Umuporisi",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akamanimbanimba,ingoma zo kwa Magagi zivuga zinihira",
+            "option_1": "Inkono",
+            "option_2": "Ifaranga",
+            "option_3": "Televiziyo",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyuze mu rutoki abasirikare baramfata",
+            "option_1": "Umusazi",
+            "option_2": "Ibiradiyo biteganye",
+            "option_3": "Inkingi",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Ibishokoro"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Ikiyoni",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    }
+]

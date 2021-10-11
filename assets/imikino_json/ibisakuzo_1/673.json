@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 540
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Amata",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Ikawa",
+            "option_4": "Sida",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Icyo nsasira ntikirame",
+            "option_1": "Inzoka mu kugenda nta maguru",
+            "option_2": "Umuporisi",
+            "option_3": "Firigo",
+            "option_4": "Ikawa",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirarumbaraye",
+            "option_1": "Urutara",
+            "option_2": "Ikigori",
+            "option_3": "Ifaranga",
+            "option_4": "Igisozi kirekire",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Igisheke",
+            "option_2": "Igisate cy'umutsima",
+            "option_3": "Ururimi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Urwiri",
+            "option_3": "Agatsinsino",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera akabaribari kamanutse mu ijuru kaje gushashura abagabo",
+            "option_1": "Amatwi",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Ifaranga",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ninjye muzindutsi wa cyane nabonye imodoka y'amaguru abiri",
+            "option_1": "Ururimi",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Ishuri",
+            "option_4": "Umukondo w'inyana",
+            "correct_answer": "Ibirenge by'umuntu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera nakwiteguye",
+            "option_1": "Ibaruwa",
+            "option_2": "Gusitara",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Ibirenge by'umuntu",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Dore aho so arenga n'ibikote bibi",
+            "option_1": "Uruyuzi",
+            "option_2": "Ikivumvuri",
+            "option_3": "Umugore ujya iwabo",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana banjye bambaye ibisa by'ibitambaro",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Umugore ujya iwabo",
+            "option_3": "Imyambi y'ikibiriti",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Imyambi y'ikibiriti"
+        }
+    }
+]

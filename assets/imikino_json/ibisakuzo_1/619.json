@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 472
+    },
+    {
+        "sakwe_1": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_3": "Ifundi",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umusaza Sacyoya agendera ku kabando kamwe",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Igikoro",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Umugina mu rufunzo",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Isusa",
+            "option_2": "Umubagazi",
+            "option_3": "Kwatsa mu ziko",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Radiyo",
+            "option_3": "Ingasire",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Izina ryawe",
+            "option_2": "Icyobo",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Amabya",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Inuma ku rukoma",
+            "option_2": "Ururabo",
+            "option_3": "Umusatsi ku mutwe",
+            "option_4": "Ivunja",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Byumve uhore",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Igitoki",
+            "option_3": "Umusuzi wa so",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umusuzi wa so"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bakobwa ntimukanseke nabuze aho mpisha",
+            "option_1": "Inzoka",
+            "option_2": "Umugore utwite",
+            "option_3": "Innyo y'ihene",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Innyo y'ihene"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite igihugu cy'abagabo",
+            "option_1": "Indumane",
+            "option_2": "Ibarizo",
+            "option_3": "Ifaranga",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Imisatsi y'ibigori"
+        }
+    }
+]

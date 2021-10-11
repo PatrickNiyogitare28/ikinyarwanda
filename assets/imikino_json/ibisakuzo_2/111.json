@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 694
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite abana ntiwamenya uwavutse mbere",
+            "option_1": "Agakongorerwa",
+            "option_2": "Ibishyinga",
+            "option_3": "Inuma ku ishaka",
+            "option_4": "Injuma y'uruhinja",
+            "correct_answer": "Ibishyinga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Igira hino nshuti",
+            "option_1": "Ikirago; ikiringiti",
+            "option_2": "Igikobwa kibi",
+            "option_3": "Udukongorwa",
+            "option_4": "Amabyi y'umushumba",
+            "correct_answer": "Ikirago; ikiringiti"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Ikirenge",
+            "option_2": "Inkware",
+            "option_3": "Ibitotsi",
+            "option_4": "Inda",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera indishyi y'urupfu",
+            "option_1": "Umugore uhetse",
+            "option_2": "Inzara y'umusore",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Imanzi mu maribori",
+            "correct_answer": "Umugore uhetse"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ububumbabumbe bubiri mu itaba ry'umusozi",
+            "option_1": "Imbaragasa",
+            "option_2": "Amabere",
+            "option_3": "Agahinda mu murima",
+            "option_4": "Igishyitsi cy'umusave n'umubirizi",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mama arusha nyoko amabuno",
+            "option_1": "Intembatembe",
+            "option_2": "Umuyaga",
+            "option_3": "Ikirungurira",
+            "option_4": "Urusenge",
+            "correct_answer": "Intembatembe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nkurusha umukobwa urongorwa n'abagabo batatu",
+            "option_1": "Igikeri",
+            "option_2": "Agatonyanga ku kigega",
+            "option_3": "Umusatsi",
+            "option_4": "Inkono ku mashyiga",
+            "correct_answer": "Inkono ku mashyiga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ko uri umuhanga wo kurasa warasa indonyi",
+            "option_1": "Ifi",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Inshishi",
+            "option_4": "Impururu z'ababi",
+            "correct_answer": "Inshishi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Icy'ubwoya icy'impwempwe cyagarika impanga mu mpinga ya Bwanacyambwe",
+            "option_1": "Agasongero",
+            "option_2": "Umwungu mu ncoce",
+            "option_3": "Urukangaga",
+            "option_4": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "correct_answer": "Umwungu mu ncoce"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bashinze urukiramende ku ngoma ya Gahindiro n'ubu sindarugendera ngo ndusimbutse",
+            "option_1": "Imondo; impongo; urugo rw'umwami",
+            "option_2": "Isuka mu icukiro",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Icyiyone",
+            "correct_answer": "Amahembe y'inka"
+        }
+    }
+]

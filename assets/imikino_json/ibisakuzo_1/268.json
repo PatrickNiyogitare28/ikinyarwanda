@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 203
+    },
+    {
+        "sakwe_1": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Ururimi",
+            "option_2": "Ibarizo",
+            "option_3": "Inyundo",
+            "option_4": "Igihaza",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Njugunye akabuye ku karubanda baragatanguranwa",
+            "option_1": "Ifaranga",
+            "option_2": "Agakono k'inzara",
+            "option_3": "Igihaza",
+            "option_4": "Izuba",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akana kanjye ni maguru ya Sarwaya",
+            "option_1": "Ibikongorwa by'ibisheke",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Ibaruwa",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kamanutse kibarangura no hasi kati, nkaba nzasubirayo ndakambura data",
+            "option_1": "Akababi k'umuvumu",
+            "option_2": "Amata",
+            "option_3": "Sida",
+            "option_4": "Ibizu bitagira abantu",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mukore ubone",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Telefoni",
+            "option_2": "Umuturanyi mubi",
+            "option_3": "Intare",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Ibitotsi",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Amaguru y'inkware",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ujya kurasa inkuba arabandarara",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Ibiganza",
+            "option_3": "Ijambo rya perezida",
+            "option_4": "Kwatsa mu ziko",
+            "correct_answer": "Kwatsa mu ziko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Kubuza umuryi kurya",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Ikirunga",
+            "option_2": "Igihandure",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Ibirenge by'umuntu",
+            "correct_answer": "Igihandure"
+        }
+    }
+]

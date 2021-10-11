@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 775
+    },
+    {
+        "sakwe_1": {
+            "question": "Hagarara mu mpinga uhagaritswe n'umugabo utakuruta",
+            "option_1": "Imbaragasa",
+            "option_2": "Ikirago",
+            "option_3": "Uruhabuzo",
+            "option_4": "Umwana uri munda ya nyina",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Umugore ujya kuzimura",
+            "option_2": "Amahembe y'inyama",
+            "option_3": "Ikizu kitarimo abantu",
+            "option_4": "Urutare rwo mu nzira",
+            "correct_answer": "Ikizu kitarimo abantu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite abana bakicara ku ntebe imwe",
+            "option_1": "Igitsina cy'amateke",
+            "option_2": "Amasaka",
+            "option_3": "Inkono itogota",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Igitsina cy'amateke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kayogoyogo mushiki wa Ntare",
+            "option_1": "Impatwe z'umusaza",
+            "option_2": "Amashyiga",
+            "option_3": "Agaheha mu gacuma",
+            "option_4": "Ikibando n'urugi; urugi ku muryango",
+            "correct_answer": "Agaheha mu gacuma"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igira hino nshuti",
+            "option_1": "Inopfu",
+            "option_2": "Igiteke mu nkono",
+            "option_3": "Akana kavutse kadashyitse",
+            "option_4": "Ikirago; ikiringiti",
+            "correct_answer": "Ikirago; ikiringiti"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nkurusha umukobwa urongorwa n'abagabo batatu",
+            "option_1": "Igitoki",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Inkono ku mashyiga",
+            "correct_answer": "Inkono ku mashyiga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Irobe",
+            "option_2": "Umurabyo",
+            "option_3": "Ingingi z'amasaka",
+            "option_4": "Inkingi",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Ibitotsi",
+            "option_3": "Igitoki n'amakoma",
+            "option_4": "Urushishi ku igufa",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bikumburanye bitazahura",
+            "option_1": "Ubwanwa",
+            "option_2": "Isi n'ijuru",
+            "option_3": "Icyuho; ikibyindi",
+            "option_4": "Ikirunga",
+            "correct_answer": "Isi n'ijuru"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rushiramazinda rwa ntibazirikana Rubanda mushishwa nabi",
+            "option_1": "Gusaba uwo wenyine",
+            "option_2": "Ikirago; ikiringiti",
+            "option_3": "Uruzi ku rutare",
+            "option_4": "Ubunyerere",
+            "correct_answer": "Gusaba uwo wenyine"
+        }
+    }
+]

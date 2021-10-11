@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 292
+    },
+    {
+        "sakwe_1": {
+            "question": "Ngira inka iheta ibitugu igasimbuka urugo",
+            "option_1": "Intore n'umutsima",
+            "option_2": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "option_3": "Igikoro",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rwamacugi iracugita nyoko",
+            "option_1": "Inda mu nkanda",
+            "option_2": "Umutanoga ku rutare",
+            "option_3": "Ikirago",
+            "option_4": "Urugi",
+            "correct_answer": "Inda mu nkanda"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kari n'imyambi kari n'imiheto karahamiriza imbere ya Sambwe",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Umuriro",
+            "option_3": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_4": "Ishyari ntiriba rito",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kavuye aha kabatinatina kagera mu gahinga kakibatinaguza",
+            "option_1": "Ibisya by'umutwakazi",
+            "option_2": "Umusoro",
+            "option_3": "Ibisunzu bya rusake",
+            "option_4": "Ikidasesa",
+            "correct_answer": "Umusoro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mukara ikamwe ayera ni Inka ya Dogo",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Akazizi k'amata",
+            "option_3": "Umuyenzi",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Umuyenzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyirabazaza ntaruha",
+            "option_1": "Ikinyoro mu rubavu",
+            "option_2": "Imutsi wo ku kibuno",
+            "option_3": "Amazimwe yo ku rurembo",
+            "option_4": "Inkono mu mashyiga",
+            "correct_answer": "Inkono mu mashyiga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akangaratete ka terera tugende dore umunsi uragiye",
+            "option_1": "Ibihu, inzuki",
+            "option_2": "Inka mu mpinga",
+            "option_3": "Intembatembe",
+            "option_4": "Igare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera ijigija y'igihugu wayimenya nkabgu nkaguhemba",
+            "option_1": "K'umutima w'undi",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Isuka",
+            "option_4": "Urugori rw'ibishyimbo",
+            "correct_answer": "Isuka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rambagira Budongo",
+            "option_1": "Urutumbwe",
+            "option_2": "Igifu",
+            "option_3": "Imodoka mu muhanda",
+            "option_4": "Agahinda ku murima",
+            "correct_answer": "Imodoka mu muhanda"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Waterera Sebaya ntiwayiheza",
+            "option_1": "Umuyaga",
+            "option_2": "Umwungange",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Umurizo w'ihene",
+            "correct_answer": "Umurizo w'ihene"
+        }
+    }
+]

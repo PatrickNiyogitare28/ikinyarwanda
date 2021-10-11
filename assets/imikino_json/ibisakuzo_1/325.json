@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 778
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya duuuuuu, hakuno duuuuuu",
+            "option_1": "Firigo",
+            "option_2": "Ibiradiyo biteganye",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Icyobo",
+            "correct_answer": "Ibiradiyo biteganye"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho Mutara na Mutaga barwaniye ntiharamera utwatsi",
+            "option_1": "Agatsinsino",
+            "option_2": "Ubunyereri",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Ibarizo",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Ibitotsi",
+            "option_4": "Ubunyereri",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Imodoka yabuze lisansi",
+            "option_3": "Amatwi",
+            "option_4": "Umubagazi",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Igare",
+            "option_2": "Inzoga m'umuheha (umukenke)",
+            "option_3": "Ifaranga",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Imisozi",
+            "option_2": "Ibiganza",
+            "option_3": "Ibigori",
+            "option_4": "Ikibyindi cy'umushumba",
+            "correct_answer": "Ibigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Amaherere yamennye Bukungu umutwe",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Ifaranga",
+            "correct_answer": "Igihepfu ku mugina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera amazi atemba ajya ruguru",
+            "option_1": "Izuba",
+            "option_2": "Impeke y'uburo",
+            "option_3": "Imihanda, uruzi, inzira",
+            "option_4": "Inzoga mu muheha",
+            "correct_answer": "Inzoga mu muheha"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Igicucucucu",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Agatsinsino",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Byumve uhore",
+            "option_1": "Igare",
+            "option_2": "Umusuzi wa so",
+            "option_3": "Firigo",
+            "option_4": "Imanzi mu maribori",
+            "correct_answer": "Umusuzi wa so"
+        }
+    }
+]

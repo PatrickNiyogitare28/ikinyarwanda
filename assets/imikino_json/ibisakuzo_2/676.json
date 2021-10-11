@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 779
+    },
+    {
+        "sakwe_1": {
+            "question": "Sine irarisha hejuru y'urupfu",
+            "option_1": "Ubwato mu ruzi",
+            "option_2": "Ibibonobono",
+            "option_3": "Ubwato mu kiyaga; mu mazi",
+            "option_4": "Igisura",
+            "correct_answer": "Ubwato mu kiyaga; mu mazi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyabwumira mu ijana",
+            "option_1": "Ikiba cy'ubwatsi",
+            "option_2": "Insina",
+            "option_3": "Urujyo ku nkoko",
+            "option_4": "Urukorogoto",
+            "correct_answer": "Urukorogoto"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyiranduguru ingoma y'abashi",
+            "option_1": "Amasaka",
+            "option_2": "Umusambi",
+            "option_3": "Ibiryo ku mbebe",
+            "option_4": "Ibirayi",
+            "correct_answer": "Ibirayi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Ingata mu ruhira",
+            "option_2": "Imivuba; inkono y'itabi",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Ubukumi bwa so na nyoko",
+            "correct_answer": "Ubukumi bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze ku gasozi mbona abagore bambaye impeta bose",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Icyobo",
+            "option_3": "Ukuguru kw'imbaragasa",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bisa bidasa ururo n'urumanfu",
+            "option_1": "Umugore uhetse",
+            "option_2": "Umusigati",
+            "option_3": "Amasaka n'urukungu",
+            "option_4": "Igihumyo",
+            "correct_answer": "Amasaka n'urukungu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera amacumu yacuzwe n'intoki",
+            "option_1": "Inkwana z'amateke",
+            "option_2": "Amasuka",
+            "option_3": "Umusigati",
+            "option_4": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "correct_answer": "Amasuka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyoko yagira impanga mbi irakamurasa",
+            "option_1": "Inzogera",
+            "option_2": "Umuriro, umuyaga",
+            "option_3": "Igisenge cy'inzu",
+            "option_4": "Igihumyo",
+            "correct_answer": "Igisenge cy'inzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ikibyoya ikibyanwa mu mpinga ya Bwanacyambwe",
+            "option_1": "Icyugu mu nshoce",
+            "option_2": "Injuma y'uruhinja",
+            "option_3": "Umusambi",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Icyugu mu nshoce"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka kagabo kakwica so",
+            "option_1": "Intosho",
+            "option_2": "Agahwa m'urwondo",
+            "option_3": "Igikona",
+            "option_4": "Intorezo",
+            "correct_answer": "Agahwa m'urwondo"
+        }
+    }
+]

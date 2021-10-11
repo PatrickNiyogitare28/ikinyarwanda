@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 770
+    },
+    {
+        "sakwe_1": {
+            "question": "Mvuye guta nyogokuru aza ankurikiye",
+            "option_1": "Akanyoni karitse ku nzira",
+            "option_2": "Inda",
+            "option_3": "Ivu",
+            "option_4": "Imigeri",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Sakuza n'uwo murikumwe",
+            "option_1": "Icyugu",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_4": "Ikigorigori",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nishe inkuba nyihambiriza indi",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Ikiyege",
+            "option_3": "Ikibyindi",
+            "option_4": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "correct_answer": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kirisha amazuru",
+            "option_1": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "option_2": "Umuvuba",
+            "option_3": "Ikidasesa",
+            "option_4": "Umusure mu ngungu; ikinya mu kwaha",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imisozi irahiye hasigaye rukumbi rwa Shaza",
+            "option_1": "Akanyita k'uruhu",
+            "option_2": "Amafundi",
+            "option_3": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_4": "Umugina, inzira",
+            "correct_answer": "Umugina, inzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imisozi iriyorosa ibigondo",
+            "option_1": "Isake",
+            "option_2": "Ibihu, inzuki",
+            "option_3": "Ijisho rya mukeba",
+            "option_4": "Ukuguru kw'imbaragasa",
+            "correct_answer": "Ibihu, inzuki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hakurya ngo dondi no hakuno ngo dondi",
+            "option_1": "Abakomyi b'insyo",
+            "option_2": "Akamuga karimo ibishyimbo",
+            "option_3": "Umusambi",
+            "option_4": "Ibihaza",
+            "correct_answer": "Abakomyi b'insyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akangaratete ka terera tugende dore umunsi uragiye",
+            "option_1": "Igare",
+            "option_2": "Igikona",
+            "option_3": "Igikuku",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ndamutemye ndamutaruka",
+            "option_1": "Akagata mu rwobo",
+            "option_2": "Umushoferi w'indege",
+            "option_3": "Impatwe z'umusaza",
+            "option_4": "Umutumba w'insina",
+            "correct_answer": "Umutumba w'insina"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamanutse kibarangura kati, \"nkazasubirayo ndakambura data\"",
+            "option_1": "Ibiboga bigaze",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Inkangara",
+            "option_4": "Agatonyanga",
+            "correct_answer": "Agatonyanga"
+        }
+    }
+]

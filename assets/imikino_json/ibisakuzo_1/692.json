@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 318
+    },
+    {
+        "sakwe_1": {
+            "question": "Aho wabereye wari waterera Muhangiro",
+            "option_1": "Uruyuzi",
+            "option_2": "Ikirunga",
+            "option_3": "Umurabyo",
+            "option_4": "Igikoro, igihaza",
+            "correct_answer": "Ikirunga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dusetse tuzanduranya",
+            "option_1": "Imodoka yabuze feri",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Igitoki",
+            "option_4": "Umuporisi",
+            "correct_answer": "Umuporisi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nkubise umupira ugera i Ngozi",
+            "option_1": "Ibaruwa",
+            "option_2": "Ikawa",
+            "option_3": "Akayunguruzo",
+            "option_4": "Igisheke",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngwino unkize igisebs cy'umufunzo",
+            "option_1": "Umuvure",
+            "option_2": "Imbunda",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Umuturanyi mubi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera amazi atemba ajya ruguru",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Umurabyo",
+            "option_3": "Igiheri mu ruhara",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Inzoga mu muheha"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Igira hino ncuti",
+            "option_1": "Igitoki",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Ikiringiti",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Ikiringiti"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutinduka yitabiriye guhamba umuturanyi we",
+            "option_1": "Gutara ibitoki",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Amabya",
+            "option_4": "Umuntu",
+            "correct_answer": "Gutara ibitoki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nabyaye abakobwa benshi uwapfuye ijisho muri bo abatanga gusabwa",
+            "option_1": "Umwana w'uruhinja",
+            "option_2": "Ibabi by'ibibonobono",
+            "option_3": "Ikirunga",
+            "option_4": "Inopfu",
+            "correct_answer": "Inopfu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Amarira mu maso",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Inzuki",
+            "option_4": "Indumane",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Umurozi",
+            "option_2": "Imyugariro",
+            "option_3": "Umugina mu rufunzo",
+            "option_4": "Umukandara",
+            "correct_answer": "Umurozi"
+        }
+    }
+]

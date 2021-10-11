@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 484
+    },
+    {
+        "sakwe_1": {
+            "question": "Kwumva menshi kagahishira",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_3": "Agashwi k'inkoko",
+            "option_4": "Umubuyenge w'intosho",
+            "correct_answer": "Agafundi ko ku nzira\n \nmaganyiro"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Ingingi z'amasaka",
+            "option_2": "Igisambu gisigaye hagati y'uruhira",
+            "option_3": "Urujyo ku nkoko",
+            "option_4": "Amaganga y'isha",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ubutunguru bubiri bwambutse ingezi",
+            "option_1": "Umugore utwite",
+            "option_2": "Amaso",
+            "option_3": "Ingwa",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Amaso"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gituku my gitebo",
+            "option_1": "Umunyorogoto",
+            "option_2": "Inshunzi z'amata mu cyansi",
+            "option_3": "Igare",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Wikoza hasi wikoza hejuru ntuzabona ishinya ya Dede",
+            "option_1": "Ifundi",
+            "option_2": "Ikiziha cy'inzovu",
+            "option_3": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_4": "Igisindu",
+            "correct_answer": "Ishinya y'urukwavu; ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyirancurucumba aracura inkweto",
+            "option_1": "Ibirago",
+            "option_2": "Uruyuki",
+            "option_3": "Igitsina cy'amateke",
+            "option_4": "Inkoko mu rutoki",
+            "correct_answer": "Inkoko mu rutoki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyamunini umugwa",
+            "option_1": "Ururimi mu kanywa",
+            "option_2": "Mpinga",
+            "option_3": "Imegeri",
+            "option_4": "Gusitara ku ibuye",
+            "correct_answer": "Mpinga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dupfyunye tudupfyunyike bene urugo bataraza",
+            "option_1": "Inuma mu ntabire",
+            "option_2": "Igikongorwa",
+            "option_3": "Umugezi",
+            "option_4": "Udukongorwa tw'imisigati",
+            "correct_answer": "Udukongorwa tw'imisigati"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Agakecuru Nyarudindiri kamanutse I Gacu na Mpanga kikoreye imigoma itanu",
+            "option_1": "Umusatsi",
+            "option_2": "Ibitotsi",
+            "option_3": "Umusambi",
+            "option_4": "Igisura",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Imbere ndi imanzi, inyuma ndi umwanzi",
+            "option_1": "Inzara mu bana",
+            "option_2": "Inuma mu ntabire",
+            "option_3": "Ikinyagu",
+            "option_4": "Uruhiza",
+            "correct_answer": "Ikinyagu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 768
+    },
+    {
+        "sakwe_1": {
+            "question": "Rutangira yamennye intango",
+            "option_1": "Urukangaga",
+            "option_2": "Igisambu gisigaye hagati y'uruhira",
+            "option_3": "Isake",
+            "option_4": "Umwobo mu nzira",
+            "correct_answer": "Umwobo mu nzira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ibikaci bikaciraniye muri Nyagafunzo, ibisiga bizapfana umukumo",
+            "option_1": "Ikizu kitarimo abantu",
+            "option_2": "Amabere y'inkumi",
+            "option_3": "Igi ry'inkoko",
+            "option_4": "Umunyorogoto",
+            "correct_answer": "Amabere y'inkumi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kagaba arabagira ku ishyamba",
+            "option_1": "Umutsi w'innyo",
+            "option_2": "Agahinda mu nda",
+            "option_3": "Intimba mu nda",
+            "option_4": "Akabuno k'imfizi",
+            "correct_answer": "Agahinda mu nda"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hagarara mu mpinga uhagaritswe n'umugabo utakuruta",
+            "option_1": "Imbaragasa",
+            "option_2": "Igikona",
+            "option_3": "Akagasire ku rusyo",
+            "option_4": "Agakono ko mu cyi",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite abana nkabasiga nkabanogereza  nkabasubiza mu nda",
+            "option_1": "Agaheha mu gacuma",
+            "option_2": "Inkono ivugirwamo umutsima",
+            "option_3": "Igiteke mu nkono",
+            "option_4": "Imyambi mu murana",
+            "correct_answer": "Imyambi mu murana"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyamunini umugwa",
+            "option_1": "Indishyi zihuye; imfubyi",
+            "option_2": "Urugo",
+            "option_3": "Ifaranga",
+            "option_4": "Mpinga",
+            "correct_answer": "Mpinga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutuku rwa Ndubaruba yari umugabo nuko yasize imbwa",
+            "option_1": "Umuneke",
+            "option_2": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_3": "Umuriro",
+            "option_4": "Inda mu mutwe",
+            "correct_answer": "Umuriro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkuba",
+            "option_1": "Ikivumvuri",
+            "option_2": "Uruboho",
+            "option_3": "Igikona\n \nbikumburanye bibana",
+            "option_4": "Rugo",
+            "correct_answer": "Rugo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirampiri n'impiri yayo mu nyonga y'umusozi",
+            "option_1": "Inturo mu ntare",
+            "option_2": "Inguri",
+            "option_3": "Umukenke",
+            "option_4": "Ikirago",
+            "correct_answer": "Inturo mu ntare"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mahuhu hakurya",
+            "option_1": "Agasuna",
+            "option_2": "Inzu irimo ubusa",
+            "option_3": "Igihandure",
+            "option_4": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "correct_answer": "Inzu irimo ubusa"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 384
+    },
+    {
+        "sakwe_1": {
+            "question": "Vuga jye nahoze",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Agafundi",
+            "option_3": "Umuce wo mu irebe",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umuce wo mu irebe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Byakora kurya, byakora kuno",
+            "option_1": "Imvura ku iteke",
+            "option_2": "Icyugu mu nshoce",
+            "option_3": "Insitare",
+            "option_4": "Amara",
+            "correct_answer": "Amara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mvugirije ingoma ikuzimu abaribi musozi barayumva",
+            "option_1": "Agakono k'impengeri",
+            "option_2": "Abakomyi b'insyo",
+            "option_3": "Umwishywa ku rutare",
+            "option_4": "Ifundi mu murama",
+            "correct_answer": "Agakono k'impengeri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagukubira dara",
+            "option_1": "Umubiri w'umuntu",
+            "option_2": "Akanyoni karitse ku nzira",
+            "option_3": "Ibiryo ku mbebe",
+            "option_4": "Icyobo",
+            "correct_answer": "Ibiryo ku mbebe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera Rukara aho igaramya mu bitare bya Mashyiga",
+            "option_1": "Ubwato mu ruzi",
+            "option_2": "Umubiri w'umuntu",
+            "option_3": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "option_4": "Urukumbi mu menyo",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mushenyi araguye n'ingabo y'umuyobe",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Urusenge",
+            "option_3": "Igitokd kigwanye n'insina",
+            "option_4": "Ubwato",
+            "correct_answer": "Igitokd kigwanye n'insina"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ko uri mukuru wa kera wari wabona ishinya ya Dede?",
+            "option_1": "Ishinya y'urushishi",
+            "option_2": "Amaso",
+            "option_3": "Umucaca",
+            "option_4": "Imodoka mu muhanda",
+            "correct_answer": "Ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mvuye aha ncumbagira ngera iyo nshaka",
+            "option_1": "Igicuma bacuncumura",
+            "option_2": "Inda",
+            "option_3": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_4": "Uruboho",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera aho uzikundira ntuhatahe",
+            "option_1": "Ibyiyone",
+            "option_2": "K'umutima w'undi",
+            "option_3": "Umukobwa ureba agacumu kishe musaza we",
+            "option_4": "Indishyi zihuye; imfubyi",
+            "correct_answer": "K'umutima w'undi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rupfupfu yarapfuye adiga undi Rupfupfu",
+            "option_1": "Umuyenzi",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ifundi",
+            "option_4": "Umugezi utemba ugasiga amabuye",
+            "correct_answer": "Umugezi utemba ugasiga amabuye"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 723
+    },
+    {
+        "sakwe_1": {
+            "question": "Bwira Rugango uti, \"Rugahura aragusize\"",
+            "option_1": "Umutsima n'inyama",
+            "option_2": "Inka mu mpinga",
+            "option_3": "Urugo",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Umutsima n'inyama"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera Rukarata ruje rukamaira",
+            "option_1": "Umusaza ku cyahi, amaraso ku murundi",
+            "option_2": "Imyugaruro",
+            "option_3": "Ababirigi",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Ababirigi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hi hi hi!",
+            "option_1": "Uruyuzi; umugezi",
+            "option_2": "Igikecuru cyisutseho igisururu",
+            "option_3": "Ibarizo ry'ingoma",
+            "option_4": "Umutanoga ku rutare",
+            "correct_answer": "Igikecuru cyisutseho igisururu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umututsi muremure yagutanze ku iriba",
+            "option_1": "Inuma",
+            "option_2": "Umuheha",
+            "option_3": "Igitonyanga",
+            "option_4": "Rugo",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zimanutse i Mageri zabagira",
+            "option_1": "Intosho",
+            "option_2": "Impururu z'ababi",
+            "option_3": "Isake y'inkoko",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Impururu z'ababi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyirandirima umugore munini yicaye icukiro",
+            "option_1": "Umugore utwite",
+            "option_2": "Ikiyege",
+            "option_3": "Inguri",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Ikiyege"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Dore iryo shyamba ritabona",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Urukumbi mu menyo",
+            "option_3": "Ikigoli",
+            "option_4": "Ibipfuko",
+            "correct_answer": "Umusatsi w'intabwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera bNyamutukura umututsi",
+            "option_1": "Imyotsi",
+            "option_2": "Igisabo",
+            "option_3": "Urutozi",
+            "option_4": "Agafuni mu mushike",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rutangira yamennye intango",
+            "option_1": "Umucaca",
+            "option_2": "Umwobo mu nzira",
+            "option_3": "Umuheha mu buki; agasave mu rutoki",
+            "option_4": "Urume ku musororo",
+            "correct_answer": "Umwobo mu nzira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Sarupfu yikoreye Sarupfu yindi",
+            "option_1": "Ibitotsi",
+            "option_2": "Umuntu uri kuri ipikipiki",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "correct_answer": "Umuntu uri kuri ipikipiki"
+        }
+    }
+]

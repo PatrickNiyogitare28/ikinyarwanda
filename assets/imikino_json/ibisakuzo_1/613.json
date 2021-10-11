@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 784
+    },
+    {
+        "sakwe_1": {
+            "question": "Ca bugufi uce nyokobukwe indiba y'innyo",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Umugore utwite",
+            "option_3": "Umurozi",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Igikoro, igihaza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Igikeri",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Icyobo",
+            "option_4": "Amase",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inkuba ikubita ikwerekejeho umugongo",
+            "option_1": "Amabere",
+            "option_2": "Umutwe",
+            "option_3": "Umuheto",
+            "option_4": "Igikatsi",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Amata",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Ubuto bwa so na nyoko",
+            "option_4": "Izina ryawe",
+            "correct_answer": "Ubuto bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngeze iw'abandi bampa induru",
+            "option_1": "Urwembe mu musatsi",
+            "option_2": "Isi n'ijuru",
+            "option_3": "Ikirunga",
+            "option_4": "Sone yo ku irembo",
+            "correct_answer": "Sone yo ku irembo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Umuvure",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Igikoro",
+            "option_4": "Akanyana mu nda ya nyina",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Ikaziya ya primus",
+            "option_2": "Ibitotsi",
+            "option_3": "Amano y'umuntu",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata utwangushye tujye kuvoma iriba ridakama",
+            "option_1": "Ikirago",
+            "option_2": "Ikigori",
+            "option_3": "Ishuri",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Ishuri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Gusitara",
+            "option_2": "Ubwoya bw'inka",
+            "option_3": "Corogati",
+            "option_4": "Umurabyo",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho Mutara na Mutaga barwaniye ntiharamera utwatsi",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Agatsinsino",
+            "option_3": "Ijambo rya perezida",
+            "option_4": "Igihandure",
+            "correct_answer": "Agatsinsino"
+        }
+    }
+]

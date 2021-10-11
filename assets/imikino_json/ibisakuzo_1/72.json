@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 584
+    },
+    {
+        "sakwe_1": {
+            "question": "Tuvuye mo umwe ntitwarya",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Ikaziya ya primus",
+            "option_3": "Amashyiga (y'inyuma)",
+            "option_4": "Amabere",
+            "correct_answer": "Amashyiga (y'inyuma)"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Igisabo",
+            "option_2": "Akayunguruzo",
+            "option_3": "Ibaruwa",
+            "option_4": "Amabere",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Amashaza",
+            "option_2": "Urwembe mu musatsi",
+            "option_3": "Inyamunyo",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Indabo z'amashaza",
+            "option_4": "Ibiganza",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Gusitara",
+            "option_2": "Umugore ujya iwabo",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Umugina mu rufunzo",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kati hii kati huu",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Agakecuru kocyejwe n'igikoma",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Agakecuru kocyejwe n'igikoma"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyamara naza nkaguha amahoro",
+            "option_1": "Ibibabi by'ikibonobono",
+            "option_2": "Ibitotsi bya mu gitondo",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Ibitotsi bya mu gitondo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ijisho ryanjye rimurika hose",
+            "option_1": "Amarira mu maso",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Izuba",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ko twagendanye wambwiye iki",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Urwiri",
+            "option_4": "Igicucucucu",
+            "correct_answer": "Igicucucucu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Gakore bakwice",
+            "option_1": "Ururimi n'amenyo",
+            "option_2": "Umutwe",
+            "option_3": "Igisheke",
+            "option_4": "Agakono k'inzara",
+            "correct_answer": "Agakono k'inzara"
+        }
+    }
+]

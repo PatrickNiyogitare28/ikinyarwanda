@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 569
+    },
+    {
+        "sakwe_1": {
+            "question": "Ibuye ry'umusozi ryimuye umugabo",
+            "option_1": "Inyamunyo",
+            "option_2": "Ururabo rw'ikawa",
+            "option_3": "Ifaranga",
+            "option_4": "Inyoni",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inyundo za bene Ntwari bazikubita hasi ntizimene isi",
+            "option_1": "Umubagazi",
+            "option_2": "Ifundi mu mamera",
+            "option_3": "Umukobwa ubonye iwabo hashya",
+            "option_4": "Ibinono by'inka",
+            "correct_answer": "Ibinono by'inka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Ikiyoni",
+            "option_3": "Umugore utwite",
+            "option_4": "Igikoro, igihaza",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gakore bakwice",
+            "option_1": "Agakono k'inzara",
+            "option_2": "Ivunja mu kirenge",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Icyobo",
+            "correct_answer": "Agakono k'inzara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Buji",
+            "option_2": "Umuvure",
+            "option_3": "Akarere ku nsina",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ikawa",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Ifaranga",
+            "option_4": "Ururimi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hari agate utakurira",
+            "option_1": "Igihandure",
+            "option_2": "Inzoga m'umuheha (umukenke)",
+            "option_3": "Imodoka yabuze lisansi",
+            "option_4": "Umunyereri",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Ikaziya ya primus",
+            "option_2": "Ifu",
+            "option_3": "Umwana w'uruhinja",
+            "option_4": "Imodoka yabuze feri",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Ifaranga",
+            "option_3": "Umusazi",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Maguru mane ahagaze kuri maguru mane ashaka maguru mane",
+            "option_1": "Imitumba",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Ibaruwa",
+            "option_4": "Injangwe ihagaze ku meza ishaka imbeba",
+            "correct_answer": "Injangwe ihagaze ku meza ishaka imbeba"
+        }
+    }
+]

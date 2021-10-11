@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 428
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo rurakururana",
+            "option_1": "Ikigega",
+            "option_2": "Ifundi ku rukoma",
+            "option_3": "Impatwe z'umusaza",
+            "option_4": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "correct_answer": "Impatwe z'umusaza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera amakara y'umuntu",
+            "option_1": "Uturaso ku murundi",
+            "option_2": "Umusatsi",
+            "option_3": "Umununi ku itabi",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rutamu ni mutanga urutanga ihene gutaha",
+            "option_1": "Irobe n'umutsima",
+            "option_2": "Umuvure",
+            "option_3": "Ikizubazuba",
+            "option_4": "Ikizamini",
+            "correct_answer": "Ikizubazuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ko dutamiye twese hakije nde",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_3": "Umuyenzi",
+            "option_4": "Imyashi",
+            "correct_answer": "Imyashi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nubatse urugo hejuru y'urupfu",
+            "option_1": "Imodoka",
+            "option_2": "Igihu",
+            "option_3": "Ubwato mu kiyaga; mu ruzi",
+            "option_4": "Akamangu mu muvumu",
+            "correct_answer": "Ubwato mu kiyaga; mu ruzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aka kagabo kakwica so",
+            "option_1": "Intore y'amahingura",
+            "option_2": "Agahwa m'urwondo",
+            "option_3": "Inkono ivugirwamo umutsima",
+            "option_4": "Ishavu",
+            "correct_answer": "Agahwa m'urwondo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Iteze neza ntiyica",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Ivubi; uruyuki",
+            "option_4": "Inzira ijya mu kigega",
+            "correct_answer": "Ibere ry'inkumi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zirarima mu bikombe bya Ndiza",
+            "option_1": "Agahanga k'ifumberi",
+            "option_2": "Inzara mu ruheri",
+            "option_3": "Akayuki k'akungu",
+            "option_4": "Urugo",
+            "correct_answer": "Inzara mu ruheri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zirahutse zisiga umubisha ku nama",
+            "option_1": "Amashyiga",
+            "option_2": "Umuganda",
+            "option_3": "Intorezo n'irago",
+            "option_4": "Isuka",
+            "correct_answer": "Intorezo n'irago"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inka yanjye ndayibaga igakwiza abagore banjye bose inkanda",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Ikigorigori",
+            "option_3": "Inda",
+            "option_4": "Urubariro",
+            "correct_answer": "Ikigorigori"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 241
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkeje Umwami wo mu kirere, angabira ibiryoshye",
+            "option_1": "Ibiganza",
+            "option_2": "Urutara",
+            "option_3": "Amase y'inka",
+            "option_4": "Inzuki",
+            "correct_answer": "Inzuki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ayi mama hiya",
+            "option_1": "Inuma ku rukoma",
+            "option_2": "Amarira mu maso",
+            "option_3": "Ibitotsi",
+            "option_4": "Telefoni",
+            "correct_answer": "Inuma ku rukoma"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zagarika amahembe ntiwamenya izo nyoko yakowe",
+            "option_1": "Ibiti by'ikawa",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Imodoka",
+            "option_4": "Inkware",
+            "correct_answer": "Ibiti by'ikawa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Inyoni",
+            "option_2": "Igicucucucu",
+            "option_3": "Intare",
+            "option_4": "Umutsima",
+            "correct_answer": "Inyoni"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Agasuzi",
+            "option_4": "Isekuru",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Ifaranga",
+            "option_2": "Umunyereri",
+            "option_3": "Ifaranga",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Igare rigeze ahazamuka",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Umugore ujya iwabo",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Umukobwa ubonye iwabo hashya",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Agasuzi",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Agenda neza nuko yanga abanjye",
+            "option_1": "Agakono k'amanywa",
+            "option_2": "Intare",
+            "option_3": "Imvura",
+            "option_4": "Akaguru gacumbagira",
+            "correct_answer": "Intare"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Ikigori",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Ishyiga",
+            "option_4": "Amapapayi",
+            "correct_answer": "Ishyiga"
+        }
+    }
+]

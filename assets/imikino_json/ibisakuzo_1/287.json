@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 419
+    },
+    {
+        "sakwe_1": {
+            "question": "Mvuye guhamba nyogokuru aza ankurikiye",
+            "option_1": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_2": "Ivu",
+            "option_3": "Abavomyi",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Ivunja mu kirenge",
+            "option_2": "Agacaca",
+            "option_3": "Umugore utwite",
+            "option_4": "Umuyaga",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abakobwa banjye bose bikwije impindu",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Urusenda",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Kudashyira ingasire mu masaka ngo iyasye",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Ikivumvuri",
+            "option_2": "Ingasire",
+            "option_3": "Amaguru y'inkware",
+            "option_4": "Kubuza umuryi kurya",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Ingasire",
+            "option_2": "Umuzi w'urutare",
+            "option_3": "Ibibabi by'ikibonobono",
+            "option_4": "Umuneke",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Inopho",
+            "option_2": "Ivu",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nteye igiti nsarura amabuye",
+            "option_1": "Iteke",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Urutare",
+            "option_4": "Ifundi mu mamera",
+            "correct_answer": "Iteke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Umugore utwite",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata utwangushye tujye kuvoma iriba ridakama",
+            "option_1": "Indege",
+            "option_2": "Ishuri",
+            "option_3": "Ibikongorwa by'ibisheke",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Ishuri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karihuta",
+            "option_1": "Ifaranga",
+            "option_2": "Igare",
+            "option_3": "Umurabyo",
+            "option_4": "Ikibyindi cy'umushumba",
+            "correct_answer": "Igare"
+        }
+    }
+]

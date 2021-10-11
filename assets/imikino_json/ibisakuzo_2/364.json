@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 667
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera rwa kimanuka rutaribwa n'imbeba",
+            "option_1": "Uruhu rw'imbwa",
+            "option_2": "Inzogera",
+            "option_3": "Inzara yica umusore",
+            "option_4": "Ingabo y'ubuki",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akabingo nyamwishyigure",
+            "option_1": "Umuntu ubara inkuru cyane",
+            "option_2": "Mpinga",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Ishyari ntiriba rito",
+            "correct_answer": "Ishyari ntiriba rito"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana b'abarundi barasana bakiri bato",
+            "option_1": "Inka mu mpinga",
+            "option_2": "Ifurwe",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Rugo",
+            "correct_answer": "Ifurwe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mukara ikamwe ayera ni Inka ya Dogo",
+            "option_1": "Igishyitsi cy'umusave n'umubirizi",
+            "option_2": "Ukwezi ku ijuru",
+            "option_3": "Umuyenzi",
+            "option_4": "Umusambi; ikinyabwoya",
+            "correct_answer": "Umuyenzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mapfumfuramanyoni",
+            "option_1": "Amahembe y'inyama",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ifaranga",
+            "option_4": "Intosho",
+            "correct_answer": "Amahembe y'inyama"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Watambana ingabo mu rutare",
+            "option_1": "Radiyo",
+            "option_2": "Insina; amateke",
+            "option_3": "Amasaka",
+            "option_4": "Amata n'amatezano; mukungwa na nyabarongo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inka zanjye zaragiye zirarima zirarimagura",
+            "option_1": "Ikigore cy'ikiva mu nzu",
+            "option_2": "Igisabo",
+            "option_3": "Inda mu nnyo",
+            "option_4": "Igiko gihiriye mu ruhura",
+            "correct_answer": "Inda mu nnyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ndasiye inuma ku mukimbagiro wa Bugoyi ahi kuva amaraso iva ifu",
+            "option_1": "Ururimi",
+            "option_2": "Ifundi",
+            "option_3": "Umuko mu mukokwe",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyoko ko ari munini yakwambara inkanda ya Ruhondo?",
+            "option_1": "Inturo mu rutare",
+            "option_2": "Umuziha w'inzovu",
+            "option_3": "Ijuru; uruhu w'imbaragasa",
+            "option_4": "Igisenge",
+            "correct_answer": "Ijuru; uruhu w'imbaragasa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hagarara hakuno mpagarare hakurya duterane ibidashyika",
+            "option_1": "Umunyinya",
+            "option_2": "Ikigori",
+            "option_3": "Ingoma mu isoko",
+            "option_4": "Ibipfunsi",
+            "correct_answer": "Ibipfunsi"
+        }
+    }
+]

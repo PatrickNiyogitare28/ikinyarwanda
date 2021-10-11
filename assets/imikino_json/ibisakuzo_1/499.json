@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 628
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Televiziyo",
+            "option_2": "Izina ryawe",
+            "option_3": "Ikirungurira",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Inyenyeri",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Ipikipiki",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpambye umwe nzura benshi",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Umugezi",
+            "option_3": "Amashaza",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Amashaza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkubuze sinabaho",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Inzuki",
+            "option_3": "Umutwe",
+            "option_4": "Ikaziya ya primus",
+            "correct_answer": "Umutwe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bagatake bagasamaze bakabihise ubwiza bwako",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Umuvure",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Ururimi",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana banjye barara bahagaze bakirirwa bahagaze",
+            "option_1": "Inkingi",
+            "option_2": "Ishuri",
+            "option_3": "Umucaca",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngatake, ngatature, ngashimire ubwiza kameze",
+            "option_1": "Inyenyeri",
+            "option_2": "Ibirago",
+            "option_3": "Amata",
+            "option_4": "Ibabi by'ibibonobono",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Inzoga m'umuheha (umukenke)",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nubatse urugo hejuru y'urupfu",
+            "option_1": "Buji",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Telefoni",
+            "correct_answer": "Ubwato hejuru y'ikiyaga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ni iki cyatanze umuzungu kwambara karuvati",
+            "option_1": "Gusitara",
+            "option_2": "Ikibuno",
+            "option_3": "Ikiyoni",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Ikiyoni"
+        }
+    }
+]

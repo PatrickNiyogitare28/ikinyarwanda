@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 554
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo isanane haruguru isanane",
+            "option_1": "Amano y'inanga",
+            "option_2": "Agakono k'impengeri",
+            "option_3": "Inda mu ihururu",
+            "option_4": "Amahembe y'inyama",
+            "correct_answer": "Amano y'inanga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiranduguru ingoma y'abashi",
+            "option_1": "Urupfu",
+            "option_2": "Ibisya by'umutwakazi",
+            "option_3": "Ibirayi",
+            "option_4": "Inzogera",
+            "correct_answer": "Ibirayi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kiti \"tiku\", kiti \"dumburi\", kiti \"databuja nkumbuye i Rwanda",
+            "option_1": "Intosho",
+            "option_2": "Ifi",
+            "option_3": "Urusisiro",
+            "option_4": "Umusemburo mu kibindi",
+            "correct_answer": "Umusemburo mu kibindi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kagera iruje",
+            "option_1": "Urushishi ku igufa",
+            "option_2": "Ifi",
+            "option_3": "Gusaba uwo wenyine",
+            "option_4": "Ikiziha cy'inzovu",
+            "correct_answer": "Ikiziha cy'inzovu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rugaragura mugabo rwa mugabo ikuzimu yahidirimanze",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Ikinyogote",
+            "option_4": "Umwumbati",
+            "correct_answer": "Umwumbati"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera nyamuremure waje kera",
+            "option_1": "Igitonyanga",
+            "option_2": "Inkwana z'amateke",
+            "option_3": "Ikibando n'urugi; urugi ku muryango",
+            "option_4": "Umuce wo mu irebe",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kati \"papari\",kati \"pa\", inzubukira nayikiye kwa Rwamugenzi",
+            "option_1": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_2": "Urutare",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akigize umugozi kakigira umuganda kagashyira umwami ku murwa",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Umuhotora; umuhoro",
+            "option_3": "Kwatsa mu ziko",
+            "option_4": "Ubwato mu kiyaga; mu ruzi",
+            "correct_answer": "Umuhotora; umuhoro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gitsimba igiheneko",
+            "option_1": "Amahembe y'inyama",
+            "option_2": "Inzogera",
+            "option_3": "Insina y'ikinyangurube",
+            "option_4": "Igitama cyaguye mu mukokwe",
+            "correct_answer": "Igitama cyaguye mu mukokwe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamuhanda ntiwayiterera",
+            "option_1": "Isogo n'inyabutongo",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Umurizo w'ihene",
+            "option_4": "Isuka",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    }
+]

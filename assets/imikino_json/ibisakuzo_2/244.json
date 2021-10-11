@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 434
+    },
+    {
+        "sakwe_1": {
+            "question": "Karatemba shoshori",
+            "option_1": "Akababi k'umuvumu",
+            "option_2": "Indiga mu ihene",
+            "option_3": "Akishywa mu rutoki",
+            "option_4": "Ikibando n'urugi; urugi ku muryango",
+            "correct_answer": "Akishywa mu rutoki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karaje n'inkonya n'inkweto ntikazi ko ryavuye",
+            "option_1": "Agahinja",
+            "option_2": "Isake; impanda",
+            "option_3": "Umuzi w' urutare",
+            "option_4": "Umucaca",
+            "correct_answer": "Agahinja"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akigize umugozi kakigira umuganda kagashyira umwami ku murwa",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Umuhotora; umuhoro",
+            "option_3": "Akamangu mu muvumu",
+            "option_4": "Imodoka",
+            "correct_answer": "Umuhotora; umuhoro"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Agatwa mu ibumba",
+            "option_2": "Ururimi",
+            "option_3": "Igihumyo",
+            "option_4": "Icyugu",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ijigija y'igihugu wayimenya nkabgu nkaguhemba",
+            "option_1": "Agakongorerwa",
+            "option_2": "Ikiziba mu mpinga",
+            "option_3": "Isuka",
+            "option_4": "Ikigore cy'ikiva mu nzu",
+            "correct_answer": "Isuka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Dore ibyo bibuno bya nyoko ngo birurira uburiri",
+            "option_1": "Urusogo n'urusogi",
+            "option_2": "Ikirenge",
+            "option_3": "Igisabo",
+            "option_4": "Igitoki n'insina bigwanye",
+            "correct_answer": "Igisabo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mukara w'i Karambi irabira rikarenga",
+            "option_1": "Intubu n'urutwe",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Umusatsi; inzara",
+            "option_4": "Icyiyone",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mbonye inkoni nziza mbura inzira ngo njye kuyica",
+            "option_1": "Amazi ku rukangara",
+            "option_2": "Radiyo",
+            "option_3": "Kudashobora kurongora mushiki wawe",
+            "option_4": "Umusenyi",
+            "correct_answer": "Kudashobora kurongora mushiki wawe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kwa Bucondo barakocagurana",
+            "option_1": "Imbwa ifite igufa",
+            "option_2": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_3": "Umutobotobo",
+            "option_4": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "correct_answer": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kirya ni iki?",
+            "option_1": "Imashini idoda (icyarahani)",
+            "option_2": "Amazi",
+            "option_3": "Umugore uhetse",
+            "option_4": "Igitsure cya mukeba",
+            "correct_answer": "Igitsure cya mukeba"
+        }
+    }
+]

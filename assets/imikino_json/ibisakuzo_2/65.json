@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 510
+    },
+    {
+        "sakwe_1": {
+            "question": "Makasi ihuye n'indi",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Ibuye n'umutarimba",
+            "option_3": "Icyiyoni",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Ibuye n'umutarimba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mtumye Mbindigiri i Nyanza",
+            "option_1": "Igitoki n'insina bigwanye",
+            "option_2": "Inkangara",
+            "option_3": "Ibirayi bikiri mu gitaka",
+            "option_4": "Ishenyi n'intorezo",
+            "correct_answer": "Inkangara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ndasera i Gahanga nkagosorera i Kabondo",
+            "option_1": "Mihigo",
+            "option_2": "Guhekenya amasaka",
+            "option_3": "Urubwija",
+            "option_4": "Amata n'amatezano; mukungwa na nyabarongo",
+            "correct_answer": "Guhekenya amasaka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Imikorere ya Nyiranzana nagize ngo ibiryo bye ntibizaribwa none ndatora n'urwo hasi",
+            "option_1": "Agaheha mu gacuma",
+            "option_2": "Ibikingi by'amarembo",
+            "option_3": "Inka mu mpinga",
+            "option_4": "Inzuki n'ubuki",
+            "correct_answer": "Inzuki n'ubuki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kati \"papari\",kati \"pa\", inzubukira nayikiye kwa Rwamugenzi",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Umurara w'uburo",
+            "option_3": "Urukwavu",
+            "option_4": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "correct_answer": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hagati ya Gacu na Mpanga hazi bake",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Uruyuzi",
+            "option_3": "Isuka",
+            "option_4": "Umuyaga",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera rwagikoba rwakimanika rutaribwa n'imbeba",
+            "option_1": "Inzogera",
+            "option_2": "Umurunga",
+            "option_3": "Umunyorogoto",
+            "option_4": "Insitare",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ntereye Ndiza urwenge rurahonya",
+            "option_1": "Imyotsi",
+            "option_2": "Amata n'umutsima",
+            "option_3": "Ikinyogote",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze ku gasozi nti \"behu\"",
+            "option_1": "Abarinzi b'inyoni; inzara mu bana",
+            "option_2": "Urukumbi mu menyo",
+            "option_3": "Amazi mu gisura",
+            "option_4": "Umwungu mu mbibe",
+            "correct_answer": "Abarinzi b'inyoni; inzara mu bana"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera Nyamuniga wa Nyamuko",
+            "option_1": "Ibirayi bikiri mu gitaka",
+            "option_2": "Umutsi w'innyo",
+            "option_3": "Imyotsi",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Umutsi w'innyo"
+        }
+    }
+]

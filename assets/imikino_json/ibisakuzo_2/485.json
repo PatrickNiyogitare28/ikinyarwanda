@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 342
+    },
+    {
+        "sakwe_1": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagareb",
+            "option_1": "Ibipfunsi",
+            "option_2": "Ibere ry'inkumi",
+            "option_3": "Ibitotsi",
+            "option_4": "Urubura",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Intore mu muhogo",
+            "option_2": "Umujugujugu mu ihene",
+            "option_3": "Kudashobora kurongora mushiki wawe",
+            "option_4": "Igisambu gisigaye hagati y'uruhira",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nshoye inka nyitambitse nyikura nyihagaritse",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Ikibyindi",
+            "option_3": "Abarinzi b'inyoni; inzara mu bana",
+            "option_4": "Amahururu y'ababi",
+            "correct_answer": "Ikibyindi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Uko turi iwacu twese turi bagufi",
+            "option_1": "Umushoferi w'indege",
+            "option_2": "Ishoka mu rukwi",
+            "option_3": "Ikirago",
+            "option_4": "Amashyiga",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpingira mu misozi yase ngasarura mu gipfunsi",
+            "option_1": "Intashya",
+            "option_2": "Umusatsi",
+            "option_3": "Uruyuzi",
+            "option_4": "Inda muruhara",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera amakara y'umuntu",
+            "option_1": "Umusatsi",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutubya amarobe rutubura amabondo umusonga wa rugadika",
+            "option_1": "Umuvumbuko w'intare",
+            "option_2": "Icyugu mu nshoce",
+            "option_3": "Igihumyo; umwobo",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Makasi ihuye n'indi",
+            "option_1": "Imodoka mu muhanda",
+            "option_2": "Umwungu mu ncoce",
+            "option_3": "Ibuye n'umutarimba",
+            "option_4": "Amabere",
+            "correct_answer": "Ibuye n'umutarimba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mu kwidumbura wari mwene Nyakwidumbura",
+            "option_1": "Radiyo",
+            "option_2": "Inkota mu bitugu",
+            "option_3": "Inkuba",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Inkota mu bitugu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyamukubura umutindi",
+            "option_1": "Urume ku musororo",
+            "option_2": "Umbwato; ibitwikurura",
+            "option_3": "Umwisheshe",
+            "option_4": "Ikibwana cy'imbwa",
+            "correct_answer": "Umwisheshe"
+        }
+    }
+]

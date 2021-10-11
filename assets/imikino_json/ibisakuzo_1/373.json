@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 3
+    },
+    {
+        "sakwe_1": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Umugore utwite",
+            "option_3": "Ifaranga",
+            "option_4": "Corogati",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Ikivugirizo",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Ibiboga byagaze",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Igitoki",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kamanutse kibarangura no hasi kati, nkaba nzasubirayo ndakambura data",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Igikoro",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Umusatsi ku mutwe",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Iteke",
+            "option_2": "Ibaruwa",
+            "option_3": "Ibirago",
+            "option_4": "Igare rigeze ahazamuka",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite inka yanjye nyiragira ku manga ntitembe",
+            "option_1": "Isoko",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Amatwi",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Amatwi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Natumba naturika ni ibuye rya Kagbayi",
+            "option_1": "Ishapure n'amasengesho",
+            "option_2": "Ipikipiki",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Ishapure n'amasengesho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Umusazi",
+            "option_2": "Gusaba uwo wimye",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata akebo nanjye mfate akandi tujye kwahira intagwira",
+            "option_1": "Icyumweru",
+            "option_2": "Ururimi",
+            "option_3": "Imvura",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Ubwoya bw'inka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Amacandwe y'incira",
+            "option_2": "Ifaranga",
+            "option_3": "Kaburimbo",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Kaburimbo"
+        }
+    }
+]

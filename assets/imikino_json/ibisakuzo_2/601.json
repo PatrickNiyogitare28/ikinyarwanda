@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 479
+    },
+    {
+        "sakwe_1": {
+            "question": "Kwumva menshi kagahishira",
+            "option_1": "Agasongero",
+            "option_2": "Umuganda",
+            "option_3": "Imbaragasa",
+            "option_4": "Agafundi ko ku nzira\n \nmaganyiro",
+            "correct_answer": "Agafundi ko ku nzira\n \nmaganyiro"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kahemena",
+            "option_1": "Akotsi k'abatabazi",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Umwishywa ku rutare",
+            "option_4": "Urubwija",
+            "correct_answer": "Akotsi k'abatabazi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Uko turi iwacu twese turi bagufi",
+            "option_1": "Amashyiga",
+            "option_2": "Isinde",
+            "option_3": "Akazizi k'amata",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karatemba shoshori",
+            "option_1": "Ijoro",
+            "option_2": "Urusenge",
+            "option_3": "Igiti gishigukanye n'imizi yacyo",
+            "option_4": "Akishywa mu rutoki",
+            "correct_answer": "Akishywa mu rutoki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera igisumba ngari",
+            "option_1": "Ururo mu mateke",
+            "option_2": "Ijwi",
+            "option_3": "Umuganda",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ururo mu mateke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Cyamutimbatimba cya ngoma y'abatindi",
+            "option_1": "Amazuru",
+            "option_2": "Igitoki n'amakoma",
+            "option_3": "Ifundi ku rukoma",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Igitoki n'amakoma"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gashinze i Gasebeya",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Isha mu ibanga",
+            "option_4": "Ifundi",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mutamu irarenze n'iyayo",
+            "option_1": "Ifuni mu mabuye",
+            "option_2": "Ibijumaba",
+            "option_3": "Isha mu mukenke",
+            "option_4": "Urukorogoto",
+            "correct_answer": "Isha mu mukenke"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Rutumba ruturitse rutare rw'iyapfuye ejo",
+            "option_1": "Uruyuki",
+            "option_2": "Ibiganza",
+            "option_3": "Amahururu y'ababi",
+            "option_4": "Isekurume y'intama",
+            "correct_answer": "Isekurume y'intama"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndara mpinga bugacya",
+            "option_1": "Abakomyi b'insyo",
+            "option_2": "Ifundi ku rukoma",
+            "option_3": "Ibirago",
+            "option_4": "Agahinda ku mutima",
+            "correct_answer": "Agahinda ku mutima"
+        }
+    }
+]

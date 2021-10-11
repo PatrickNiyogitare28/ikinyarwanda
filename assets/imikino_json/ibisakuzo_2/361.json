@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 109
+    },
+    {
+        "sakwe_1": {
+            "question": "Barateka ntibaminina",
+            "option_1": "Abahizi",
+            "option_2": "Umukobwa ureba agacumu kishe musaza we",
+            "option_3": "Amazi y'inyama",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Amazi y'inyama"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rugaragura mugabo rwa mugabo ikuzimu yahidirimanze",
+            "option_1": "Inyana iri mu nda ya nyina",
+            "option_2": "Umwumbati",
+            "option_3": "Ijambo ry'umwami",
+            "option_4": "Ubwato",
+            "correct_answer": "Umwumbati"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Buhiri bwa Kamango yakubitaga so amuruta",
+            "option_1": "Ikiziba mu mpinga",
+            "option_2": "Ikirizo cy'intama",
+            "option_3": "Abavomyi",
+            "option_4": "Uruyuki",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gaju iriruka ntirenga",
+            "option_1": "Umukenke",
+            "option_2": "Inyenyeri",
+            "option_3": "Injishi z'igisabo",
+            "option_4": "Umutsi mu nda",
+            "correct_answer": "Umukenke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kakubagarira",
+            "option_1": "Uruzi; ishami ry'uruzi",
+            "option_2": "Agahinzi kamwe mu murima",
+            "option_3": "Radiyo",
+            "option_4": "Ubunyerere",
+            "correct_answer": "Agahinzi kamwe mu murima"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mu mucyamo biradogera",
+            "option_1": "Ikigori",
+            "option_2": "Ingabo y'ubuki",
+            "option_3": "Urusenge",
+            "option_4": "Impatwe z'umusaza",
+            "correct_answer": "Impatwe z'umusaza"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiransibura i Burundi",
+            "option_1": "Umurabyo",
+            "option_2": "Urusenge",
+            "option_3": "Akanyita k'uruhu",
+            "option_4": "Inkombe n'uruzi",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Vuga jye nahoze",
+            "option_1": "Umutozo",
+            "option_2": "Urusyo n'ingasire",
+            "option_3": "Umudwedwe",
+            "option_4": "Umuce wo mu irebe",
+            "correct_answer": "Umuce wo mu irebe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rukondakonda umuhoro wo mu Kinyaga",
+            "option_1": "Uruho",
+            "option_2": "Imvura igwa ku gitikatika",
+            "option_3": "Imyenge y'amazuru",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngira imbehe nyinshi ariko mbura iyo ndiraho",
+            "option_1": "Ibisunzu bya rusake",
+            "option_2": "Urutete",
+            "option_3": "Ibiganza",
+            "option_4": "Ikigoli",
+            "correct_answer": "Ibiganza"
+        }
+    }
+]

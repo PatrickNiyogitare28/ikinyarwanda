@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 242
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Umuyaga mu muyange",
+            "option_4": "Umunyereri",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Uruhara rw'umusaza",
+            "option_2": "Umunyeshuri",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kamanutse kibarangura no hasi kati, nkaba nzasubirayo ndakambura data",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Isi n'ijuru",
+            "option_3": "Imisozi",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Ingufuri hejuru y'isanduku",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Ifaranga",
+            "option_3": "Inzara n'inyota",
+            "option_4": "Amashaza",
+            "correct_answer": "Inzara n'inyota"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye nyikama igaramye",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Umuvure",
+            "option_3": "Ikiyoni",
+            "option_4": "Igiheri mu ruhara",
+            "correct_answer": "Umuvure"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kirabyataraye ku ntebe y'ikinyarwanda",
+            "option_1": "Ifaranga",
+            "option_2": "Imbunda",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Ikibya cy'umusaza",
+            "correct_answer": "Ikibya cy'umusaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Havuyemo umwe ntitwabimenya",
+            "option_1": "Ubwatsi busakaye inzu",
+            "option_2": "Ibikongorwa by'ibisheke",
+            "option_3": "Igisheke",
+            "option_4": "Indumane",
+            "correct_answer": "Ubwatsi busakaye inzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kirarumbaraye",
+            "option_1": "Igikoro",
+            "option_2": "Umuvure",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Igisozi kirekire",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyiramikuku arakukuza mu mikuku ya Shyorongi",
+            "option_1": "Abavomyi",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Igiheri mu ruhara",
+            "option_4": "Umuvure",
+            "correct_answer": "Igiheri mu ruhara"
+        }
+    }
+]

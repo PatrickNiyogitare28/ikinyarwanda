@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 368
+    },
+    {
+        "sakwe_1": {
+            "question": "Narakuze ndakururumba nanirwa no kwasa inkwi",
+            "option_1": "Igihondohondo",
+            "option_2": "Intore mu muhogo",
+            "option_3": "Umuziha w'inzovu",
+            "option_4": "Agakongorerwa",
+            "correct_answer": "Igihondohondo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze ku gasozi Mpanga amatama nti amata y'abashumba yabuze",
+            "option_1": "Ijoro",
+            "option_2": "Umwumano w'ishashi",
+            "option_3": "Umuganda",
+            "option_4": "Uruboho",
+            "correct_answer": "Umwumano w'ishashi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sogokuru Sebarame yapfuye apfuna ivu",
+            "option_1": "Umuhazi ugwanye umuguta",
+            "option_2": "Imivuba; inkono y'itabi",
+            "option_3": "Udukongorwa",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Imivuba; inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyamweru mu matovu",
+            "option_1": "Amara",
+            "option_2": "Icebe ry'imbaragasa",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Imegeri",
+            "correct_answer": "Imegeri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze mu mpinga ndizihiza",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Ibitotsi",
+            "option_3": "Mahina",
+            "option_4": "Inda mu ihururu",
+            "correct_answer": "Umwuho w'amateke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyamurenga i Buzi",
+            "option_1": "Isake; impanda",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Injuma y'uruhinja",
+            "option_4": "Uruhu rw'imbwa",
+            "correct_answer": "Isake; impanda"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kirashoboka i Rutonde",
+            "option_1": "Inka mu mpinga",
+            "option_2": "Umununi ku itabi",
+            "option_3": "Igisindu",
+            "option_4": "Umuyaga; umusuzi; amazi",
+            "correct_answer": "Inka mu mpinga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Isi n'ijuru",
+            "option_2": "Utuzu tw'abashumba",
+            "option_3": "Ubukumi bwa so na nyoko",
+            "option_4": "Ikijumba",
+            "correct_answer": "Ubukumi bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Ingata mu ruhira",
+            "option_2": "Ibitotsi",
+            "option_3": "Gutsika uruzi",
+            "option_4": "Amabyi y'umushumba",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mapfumfuramanyoni",
+            "option_1": "Amarira y'imbwa",
+            "option_2": "Urutozi",
+            "option_3": "Inkinwa cya nyirabarazana",
+            "option_4": "Amahembe y'inyama",
+            "correct_answer": "Amahembe y'inyama"
+        }
+    }
+]

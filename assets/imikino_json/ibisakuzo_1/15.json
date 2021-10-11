@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 67
+    },
+    {
+        "sakwe_1": {
+            "question": "Aho Mutara na Mutaga barasaniraga hacitse ubikuba",
+            "option_1": "Ibiganza",
+            "option_2": "Ikirungurira",
+            "option_3": "Urwogerezo",
+            "option_4": "Kwatsa mu ziko",
+            "correct_answer": "Urwogerezo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Isekuru",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Igisheke",
+            "option_4": "Inzoga mu muheha",
+            "correct_answer": "Isekuru"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akayuriyuri kwa Ntibazirikana inshuti y'urupfu",
+            "option_1": "Umuyaga",
+            "option_2": "Ibaruwa",
+            "option_3": "Ibaruwa",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kigenda cyane kitagira amaguru",
+            "option_1": "Urupfu",
+            "option_2": "Inzara y'umusore",
+            "option_3": "Umuyaga",
+            "option_4": "Uruhinja",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Dombidori",
+            "option_1": "Amabya",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Intore mu rwabya",
+            "option_4": "Agasuzi",
+            "correct_answer": "Intore mu rwabya"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Ifaranga",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera inyamaswa igendesha amaguru 4 mu gitondo, amaguru 2 saa sita, n'amaguru 3 nimugoroba",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Ifaranga",
+            "option_3": "Umuntu",
+            "option_4": "Amase y'inka",
+            "correct_answer": "Umuntu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Umusazi",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kirabyataraye",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Ikibyindi cy'umushumba",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Icyobo",
+            "correct_answer": "Ikibyindi cy'umushumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Inopho",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Kaburimbo",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Inopho"
+        }
+    }
+]

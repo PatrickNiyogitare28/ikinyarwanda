@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 213
+    },
+    {
+        "sakwe_1": {
+            "question": "Hagati ya Gacu na Mpanga hazi bake",
+            "option_1": "Ikibyindi",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Ishoka mu giti",
+            "option_4": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zana icyansi cy'amatwi irinikiye",
+            "option_1": "Igihondohondo",
+            "option_2": "Igisura",
+            "option_3": "Ikinyankari",
+            "option_4": "Umwungu mu mbibe",
+            "correct_answer": "Ikinyankari"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera igisogo nyamutentema",
+            "option_1": "Urubariro",
+            "option_2": "Inuma ku ishaka",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Umuziha w'inzovu",
+            "correct_answer": "Umuziha w'inzovu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karaga ati, \"pfiii!!!\"",
+            "option_1": "Ikibwana cy'imbwa mu masinde",
+            "option_2": "Imiduha",
+            "option_3": "Agatwa mu ibumba",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Agatwa mu ibumba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kigaruje ingogo kigaruje ingabo kirashaje ku nyanja y'i Karagwe",
+            "option_1": "Ikigori ku nzira",
+            "option_2": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_3": "Umugore utwite",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Ikigori ku nzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mvuye aha ncumbagira ngera iyo nshaka",
+            "option_1": "Ikigore kivuye mu mazu kenshi",
+            "option_2": "Intore n'umutsima",
+            "option_3": "Ibere ry'inkumi",
+            "option_4": "Uruboho",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nkubise agahini hasi nti bazimu nimuzuke",
+            "option_1": "Ikinyogote",
+            "option_2": "Umutozo",
+            "option_3": "Ijoro",
+            "option_4": "Igitare",
+            "correct_answer": "Umutozo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite ingungu ebyiri zinyambutsa uruzi iteka",
+            "option_1": "Amaso",
+            "option_2": "Ikibyindi",
+            "option_3": "Inzugi z'imigano, umukokwe",
+            "option_4": "Hobe!\"",
+            "correct_answer": "Amaso"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Sogokuru ajya mu birunga yanzuze he?",
+            "option_1": "Amazi mu gisura",
+            "option_2": "Igitsina cy'amateke",
+            "option_3": "Ikizubazuba",
+            "option_4": "Umurunga",
+            "correct_answer": "Amazi mu gisura"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Turatemba shyashyari",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Ikirungurira",
+            "option_3": "Uruzi ku rutare",
+            "option_4": "Intorezo",
+            "correct_answer": "Uruzi ku rutare"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 127
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyamwiza mu ibanga",
+            "option_1": "Umwangange",
+            "option_2": "Ifuni",
+            "option_3": "Igitoki n'insina bigwanye",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Umwangange"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Sogokuru w'ibihigi nyinshi",
+            "option_1": "Umwijima",
+            "option_2": "Umuvuba",
+            "option_3": "Umutobotobo",
+            "option_4": "Urutumbwe",
+            "correct_answer": "Umutobotobo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Gaturutse ikuzimu gashyushye",
+            "option_1": "Akanigi mu ijosi",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Intosho",
+            "option_4": "Akana n'insina",
+            "correct_answer": "Akana n'insina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirampoyongo",
+            "option_1": "Igisabo",
+            "option_2": "Igitokd kigwanye n'insina",
+            "option_3": "Ubwato mu ruzi",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Murarajuru wa Rujugira ntagikoza ibirenge hasi",
+            "option_1": "Inzara mu ruheri",
+            "option_2": "Ibiryo ku mbebe",
+            "option_3": "Icyiyone",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Umwumba w'insina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mama arusha nyoko kunogera inkanda",
+            "option_1": "Igitoki n'amakoma",
+            "option_2": "Intore n'amata",
+            "option_3": "Umusambi; ikinyabwoya",
+            "option_4": "Umukenke",
+            "correct_answer": "Umusambi; ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiranduguru ingoma y'abashi",
+            "option_1": "Umwijima",
+            "option_2": "Ibirayi",
+            "option_3": "Amashyiga",
+            "option_4": "Umuyaga",
+            "correct_answer": "Ibirayi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyoko arusha mama amabuno manini",
+            "option_1": "Umwisheshe",
+            "option_2": "Igitonyanga",
+            "option_3": "Kudashobora kurongora mushiki wawe",
+            "option_4": "Igitembatembe",
+            "correct_answer": "Igitembatembe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zaturuka mu irembo ntiwamenya iyo nyoko yakowe",
+            "option_1": "Inkumi yiba",
+            "option_2": "Ifundi",
+            "option_3": "Urukumbi mu menyo",
+            "option_4": "Icyibo",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirabazaza ntaruha",
+            "option_1": "Imodoka",
+            "option_2": "Ikivumvuri",
+            "option_3": "Inkono mu mashyiga",
+            "option_4": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "correct_answer": "Inkono mu mashyiga"
+        }
+    }
+]

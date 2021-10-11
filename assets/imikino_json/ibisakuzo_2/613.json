@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 2
+    },
+    {
+        "sakwe_1": {
+            "question": "Wikoza hasi wikoza hejuru ntuzabona ishinya ya Dede",
+            "option_1": "Uburiri; urusenge",
+            "option_2": "Uruyange; amaguru ya muhuhirizi",
+            "option_3": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_4": "Intorezo",
+            "correct_answer": "Ishinya y'urukwavu; ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imisozi iriyorosa ibigondo",
+            "option_1": "Umununi ku itabi",
+            "option_2": "Inzugi z'imigano, umukokwe",
+            "option_3": "Umwironge",
+            "option_4": "Ibihu, inzuki",
+            "correct_answer": "Ibihu, inzuki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera urujeje uruhumbura Jana",
+            "option_1": "Uruyange; amaguru ya muhuhirizi",
+            "option_2": "Ikinyoro cy'umusaza",
+            "option_3": "Inzogera",
+            "option_4": "Ibyiyone",
+            "correct_answer": "Uruyange; amaguru ya muhuhirizi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inyumba isakaje inyuma",
+            "option_1": "Ifurwe",
+            "option_2": "Inshuzi mu cyansi",
+            "option_3": "Ikinyogote",
+            "option_4": "Amafuni mu rukoro",
+            "correct_answer": "Ikinyogote"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze hano nkubita inkoni yanjye i Buzi",
+            "option_1": "Umurabyo",
+            "option_2": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_3": "Intasya",
+            "option_4": "Urukumbi mu menyo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka zanjye zaragiye zigaruka mu mpinga y'abankunda",
+            "option_1": "Umuyaga",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Ibitotsi",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kagema ijuru",
+            "option_1": "Akumba k'urukoma",
+            "option_2": "Agatonyanga ku kigega",
+            "option_3": "Inkombe n'uruzi",
+            "option_4": "Kudashobora kurongora mushiki wawe",
+            "correct_answer": "Akumba k'urukoma"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyamurenga na Nyiragongo bashinze akaburi",
+            "option_1": "Agakono k' inzara",
+            "option_2": "Ifuni mu mushike",
+            "option_3": "Inuma mu ntabire",
+            "option_4": "Intore n'umutsima",
+            "correct_answer": "Inuma mu ntabire"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Nyirahanga amenyo abiri",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Inkinwa cya nyirabarazana",
+            "option_4": "Ikirago",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Urambaze wampaye iki?",
+            "option_1": "Umugozi w'ibijumba",
+            "option_2": "Ikiganza",
+            "option_3": "Ingata mu ruhira",
+            "option_4": "Ubunyerere",
+            "correct_answer": "Umugozi w'ibijumba"
+        }
+    }
+]

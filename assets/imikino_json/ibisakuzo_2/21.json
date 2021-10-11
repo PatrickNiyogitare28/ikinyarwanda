@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 410
+    },
+    {
+        "sakwe_1": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Ubunyenyeri",
+            "option_2": "Ingwa",
+            "option_3": "Akayuzi hejuru y'urupfu",
+            "option_4": "Imigeri",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Birasa ntibitana",
+            "option_1": "Utuzu tw'abashumba",
+            "option_2": "Akishywa mu rutoki",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Agafundi ko ku nzira\n \nmaganyiro",
+            "correct_answer": "Amabondo y'ihene"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nabyaye abana ariko ntiwamenya imfura muri bo",
+            "option_1": "Akato mu kiyaga",
+            "option_2": "Amafundi",
+            "option_3": "Amashyiga",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Amafundi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngira abana bakarara bahagaze bwacya bakaryama",
+            "option_1": "Icyiyone",
+            "option_2": "Umuzungu ku ipikipiki",
+            "option_3": "Imyugaruro",
+            "option_4": "Umusambi",
+            "correct_answer": "Imyugaruro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kibindigiri ngo zinduka tujye ibwami",
+            "option_1": "Mihigo",
+            "option_2": "Irobe",
+            "option_3": "Imondo mu gihu",
+            "option_4": "Urukwavu",
+            "correct_answer": "Irobe"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Zaturuka mu irembo ntiwamenya iyo nyoko yakowe",
+            "option_1": "Umuneke",
+            "option_2": "Ifundi",
+            "option_3": "Uruhu rw'imbwa",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mu kwidumbura wari mwene Nyakwidumbura",
+            "option_1": "Urubariro",
+            "option_2": "Ibitotsi",
+            "option_3": "Inda mu nkanda",
+            "option_4": "Inkota mu bitugu",
+            "correct_answer": "Inkota mu bitugu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ntereye Ndiza urwenge rurahonya",
+            "option_1": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_2": "Umuko mu mukokwe",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Urwara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Aho umugabo ahinze ntasarura",
+            "option_1": "Igiko gihiriye mu ruhura",
+            "option_2": "Imbaragasa",
+            "option_3": "Inzoga mu kibindi",
+            "option_4": "Ibirayi",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mbonye umusore w'i Gisaka asomera igisate cy'umutsima",
+            "option_1": "Icyugu mu nshoce",
+            "option_2": "Umugunguzi",
+            "option_3": "Umurabyo",
+            "option_4": "Umuhumetso",
+            "correct_answer": "Umurabyo"
+        }
+    }
+]

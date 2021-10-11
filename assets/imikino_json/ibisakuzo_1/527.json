@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 734
+    },
+    {
+        "sakwe_1": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_2": "Umusuzi",
+            "option_3": "Umukecuru wurira ikigega",
+            "option_4": "Umugore ujya iwabo",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ntiwigore ndaje",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Umukecuru wataye ikijigo cye",
+            "option_3": "Ipikipiki",
+            "option_4": "Imana",
+            "correct_answer": "Ipikipiki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Umukobwa ubonye iwabo hashya",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Njya mu nzu kagasigara hanze",
+            "option_1": "Agatsinsino",
+            "option_2": "Ivunja",
+            "option_3": "Amarira mu maso",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyiramutarataje abagabo",
+            "option_1": "Ikawa n'umumenamabuye",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Umugina mu rufunzo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kirisha amazuru",
+            "option_1": "Umuvuba",
+            "option_2": "Urutoryi",
+            "option_3": "Igikeri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abakobwa banjye baraturanye ariko ntibaramukanya",
+            "option_1": "Igicucucucu",
+            "option_2": "Inzara y'umusore",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Imyugariro",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aho Mutara na Mutaga barwaniye, nta cyatsi kizahamera",
+            "option_1": "Ibaruwa",
+            "option_2": "Uruhara",
+            "option_3": "Umugono w'ishashi",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Uruhara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karadundaraye",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Akabyindi k'umushumba",
+            "option_3": "Igikatsi",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Akabyindi k'umushumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Umuvuba",
+            "option_2": "Amase y'inka",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Isekuru",
+            "correct_answer": "Isekuru"
+        }
+    }
+]

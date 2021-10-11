@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 575
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Ifaranga",
+            "option_4": "Inyundo",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Umubagazi",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Innyo y'ihene",
+            "option_4": "Insina",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Maguru mane ahagaze kuri maguru mane ashaka maguru mane",
+            "option_1": "Ikaramu",
+            "option_2": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_3": "Ikiyoni",
+            "option_4": "Umuvure",
+            "correct_answer": "Injangwe ihagaze ku meza ishaka imbeba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Ifaranga",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Ibitotsi",
+            "option_2": "Telefoni",
+            "option_3": "Agakecuru kocyejwe n'igikoma",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abakobwa banjye baranaga amajosi",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Inyama",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Ibaruwa",
+            "option_3": "Imbunda",
+            "option_4": "Urwembe mu musatsi",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze ku ruhiza nyara i Buriza nti Bahinzi nimuhingure",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Icyumweru",
+            "option_3": "Ikiryango cy'inzu",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Icyumweru"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata so nkunkumure nyoko",
+            "option_1": "Inzara n'inyota",
+            "option_2": "Urwiri",
+            "option_3": "Umusatsi",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Urwiri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mutumbagira wa Rujugira",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Umwumba w'insina",
+            "option_4": "Isoko",
+            "correct_answer": "Umwumba w'insina"
+        }
+    }
+]

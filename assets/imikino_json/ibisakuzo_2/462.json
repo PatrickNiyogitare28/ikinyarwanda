@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 704
+    },
+    {
+        "sakwe_1": {
+            "question": "Kakubagarira",
+            "option_1": "Agahinzi kamwe mu murima",
+            "option_2": "Umusuzi",
+            "option_3": "Igikeri",
+            "option_4": "Agahinda k'umutima",
+            "correct_answer": "Agahinzi kamwe mu murima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirabigirigita mu murombero",
+            "option_1": "Amahundo",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Amahembe y'inyama",
+            "option_4": "Umugore ujya kuzimura",
+            "correct_answer": "Umugore ujya kuzimura"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Dadari dadari",
+            "option_1": "Inda muruhara",
+            "option_2": "Ipfupfu ry'impfizi",
+            "option_3": "Ikirungurira",
+            "option_4": "Inkombe n'uruzi",
+            "correct_answer": "Inda muruhara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inzu yanjye yuzuzwa n'urubariro rumwe",
+            "option_1": "Imegeri",
+            "option_2": "Icyibo",
+            "option_3": "Imigondoro y'ibishyimbo",
+            "option_4": "Inzira ijya mu kigega",
+            "correct_answer": "Icyibo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Imbaragasa",
+            "option_2": "Uruhu rw'imbwa",
+            "option_3": "Ibuye ryica isuka irindi rikayigorora",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gikubise  Ngaru kubuguza ingabo",
+            "option_1": "Ikigore kivuye mu mazu kenshi",
+            "option_2": "Imana",
+            "option_3": "Inuma mu kigega",
+            "option_4": "Ukwezi",
+            "correct_answer": "Ikigore kivuye mu mazu kenshi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Jugujugu matembe",
+            "option_1": "Mpinga",
+            "option_2": "Igifu",
+            "option_3": "Insina",
+            "option_4": "Inyundo y'umucuruzi",
+            "correct_answer": "Inyundo y'umucuruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Icyambuka uruzi kitagira amaguru",
+            "option_1": "Imbwa mu masinde",
+            "option_2": "Umusambi",
+            "option_3": "Ijwi",
+            "option_4": "Uruyuzi; umugezi",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nabusobeka ntiwabusobanura",
+            "option_1": "Intosho mu manga",
+            "option_2": "Akanyita k'uruhu",
+            "option_3": "Amata n'amatezano; mukungwa na nyabarongo",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Amata n'amatezano; mukungwa na nyabarongo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inzovu rubunga itaha mu mwobo",
+            "option_1": "Igisindu",
+            "option_2": "Ikidasesa",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Ikidasesa"
+        }
+    }
+]

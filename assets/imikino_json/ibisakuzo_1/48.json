@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 656
+    },
+    {
+        "sakwe_1": {
+            "question": "Aho Mutara na Mutaga barwaniye ntiharamera utwatsi",
+            "option_1": "Umuyaga mu muyange",
+            "option_2": "Igare",
+            "option_3": "Agatsinsino",
+            "option_4": "Icyanzu, ubunyereri",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Ibiganza",
+            "option_3": "Agahinda k'inkumi",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Ikawa",
+            "option_2": "Umuvure",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bisa bidasa",
+            "option_1": "Imihanda, uruzi, inzira",
+            "option_2": "Ifu",
+            "option_3": "Ikawa n'umumenamabuye",
+            "option_4": "Umutwe",
+            "correct_answer": "Ikawa n'umumenamabuye"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kamanutse kibarangura no hasi kati, nkaba nzasubirayo ndakambura data",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Akababi k'umuvumu",
+            "option_3": "Ijwi",
+            "option_4": "Inzoga mu muheha",
+            "correct_answer": "Akababi k'umuvumu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karihuta",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Igare",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akana kanjye ni maguru ya Sarwaya",
+            "option_1": "Ibaruwa",
+            "option_2": "Ikiyoni",
+            "option_3": "Insina",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kacira bucece",
+            "option_1": "Agatsinsino",
+            "option_2": "Icebe ry'inka",
+            "option_3": "Ubwoya bw'inka",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Icebe ry'inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kamana iteka yambara neza",
+            "option_1": "Ururabo",
+            "option_2": "Inyegamo y'umusore warongoye",
+            "option_3": "Amashyiga (y'inyuma)",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ururabo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Ibibabi by'ikibonobono",
+            "option_2": "Agakecuru kocyejwe n'igikoma",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Ikibuno",
+            "correct_answer": "Ikibuno"
+        }
+    }
+]

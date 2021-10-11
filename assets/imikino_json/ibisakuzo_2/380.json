@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 594
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkubise urushyi rurumira",
+            "option_1": "Urukwavu",
+            "option_2": "Ifaranga",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Umugengararo w'amasaka",
+            "correct_answer": "Ibara ry'inka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Igira hakurya nange nigire hakuno duterane injunguto z'imiseke",
+            "option_1": "Agakono k'amapfa",
+            "option_2": "Urubura",
+            "option_3": "Ifundi mu murama",
+            "option_4": "Imyambi mu murana",
+            "correct_answer": "Urubura"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hepfo rurakururana",
+            "option_1": "Impatwe z'umusaza",
+            "option_2": "Ifuni mu rutara",
+            "option_3": "Agatwa mu ibumba",
+            "option_4": "Amata n'umutsima",
+            "correct_answer": "Impatwe z'umusaza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kwa Rwangeyo icyumweru",
+            "option_1": "Igifu",
+            "option_2": "Inzara y'uruhinja",
+            "option_3": "Umubuyenge w'intosho",
+            "option_4": "Ubwato mu kiyaga; mu mazi",
+            "correct_answer": "Igifu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gatitiba ihetse kabutindi",
+            "option_1": "Urukwavu",
+            "option_2": "Indishyi zihuye; imfubyi",
+            "option_3": "Umuzungu ku ipikipiki",
+            "option_4": "Ikirunga",
+            "correct_answer": "Umuzungu ku ipikipiki"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Kubona aho nyokobukwe yiyuhagira",
+            "option_2": "Ibishyinga",
+            "option_3": "Umwana ugaburirwa na nyina w'undi",
+            "option_4": "Urusogo n'urusogi",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Agakono k'iwacu ni imbungiramihigo",
+            "option_1": "Umusambi",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Umwana w'ifundi",
+            "option_4": "Amasaka y'umuterero; insina zikaragiye",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rukabyamurimbo wa Muririma ntagikoza ibirenge hasi",
+            "option_1": "Ukwezi",
+            "option_2": "Umwumba w'urukoma",
+            "option_3": "Umusambi; abashi b'inkingi",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Umusambi; abashi b'inkingi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Ijoro",
+            "option_2": "Urusenge",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Isuka",
+            "correct_answer": "Urusenge"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kwumva menshi kagahishira",
+            "option_1": "Ubwoya bw'inka",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Inda mu ihururu",
+            "option_4": "Agafundi ko ku nzira\n \nmaganyiro",
+            "correct_answer": "Agafundi ko ku nzira\n \nmaganyiro"
+        }
+    }
+]

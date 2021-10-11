@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 22
+    },
+    {
+        "sakwe_1": {
+            "question": "Abakobwa banjye baraturanye ariko ntibaramukanya",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Ikirungurira",
+            "option_4": "Umupira mu izamu",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bihindira ikuzimu",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Ikawa n'umumenamabuye",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Inkono y'amapfa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze ku rutare mpamagara Majigo nti amata y'abashumba yabuze",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Igare",
+            "option_3": "Umugono w'ishashi",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Umugono w'ishashi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Igitoki cya kamara",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Inshya z' umutwakazi",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Umusatsi",
+            "option_2": "Ikawa",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hepfo ngo pi, hirya ngo pi",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Imvura",
+            "option_4": "Ibiganza",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Ikaziya ya primus",
+            "option_2": "Ifaranga",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Umurabyo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karihuta",
+            "option_1": "Igare",
+            "option_2": "Umubagazi",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nubatse urugo hejuru y'urupfu",
+            "option_1": "Imirizo y'inka",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Igiheri mu ruhara",
+            "option_4": "Umunyereri",
+            "correct_answer": "Ubwato hejuru y'ikiyaga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ko twagendanye wambwiye iki",
+            "option_1": "Ifaranga",
+            "option_2": "Igisheke",
+            "option_3": "Igicucucucu",
+            "option_4": "Ijwi",
+            "correct_answer": "Igicucucucu"
+        }
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 13
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ntiza ku ikaramu nandike",
+            "answer": "Ntiza ikaramu nandike"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Amata y'inka ikibyara",
+            "answer": "Umuhondo"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Umwana w'ubuvivi",
+            "answer": "Ubuvivure"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Kumena amata utabishatse",
+            "answer": "Kuyabogora"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Igicuma bashyiramo amata",
+            "answer": "Icyansi"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amata y'inka yenda guteka",
+            "answer": "Amagonera, amasuga, amanga"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Mushiki wa data",
+            "answer": "Masenge"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Ibyo banywesha amata",
+            "answer": "Imikerenke, injome, imimuna"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Sisiteme [system] dukoreramo",
+            "answer": "Uburyo dukoreramo"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Abajama",
+            "answer": "Urungano"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Ibuye baseraho",
+            "answer": "Urusyo"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Uwo muntu yafashwe ari kumwe n'ibiyobyabwenge",
+            "answer": "Uwo muntu yafatanywe ibiyobyabwenge"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Gutangira gusya",
+            "answer": "Kwanzika"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ikintu cyo mbaza",
+            "answer": "Ikintu mbaza"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Umukumbi mwinshi",
+            "answer": "Imikumbi (umwikubo w'umukumbi urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Aho umwami yaciraga imanza",
+            "answer": "Ku gitabo cy'intarengwa"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Kuyavanamo amavuta",
+            "answer": "Kwavura, gusobanura"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Amazi asohoka mu moko mbere y'uko inka ibyara",
+            "answer": "Inkanya"
+        }
+    }
+]

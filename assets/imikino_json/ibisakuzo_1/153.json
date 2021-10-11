@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 15
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Ubuto bwa so na nyoko",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Ivunja mu kirenge",
+            "correct_answer": "Ubuto bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Igare rigeze ahazamuka",
+            "option_2": "Ururimi",
+            "option_3": "Sone yo ku irembo",
+            "option_4": "Umuntu",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Ikaramu",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Telefoni",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera icyambuka amazi kitagira amaguru",
+            "option_1": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_2": "Ijwi",
+            "option_3": "Ifu",
+            "option_4": "Icyanzu, ubunyereri",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Aho Mutara na Mutaga barasaniraga hacitse ubikuba",
+            "option_1": "Kaburimbo",
+            "option_2": "Urwogerezo",
+            "option_3": "Igare",
+            "option_4": "Inyundo",
+            "correct_answer": "Urwogerezo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Uruhara",
+            "option_2": "Ikaramu",
+            "option_3": "Ifaranga",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ayii",
+            "option_1": "Izuba",
+            "option_2": "Umukecuru wurira ikigega",
+            "option_3": "Isoko",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Umukecuru wataye ikijigo cye"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abambari b'I Rurinda bambarira inzogera ikuzimu",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Inyoni",
+            "option_3": "Ibaruwa",
+            "option_4": "Ubunyobwa",
+            "correct_answer": "Ubunyobwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Umutsima",
+            "option_4": "Umurabyo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Byumve uhore",
+            "option_1": "Umukandara",
+            "option_2": "Amapapayi",
+            "option_3": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_4": "Umusuzi wa so",
+            "correct_answer": "Umusuzi wa so"
+        }
+    }
+]

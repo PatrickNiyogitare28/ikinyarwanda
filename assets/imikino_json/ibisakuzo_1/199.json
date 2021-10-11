@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 316
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Umusatsi",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Indogobe ishaje",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze mu Rwanda ndeba mu mahanga",
+            "option_1": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_2": "Televiziyo",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Televiziyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inka yanjye nyikama igenda",
+            "option_1": "Amabere",
+            "option_2": "Ifaranga",
+            "option_3": "Ukwezi",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Umugina mu rufunzo",
+            "option_3": "Umuheto",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ishime nyoko aratwite",
+            "option_1": "Ijuru n'ukwezi",
+            "option_2": "Urwina",
+            "option_3": "Igitiritiri",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Urwina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kwigerezaho yikoreye ibyo atazi umubare",
+            "option_1": "Ibirenge by'umuntu",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Igikeri",
+            "correct_answer": "Umusatsi ku mutwe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Imodoka yabuze lisansi",
+            "option_2": "Urwogerezo",
+            "option_3": "Ikibya cy'umusaza",
+            "option_4": "Amatwi",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aho Mutara na Mutaga barwaniye, nta cyatsi kizahamera",
+            "option_1": "Corogati",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Uruhara",
+            "option_4": "Sone yo ku irembo",
+            "correct_answer": "Uruhara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hakurya urwererane, hakuno urwererane",
+            "option_1": "Firigo",
+            "option_2": "Ibabi by'ibibonobono",
+            "option_3": "Izuba",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Ururabo ry'amashyaza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Igisenge",
+            "option_2": "Ikawa n'umumenamabuye",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Igisenge"
+        }
+    }
+]

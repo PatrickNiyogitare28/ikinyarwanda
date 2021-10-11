@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 735
+    },
+    {
+        "sakwe_1": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Intosho mu manga",
+            "option_2": "Amaguru y'umusambi",
+            "option_3": "Urugori rw'ibishyimbo",
+            "option_4": "Icyobo",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ruvuzo irivuga ikibumba",
+            "option_1": "Imivuba; inkono y'itabi",
+            "option_2": "Inzoga mu kibindi",
+            "option_3": "Inshunzi mu cyansi",
+            "option_4": "Amasaka y'umuterero; insina zikaragiye",
+            "correct_answer": "Inzoga mu kibindi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera Rusharara Imana y'i Gisaka",
+            "option_1": "Igihumyo",
+            "option_2": "Intimba mu nda",
+            "option_3": "Inzu irimo ubusa",
+            "option_4": "Umuyaga",
+            "correct_answer": "Intimba mu nda"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hapfuye Senkopfu hasigara Semfunda",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Ubwato mu kiyaga; mu ruzi",
+            "option_3": "Imigondoro w'ibishyimbo",
+            "option_4": "Uruhindu rw'indushyi",
+            "correct_answer": "Imigondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Maguru ijana kabuno kaboze, hembe rimwe",
+            "option_1": "Inzu",
+            "option_2": "Amahembe y'inyama",
+            "option_3": "Intorezo",
+            "option_4": "Ibiboga bigaze",
+            "correct_answer": "Inzu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nk'aka kanya",
+            "option_1": "Inyenyeri ku ijuru",
+            "option_2": "Intorezo n'irago",
+            "option_3": "Agaheha mu gacuma",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Imashini idoda (icyarahani)"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Imivumu y'iwacu ni ruhumbanyoni",
+            "option_1": "Imbaragasa",
+            "option_2": "Umwungange",
+            "option_3": "Umuyaga",
+            "option_4": "Inzara",
+            "correct_answer": "Inzara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Gitsimba igiheneko",
+            "option_1": "Ikirago",
+            "option_2": "Igitama cyaguye mu mukokwe",
+            "option_3": "Umutumba",
+            "option_4": "Umutanoga ku rutare",
+            "correct_answer": "Igitama cyaguye mu mukokwe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ntereye Ndiza ngeze mu mpinga nibuka umugenzi nsize inyuma",
+            "option_1": "Inyamanza",
+            "option_2": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "option_3": "Uruheri mu gihata",
+            "option_4": "Icyiyoni mu isoko",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Cyasamye kitaryama",
+            "option_1": "Umutozo",
+            "option_2": "Imbwa",
+            "option_3": "Ikiryango cy'inzu",
+            "option_4": "Urusyo n'ingasire",
+            "correct_answer": "Ikiryango cy'inzu"
+        }
+    }
+]

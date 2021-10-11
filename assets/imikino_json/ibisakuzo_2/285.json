@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 493
+    },
+    {
+        "sakwe_1": {
+            "question": "Nzamutse agasozi ubutogotogo buramvuna",
+            "option_1": "Akazizi k'amata",
+            "option_2": "Uruyuzi",
+            "option_3": "Icyugu",
+            "option_4": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "correct_answer": "Ubuhuzu mu bitugu; inkota mu bitugu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkoni mu kugukubita yarakuneshaga",
+            "option_1": "Intosho mu manga",
+            "option_2": "Urugori rw'ibishyimbo",
+            "option_3": "Uruyuki",
+            "option_4": "Agahinda ku murima",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mvugirije ingoma ikuzimu abaribi musozi barayumva",
+            "option_1": "Agahanga k'ifumberi",
+            "option_2": "Agakono k'impengeri",
+            "option_3": "Imigeri",
+            "option_4": "Ikigega",
+            "correct_answer": "Agakono k'impengeri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Watambana ingabo mu rutare",
+            "option_1": "Imboni",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Inda mu nnyo",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Sogokuru aryoha aboze",
+            "option_1": "Agakono k'amapfa",
+            "option_2": "Igikongorwa",
+            "option_3": "Ifundi",
+            "option_4": "Umuneke",
+            "correct_answer": "Umuneke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mapfumfuramanyoni",
+            "option_1": "Uruhiza",
+            "option_2": "Urwara",
+            "option_3": "Amahembe y'inyama",
+            "option_4": "Inkota mu bitugu",
+            "correct_answer": "Amahembe y'inyama"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kadiridiri ka Ndirimba hejuru ya Sandarubeti",
+            "option_1": "Umusambi",
+            "option_2": "Umuntu uri ku ipikipiki",
+            "option_3": "Amashyiga",
+            "option_4": "Amazi mu gisura",
+            "correct_answer": "Umuntu uri ku ipikipiki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati \"bambari\", kati \"ba!\"",
+            "option_1": "Agatonyanga ku kigega",
+            "option_2": "Igitsure cya mukeba",
+            "option_3": "Igitoki",
+            "option_4": "Ikinyoro cy'umusaza",
+            "correct_answer": "Agatonyanga ku kigega"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Uransaba ndaguha",
+            "option_1": "Umusirikare",
+            "option_2": "Igishorobwa",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Umugezi",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Impeta Kajiga ya Rujinja ironsa umunani",
+            "option_1": "Ijisho",
+            "option_2": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_3": "Injishi y'igisabo",
+            "option_4": "Urusenge",
+            "correct_answer": "Injishi y'igisabo"
+        }
+    }
+]

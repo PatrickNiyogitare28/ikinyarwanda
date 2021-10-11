@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 361
+    },
+    {
+        "sakwe_1": {
+            "question": "Kagera iruje",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Ikiziha cy'inzovu",
+            "option_3": "K'umutima w'undi",
+            "option_4": "Umusambi",
+            "correct_answer": "Ikiziha cy'inzovu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Gishyuha kitotsa",
+            "option_1": "Umusuzi",
+            "option_2": "Umuhazi ugwanye umuguta",
+            "option_3": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Umusuzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Imbehe za Nyirabangana zingana zose",
+            "option_1": "Isi n' ijuru",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Umuyaga",
+            "option_4": "Ikirago",
+            "correct_answer": "Isi n' ijuru"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ubonye ngo tuvugane ijambo ndisange munsi y'inzira",
+            "option_1": "Umusoro",
+            "option_2": "Igikongorwa",
+            "option_3": "Imigondoro y'ibishyimbo",
+            "option_4": "Umusambi",
+            "correct_answer": "Igikongorwa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kagema ijuru",
+            "option_1": "Akumba k'urukoma",
+            "option_2": "Insitare",
+            "option_3": "Ibiganza",
+            "option_4": "Igisabo",
+            "correct_answer": "Akumba k'urukoma"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndashe akambi mu Rwanda abagabo bose barakangarana",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umusoro",
+            "option_3": "Imizi y'urutare",
+            "option_4": "Inzara yica umusore",
+            "correct_answer": "Umusoro"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira inka ikimira mu kinono ikabyarira mu kanwa",
+            "option_1": "Urukwavu",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Insina",
+            "option_4": "Abavomyi",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mu gikombe ngo, \"hobe",
+            "option_1": "Igihondohondo",
+            "option_2": "Hobe!\"",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Hobe!\""
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karaga ati, \"pfiii!!!\"",
+            "option_1": "Amaguru y'umusambi",
+            "option_2": "Ingwe",
+            "option_3": "Umusoro",
+            "option_4": "Agatwa mu ibumba",
+            "correct_answer": "Agatwa mu ibumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ku irengerenge ku ididiri ingoma",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Igikuku",
+            "option_3": "Inyundo z'abacuzi",
+            "option_4": "Akagata mu rwobo",
+            "correct_answer": "Inyundo z'abacuzi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 529
+    },
+    {
+        "sakwe_1": {
+            "question": "Karatembashyashya",
+            "option_1": "Ibaruwa",
+            "option_2": "Ubunyobwa",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Imigomdoro yibishyimbo",
+            "option_2": "Umuzi w'urutare",
+            "option_3": "Umuyaga",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Ururimi n'amenyo",
+            "option_3": "Amata",
+            "option_4": "Inopho",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Njya mu nzu kagasigara hanze",
+            "option_1": "Umutwe",
+            "option_2": "Inkoko n'inkware",
+            "option_3": "Agatsinsino",
+            "option_4": "Ubunyereri",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hari agate utakurira",
+            "option_1": "Ifaranga",
+            "option_2": "Umusore wishwe n'inzara",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Umunyereri",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Njugunye akabuye ku karubanda baragatanguranwa",
+            "option_1": "Ifaranga",
+            "option_2": "Ifaranga",
+            "option_3": "Iteke",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Inyenyeri",
+            "option_2": "Umuvumbyi",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nkubise umupira ugera i Ngozi",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ibaruwa",
+            "option_3": "Insina; amateke",
+            "option_4": "Ibabi by'ibibonobono",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akana kanjye ni maguru ya Sarwaya",
+            "option_1": "Agatsinsino",
+            "option_2": "Inopho",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Ibikongorwa by'ibisheke",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Ikawa",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    }
+]

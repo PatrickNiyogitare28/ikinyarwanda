@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 144
+    },
+    {
+        "sakwe_1": {
+            "question": "Kabatama i Bukoma",
+            "option_1": "Ijoro",
+            "option_2": "Akagata mu rwobo",
+            "option_3": "Akabuye gahonze isuka akandi kakayigorora",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Akagata mu rwobo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Irengerenge",
+            "option_1": "Inzogera",
+            "option_2": "Akotsi k'abatabazi",
+            "option_3": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_4": "Umuntu uri ku ipikipiki",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ubumomo so ubuguru bw'isi",
+            "option_1": "Ibishyinga",
+            "option_2": "Umutsima n'inyama",
+            "option_3": "Amaguru yanjye n'ayawe",
+            "option_4": "Ikiziba mu mpinga",
+            "correct_answer": "Amaguru yanjye n'ayawe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirampirima aratwite",
+            "option_1": "Igitonyanga",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Icyiyoni mu isoko",
+            "option_4": "Akamuga karimo ibishyimbo",
+            "correct_answer": "Akamuga karimo ibishyimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rushinyika rushaje you rugina rw'uwapfuye ejo",
+            "option_1": "Intore n'umutsima",
+            "option_2": "Umusatsi",
+            "option_3": "Urutozi",
+            "option_4": "Umusemburo",
+            "correct_answer": "Urutozi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Wacana mu ruzi umuriro ukaka?",
+            "option_1": "Radiyo",
+            "option_2": "Igisabo",
+            "option_3": "Agakenya kw'imbaragasa",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Sesera aha dushire",
+            "option_1": "Amasaka ku rusyo",
+            "option_2": "Imyungu ku ruyuzi",
+            "option_3": "Imirizo cy'intama",
+            "option_4": "Amaso",
+            "correct_answer": "Amasaka ku rusyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kari n'ikindi karakina mu gikari",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Akayuki",
+            "option_3": "Inzuki n'ubuki",
+            "option_4": "Amata n'amatezano; mukungwa na nyabarongo",
+            "correct_answer": "Akayuki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Inka irisha mu ishyamba ryayo ryonyine",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Agakatsi ku butanda",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Agahinda ku murima"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ako nateye i Mwonga ntikaravayo",
+            "option_1": "Umwungu",
+            "option_2": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_3": "Ingwa",
+            "option_4": "Uruhabuzo mu ntoke",
+            "correct_answer": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora"
+        }
+    }
+]

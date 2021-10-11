@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 652
+    },
+    {
+        "sakwe_1": {
+            "question": "Karihuta",
+            "option_1": "Indege",
+            "option_2": "Umuzungu n'umwirabura",
+            "option_3": "Igare rigeze ahazamuka",
+            "option_4": "Igare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Njugunye akabuye ku karubanda baragatanguranwa",
+            "option_1": "Buji",
+            "option_2": "Ifaranga",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Ipikipiki",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Umukondo w'inyana",
+            "option_4": "Umusuzi",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Ibinono by'inka",
+            "option_2": "Imvura",
+            "option_3": "Ifaranga",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Ubuto bwa so na nyoko",
+            "option_2": "Ikaramu",
+            "option_3": "Ubwoya bw' inka",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abagwabiro bashinze inteko",
+            "option_1": "Umucaca",
+            "option_2": "Ikirunga",
+            "option_3": "Imbunda",
+            "option_4": "Intare",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Icyanzu",
+            "option_3": "Izuba",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Inzara y'umusore",
+            "option_2": "Inyana y'umutavu",
+            "option_3": "Umuheto",
+            "option_4": "Umusazi",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Umukecuru wataye ikijigo cye",
+            "option_2": "Umugore utwite",
+            "option_3": "Ibigori",
+            "option_4": "Umugezi",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Gitare n'iyayo birakina",
+            "option_1": "Isakamburira ry'inzu",
+            "option_2": "Ibitotsi bya mu gitondo",
+            "option_3": "Ijuru n'ukwezi",
+            "option_4": "Icyanzu, ubunyereri",
+            "correct_answer": "Ijuru n'ukwezi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 772
+    },
+    {
+        "sakwe_1": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Imihanda, uruzi, inzira",
+            "option_2": "Insina; amateke",
+            "option_3": "Insina",
+            "option_4": "Ingoto y'umugabo",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramariza ari mu mpinga",
+            "option_1": "Indabo z'amashaza",
+            "option_2": "Ishapure n'amasengesho",
+            "option_3": "Umuneke",
+            "option_4": "Umugore ujya iwabo",
+            "correct_answer": "Indabo z'amashaza"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Ibinono by'inka",
+            "option_2": "Isakamburira ry'inzu",
+            "option_3": "Ururimi rwawe",
+            "option_4": "Igikoro",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Wambazaga ibyo uzi kubera iki?",
+            "option_1": "Umwarimu",
+            "option_2": "Imirizo y'inka",
+            "option_3": "Umuneke",
+            "option_4": "Amase y'inka",
+            "correct_answer": "Umwarimu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Umusatsi",
+            "option_2": "Igihepfu ku mugina",
+            "option_3": "Ibitotsi",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Urutare",
+            "option_2": "Uruhara rw'umusaza",
+            "option_3": "Urutara",
+            "option_4": "Igikoro",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ninjye muzindutsi wa cyane nasanze umuzimu yicariye ukuguru",
+            "option_1": "Inkware",
+            "option_2": "Isusa",
+            "option_3": "Imitumba",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Byumve uhore",
+            "option_1": "Urukoma n'insina",
+            "option_2": "Igihaza",
+            "option_3": "Umusuzi wa so",
+            "option_4": "Umuvuba",
+            "correct_answer": "Umusuzi wa so"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mugongo mugari mpekera abana",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Urutara",
+            "option_3": "Inzara n'inyota",
+            "option_4": "Umutsima",
+            "correct_answer": "Urutara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Isusa",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Ibitotsi",
+            "option_4": "Urusenda",
+            "correct_answer": "Isusa"
+        }
+    }
+]

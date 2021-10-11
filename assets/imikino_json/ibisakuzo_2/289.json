@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 680
+    },
+    {
+        "sakwe_1": {
+            "question": "Kaributumbi kaributurike ino mine Patri Kabgayi",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Ikirungurira",
+            "option_3": "Umusirikare",
+            "option_4": "Mpinga",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Naguze igote nkivuka na n'ubu ntirirasaza",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Umubiri w'umuntu",
+            "option_3": "Indarama",
+            "option_4": "Isake",
+            "correct_answer": "Umubiri w'umuntu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata sogokuru atagwa mu ruzi",
+            "option_1": "Intuku z'amasaka",
+            "option_2": "Umucaca",
+            "option_3": "Inzu irimo ubusa",
+            "option_4": "Insina y'ikinyangurube",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rugangazi rugangaye mu nzuzi",
+            "option_1": "Ikinyagu",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Urubwija",
+            "option_4": "Ikinyoro mu rubavu",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Murarajuru wa Rujugira ntagikoza ibirenge hasi",
+            "option_1": "Impatwe z'umusaza",
+            "option_2": "Umugezi",
+            "option_3": "Igitabo cy'umusoro",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Umwumba w'insina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse kavuga amangara",
+            "option_1": "Urusisiro",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Agakongorerwa",
+            "option_4": "Urume ku musororo",
+            "correct_answer": "Urusisiro"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Barateka ntibaminina",
+            "option_1": "Inuma mu ntabire",
+            "option_2": "Amazi y'inyama",
+            "option_3": "Ikinyamushongo",
+            "option_4": "Umwobo mu nzira",
+            "correct_answer": "Amazi y'inyama"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera rwa Kimanuka rutaribwa b'inyoni",
+            "option_1": "Intosho mu manga",
+            "option_2": "Inkoko",
+            "option_3": "Umwijima",
+            "option_4": "Agafuni mu mushike",
+            "correct_answer": "Umwijima"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngiye inyuma y'inzu ntoragura umuhoro",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_3": "Umukenke",
+            "option_4": "Ingingi z'amasaka",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Maguru ijana kabuno kaboze, hembe rimwe",
+            "option_1": "Indarama",
+            "option_2": "Inzu",
+            "option_3": "Inkono itogota",
+            "option_4": "Umuzi w' urutare",
+            "correct_answer": "Inzu"
+        }
+    }
+]

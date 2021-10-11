@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 257
+    },
+    {
+        "sakwe_1": {
+            "question": "Kaributumbi kaributurike ino mine Patri Kabgayi",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Insina y'ikinyangurube",
+            "option_3": "Ikirungurira",
+            "option_4": "Agakono ko mu cyi",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Gikubise Ngaru kigaruza Ngaruye kiraza gishyatama aho",
+            "option_1": "Umucaca",
+            "option_2": "Umukenke",
+            "option_3": "Ikigore cy'ikiva mu nzu",
+            "option_4": "Ikigega",
+            "correct_answer": "Ikigore cy'ikiva mu nzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ca bugufi turase Rugingira",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Umugengararo w'amasaka",
+            "option_3": "Umucaca",
+            "option_4": "Ifundi ku rukoma",
+            "correct_answer": "Ifundi ku rukoma"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirabigiribigingiri",
+            "option_1": "Agacurama",
+            "option_2": "Umuhazi ugwanye umuguta",
+            "option_3": "Ikigori",
+            "option_4": "Uburo ku rugo",
+            "correct_answer": "Agacurama"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zishotse zitendeje zikuka ziteye hejuru",
+            "option_1": "Ivunja",
+            "option_2": "Akotsi k'abatabazi",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Abavomyi",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gishyuha kitotsa",
+            "option_1": "Umusuzi",
+            "option_2": "Ibipfunsi",
+            "option_3": "Indarama",
+            "option_4": "Umuzungu mu modoka",
+            "correct_answer": "Umusuzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutumba ruturitse rw'i Buganza irangana iki?",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Agakono ko mu cyi",
+            "option_3": "Ubwato",
+            "option_4": "Amaguru k'urushishi",
+            "correct_answer": "Amaguru k'urushishi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirabigirigita mu murombero",
+            "option_1": "Umugore ujya kuzimura",
+            "option_2": "Inkono ku mashyiga",
+            "option_3": "Inda",
+            "option_4": "Ururimi",
+            "correct_answer": "Umugore ujya kuzimura"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Cyamusamasama cyamunumanuma inka z'umwami zirasana zirahira",
+            "option_1": "Umusambi; ikinyabwoya",
+            "option_2": "Uruhabuzo mu ntoke",
+            "option_3": "Ikiyiko ku mbehe",
+            "option_4": "Urufunzo",
+            "correct_answer": "Ikiyiko ku mbehe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Ugutwi kw'imbeba",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Ikivugirizo",
+            "option_4": "Inda mu mutwe",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    }
+]

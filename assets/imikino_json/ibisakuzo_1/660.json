@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 650
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye barara bahagaze bakirirwa bahagaze",
+            "option_1": "Ukwezi",
+            "option_2": "Inkingi",
+            "option_3": "Sone yo ku irembo",
+            "option_4": "Ibizu bitagira abantu",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Inyundo",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Umuzungu mu modoka",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Inopho",
+            "option_2": "Amarira mu maso",
+            "option_3": "Ikivumvuri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ibuye ry'umusozi ryimuye umugabo",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bisa bidasa",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Akayunguruzo",
+            "option_3": "Imisozi",
+            "option_4": "Ikawa n'umumenamabuye",
+            "correct_answer": "Ikawa n'umumenamabuye"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite igihugu cy'abagabo",
+            "option_1": "Igikatsi",
+            "option_2": "Inopfu",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Igitoki",
+            "correct_answer": "Imisatsi y'ibigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Indogobe ishaje",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Amabere y'inkumi",
+            "option_4": "Urupfu",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Ifaranga",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kaba gato kaba kanini kataye umugabo inyuma y'inzira",
+            "option_1": "Ifaranga",
+            "option_2": "Isekuru",
+            "option_3": "Uruzi",
+            "option_4": "Izuba",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Izina ryawe",
+            "option_2": "Umuheto",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Ingasire",
+            "correct_answer": "Ingasire"
+        }
+    }
+]

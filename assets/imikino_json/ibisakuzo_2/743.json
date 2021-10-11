@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 488
+    },
+    {
+        "sakwe_1": {
+            "question": "Jya mu kirambi wikorere isanduka",
+            "option_1": "Imbaragasa mu kirenge",
+            "option_2": "Ingwa",
+            "option_3": "Icyagumbwa (inopfu)",
+            "option_4": "Isake",
+            "correct_answer": "Imbaragasa mu kirenge"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rwigira inturike",
+            "option_1": "Intumbi y'ihene",
+            "option_2": "Uruyange; amaguru ya muhuhirizi",
+            "option_3": "Amazi mu muheha",
+            "option_4": "Ikinyoro mu gahanga k'umusore",
+            "correct_answer": "Intumbi y'ihene"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze ku gashyinga ndashyenga",
+            "option_1": "Inkware",
+            "option_2": "Inda muruhara",
+            "option_3": "Amabere",
+            "option_4": "Agakongorerwa",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite abana ntiwababara",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Ikiryango cy'inzu",
+            "option_4": "Uburo",
+            "correct_answer": "Uburo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ndagiye gitare mu makoro ntiyakomereka",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Isake",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kimenyi w'amenyo abiri",
+            "option_1": "Inkuba n'umurabyo",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Inkombe n'uruzi",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gacika gasubiraho",
+            "option_1": "Urwara",
+            "option_2": "Umugina, inzira",
+            "option_3": "Icyansi, akanyita k'uruhu",
+            "option_4": "Ibisunzu bya rusake",
+            "correct_answer": "Urwara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Igira inyuma y'inzu bagupfunde ibirozi",
+            "option_1": "Umuziha w'inzovu",
+            "option_2": "Umwungu",
+            "option_3": "Ubunyerere",
+            "option_4": "Ibiboga bigaze",
+            "correct_answer": "Ibiboga bigaze"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mbindigiri agiye i Nyanza",
+            "option_1": "Agatsinsino k'uruhinja",
+            "option_2": "Amaraso ku murundi, umugezi utemba",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Irobe n'umutsima",
+            "correct_answer": "Irobe n'umutsima"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akebo ka Dede kariramo Dede wenyine",
+            "option_1": "Icyugu",
+            "option_2": "Igishorobwa",
+            "option_3": "Umusore warongoye",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    }
+]

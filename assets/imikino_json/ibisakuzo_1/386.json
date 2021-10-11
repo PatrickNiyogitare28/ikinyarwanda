@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 92
+    },
+    {
+        "sakwe_1": {
+            "question": "Kwigerezaho yikoreye ibyo atazi umubare",
+            "option_1": "Gusaba uwo wimye",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Akayunguruzo",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Umusatsi ku mutwe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karihuta",
+            "option_1": "Inkingi",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Igare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bakobwa ntimukanseke nabuze aho mpisha",
+            "option_1": "Inkingi",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Innyo y'ihene"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Ibigori",
+            "option_2": "Inyundo",
+            "option_3": "Igitoki",
+            "option_4": "Urupfu",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Cya matambatamba cya maguru munani",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Uruyuzi",
+            "option_3": "Amatwi",
+            "option_4": "Igitiritiri",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Ibirenge by'umuntu",
+            "option_2": "Ikigori",
+            "option_3": "Ururimi",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Igikatsi",
+            "option_2": "Ibitotsi bya mu gitondo",
+            "option_3": "Umurozi",
+            "option_4": "Firigo",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Umuvuba",
+            "option_2": "Inyana y'umutavu",
+            "option_3": "Ifaranga",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Ifaranga",
+            "option_2": "Umukondo w'inyana",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Inyamunyo",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Ukwezi n'inyenyeri",
+            "option_2": "Izina ryawe",
+            "option_3": "Ururimi",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    }
+]

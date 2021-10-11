@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 442
+    },
+    {
+        "sakwe_1": {
+            "question": "Kizuye umugara kijya kubaza iyo kizatabaza",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Ururimi",
+            "option_3": "Ikinyankari",
+            "option_4": "Ivunja",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirarupfu aradehesheje",
+            "option_1": "Intore y'amahingura",
+            "option_2": "Icyiyoni mu isoko",
+            "option_3": "Ibirayi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Icyiyoni mu isoko"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mamahinda mamahi",
+            "option_1": "Amahinda y'inkuba",
+            "option_2": "Agatonyanga",
+            "option_3": "Ururimi hagati y'amenyo",
+            "option_4": "K'umutima w'undi",
+            "correct_answer": "Amahinda y'inkuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inka zanjye zaragiye zirarima zirarimagura",
+            "option_1": "Igare",
+            "option_2": "Imyenge y'amazuru",
+            "option_3": "Inda mu nnyo",
+            "option_4": "Urushishi ku igufa",
+            "correct_answer": "Inda mu nnyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gakubite ugakubiranye",
+            "option_1": "Agakono k'amapfa",
+            "option_2": "Uruhabuzo",
+            "option_3": "Agahinda ku murima",
+            "option_4": "Umuvure",
+            "correct_answer": "Agakono k'amapfa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ishenyi isenya urw'undi ihora mu rwuguriro",
+            "option_1": "Umusambane",
+            "option_2": "Igikona n'umutsima",
+            "option_3": "Isake y'inkoko",
+            "option_4": "Ibarizo",
+            "correct_answer": "Umusambane"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Rusharara Imana y'i Gisaka",
+            "option_1": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_2": "Ubuzuru bw'imbwa",
+            "option_3": "Ishenyi n'intorezo",
+            "option_4": "Intimba mu nda",
+            "correct_answer": "Intimba mu nda"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mushenyi iti \"Jya\", Rwagashya ati \"ndinda\"",
+            "option_1": "Inkuba n'umurabyo",
+            "option_2": "Umurabyo",
+            "option_3": "Uruhu rw'intama",
+            "option_4": "Agahinzi kamwe mu murima",
+            "correct_answer": "Inkuba n'umurabyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ziravuga i Nyamirama",
+            "option_1": "Ifaranga",
+            "option_2": "Agasongera",
+            "option_3": "Inshuzi mu cyansi",
+            "option_4": "Urukumbi mu menyo",
+            "correct_answer": "Inshuzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Agacwende kanjye kabaye kure mba  ngukoreyemo",
+            "option_1": "Ukwezi",
+            "option_2": "Urusogo mu mukobwe",
+            "option_3": "Urutozi",
+            "option_4": "Igitoki n'amakoma",
+            "correct_answer": "Ukwezi"
+        }
+    }
+]

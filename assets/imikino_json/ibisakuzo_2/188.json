@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 733
+    },
+    {
+        "sakwe_1": {
+            "question": "Bantetere anyuze aha",
+            "option_1": "Ijambo rya mukeba",
+            "option_2": "Umugore utwite",
+            "option_3": "Imyashi",
+            "option_4": "Umusambane",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkuruye urusuri ishyamba rirahungabana",
+            "option_1": "Akagabo ko mu irebe",
+            "option_2": "Ikivumvuri",
+            "option_3": "Inzara y'umusore; ijambo ry'umwami",
+            "option_4": "Amara",
+            "correct_answer": "Inzara y'umusore; ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mukara w'i Karambi irabira rikarenga",
+            "option_1": "Amasaka n'urukungu",
+            "option_2": "Icyiyone",
+            "option_3": "Agahoro mu ntoki",
+            "option_4": "Umuko mu mukokwe",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abatutsi barebare baturutse i Ruhanga",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Abagore babagara",
+            "option_3": "Akana kavutse kadashyitse",
+            "option_4": "Imvura",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ko uri mukuru wa kera wari wabona ishinya ya Dede?",
+            "option_1": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_2": "Ishinya y'urushishi",
+            "option_3": "Umusambi",
+            "option_4": "Imondo mu gihu",
+            "correct_answer": "Ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze mu mpinga ndizihiza",
+            "option_1": "Umugozi w'ibijumba",
+            "option_2": "Nyankari",
+            "option_3": "Ifundi",
+            "option_4": "Umwuho w'amateke",
+            "correct_answer": "Umwuho w'amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ntereye akabuye mu gihuru kagaruka kavuga amanzenzi",
+            "option_1": "Mu murima w'inkoko",
+            "option_2": "Umugunguzi",
+            "option_3": "Umusambi",
+            "option_4": "Umuvumbuko w'intare",
+            "correct_answer": "Umuvumbuko w'intare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Uko turi iwacu twese turi bagufi",
+            "option_1": "Amashyiga",
+            "option_2": "Inkware",
+            "option_3": "Inshishi",
+            "option_4": "Imende ku ruzi",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Tora ifumba ntore Indi tujye kwibaza",
+            "option_1": "Imvura",
+            "option_2": "Ururimi mu menyo",
+            "option_3": "Gutsika uruzi",
+            "option_4": "Uruyuki",
+            "correct_answer": "Gutsika uruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngira umwana nkamugaburira urushyi rumwe agahaga",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Ikigoli",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Amazuru",
+            "correct_answer": "Inkono y'itabi"
+        }
+    }
+]

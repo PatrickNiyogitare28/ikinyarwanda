@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 535
+    },
+    {
+        "sakwe_1": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Umuntu",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Umusazi",
+            "option_2": "Ikibuno",
+            "option_3": "Ikibya cy'umusaza",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Ikibuno"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyangufi arasekura uburo",
+            "option_1": "Ifundi mu mamera",
+            "option_2": "Inyoni",
+            "option_3": "Ururimi",
+            "option_4": "Amatwi",
+            "correct_answer": "Ifundi mu mamera"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kuba ahirengeye siko kwumva",
+            "option_1": "Umuzungu n'umwirabura",
+            "option_2": "Isekuru",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Ikirago",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Ibirenge by'umuntu",
+            "option_2": "Uruhara",
+            "option_3": "Umukecuru wurira ikigega",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Akababi k'umuvumu",
+            "option_2": "Igisenge",
+            "option_3": "Inyenyeri",
+            "option_4": "Ururimi",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Agakecuru ka;anutse i Nyarushurushuru kiteye imirwa munani",
+            "option_1": "Ingoto y'umugabo",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Intete z'ibigori",
+            "option_4": "Umuporisi",
+            "correct_answer": "Intete z'ibigori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dore isoko idakama amazi",
+            "option_1": "Ikivugirizo",
+            "option_2": "Amarira mu maso",
+            "option_3": "Umwijima n'urumuri",
+            "option_4": "Urusenda",
+            "correct_answer": "Amarira mu maso"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Fata akebo nanjye mfate akandi tujye kwahira intagwira",
+            "option_1": "Ukwezi",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Televiziyo",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Ubwoya bw'inka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akana kanjye kabyina neza",
+            "option_1": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_2": "Igikeri",
+            "option_3": "Gusitara",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Inyana y'umutavu"
+        }
+    }
+]

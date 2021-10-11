@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 663
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Umurabyo",
+            "option_2": "Uruzi",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Izuba ry'impeshyi",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Umusuzi wa so",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Inyenyeri",
+            "option_2": "Ikivumvuri",
+            "option_3": "Inyundo",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Intare",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Inkono",
+            "option_4": "Ishuri",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nteye igiti nsarura amabuye",
+            "option_1": "Iteke",
+            "option_2": "Inzoga m'umuheha (umukenke)",
+            "option_3": "Ingoto y'umugabo",
+            "option_4": "Isekuru",
+            "correct_answer": "Iteke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Ivunja",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Inzara n'inyota",
+            "option_2": "Ibishokoro",
+            "option_3": "Sone yo ku irembo",
+            "option_4": "Ubunyobwa",
+            "correct_answer": "Inzara n'inyota"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana banjye bangana bose",
+            "option_1": "Icyobo",
+            "option_2": "Ifundi",
+            "option_3": "Umukecuru wurira ikigega",
+            "option_4": "Umugina mu rufunzo",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karihuta",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Igare",
+            "option_3": "Umuyaga",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bihindira ikuzimu",
+            "option_1": "Ukwezi n'inyenyeri",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Inkono y'amapfa"
+        }
+    }
+]

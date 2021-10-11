@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 669
+    },
+    {
+        "sakwe_1": {
+            "question": "Umusaza Sacyoya agendera ku kabando kamwe",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Igikoro",
+            "option_3": "Indumane",
+            "option_4": "Televiziyo",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Imitumba",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Umuyaga mu muyange",
+            "option_4": "Agakono k'amanywa",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Igisabo",
+            "option_4": "Insina",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mvuka mbagwa, nkakura mbagwa, nkazapfa mbazwe",
+            "option_1": "Inyundo",
+            "option_2": "Insina",
+            "option_3": "Umucaca",
+            "option_4": "Amapapayi",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Uruhinja",
+            "option_2": "Igisenge",
+            "option_3": "Uruhara",
+            "option_4": "Amaguru y'inkware",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Inyundo",
+            "option_2": "Umuzungu wambaye amadarubindi",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze mu Rwanda ndeba mu mahanga",
+            "option_1": "Televiziyo",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Uruzi",
+            "option_4": "Urutara",
+            "correct_answer": "Televiziyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Hari agate utakurira",
+            "option_1": "Umutwe",
+            "option_2": "Ururabo",
+            "option_3": "Umusazi",
+            "option_4": "Umunyereri",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nshinze umwe ndasakara",
+            "option_1": "Igikoro",
+            "option_2": "Amarira mu maso",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Icyobo",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Ivunja mu kirenge",
+            "option_2": "Umuturanyi mubi",
+            "option_3": "Intore mu rwabya",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    }
+]

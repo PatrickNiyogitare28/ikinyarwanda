@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 482
+    },
+    {
+        "sakwe_1": {
+            "question": "Zigaritse amahembe zose ntiwamenya iyo nyoko yakowe",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Izuba",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Kubuza umuryi kurya",
+            "correct_answer": "Ingara z'iminyinya"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Amabere",
+            "option_2": "Umusore wishwe n'inzara",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngenda bwangu nkogoga amahanga",
+            "option_1": "Indege",
+            "option_2": "Ifaranga",
+            "option_3": "Ikigori",
+            "option_4": "Icyobo",
+            "correct_answer": "Indege"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kana kanjye ngwino nguhe impamba",
+            "option_1": "Umunyeshuri",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Ibizu bitagira abantu",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Umunyeshuri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inyundo za bene Ntwari bazikubita hasi ntizimene isi",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Ikibuno",
+            "correct_answer": "Ibinono by'inka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Icyanzu cyanjye ngicamo nkafunga",
+            "option_1": "Ifaranga",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Agatonyanga k'imvura",
+            "option_4": "Indumane",
+            "correct_answer": "Indumane"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ntiwigore ndaje",
+            "option_1": "Ipikipiki",
+            "option_2": "Ifundi",
+            "option_3": "Igisabo",
+            "option_4": "Uruhinja",
+            "correct_answer": "Ipikipiki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Igiheri mu ruhara",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Igikatsi",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karakurizaga karakurutaga wa duri we?",
+            "option_1": "Umugono w'ishashi",
+            "option_2": "Ubunyereri",
+            "option_3": "Inzuki",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nahinze mu mpinga nsarura mu gapfunsi",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Imbwa ishumitse",
+            "option_3": "Inopho",
+            "option_4": "Umusatsi",
+            "correct_answer": "Umusatsi"
+        }
+    }
+]

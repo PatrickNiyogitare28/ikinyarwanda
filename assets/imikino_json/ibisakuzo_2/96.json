@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 312
+    },
+    {
+        "sakwe_1": {
+            "question": "Akayuriyuri ka ntibazirikana inshuti y'urupfu",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Amaguru ya muhuhirizi",
+            "option_3": "Umubiri w'umuntu",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Gaturutse ikuzimu gashyushye",
+            "option_1": "Inkumi yiba",
+            "option_2": "Umucaca",
+            "option_3": "Urutumbwe",
+            "option_4": "Akana n'insina",
+            "correct_answer": "Akana n'insina"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Watambana ingabo mu rutare",
+            "option_1": "Radiyo",
+            "option_2": "Umuzi w' urutare",
+            "option_3": "Amata n'umutsima",
+            "option_4": "Ubwato",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inyabune ya butanu yagiye kwenda inani kwa mirongo inani",
+            "option_1": "Umutsi mu nda",
+            "option_2": "Akadiho k'imbwa",
+            "option_3": "Ikigega kirimo ubusa",
+            "option_4": "Imirya y'intanga",
+            "correct_answer": "Imirya y'intanga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mamahinda mamahi",
+            "option_1": "Umwumbati",
+            "option_2": "Amahundo",
+            "option_3": "Inyenyeri",
+            "option_4": "Amahinda y'inkuba",
+            "correct_answer": "Amahinda y'inkuba"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kiza abayumbu ku rugo",
+            "option_1": "Imiyenzi",
+            "option_2": "Urusenge",
+            "option_3": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_4": "Akamangu mu muvumu",
+            "correct_answer": "Imiyenzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mvuye ikuzimu mpinnye agatoki",
+            "option_1": "Akabuno k'imfizi",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Akabwana mu gatabire",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Umugondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Njugunye akabuye ku Karubanda baragatanguranwa",
+            "option_1": "Ikiyiko ku mbehe",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Uburo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nk'aka kanya",
+            "option_1": "Agahinda mu murima",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ikiziha cy'inzovu",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Imashini idoda (icyarahani)"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bunamye",
+            "option_1": "Imodoka mu muhanda",
+            "option_2": "Ibere ry'inkumi",
+            "option_3": "Imigondoro y'ibishyimbo",
+            "option_4": "Igishirira kiguye mu mazi ashyushye",
+            "correct_answer": "Imigondoro y'ibishyimbo"
+        }
+    }
+]

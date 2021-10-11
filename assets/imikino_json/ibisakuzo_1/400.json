@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 309
+    },
+    {
+        "sakwe_1": {
+            "question": "Birafora ntibirase",
+            "option_1": "Ingoto y'umugabo",
+            "option_2": "Igikoro",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Ingoto y'umugabo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho Mutara na Mutaga barwaniye, nta cyatsi kizahamera",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Uruhara",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Buji",
+            "correct_answer": "Uruhara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Umuzi w'urutare",
+            "option_3": "Imyugariro",
+            "option_4": "Amase",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Ikiryango cy'inzu",
+            "option_2": "Igikeri",
+            "option_3": "Ingasire",
+            "option_4": "Umuvuba",
+            "correct_answer": "Ingasire"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Inyenyeri",
+            "option_3": "Umurabyo",
+            "option_4": "Ikawa",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Yankamiye mu kitoze, angaburira ibiryoshye",
+            "option_1": "Uruhinja",
+            "option_2": "Ifaranga",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Ibiryo biri mu nkono ifite imbyiro"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Inzoka",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Ivunja",
+            "option_4": "Umusazi",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Umuzungu wambaye amadarubindi",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Inyana y'umutavu",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Ifaranga",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Ijambo rya perezida",
+            "option_4": "Gusitara",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Uruzi",
+            "option_2": "Isusa",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Umurabyo",
+            "correct_answer": "Isusa"
+        }
+    }
+]

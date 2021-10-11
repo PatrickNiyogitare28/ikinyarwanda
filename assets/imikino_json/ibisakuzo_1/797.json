@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 691
+    },
+    {
+        "sakwe_1": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Ibabi by'ibibonobono",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Umuvuba",
+            "option_4": "Agakono k'amanywa",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Amazi yacu arusha ay'ahandi kuryoha",
+            "option_1": "Amata",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Umugore utwite",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Inyundo",
+            "option_2": "Imitumba",
+            "option_3": "Corogati",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Ibinono by'inka",
+            "option_2": "Amabere",
+            "option_3": "Umubagazi",
+            "option_4": "Icyanzu, ubunyereri",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkuruye umugozi ishyamba rirahubangana",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Isekuru",
+            "option_3": "Ifaranga",
+            "option_4": "Umusore wishwe n'inzara",
+            "correct_answer": "Umusore wishwe n'inzara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Gutara ibitoki",
+            "option_2": "Agasuzi",
+            "option_3": "Icyumweru",
+            "option_4": "Ishuri",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Ibabi by'ibibonobono",
+            "option_3": "Akayuzi mu rubibi",
+            "option_4": "Inyundo",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dore mukara yateye ku irembo",
+            "option_1": "Amase",
+            "option_2": "Umunyereri",
+            "option_3": "Icyanzu",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Amase"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Igira hino ncuti",
+            "option_1": "Igicucucucu",
+            "option_2": "Amapapayi",
+            "option_3": "Ikiringiti",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Ikiringiti"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Isusa",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Ikigori",
+            "option_4": "Igisozi kirekire",
+            "correct_answer": "Isusa"
+        }
+    }
+]

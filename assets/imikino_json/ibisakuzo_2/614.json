@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 429
+    },
+    {
+        "sakwe_1": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Umuvure",
+            "option_2": "Ipfundo ry'urudodo",
+            "option_3": "Inzuki n'ubuki",
+            "option_4": "Inzara y'umusore; ijambo ry'umwami",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zikutse zera inzara",
+            "option_1": "Ikinyamunyu",
+            "option_2": "Amabere y'inkumi",
+            "option_3": "Umubirigi",
+            "option_4": "Imfunzo",
+            "correct_answer": "Imfunzo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Ifaranga",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Ikizu kitarimo abantu",
+            "correct_answer": "Ikizu kitarimo abantu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera cya mutimatima cya mutima w'intomvu cyubatse ku itongo",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Ikirungurira",
+            "option_3": "Umusambi",
+            "option_4": "Umusoro",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Impururu z'ababi",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Ikigoli",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera icyika kikambuka",
+            "option_1": "Igikona n'umutsima",
+            "option_2": "Intorezo",
+            "option_3": "Imodoka mu muhanda",
+            "option_4": "Ibipfunsi",
+            "correct_answer": "Intorezo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Ingingi z'amasaka",
+            "option_3": "Igifu",
+            "option_4": "Inkware",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nabyaye abakobwa benshi umubi muri bo abatanga gusabwa",
+            "option_1": "Amazimwe yo ku rurembo",
+            "option_2": "Inopfu",
+            "option_3": "Imyashi",
+            "option_4": "Ikinyoro cy'umusaza",
+            "correct_answer": "Inopfu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bwiza bupfuye ubusa",
+            "option_1": "Ubunwa bw'ikirondwe",
+            "option_2": "Igicuma bacuncumura",
+            "option_3": "Uruhu rw'imbwa",
+            "option_4": "Uruboho",
+            "correct_answer": "Uruhu rw'imbwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kavuye aha kabatinatina kagera mu gahinga kakibatinaguza",
+            "option_1": "Akagori",
+            "option_2": "Udukongorwa tw'imisigati",
+            "option_3": "Umusoro",
+            "option_4": "Intorezo; urushishi; intosho",
+            "correct_answer": "Umusoro"
+        }
+    }
+]

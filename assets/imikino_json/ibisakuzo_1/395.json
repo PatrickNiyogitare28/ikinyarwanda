@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 770
+    },
+    {
+        "sakwe_1": {
+            "question": "Ninjye muzindutsi wa cyane nasanze umuzimu yicariye ukuguru",
+            "option_1": "Inkware",
+            "option_2": "Indogobe ishaje",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Ibiryo biri mu nkono ifite imbyiro",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Kukwanduza sida",
+            "option_2": "Amabere",
+            "option_3": "Igisenge",
+            "option_4": "Ururimi",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Urira rubariro ubone ishyano",
+            "option_1": "Ikigori",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Ifaranga",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hakurya mu bihuku",
+            "option_1": "Ibizu bitagira abantu",
+            "option_2": "Umutego",
+            "option_3": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_4": "Umusuzi wa so",
+            "correct_answer": "Ibizu bitagira abantu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gaju irashubera mu mukenke",
+            "option_1": "Umuyaga",
+            "option_2": "Ingufuri hejuru y'isanduku",
+            "option_3": "Umuzungu mu modoka",
+            "option_4": "Amatwi",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gitare n'iyayo birakina",
+            "option_1": "Isoko",
+            "option_2": "Ijuru n'ukwezi",
+            "option_3": "Inyenyeri",
+            "option_4": "Abavomyi",
+            "correct_answer": "Ijuru n'ukwezi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Ibiboga byagaze",
+            "option_2": "Inopho",
+            "option_3": "Amatwi",
+            "option_4": "Umutego",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inka yanjye irishiriza mu mishito igataha mu mishito",
+            "option_1": "Ururimi",
+            "option_2": "Inkoko n'inkware",
+            "option_3": "Igikatsi",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Ibaruwa",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Izina ryawe",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana b'Umwami bicaye ku ntebe imwe",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Intoki ku biganza",
+            "option_3": "Gusitara",
+            "option_4": "Umusore wishwe n'inzara",
+            "correct_answer": "Intoki ku biganza"
+        }
+    }
+]

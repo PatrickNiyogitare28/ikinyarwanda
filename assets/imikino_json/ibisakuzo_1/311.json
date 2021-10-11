@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 448
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Ibitotsi",
+            "option_2": "Umugore utwite",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Umurabyo",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Ingasire",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Akayunguruzo",
+            "option_3": "Igisabo",
+            "option_4": "Corogati",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kirabyataraye",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Isoko",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Umutwe",
+            "correct_answer": "Ikibyindi cy'umushumba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Urwina",
+            "option_2": "Umugore ujya iwabo",
+            "option_3": "Inkono y'amapfa",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Isekuru",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Urutara",
+            "option_4": "Kwirebera mu kirahuri",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Imirya y'inanga",
+            "option_3": "Umutwe",
+            "option_4": "Inzara n'inyota",
+            "correct_answer": "Inzara n'inyota"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Ibaruwa",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Impeke y'uburo",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Dombidori",
+            "option_1": "Ikiringiti",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Igitoki",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Intore mu rwabya"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Birafora ntibirase",
+            "option_1": "Ibibabi by'ikibonobono",
+            "option_2": "Ingoto y'umugabo",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Umuheto",
+            "correct_answer": "Ingoto y'umugabo"
+        }
+    }
+]

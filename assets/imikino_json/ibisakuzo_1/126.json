@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 325
+    },
+    {
+        "sakwe_1": {
+            "question": "Akayuriyuri kwa Ntibazirikana inshuti y'urupfu",
+            "option_1": "Akayunguruzo",
+            "option_2": "Inzu itagira abantu",
+            "option_3": "Ibitotsi",
+            "option_4": "Sida",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Ifaranga",
+            "option_2": "Inkoko n'inkware",
+            "option_3": "Umugore utwite",
+            "option_4": "Amaguru y'inkware",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Ifaranga",
+            "option_2": "Inzu itagira abantu",
+            "option_3": "Amano y'umuntu",
+            "option_4": "Izina ryawe",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ifaranga",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Ifaranga",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mama nshuti",
+            "option_1": "Ishuri",
+            "option_2": "Ifaranga",
+            "option_3": "Isake ifite ibirokoroko",
+            "option_4": "Ikirago",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_4": "Umuyaga",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Akanyoni yaritse ku nzira",
+            "option_4": "Ingufuri hejuru y'isanduku",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite inkwi zanjye zumye, ariko nazicana ntizake",
+            "option_1": "Amacandwe y'incira",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Icyobo",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ujya kurasa inkuba arabandarara",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Kwatsa mu ziko",
+            "option_3": "Ijwi",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Kwatsa mu ziko"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Umugore utwite",
+            "option_2": "Umugezi",
+            "option_3": "Akanyoni yaritse ku nzira",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Umuvumbyi"
+        }
+    }
+]

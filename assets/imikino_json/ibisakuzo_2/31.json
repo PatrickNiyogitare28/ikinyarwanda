@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 148
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyabukongoro yamaze inka i Murera",
+            "option_1": "Ibisunzu bya rusake",
+            "option_2": "Izo ngohe zawe",
+            "option_3": "Uruhabuzo",
+            "option_4": "Agahinda ku murima",
+            "correct_answer": "Uruhabuzo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inyabubiri inyabutatu Barbara ntibayishobore",
+            "option_1": "Amaguru ya muhuhirizi",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Amaguru ya muhuhirizi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpuye n'Imana yikoreye inyama",
+            "option_1": "Ikijumba",
+            "option_2": "Amabere y'inkumi",
+            "option_3": "Isake",
+            "option_4": "Inkuba mu rugano",
+            "correct_answer": "Isake"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndu mugufi nakiranya so nkamutsinda",
+            "option_1": "Inkono ku mashyiga",
+            "option_2": "Ibitotsi",
+            "option_3": "Ubunyenyeri",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Ubunyenyeri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rugaramana ngabo wa Ngabonziza",
+            "option_1": "Umucaca mu ruzi",
+            "option_2": "Igisenge",
+            "option_3": "Umusigati",
+            "option_4": "Umwungu mu ncoce",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kabindi birima nzagusanga ivomo",
+            "option_1": "Inyundo y'umucuruzi",
+            "option_2": "Inkono mu mashyiga",
+            "option_3": "Igitonyanga",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Amaguru y'umusambi",
+            "option_2": "Ifi",
+            "option_3": "Amenyo",
+            "option_4": "Umucaca",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama arusha nyoko amabuno",
+            "option_1": "Amashyiga",
+            "option_2": "Igitoki n'amakoma yacyo",
+            "option_3": "Intembatembe",
+            "option_4": "Inshishi",
+            "correct_answer": "Intembatembe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramana yadehesheje",
+            "option_1": "Akabuno k'imfizi",
+            "option_2": "Inturo mu muvumo",
+            "option_3": "Ikirago; ikiringiti",
+            "option_4": "Ingoma mu isoko",
+            "correct_answer": "Ingoma mu isoko"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyamutukura umutindi",
+            "option_1": "Ibitotsi",
+            "option_2": "Ibijumaba",
+            "option_3": "Amaganga y'isha",
+            "option_4": "Urubwija",
+            "correct_answer": "Urubwija"
+        }
+    }
+]

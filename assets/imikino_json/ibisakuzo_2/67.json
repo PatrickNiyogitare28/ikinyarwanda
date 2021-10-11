@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 567
+    },
+    {
+        "sakwe_1": {
+            "question": "Iwacu twicaye twese",
+            "option_1": "Urubura",
+            "option_2": "Akato mu kiyaga",
+            "option_3": "Ifurwe",
+            "option_4": "Intebe",
+            "correct_answer": "Intebe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Uruhetehete ruheta abagabo",
+            "option_1": "Irobe n'umutsima",
+            "option_2": "Utuzu tw'abashumba",
+            "option_3": "Inyenyeri ku ijuru",
+            "option_4": "Urubariro",
+            "correct_answer": "Urubariro"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mukara ikamwe ayera ni Inka ya Dogo",
+            "option_1": "Igikona",
+            "option_2": "Ikibuguzo, igisoro",
+            "option_3": "Umuyenzi",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Umuyenzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Zirindiye i Bukoma",
+            "option_1": "Inzuho ebyiri mu ntango",
+            "option_2": "Icyiyone",
+            "option_3": "Ikirago",
+            "option_4": "Igitare",
+            "correct_answer": "Inzuho ebyiri mu ntango"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rukina ma gasiza rwa Senyakazana twigabe",
+            "option_1": "Igitare",
+            "option_2": "Umwungu mu ncoce",
+            "option_3": "Ikibwana cy'imbwa mu masinde",
+            "option_4": "Umusambi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngira umurima w'ikibugabuga w'ikiyorero kimwe",
+            "option_1": "Umuyaga",
+            "option_2": "Abavomyi",
+            "option_3": "Ukwezi ku ijuru",
+            "option_4": "Umuganda",
+            "correct_answer": "Ukwezi ku ijuru"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nsize agakongorerwa haruguru y'inzira ngarutse ngasanga hepfo yayo",
+            "option_1": "Ururimi",
+            "option_2": "Ijambo rya mukeba",
+            "option_3": "Ishinya y'urushishi",
+            "option_4": "Inkumi yiba",
+            "correct_answer": "Ijambo rya mukeba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyiransibura i Burundi",
+            "option_1": "Inkombe n'uruzi",
+            "option_2": "Umurabyo",
+            "option_3": "Indarama",
+            "option_4": "Igi ry'inkoko",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Imbere ndi imanzi, inyuma ndi umwanzi",
+            "option_1": "Inzu iguye",
+            "option_2": "Imfizi y'intama",
+            "option_3": "Umuganda",
+            "option_4": "Ikinyagu",
+            "correct_answer": "Ikinyagu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Segikwekwe umutwe wa Mukono",
+            "option_1": "Umwana ugaburirwa na nyina w'undi",
+            "option_2": "Inyamanza",
+            "option_3": "Umuko mu mukokwe",
+            "option_4": "Umusaza n'umwana",
+            "correct_answer": "Umuko mu mukokwe"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 463
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirabumpurimpuri arabyina haruguru aho",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Inuma mu kigega",
+            "option_3": "Rugo",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Izo ngohe zawe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umututsi muremure yagutanze ku iriba",
+            "option_1": "Umwana usanze se na nyina batariyo",
+            "option_2": "Umusambi",
+            "option_3": "Amata n'umutsima",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngiye mu ibarabara nsanga akagaramiye  inzira",
+            "option_1": "Injishi z'igisabo",
+            "option_2": "Agakongorerwa",
+            "option_3": "Ubuheri mu gihata",
+            "option_4": "Umuvuba",
+            "correct_answer": "Agakongorerwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "So arongora nyoko amucuritse",
+            "option_1": "Ishoka mu rukwi",
+            "option_2": "Ubwanwa",
+            "option_3": "Igihuna",
+            "option_4": "Ikirago",
+            "correct_answer": "Ishoka mu rukwi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gihe umunzeri",
+            "option_1": "Umuhinzi umwe mu murima",
+            "option_2": "Umuganda",
+            "option_3": "Ivubi; uruyuki",
+            "option_4": "Ifundi ku rukoma",
+            "correct_answer": "Umuhinzi umwe mu murima"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ijoro rirara hehe?",
+            "option_1": "Inopfu",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Mu murima w'inkoko",
+            "option_4": "Umunyorogoto",
+            "correct_answer": "Mu murima w'inkoko"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira imbuga nayiharuye ku ngoma ya Gahindiro n'ubu ntiramera akatsi",
+            "option_1": "Umuyaga",
+            "option_2": "Umutsi mu nda",
+            "option_3": "Ingwa",
+            "option_4": "Ikiganza",
+            "correct_answer": "Ikiganza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Imirizo y'inka",
+            "option_2": "Ibicuma ku nkangara",
+            "option_3": "Amata n'umutsima",
+            "option_4": "Isha mu ibanga",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Terera Rubona ubone ishyano",
+            "option_1": "Ifaranga",
+            "option_2": "Akishywa mu rutoki",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Inzuki",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Byakora kurya, byakora kuno",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Umucaca",
+            "option_3": "Amara",
+            "option_4": "Igitsina cy'amateke",
+            "correct_answer": "Amara"
+        }
+    }
+]

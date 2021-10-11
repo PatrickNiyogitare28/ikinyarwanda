@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 114
+    },
+    {
+        "sakwe_1": {
+            "question": "Imana y'ishyanga irabagira mu ishyamba",
+            "option_1": "Urutumbwe",
+            "option_2": "Igihu",
+            "option_3": "Ishavu",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Ishavu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kiracunda runete",
+            "option_1": "Insina y'ikinyangurube",
+            "option_2": "Imirizo cy'intama",
+            "option_3": "Umugezi",
+            "option_4": "Agafuni kabagarira amasaka",
+            "correct_answer": "Imirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rutondagitamugogo mugabo utuye mu ishyamba",
+            "option_1": "Agashyo mu nyama",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Indarama",
+            "option_4": "Inyamanza",
+            "correct_answer": "Indarama"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aho Mutara na Mutaga barasaniye haracyari ibishishibano",
+            "option_1": "Agahwa m'urwondo",
+            "option_2": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Inkuba n'umurabyo",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kirimbakweri",
+            "option_1": "Gutsika uruzi",
+            "option_2": "Intoki",
+            "option_3": "Ikiba cy'ubwatsi",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Ikiba cy'ubwatsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karaje n'inkonya n'inkweto ntikazi ko ryavuye",
+            "option_1": "Agahinja",
+            "option_2": "Umusoro",
+            "option_3": "Urukumbi mu menyo",
+            "option_4": "Ikibyindi",
+            "correct_answer": "Agahinja"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngiye mu ibarabara nsanga akagaramiye  inzira",
+            "option_1": "Agakono ko mu cyi",
+            "option_2": "Ibishyinga",
+            "option_3": "Umuhumetso",
+            "option_4": "Agakongorerwa",
+            "correct_answer": "Agakongorerwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akigize umugozi kakigira umuganda kagashyira umwami ku murwa",
+            "option_1": "Imizi y'urutare",
+            "option_2": "Umuhotora; umuhoro",
+            "option_3": "Akagori",
+            "option_4": "Ibuye ryica isuka irindi rikayigorora",
+            "correct_answer": "Umuhotora; umuhoro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nturutse munsi y'inzu numva rwabugiri avugirza",
+            "option_1": "Ikirungurira",
+            "option_2": "Agatwa mu ibumba",
+            "option_3": "Ibarizo",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kaniginigi kaniga amazi karota he?",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Agashwi k'inkoko",
+            "option_3": "Umuhinzi umwe mu murima",
+            "option_4": "Ibuye ryica isuka irindi rikayigorora",
+            "correct_answer": "Agashwi k'inkoko"
+        }
+    }
+]

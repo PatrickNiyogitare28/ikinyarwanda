@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 228
+    },
+    {
+        "sakwe_1": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Ipfundo ry'urudodo",
+            "option_2": "Ivunja",
+            "option_3": "Ibipfunsi",
+            "option_4": "Mpinga",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkurira umuhoro mu rutoki",
+            "option_1": "Umusirikare",
+            "option_2": "Imyugaruro",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Imfunzo",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Naguze igote nkivuka na n'ubu ntirirasaza",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Umubiri w'umuntu",
+            "option_3": "Amazi mu gisura",
+            "option_4": "Inkono ku ziko",
+            "correct_answer": "Umubiri w'umuntu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nishe inkuba nyihambiriza indi",
+            "option_1": "Isake",
+            "option_2": "Ikijumba",
+            "option_3": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "option_4": "Urusyo",
+            "correct_answer": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera amacumu yacuzwe n'intoki",
+            "option_1": "Amazi",
+            "option_2": "Umusambi",
+            "option_3": "Amasuka",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Amasuka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Jya mu kirambi wikorere isanduka",
+            "option_1": "Imbaragasa mu kirenge",
+            "option_2": "Ikinyoro mu gahanga k'umusore",
+            "option_3": "Umugore uhetse",
+            "option_4": "Umunyinya",
+            "correct_answer": "Imbaragasa mu kirenge"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Nyirampirigita ombaba zitarya",
+            "option_1": "Intore n'umutsima",
+            "option_2": "Ifuni mu rutara",
+            "option_3": "Intorezo; urushishi; intosho",
+            "option_4": "Inka mu mpinga",
+            "correct_answer": "Ifuni mu rutara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Kubona aho nyokobukwe yiyuhagira",
+            "option_2": "Inzara y'uruhinja",
+            "option_3": "Igikona\n \nbikumburanye bibana",
+            "option_4": "Akuho mu ntango",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mvumbuye inyamaswa itagira umurizo",
+            "option_1": "Imboni",
+            "option_2": "Inkwana z'amateke",
+            "option_3": "Ifundi",
+            "option_4": "Intosho",
+            "correct_answer": "Intosho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kari n'ikindi karakina mu gikari",
+            "option_1": "Akayuki",
+            "option_2": "Ikigori",
+            "option_3": "Urugo",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Akayuki"
+        }
+    }
+]

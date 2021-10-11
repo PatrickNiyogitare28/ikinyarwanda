@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 214
+    },
+    {
+        "sakwe_1": {
+            "question": "Igira inyuma y'inzu bagupfunde ibirozi",
+            "option_1": "Ibiboga bigaze",
+            "option_2": "Umusatsi; inzara",
+            "option_3": "Intete y'ururo",
+            "option_4": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "correct_answer": "Ibiboga bigaze"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imisozi irashya Rukaba yo ntishya",
+            "option_1": "Akazuba karashe",
+            "option_2": "Urutare",
+            "option_3": "Amabyi y'umushumba",
+            "option_4": "Akuho mu ntango",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpuye na Ruganzu yikoreye igitebo cy'intama",
+            "option_1": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "option_2": "Ikizubazuba",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Ibisunzu bya rusake",
+            "correct_answer": "Ibisunzu bya rusake"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Wacana mu ruzi umuriro ukaka?",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Amaguru ya muhuhirizi",
+            "option_3": "Inkombe n'uruzi",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ikiyongoyongo cya Nyirabayogoma kiruka ikijya epfo n'ikijya ruguru",
+            "option_1": "Ikinyoro mu gahanga k'umusore",
+            "option_2": "Umuriro, umuyaga",
+            "option_3": "Inzara",
+            "option_4": "Umuheto",
+            "correct_answer": "Umuriro, umuyaga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Yagira amajwi meza arakagira Rudatenguka",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Icyibo",
+            "option_3": "Imfunzo",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Imisozi yarahiye isiga inkuba n'imiheto",
+            "option_1": "Amenyo",
+            "option_2": "Insitare",
+            "option_3": "Igitare",
+            "option_4": "Igare",
+            "correct_answer": "Igitare"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera igisumba ngari",
+            "option_1": "Akana kavutse kadashyitse",
+            "option_2": "Ururo mu mateke",
+            "option_3": "Agasongera",
+            "option_4": "Ikiziba mu mpinga",
+            "correct_answer": "Ururo mu mateke"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inkuba ebyiri zihindiye i Bwishaza",
+            "option_1": "Ifundi",
+            "option_2": "Inzuho ebyiri mu ntango",
+            "option_3": "Imfunzo",
+            "option_4": "Uruyuki",
+            "correct_answer": "Inzuho ebyiri mu ntango"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rudandi na Rukambura",
+            "option_1": "Umurizo w'ihene",
+            "option_2": "Ifaranga",
+            "option_3": "Inzara n'umwijuto",
+            "option_4": "Uruhabuzo mu ntoke",
+            "correct_answer": "Inzara n'umwijuto"
+        }
+    }
+]

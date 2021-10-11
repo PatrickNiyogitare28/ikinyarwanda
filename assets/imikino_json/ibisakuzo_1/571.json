@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 103
+    },
+    {
+        "sakwe_1": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Igihandure",
+            "option_3": "Umugono w'ishashi",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Ibiradiyo biteganye",
+            "option_2": "Umuyaga",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Ivu",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Sida",
+            "option_2": "Ibirago",
+            "option_3": "Ukwezi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Cya matambatamba cya maguru munani",
+            "option_1": "Uruyuzi",
+            "option_2": "Umunyereri",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akayuriyuri kwa Ntibazirikana inshuti y'urupfu",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Ibaruwa",
+            "option_3": "Urutara",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Ingoto y'umugabo",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Imana",
+            "option_4": "Kwirebera mu kirahuri",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Twavukiye rimwe ariko ntitureshya",
+            "option_1": "Impeke y'uburo",
+            "option_2": "Televiziyo",
+            "option_3": "Umusatsi ku mutwe",
+            "option_4": "Imisozi",
+            "correct_answer": "Imisozi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Ururimi",
+            "option_2": "Agacaca",
+            "option_3": "Amaguru y'inkware",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zenguruka duhure",
+            "option_1": "Izuba ry'impeshyi",
+            "option_2": "Kubuza umuryi kurya",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Umukandara",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyirabugenge n'ubugenge bwayo",
+            "option_1": "Inzoka mu kugenda nta maguru",
+            "option_2": "Uruyuzi",
+            "option_3": "Isekuru",
+            "option_4": "Ubwayo bw'inka",
+            "correct_answer": "Inzoka mu kugenda nta maguru"
+        }
+    }
+]

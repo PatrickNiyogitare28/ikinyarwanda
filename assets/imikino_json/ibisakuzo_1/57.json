@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 467
+    },
+    {
+        "sakwe_1": {
+            "question": "Karibarangura ku rutare",
+            "option_1": "Ivu",
+            "option_2": "Inzuki",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Inyoni",
+            "option_3": "Ifundi",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Akayunguruzo",
+            "option_2": "Agacaca",
+            "option_3": "Ibaruwa",
+            "option_4": "Gusitara",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Urusenda",
+            "option_2": "Umutwe",
+            "option_3": "Ifurwe",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze mu ishyamba rimpa umwezi",
+            "option_1": "Umutsima",
+            "option_2": "Ibibabi by'ikibonobono",
+            "option_3": "Ibarizo",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Ibarizo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Igare",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Inyegamo y'umusore warongoye",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kamana iteka yambara neza",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Ubunyobwa",
+            "option_3": "Ururabo",
+            "option_4": "Igikoro",
+            "correct_answer": "Ururabo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite inkwi zanjye zumye, ariko nazicana ntizake",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Ibiradiyo biteganye",
+            "option_4": "Ivu",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Njya mu nzu kagasigara hanze",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Umusazi",
+            "option_3": "Agatsinsino",
+            "option_4": "Ishyiga",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Akayira kajya mu kigega",
+            "option_2": "Ikawa",
+            "option_3": "Ifaranga",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 231
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Ururabo",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Ikibya cy'umusaza",
+            "option_4": "Sida",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Natumba naturika ni ibuye rya Kagbayi",
+            "option_1": "Ivunja",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Ishapure n'amasengesho",
+            "option_4": "Ifaranga ku meza",
+            "correct_answer": "Ishapure n'amasengesho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Amenyo",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kirisha amazuru",
+            "option_1": "Umuvuba",
+            "option_2": "Agacaca",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Igihandure",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Ibaruwa",
+            "option_2": "Uruzi",
+            "option_3": "Ikaramu",
+            "option_4": "Ingoto y'umugabo",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Umubagazi",
+            "option_2": "Ikaziya ya primus",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mutamu irarembera mu bisi n'iyayo",
+            "option_1": "Imana",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Umuyaga mu muyange",
+            "correct_answer": "Umuyaga mu muyange"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Urupfu",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Igitoki",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ifaranga",
+            "option_3": "Igikoro, igihaza",
+            "option_4": "Umusatsi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karibarangura ku rutare",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Ifaranga",
+            "option_3": "Akabyindi k'umushumba",
+            "option_4": "Sone yo ku irembo",
+            "correct_answer": "Inda mu ruhara"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 52
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Ikawa",
+            "option_2": "Ikivumvuri",
+            "option_3": "Igihaza",
+            "option_4": "Igisenge",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ni iki cyatanze umuzungu kugenda mu ivatiri",
+            "option_1": "Inyenyeri",
+            "option_2": "Ifaranga",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Akanyamasyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kora aha",
+            "option_1": "Umunyereri",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Ikivumvuri",
+            "option_4": "Umunyeshuri wabaye uwa mbere",
+            "correct_answer": "Umunyeshuri wabaye uwa mbere"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Isekuru",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Ubwayo bw'inka",
+            "correct_answer": "Isekuru"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nahinze mu mpinga nsarura mu gapfunsi",
+            "option_1": "Umusatsi ku mutwe",
+            "option_2": "Inkware",
+            "option_3": "Umusatsi",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hakurya duuuuuu, hakuno duuuuuu",
+            "option_1": "Ibiradiyo biteganye",
+            "option_2": "Uruzi",
+            "option_3": "Ibinono by'inka",
+            "option_4": "Imbunda",
+            "correct_answer": "Ibiradiyo biteganye"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagenze henshi mbura incuti",
+            "option_1": "Igitiritiri",
+            "option_2": "Igicucucucu",
+            "option_3": "Amabere",
+            "option_4": "Urupfu",
+            "correct_answer": "Urupfu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Ibirago",
+            "option_2": "Ifaranga",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Amatwi",
+            "option_3": "Inzara n'inyota",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Inzara n'inyota"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karadundaraye",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Gusaba uwo wimye",
+            "option_3": "Umugina wo mu gishanga",
+            "option_4": "Umuporisi",
+            "correct_answer": "Akabyindi k'umushumba"
+        }
+    }
+]

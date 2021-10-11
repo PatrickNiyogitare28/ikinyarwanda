@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 465
+    },
+    {
+        "sakwe_1": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Urutara",
+            "option_2": "Umutwe",
+            "option_3": "Umurozi",
+            "option_4": "Inyoni",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Ukwezi",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Igitoki",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Aho Mutara na Mutaga barwaniye ntiharamera utwatsi",
+            "option_1": "Ikiyoni",
+            "option_2": "Agatsinsino",
+            "option_3": "Ururabo ry'amashyaza",
+            "option_4": "Ivunja",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Ifu",
+            "option_2": "Umuturanyi mubi",
+            "option_3": "Ubwato hejuru y'ikiyaga",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Banterere anyuze aha",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Ikiyoni",
+            "option_3": "Umugore utwite",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ubutaka bw'iwacu turabuteka",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Akatsi ko ku nzu",
+            "option_4": "Ifu",
+            "correct_answer": "Ifu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Maguru mane ahagaze kuri maguru mane ashaka maguru mane",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Ibarizo",
+            "option_3": "Inzara y'umusore",
+            "option_4": "Umunyereri",
+            "correct_answer": "Injangwe ihagaze ku meza ishaka imbeba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karihuta",
+            "option_1": "Igare",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Ifaranga",
+            "option_4": "Igikoro",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ikibuno",
+            "option_3": "Ibitotsi",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Imbunda",
+            "option_4": "Ifaranga",
+            "correct_answer": "Akarere ku nsina"
+        }
+    }
+]

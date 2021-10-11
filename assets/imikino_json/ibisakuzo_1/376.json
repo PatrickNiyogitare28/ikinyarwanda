@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 368
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo aha hanyuze akabindi gasenze amatito",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Uruzi",
+            "option_3": "Umucaca",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Intete z'ibigori",
+            "option_2": "Inzoga m'umuheha (umukenke)",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Radiyo",
+            "option_2": "Umugezi",
+            "option_3": "Umurozi",
+            "option_4": "Ikigori",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Umuturanyi mubi",
+            "option_2": "Agatsinsino",
+            "option_3": "Firigo",
+            "option_4": "Akanyana mu nda ya nyina",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Njya mu nzu kagasigara hanze",
+            "option_1": "Agatsinsino",
+            "option_2": "Amarira mu maso",
+            "option_3": "Ifaranga",
+            "option_4": "Igikatsi",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Izuba ry'impeshyi",
+            "option_2": "Ikirunga",
+            "option_3": "Sida",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ayiiiiii, ayiiiiiiii",
+            "option_1": "Ururimi n'amenyo",
+            "option_2": "Umukobwa ubonye iwabo hashya",
+            "option_3": "Ikigori",
+            "option_4": "Igikatsi",
+            "correct_answer": "Umukobwa ubonye iwabo hashya"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite inka yanjye nyiragira ku manga ntitembe",
+            "option_1": "Indogobe ishaje",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Amatwi",
+            "option_4": "Inzoka",
+            "correct_answer": "Amatwi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kati hii kati huu",
+            "option_1": "Inkono y'amapfa",
+            "option_2": "Ifaranga",
+            "option_3": "Umuyaga mu muyange",
+            "option_4": "Agakecuru kocyejwe n'igikoma",
+            "correct_answer": "Agakecuru kocyejwe n'igikoma"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera akabaribari kamanutse mu ijuru kaje gushashura abagabo",
+            "option_1": "Amazi",
+            "option_2": "Ifaranga",
+            "option_3": "Ifundi",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Ifaranga"
+        }
+    }
+]

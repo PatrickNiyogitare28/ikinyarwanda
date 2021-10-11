@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 775
+    },
+    {
+        "sakwe_1": {
+            "question": "Mukore ubone",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Umwana w'umwami",
+            "option_3": "Igikoro",
+            "option_4": "Ingasire",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abana banjye bambaye ibisa by'ibitambaro",
+            "option_1": "Ingasire",
+            "option_2": "Inyama",
+            "option_3": "Imyambi y'ikibiriti",
+            "option_4": "Umusatsi",
+            "correct_answer": "Imyambi y'ikibiriti"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Umwijima n'urumuri",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Umuzi w'urutare",
+            "option_4": "Umurozi",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngenda bwangu nkogoga amahanga",
+            "option_1": "Indege",
+            "option_2": "Amata",
+            "option_3": "Umusatsi",
+            "option_4": "Igikeri",
+            "correct_answer": "Indege"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Twavukiye rimwe ariko ntitureshya",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Imisozi",
+            "option_3": "Umugina wo mu gishanga",
+            "option_4": "Ishyiga",
+            "correct_answer": "Imisozi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyuze mu nsi y'urugo bamfunda ibirozi",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Firigo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ibiboga byagaze"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kacira bucece",
+            "option_1": "Igiheri mu ruhara",
+            "option_2": "Icebe ry'inka",
+            "option_3": "Indege",
+            "option_4": "Umwarimu",
+            "correct_answer": "Icebe ry'inka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata akebo nanjye mfate akandi tujye kwahira intagwira",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Inyama",
+            "option_3": "Urutoryi",
+            "option_4": "Ubwoya bw'inka",
+            "correct_answer": "Ubwoya bw'inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Uruhara rw'umusaza",
+            "option_2": "Umupira mu izamu",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rwakajwiga arira ku nkomo",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Inyama",
+            "option_3": "Insina; amateke",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Imbwa ishumitse"
+        }
+    }
+]

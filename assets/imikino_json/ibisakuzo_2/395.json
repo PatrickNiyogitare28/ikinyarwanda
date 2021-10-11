@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 503
+    },
+    {
+        "sakwe_1": {
+            "question": "Umwana w'umutwa yaruka warya",
+            "option_1": "Inkono",
+            "option_2": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_3": "Ivu",
+            "option_4": "Umugata",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kakubagurira",
+            "option_1": "Ikigega kirimo ubusa",
+            "option_2": "Inyambo z'umutindi",
+            "option_3": "Amazuru",
+            "option_4": "Akanyita k'uruhu",
+            "correct_answer": "Akanyita k'uruhu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirampirima aratwite",
+            "option_1": "Urukumbi mu menyo",
+            "option_2": "Akamuga karimo ibishyimbo",
+            "option_3": "Umuziha w'inzovu",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Akamuga karimo ibishyimbo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagukubira dara",
+            "option_1": "Ikiba cy'ubwatsi",
+            "option_2": "Agatsinsino",
+            "option_3": "Ibiryo ku mbebe",
+            "option_4": "Igicaniro; igisabo",
+            "correct_answer": "Ibiryo ku mbebe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bagatake bagasamaze bakabikire ubwiza bwako",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Icyibo",
+            "option_3": "Umusaza ku cyahi, amaraso ku murundi",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Wacana mu ruzi umuriro ukaka?",
+            "option_1": "Injuma y'uruhinja",
+            "option_2": "Agacebe k'intama",
+            "option_3": "Ururimi hagati y'amenyo",
+            "option_4": "Radiyo",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama Arusha nyoko gukimbagira inkanda",
+            "option_1": "Inda mu ihururu",
+            "option_2": "Intorezo",
+            "option_3": "Inzogera",
+            "option_4": "Imboni",
+            "correct_answer": "Inda mu ihururu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Jya mu kirambi wikorere isanduka",
+            "option_1": "Imbaragasa mu kirenge",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Umugore utwite",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Imbaragasa mu kirenge"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rukara rya kinege ntiribwa n'imbeba",
+            "option_1": "Intore y'amahingura",
+            "option_2": "Umusambi",
+            "option_3": "Isuka",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Isuka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndi mugufi nyirazo",
+            "option_1": "Imondo mu gihu",
+            "option_2": "Igiko gihiriye mu ruhura",
+            "option_3": "Agahwa m'urwondo",
+            "option_4": "Igicaniro; igisabo",
+            "correct_answer": "Igicaniro; igisabo"
+        }
+    }
+]

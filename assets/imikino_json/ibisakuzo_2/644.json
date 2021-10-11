@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 219
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndagukubita nkakwitaza nitwa umugaragu wa Mburamatare",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Akazuba karashe",
+            "option_3": "Uruhabuzo",
+            "option_4": "Imyotsi",
+            "correct_answer": "Gusitara ku ibuye"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kari n'ikindi karakina mu gikari",
+            "option_1": "Umuhanda",
+            "option_2": "Imbaragasa",
+            "option_3": "Akamangu mu muvumu",
+            "option_4": "Akayuki",
+            "correct_answer": "Akayuki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Zirindiye i Bukoma",
+            "option_1": "Inzuho ebyiri mu ntango",
+            "option_2": "Ikigorigori",
+            "option_3": "Injuma y'uruhinja",
+            "option_4": "Isuka mu icukiro",
+            "correct_answer": "Inzuho ebyiri mu ntango"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Uransaba ndaguha",
+            "option_1": "Gutsika uruzi",
+            "option_2": "Imisoto y'ikigega",
+            "option_3": "Amasaka n'urukungu",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kiza abayumbu ku rugo",
+            "option_1": "Imiyenzi",
+            "option_2": "Umusambi; ikinyabwoya",
+            "option_3": "Inyamanza",
+            "option_4": "Igishwemu cy'amase",
+            "correct_answer": "Imiyenzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karenze impinga kannya ibibuye",
+            "option_1": "Umuhumetso",
+            "option_2": "Umwumbati",
+            "option_3": "Akagori",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Umuhumetso"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rusimbuka mu masaka umwami w'abaderevu",
+            "option_1": "Ikivumvuri",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Imodoka mu muhanda",
+            "option_4": "Umusambi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Iteze neza ntiyica",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Ibuye n'umutarimba",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Ibere ry'inkumi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nirirwa ntambuka bukira nkibatambuka",
+            "option_1": "Inshunzi mu cyansi",
+            "option_2": "Umutumba",
+            "option_3": "Uruyange; amaguru ya muhuhirizi",
+            "option_4": "Inkware",
+            "correct_answer": "Umutumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bunamye",
+            "option_1": "Imigondoro y'ibishyimbo",
+            "option_2": "Agaheha mu gacuma",
+            "option_3": "Umurabyo",
+            "option_4": "Inzara",
+            "correct_answer": "Imigondoro y'ibishyimbo"
+        }
+    }
+]

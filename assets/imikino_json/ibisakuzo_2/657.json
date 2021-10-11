@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 310
+    },
+    {
+        "sakwe_1": {
+            "question": "Ntoye umuhoro ntema icyo ntaribuce",
+            "option_1": "Akana kavutse kadashyitse",
+            "option_2": "Ibirayi",
+            "option_3": "Imodoka",
+            "option_4": "Amazi",
+            "correct_answer": "Amazi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ncukuye urwina sinatara",
+            "option_1": "Imodoka",
+            "option_2": "Amasaka y'umuterero; insina zikaragiye",
+            "option_3": "Amahinda y'inkuba",
+            "option_4": "Igihandure",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngira inka nkayisasira amahwa nkayorosa andi",
+            "option_1": "Ururimi",
+            "option_2": "Umusatsi; inzara",
+            "option_3": "Inzu",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mama Arusha nyoko gukimbagira inkanda",
+            "option_1": "Igikona",
+            "option_2": "Inda mu ihururu",
+            "option_3": "Umuhanda",
+            "option_4": "Umudwedwe",
+            "correct_answer": "Inda mu ihururu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkoni mu kugukubita yarakuneshaga",
+            "option_1": "Uruyuki",
+            "option_2": "Ikigori",
+            "option_3": "Abahizi",
+            "option_4": "Uruhabuzo mu ntoke",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndagukubita nkakwitaza nitwa umugaragu wa Mburamatare",
+            "option_1": "Gusitara ku ibuye",
+            "option_2": "Ibirayi",
+            "option_3": "Urusenge",
+            "option_4": "Urubwija",
+            "correct_answer": "Gusitara ku ibuye"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Umwami w'i Buhaya aratera ingoma araramye",
+            "option_1": "Inuma ku ishaka",
+            "option_2": "Imutsi wo ku kibuno",
+            "option_3": "Agakatsi ku butanda",
+            "option_4": "Umuntu uri kuri ipikipiki",
+            "correct_answer": "Inuma ku ishaka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kakubagarira",
+            "option_1": "Inkono itogota",
+            "option_2": "Urugi",
+            "option_3": "Agahinzi kamwe mu murima",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Agahinzi kamwe mu murima"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Agakono k'amanywa",
+            "option_2": "Ipfundo ry'urudodo",
+            "option_3": "Ifuni mu mabuye",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hapfuye Senkopfu hasigara Semfunda",
+            "option_1": "Inkari z'inkoko",
+            "option_2": "Ikinyankari",
+            "option_3": "Imigondoro w'ibishyimbo",
+            "option_4": "Icyansi, akanyita k'uruhu",
+            "correct_answer": "Imigondoro w'ibishyimbo"
+        }
+    }
+]

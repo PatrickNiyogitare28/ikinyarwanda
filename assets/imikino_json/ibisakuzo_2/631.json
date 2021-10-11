@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 396
+    },
+    {
+        "sakwe_1": {
+            "question": "Inkuru nziza ivuye i Burayi",
+            "option_1": "Igikongorwa",
+            "option_2": "Inzara y'uruhinja",
+            "option_3": "Umugozi w'ibijumba",
+            "option_4": "Igitembatembe",
+            "correct_answer": "Inzara y'uruhinja"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndi mugufi nyirazo",
+            "option_1": "Urukumbi mu menyo",
+            "option_2": "Indishyi zihuye; imfubyi",
+            "option_3": "Ishenyi n'intorezo",
+            "option_4": "Igicaniro; igisabo",
+            "correct_answer": "Igicaniro; igisabo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngira inka ikimira mu kinono ikabyarira mu kanwa",
+            "option_1": "Urusogo n'urusogi",
+            "option_2": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_3": "Insina",
+            "option_4": "Akanyoni karitse ku nzira",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kiracunda runete",
+            "option_1": "Imirizo cy'intama",
+            "option_2": "Umusatsi",
+            "option_3": "Amasuka",
+            "option_4": "Ibivumvuri",
+            "correct_answer": "Imirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zaturuka mu irembo ntiwamenya iyo nyoko yakowe",
+            "option_1": "Igisindu",
+            "option_2": "Ifundi",
+            "option_3": "Uruhindu rw'indushyi",
+            "option_4": "Icyagumbwa",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Urarenga mpinguka",
+            "option_1": "Ifaranga",
+            "option_2": "Umusaza n'umwana",
+            "option_3": "Isuka mu icukiro",
+            "option_4": "Gusitara ku ibuye",
+            "correct_answer": "Umusaza n'umwana"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ubugeni bw'ino burampuha",
+            "option_1": "Agahinja",
+            "option_2": "Wasaza ubuhiri mu muhini!!",
+            "option_3": "Umuhumetso",
+            "option_4": "Guhekenya amasaka",
+            "correct_answer": "Wasaza ubuhiri mu muhini!!"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inkuba ebyiri zihindiye i Bwishaza",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Inzuho ebyiri mu ntango",
+            "option_3": "Igisambu gisigaye hagati y'uruhira",
+            "option_4": "Akababi kumuvumu",
+            "correct_answer": "Inzuho ebyiri mu ntango"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Igira hino nshuti",
+            "option_1": "Amazi y'inyama",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Ikirago; ikiringiti",
+            "option_4": "Amasaka",
+            "correct_answer": "Ikirago; ikiringiti"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rukara rwa Nyabicuma yaturuka hariya wayacekwa",
+            "option_1": "Icyiyoni",
+            "option_2": "Urubariro",
+            "option_3": "Umutsi w'innyo",
+            "option_4": "Ibyiyone",
+            "correct_answer": "Ibyiyone"
+        }
+    }
+]

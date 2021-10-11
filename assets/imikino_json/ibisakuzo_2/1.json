@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 265
+    },
+    {
+        "sakwe_1": {
+            "question": "Rukondakonda umuhoro wo mu Kinyaga",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Umusambi",
+            "option_3": "Amashaza ku rujyo",
+            "option_4": "Umuheto n'imyambi",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite ihene aho iziritse ntawe uhita atayiseguye",
+            "option_1": "Agakenya kw'imbaragasa",
+            "option_2": "Umunyinya",
+            "option_3": "Amashaza ku rujyo",
+            "option_4": "Urufunzo",
+            "correct_answer": "Umunyinya"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bakobwa nararushye",
+            "option_1": "Ingoma mu isoko",
+            "option_2": "Radiyo",
+            "option_3": "Akagabo ko mu irebe",
+            "option_4": "Imyashi",
+            "correct_answer": "Akagabo ko mu irebe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ijoro rirara hehe?",
+            "option_1": "Igitsina cy'amateke",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Mu murima w'inkoko",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Mu murima w'inkoko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mbonye inkoni nziza mbura inzira ngo njye kuyica",
+            "option_1": "Ibisunzu bya rusake",
+            "option_2": "Umwobo mu masaka",
+            "option_3": "Amaso",
+            "option_4": "Kudashobora kurongora mushiki wawe",
+            "correct_answer": "Kudashobora kurongora mushiki wawe"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Ingingi z'amasaka",
+            "option_2": "Imivuba; inkono y'itabi",
+            "option_3": "Ukuguru kw'imbaragasa",
+            "option_4": "Igikona",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karashonda inzira",
+            "option_1": "Umuvure",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Umuganda",
+            "option_4": "Inkuba n'umurabyo",
+            "correct_answer": "Umuganda"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Njugunya njugunya nupfa tuzajyana",
+            "option_1": "Umusatsi; inzara",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ibere ry'inkumi",
+            "option_4": "Wasaza ubuhiri mu muhini!!",
+            "correct_answer": "Umusatsi; inzara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Rutumba ruturitse rutare rw'iyapfuye ejo",
+            "option_1": "Inkota mu bitugu",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Akana kavutse kadashyitse",
+            "option_4": "Isekurume y'intama",
+            "correct_answer": "Isekurume y'intama"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamuhanda ntiwayiterera",
+            "option_1": "Imondo mu gihu",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Agaheha mu gacuma",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    }
+]

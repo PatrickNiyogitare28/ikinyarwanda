@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 727
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera ibisakuzo bya Nyirasapfu",
+            "option_1": "Amafuni mu rukoro",
+            "option_2": "Ifuni mu mushike",
+            "option_3": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_4": "Ikivugirizo",
+            "correct_answer": "Amafuni mu rukoro"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Segikwekwe umutwe wa Mukono",
+            "option_1": "Amenyo",
+            "option_2": "Umuko mu mukokwe",
+            "option_3": "Ifundi mu murama",
+            "option_4": "Amaguru ya muhuhirizi",
+            "correct_answer": "Umuko mu mukokwe"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Umuko mu mukokwe",
+            "option_2": "Ijwi",
+            "option_3": "Umusigati",
+            "option_4": "Inturo mu muvumo",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karabambaje kiradandaje",
+            "option_1": "Ingoma",
+            "option_2": "Uruhabuzo",
+            "option_3": "Ikirago",
+            "option_4": "Umusatsi",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ca bugufi baragosora",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Ifundi mu murama",
+            "option_3": "Icyagumbwa (inopfu)",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Ifundi mu murama"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Cyimitse ingere gihetse Rwigema kigiye gusumba Tarasi umwami w'i Gisaka",
+            "option_1": "Ikirago",
+            "option_2": "Umuhumetso",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Ikigori",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bicinyigiri bya Bikangaga Bikondo byacuzwe n'abantu",
+            "option_1": "Ikiyiko ku mbehe",
+            "option_2": "Inkoko mu rutoki",
+            "option_3": "Ibirago",
+            "option_4": "Agashyo mu nyama",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera umuriro uzimya undi",
+            "option_1": "Inzogera",
+            "option_2": "Igishirira kiguye mu mazi ashyushye",
+            "option_3": "Igikona",
+            "option_4": "Intebe",
+            "correct_answer": "Igishirira kiguye mu mazi ashyushye"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Tora inkoni ntore Indi tujye gutsimbura Rukara ku gicaniro",
+            "option_1": "Akotsi k'abatabazi",
+            "option_2": "Umwijima",
+            "option_3": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_4": "Umusambi",
+            "correct_answer": "Umwijima"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Impeta Kajiga ya Rujinja ironsa umunani",
+            "option_1": "Urume ku musororo",
+            "option_2": "Ikirondwe",
+            "option_3": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_4": "Injishi y'igisabo",
+            "correct_answer": "Injishi y'igisabo"
+        }
+    }
+]

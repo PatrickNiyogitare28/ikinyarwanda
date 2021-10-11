@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 350
+    },
+    {
+        "sakwe_1": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Isusa",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Ifundi",
+            "option_4": "Ifaranga ku meza",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ayi napfa nakira, simbizi",
+            "option_1": "Akanyoni yaritse ku nzira",
+            "option_2": "Izina ryawe",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Isahani yaguye ingese",
+            "correct_answer": "Akanyoni yaritse ku nzira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Umuporisi",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Inyundo",
+            "option_4": "Gusaba uwo wimye",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Igitoki cya kamara",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Umugore ujya iwabo",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Amarira mu maso",
+            "option_2": "Imirya y'inanga",
+            "option_3": "Ururabo",
+            "option_4": "Ikirunga",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata umuhoro mfate undi tujye gutema ibidatemeka",
+            "option_1": "Amazi",
+            "option_2": "Ivunja",
+            "option_3": "Igikoro",
+            "option_4": "Inyegamo y'umusore warongoye",
+            "correct_answer": "Amazi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inyundo za bene Ntwari bazikubita hasi ntizimene isi",
+            "option_1": "Ibinono by'inka",
+            "option_2": "Ururabo",
+            "option_3": "Ibirundiro",
+            "option_4": "Igisabo",
+            "correct_answer": "Ibinono by'inka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kamana iteka yambara neza",
+            "option_1": "Ururabo",
+            "option_2": "Inzoka",
+            "option_3": "Urwogerezo",
+            "option_4": "Umwana w'uruhinja",
+            "correct_answer": "Ururabo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagenze amahanga, Simbona igiti gikora idosiye",
+            "option_1": "Ikaramu",
+            "option_2": "Umuzungu n'umwirabura",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Ikaramu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Inkono",
+            "option_4": "Ibirenge by'umuntu",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    }
+]

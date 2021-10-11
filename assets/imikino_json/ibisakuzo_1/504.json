@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 530
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyiramutarataje abagabo",
+            "option_1": "Urusenda",
+            "option_2": "Ifaranga",
+            "option_3": "Amagambo yo ku rurembo",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Izuba ry'impeshyi",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Ibaruwa",
+            "option_4": "Indumane",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hunga gahinda ataguca umurundi",
+            "option_1": "Akanyamasyo",
+            "option_2": "Isake ifite ibirokoroko",
+            "option_3": "Urusenda",
+            "option_4": "Inzoka",
+            "correct_answer": "Inzoka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera icyo utazi utabonye",
+            "option_1": "Igare",
+            "option_2": "Amabya",
+            "option_3": "Ivunja",
+            "option_4": "Ubuto bwa so na nyoko",
+            "correct_answer": "Ubuto bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Intare",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Urutare",
+            "option_4": "Ifaranga ku meza",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Urwembe mu musatsi",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Radiyo",
+            "option_4": "Amapapayi",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyirandarindari",
+            "option_1": "Ibitotsi",
+            "option_2": "Umuvure",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Icyanzu cyanjye ngicamo nkafunga",
+            "option_1": "Imihanda, uruzi, inzira",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Ivu",
+            "option_4": "Indumane",
+            "correct_answer": "Indumane"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Imisozi",
+            "option_2": "Ifaranga",
+            "option_3": "Insina; amateke",
+            "option_4": "Imodoka",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Inzara n'inyota",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Ubunyobwa",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    }
+]

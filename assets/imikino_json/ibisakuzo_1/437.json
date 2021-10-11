@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 42
+    },
+    {
+        "sakwe_1": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Ifaranga",
+            "option_2": "Ifaranga",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Amaguru y'inkware",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Fata so nkunkumure nyoko",
+            "option_1": "Urwiri",
+            "option_2": "Ikivumvuri",
+            "option_3": "Umurozi",
+            "option_4": "Buji",
+            "correct_answer": "Urwiri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Amaherere yamennye Bukungu umutwe",
+            "option_1": "Igihepfu ku mugina",
+            "option_2": "Innyo y'ihene",
+            "option_3": "Amabya",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Igihepfu ku mugina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Insina; amateke",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Umugore utwite",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Agenda neza nuko yanga abanjye",
+            "option_1": "Intare",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Ikawa n'umumenamabuye",
+            "option_4": "Telefoni",
+            "correct_answer": "Intare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Ivunja",
+            "option_2": "Ishyiga",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Ijuru n'ukwezi",
+            "option_2": "Indabo z'amashaza",
+            "option_3": "Ishapure n'amasengesho",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagenze amahanga, Simbona igiti gikora idosiye",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Umugina mu rufunzo",
+            "option_3": "Inkoko n'inkware",
+            "option_4": "Ikaramu",
+            "correct_answer": "Ikaramu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyagiwe n'imvura imbuza guhinga",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Amacandwe y'incira",
+            "option_4": "Isusa",
+            "correct_answer": "Amacandwe y'incira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Ibitotsi bya mu gitondo",
+            "option_2": "Inzu itagira abantu",
+            "option_3": "Ifaranga",
+            "option_4": "Inzara n'inyota",
+            "correct_answer": "Inzara n'inyota"
+        }
+    }
+]

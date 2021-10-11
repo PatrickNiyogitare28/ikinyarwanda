@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 242
+    },
+    {
+        "sakwe_1": {
+            "question": "Ibitugu bya so birarenga urugo",
+            "option_1": "Umugondoro w'ibishyimbo",
+            "option_2": "Imisoto y'ikigega",
+            "option_3": "Ikivumvuri",
+            "option_4": "Uburo",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye guta nyogokuru aza ankurikiye",
+            "option_1": "Ivu",
+            "option_2": "Inda",
+            "option_3": "Amenyo",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mweru n'iyayo",
+            "option_1": "Urusyo n'ingasire",
+            "option_2": "Agafuni mu mushike",
+            "option_3": "Umusenyi",
+            "option_4": "Uruheri mu gihata",
+            "correct_answer": "Urusyo n'ingasire"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inzira ijya i Burundi igenda amagorigondi",
+            "option_1": "Uruyuki",
+            "option_2": "Inda",
+            "option_3": "Igihondohondo",
+            "option_4": "Imyobo y'ifuku urwanwa rw'umuhoro",
+            "correct_answer": "Imyobo y'ifuku urwanwa rw'umuhoro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zikutse zera inzara",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Imfunzo",
+            "option_3": "Agakono k'impengeri",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Imfunzo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rusengo mu miseke",
+            "option_1": "Mu murima w'inkoko",
+            "option_2": "Akayuzi hejuru y'urupfu",
+            "option_3": "Umwobo mu masaka",
+            "option_4": "Isekurume y'intama",
+            "correct_answer": "Umwobo mu masaka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera ikigira inyama ntikagire igufa",
+            "option_1": "Intashya",
+            "option_2": "Ikirondwe",
+            "option_3": "Ubutanda ku muvure",
+            "option_4": "Umugore unnya kugihuru",
+            "correct_answer": "Ikirondwe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aho wabereye wataramye  ku kabuhanda",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Urusisiro",
+            "option_3": "Umwumano w'ishashi",
+            "option_4": "Ubwato",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ingobyi ngari ni yo impekera abana",
+            "option_1": "Umuvumbuko w'intare",
+            "option_2": "Imfunzo",
+            "option_3": "Ubwato",
+            "option_4": "Inda muruhara",
+            "correct_answer": "Ubwato"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nahurenye inko nyinshi ncyurana imwe gusa",
+            "option_1": "Umwobo mu masaka",
+            "option_2": "Ivu",
+            "option_3": "Agasongera",
+            "option_4": "Umusigati",
+            "correct_answer": "Umusigati"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 453
+    },
+    {
+        "sakwe_1": {
+            "question": "Karakurizaga karakurutaga wa duri we?",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Igare rigeze ahazamuka",
+            "option_3": "Umusazi",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nciye inkanda mpirika n'inkingi",
+            "option_1": "Urukoma n'insina",
+            "option_2": "Ifundi",
+            "option_3": "Icyobo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Urukoma n'insina"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata Intorezo mfate indi tujye kwasa ibitaswa",
+            "option_1": "Inzoka",
+            "option_2": "Urutare",
+            "option_3": "Inyundo",
+            "option_4": "Ingoto y'umugabo",
+            "correct_answer": "Urutare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Njugunye akabuye ku karubanda baragatanguranwa",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Ifaranga",
+            "option_3": "Ifaranga",
+            "option_4": "Indege",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kigenda cyane kitagira amaguru",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Ifaranga",
+            "option_3": "Umuyaga",
+            "option_4": "Inzuki",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Ijambo rya perezida",
+            "option_2": "Amacandwe y'incira",
+            "option_3": "Urwembe mu musatsi",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Ifaranga",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Icwende ryanjye rimbaye kure mba ngukoreyemo",
+            "option_1": "Umugore utwite",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Ukwezi",
+            "option_4": "Ikibyindi cy'umushumba",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ruvudukana imbaraga, rukavumera rutagira amahembe",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Agacaca",
+            "option_3": "Imodoka",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kati parararara, kati pa",
+            "option_1": "Ibirenge by'umuntu",
+            "option_2": "Ifaranga ku meza",
+            "option_3": "Urutara",
+            "option_4": "Imyenge y'inzu",
+            "correct_answer": "Ifaranga ku meza"
+        }
+    }
+]

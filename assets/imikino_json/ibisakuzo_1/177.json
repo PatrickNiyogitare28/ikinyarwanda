@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 121
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndya nkurye",
+            "option_1": "Ibaruwa",
+            "option_2": "Urusenda",
+            "option_3": "Ijuru n'ukwezi",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Urusenda"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Amasaka y'i Burundi atukura ateze",
+            "option_1": "Ikigori",
+            "option_2": "Igisabo",
+            "option_3": "Amaguru y'inkware",
+            "option_4": "Umuporisi",
+            "correct_answer": "Amaguru y'inkware"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Inyundo",
+            "option_2": "Umuntu",
+            "option_3": "Kaburimbo",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Igitoki",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Urwembe mu musatsi",
+            "option_4": "Inzoka",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Ikawa n'umumenamabuye",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Icyumweru",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nturutse hanze mbona umuntu ninjiye ndamubure",
+            "option_1": "Amagambo yo ku rurembo",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Ifaranga",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Amaherere yamennye Bukungu umutwe",
+            "option_1": "Ubuto bwa so na nyoko",
+            "option_2": "Umuvuba",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Igihepfu ku mugina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dusetse tuzanduranya",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Umugore utwite",
+            "option_3": "Isoko",
+            "option_4": "Umuporisi",
+            "correct_answer": "Umuporisi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Imisozi",
+            "option_2": "Kaburimbo",
+            "option_3": "Imodoka yabuze lisansi",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kati hii kati huu",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Imvura",
+            "option_3": "Agakecuru kocyejwe n'igikoma",
+            "option_4": "Ifaranga",
+            "correct_answer": "Agakecuru kocyejwe n'igikoma"
+        }
+    }
+]

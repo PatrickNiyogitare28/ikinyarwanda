@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 619
+    },
+    {
+        "sakwe_1": {
+            "question": "Wikoza hasi wikoza hejuru ntuzabona ishinya ya Dede",
+            "option_1": "Ikibwana cy'imbwa mu masinde",
+            "option_2": "Ikirungurira",
+            "option_3": "Inyamanza",
+            "option_4": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "correct_answer": "Ishinya y'urukwavu; ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rupfupfu yarapfuye adiga undi Rupfupfu",
+            "option_1": "Umugore unnya kugihuru",
+            "option_2": "Umugezi utemba ugasiga amabuye",
+            "option_3": "Umurunga",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Umugezi utemba ugasiga amabuye"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyamukubura umutindi",
+            "option_1": "Imbwa",
+            "option_2": "Umwisheshe",
+            "option_3": "Ikirungurira",
+            "option_4": "Ikizu kitarimo abantu",
+            "correct_answer": "Umwisheshe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Sogokuru w'ibihigi nyinshi",
+            "option_1": "Impatwe z'umusaza",
+            "option_2": "Umutobotobo",
+            "option_3": "Ikigega kirimo ubusa",
+            "option_4": "Umurizo w'ihene",
+            "correct_answer": "Umutobotobo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Tora akato ntore akandi tujye kwambutsa akanyarumira",
+            "option_1": "Amafundi",
+            "option_2": "Umugore utwite",
+            "option_3": "Umucaca",
+            "option_4": "Icyibo",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kwumva menshi kagahishira",
+            "option_1": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_2": "Urusyo",
+            "option_3": "Umusenyi",
+            "option_4": "Amashyiga",
+            "correct_answer": "Agafundi ko ku nzira\n \nmaganyiro"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kati \"diri diri, dore umuhamirizo nakuye kwa Mukoze",
+            "option_1": "Urukwavu",
+            "option_2": "Ikivumvuri",
+            "option_3": "Intore n'amata",
+            "option_4": "Amazi mu muheha",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Inda",
+            "option_2": "Urugo udasangamo nyoko",
+            "option_3": "Intobo",
+            "option_4": "Urusenge",
+            "correct_answer": "Urusenge"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze ku rutare ndasa umwambi umara abana b' abatwa",
+            "option_1": "Ivu",
+            "option_2": "Inzara",
+            "option_3": "Igihondohondo",
+            "option_4": "Umutsima; intosho",
+            "correct_answer": "Inzara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rugugura yaguye inyuma ya Ngiga",
+            "option_1": "Inkuba n'umurabyo",
+            "option_2": "Intore y'amahingura",
+            "option_3": "Imvura igwa ku gitikatika",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Imvura igwa ku gitikatika"
+        }
+    }
+]

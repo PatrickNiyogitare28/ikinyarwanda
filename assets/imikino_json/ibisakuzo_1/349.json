@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 320
+    },
+    {
+        "sakwe_1": {
+            "question": "Aka katega so",
+            "option_1": "Imbaragasa",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Agacaca",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Agacaca"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dore isoko idakama amazi",
+            "option_1": "Amarira mu maso",
+            "option_2": "Imbunda",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Icyumweru",
+            "correct_answer": "Amarira mu maso"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abagwabiro bashinze inteko",
+            "option_1": "Imisozi",
+            "option_2": "Igikoro",
+            "option_3": "Umutsima",
+            "option_4": "Umucaca",
+            "correct_answer": "Umucaca"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyuze mu nsi y'urugo bamfunda ibirozi",
+            "option_1": "Inopho",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Ibiboga byagaze"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Amano y'umuntu",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze mu Rwanda ndeba mu mahanga",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Televiziyo",
+            "option_3": "Ifaranga",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Televiziyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana banjye barara bahagaze bakirirwa bahagaze",
+            "option_1": "Amaguru y'inkware",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Inkingi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karadundaraye",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Akabyindi k'umushumba",
+            "option_3": "Igare rigeze ahazamuka",
+            "option_4": "Amapapayi",
+            "correct_answer": "Akabyindi k'umushumba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ninjye muzindutsi wa cyane nasanze umuzimu yicariye ukuguru",
+            "option_1": "Corogati",
+            "option_2": "Inkware",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Ikawa",
+            "correct_answer": "Inkware"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mvuye aha nshyutswe ngera iyo nshaka",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Ibabi by'ibibonobono",
+            "option_3": "Igikoro",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Amabere y'inkumi"
+        }
+    }
+]

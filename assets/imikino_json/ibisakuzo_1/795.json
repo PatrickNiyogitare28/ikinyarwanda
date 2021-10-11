@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 202
+    },
+    {
+        "sakwe_1": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Izina ryawe",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Inkoko n'inkware",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ayii",
+            "option_1": "Igisozi kirekire",
+            "option_2": "Umukecuru wataye ikijigo cye",
+            "option_3": "Ifaranga",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umukecuru wataye ikijigo cye"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inkuba ikubita ikwerekejeho umugongo",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Umuheto",
+            "option_4": "Gutara ibitoki",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umuzungu atwara imodoka umusatsi uri hanze",
+            "option_1": "Ifaranga",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Ikigori",
+            "option_4": "Igisenge",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkubise ikimuga mbura urujyo",
+            "option_1": "Ivu",
+            "option_2": "Imigomdoro yibishyimbo",
+            "option_3": "Indabo z'amashaza",
+            "option_4": "Umusuzi",
+            "correct_answer": "Umusuzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Twaraye ihinga isuka iramungwa",
+            "option_1": "Igare",
+            "option_2": "Ifu",
+            "option_3": "Isahani yaguye ingese",
+            "option_4": "Isusa",
+            "correct_answer": "Isahani yaguye ingese"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Agasuzi",
+            "option_2": "Ishyiga",
+            "option_3": "Ikirunga",
+            "option_4": "Insina",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Baragata bakagatanaga ubwiza bwako",
+            "option_1": "Igitiritiri",
+            "option_2": "Ibirundiro",
+            "option_3": "Ikivugirizo",
+            "option_4": "Ikibuno",
+            "correct_answer": "Igitiritiri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagare",
+            "option_1": "Icyobo",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Ibitotsi",
+            "option_4": "Inzara n'inyota",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho wabereye wari waterera Muhangiro",
+            "option_1": "Ingoto y'umugabo",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Ikirunga",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ikirunga"
+        }
+    }
+]

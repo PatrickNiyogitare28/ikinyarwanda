@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 558
+    },
+    {
+        "sakwe_1": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Inyundo",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Umunyeshuri wabaye uwa mbere",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Njugunye igihaza gihinguranya amarembo",
+            "option_1": "Amashyiga (y'inyuma)",
+            "option_2": "Ifaranga",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Umupira mu izamu",
+            "correct_answer": "Umupira mu izamu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Akanyamasyo",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Inzuki",
+            "option_2": "Innyo y'ihene",
+            "option_3": "Umukandara",
+            "option_4": "Inyundo",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze mu Rwanda ndeba mu mahanga",
+            "option_1": "Televiziyo",
+            "option_2": "Inyamunyo",
+            "option_3": "Kaburimbo",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Televiziyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mvuye guhamba nyogokuru aza ankurikiye",
+            "option_1": "Ikiryango cy'inzu",
+            "option_2": "Ivu",
+            "option_3": "Inkingi",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Akayunguruzo",
+            "option_2": "Ifaranga",
+            "option_3": "Umubagazi",
+            "option_4": "Icyumweru",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze ku rutare mpamagara Majigo nti amata y'abashumba yabuze",
+            "option_1": "Igicucucucu",
+            "option_2": "Igihepfu ku mugina",
+            "option_3": "Agacaca",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Umugono w'ishashi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Kukwanduza sida",
+            "option_2": "Ikivugirizo",
+            "option_3": "Ururimi n'amenyo",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kati parararara, kati pa",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Amase y'inka",
+            "option_3": "Umugina mu rufunzo",
+            "option_4": "Igihaza",
+            "correct_answer": "Ifaranga ku meza"
+        }
+    }
+]

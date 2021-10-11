@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 16
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkoni mu kugukubita yarakuneshaga",
+            "option_1": "Uruyuki",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Inshunzi mu cyansi",
+            "option_4": "Urukwavu",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karaje n'inkonya n'inkweto ntikazi ko ryavuye",
+            "option_1": "Umuriro",
+            "option_2": "Amabere",
+            "option_3": "Agahinja",
+            "option_4": "Intasya",
+            "correct_answer": "Agahinja"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpise kwa Rucuku bakocagurana",
+            "option_1": "Inzu iguye",
+            "option_2": "Icebe ry'imbaragasa",
+            "option_3": "Ifuni mu mabuye",
+            "option_4": "Mpinga",
+            "correct_answer": "Ifuni mu mabuye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mukara n'iyayo",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Ikiyiko ku mbehe",
+            "option_3": "Inkono n'urweso",
+            "option_4": "Umusambi",
+            "correct_answer": "Inkono n'urweso"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abana b'umwami bicaye kuntebe imwe",
+            "option_1": "Irobe n'umutsima",
+            "option_2": "Ururo mu mateke",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Intubu n'urutwe",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngakariya",
+            "option_1": "Agakono k'amanywa",
+            "option_2": "Inzara mu ruheri",
+            "option_3": "Akato mu kiyaga",
+            "option_4": "Ururo mu mateke",
+            "correct_answer": "Akato mu kiyaga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Imparakajosi ya Nyamujyana, impara ironsa batanu",
+            "option_1": "Ifundi",
+            "option_2": "Amenyo",
+            "option_3": "Umuheto n'imyambi",
+            "option_4": "Amamera n'ifu",
+            "correct_answer": "Umuheto n'imyambi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kimenyi w'amenyo abiri",
+            "option_1": "Uruhu rw'intama",
+            "option_2": "Icyugu mu nshoce",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Ikibyindi",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ntereye intobo hakurya y'uruzi, Indi nyitera hakuno zihuye ziriganira",
+            "option_1": "Umugore utwite",
+            "option_2": "Ikigorigori",
+            "option_3": "Umuhinzi umwe mu murima",
+            "option_4": "Indishyi zihuye; imfubyi",
+            "correct_answer": "Indishyi zihuye; imfubyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera Ruganji mu nzugi",
+            "option_1": "Intuku z'amasaka",
+            "option_2": "Uruyuki",
+            "option_3": "Intobo",
+            "option_4": "Igikobwa kibi",
+            "correct_answer": "Igikobwa kibi"
+        }
+    }
+]

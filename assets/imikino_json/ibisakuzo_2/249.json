@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 613
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndamutemye ndamutaruka",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Ikiba cy'ubwatsi",
+            "option_3": "Umutumba w'insina",
+            "option_4": "Umusenyi",
+            "correct_answer": "Umutumba w'insina"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ko mwiruka muvunnye nde?",
+            "option_1": "Isi n' ijuru",
+            "option_2": "Ikiba cy'ubwatsi",
+            "option_3": "Ikirungurira",
+            "option_4": "Isuri",
+            "correct_answer": "Isuri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rusimbuka mu gicu rwa Semugeshi ingombwe ya Rugina",
+            "option_1": "Agakongorerwa",
+            "option_2": "Agasuna",
+            "option_3": "Inkono n' ibipfuko",
+            "option_4": "Ingwe",
+            "correct_answer": "Ingwe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kati \"mbagira butimbo\"",
+            "option_1": "Agahinda mu nda",
+            "option_2": "Agahanga k'ifumberi",
+            "option_3": "Igitoki n'amakoma",
+            "option_4": "Icyuho; ikibyindi",
+            "correct_answer": "Agahanga k'ifumberi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rukara rwa Nyabicuma yaturuka hariya wayacekwa",
+            "option_1": "Irobe n'umutsima",
+            "option_2": "Igisindu",
+            "option_3": "Ibyiyone",
+            "option_4": "Icyuho; ikibyindi",
+            "correct_answer": "Ibyiyone"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyoko arusha mama amabuno manini",
+            "option_1": "Ifundi",
+            "option_2": "Ibarizo",
+            "option_3": "Icyiyoni",
+            "option_4": "Igitembatembe",
+            "correct_answer": "Igitembatembe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Icyambuka uruzi kitagira amaguru",
+            "option_1": "Amateke",
+            "option_2": "Igitoki",
+            "option_3": "Igi ry'inkoko",
+            "option_4": "Ijwi",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Serushababisha ni mwene rugadiga",
+            "option_1": "Umuce wo mu irebe",
+            "option_2": "Amahundo",
+            "option_3": "Inguri",
+            "option_4": "Umuziha w'inzovu",
+            "correct_answer": "Inguri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramakoberanya",
+            "option_1": "Ibirago",
+            "option_2": "Agakatsi ku butanda",
+            "option_3": "Ikinyogote",
+            "option_4": "Agakono ko mu cyi",
+            "correct_answer": "Agakono ko mu cyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kibuguje i Ndorwa kigarura ingabo kigeze mu mpinga gishinga feni",
+            "option_1": "Imodoka",
+            "option_2": "Ikigori",
+            "option_3": "Urujyo ku nkoko",
+            "option_4": "Inkono yuzuye ibiryo",
+            "correct_answer": "Ikigori"
+        }
+    }
+]

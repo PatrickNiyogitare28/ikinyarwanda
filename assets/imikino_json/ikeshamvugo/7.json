@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 5
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ariho amazi abira",
+            "answer": "Ari mu mazi abira"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Kumena amata ubishatse",
+            "answer": "Kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Umugana mwinshi",
+            "answer": "Imigana (umwikubo w'umugana urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Kurekeraho gukamwa",
+            "answer": "Guteka"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Indirimbo nyinshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Uduta",
+            "answer": "Amata"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Umushishi, agashinge bahanaguza urusyo",
+            "answer": "Umwanzuzo"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amaze kuvura",
+            "answer": "Ikivuguto"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Wari wakubitwaho?",
+            "answer": "Wari wakubitwa?"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Umukumbi mwinshi",
+            "answer": "Imikumbi (umwikubo w'umukumbi urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Amashyi menshi",
+            "answer": "Urufaya"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Amata yiriwe",
+            "answer": "Amirire"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Ayiriwe ataravura",
+            "answer": "Amirire"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Mushiki w'umugabo wawe",
+            "answer": "Muramukazi"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Umwana w'ubuvivi",
+            "answer": "Ubuvivure"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Gutunganya amata y'ikivuguto",
+            "answer": "Kuyavuruga"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Amata y'inka ihaka",
+            "answer": "Amasitu"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Ibuye bakomesha urusyo",
+            "answer": "Intosho"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Se wa sogokuru, nyogokuru",
+            "answer": "Sogokuruza"
+        }
+    }
+]

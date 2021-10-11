@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 671
+    },
+    {
+        "sakwe_1": {
+            "question": "Kagaga iri hagati y'urugano",
+            "option_1": "Umucaca",
+            "option_2": "Ikigoli",
+            "option_3": "Intosho",
+            "option_4": "Ururimi",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Igisambu gisigaye hagati y'uruhira",
+            "option_2": "Ibikingi by'amarembo",
+            "option_3": "Umurunga",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inkuba ikubita ku butaka ya Rujinja abayimira",
+            "option_1": "Ikijumba",
+            "option_2": "Urubariro",
+            "option_3": "Ikigagara",
+            "option_4": "Imanzi mu maribori",
+            "correct_answer": "Ikijumba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inka yanjye irishiriza ku nkombe ntitembe",
+            "option_1": "Umugengararo w'amasaka",
+            "option_2": "Inkwana z'amateke",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Umwambi",
+            "correct_answer": "Akanyoni karitse ku nzira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata ubwato mfate ubundi tujye kwambutse ibitayega",
+            "option_1": "Umugore utwite",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Umusambi",
+            "option_4": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ayo macumu yose araterwa ingabo za Ruhende",
+            "option_1": "Ifundi",
+            "option_2": "Umununi ku gicumucumu",
+            "option_3": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kadiridiri ka Ndirimba hejuru ya Sandarubeti",
+            "option_1": "Umusambi",
+            "option_2": "Uruyongoyongo",
+            "option_3": "Ijambo ry'umwami",
+            "option_4": "Umuntu uri ku ipikipiki",
+            "correct_answer": "Umuntu uri ku ipikipiki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Shorera Ruhushi tujye gukwa nyoko",
+            "option_1": "Icyugu",
+            "option_2": "Uruyuzi",
+            "option_3": "Ibikingi by'amarembo",
+            "option_4": "Nyankari",
+            "correct_answer": "Icyugu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kashira amanga karakanyagwa",
+            "option_1": "Umutumba w'insina",
+            "option_2": "Ikiba cy'ubwatsi",
+            "option_3": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Agacumu kica inkurikirane; akobo kavuna umubyeyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karenze impinga kannya ibibuye",
+            "option_1": "Inkono y'itabi",
+            "option_2": "Umubirigi",
+            "option_3": "Umuhumetso",
+            "option_4": "Uruho",
+            "correct_answer": "Umuhumetso"
+        }
+    }
+]

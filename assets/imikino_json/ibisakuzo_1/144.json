@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 478
+    },
+    {
+        "sakwe_1": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Ukwezi n'inyenyeri",
+            "option_2": "Igikatsi",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Inkware",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dusetse tuzanduranya",
+            "option_1": "Kukwanduza sida",
+            "option_2": "Igihaza",
+            "option_3": "Umugore utwite",
+            "option_4": "Umuporisi",
+            "correct_answer": "Umuporisi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera akabaribari kamanutse mu ijuru kaje gushashura abagabo",
+            "option_1": "Akanyoni yaritse ku nzira",
+            "option_2": "Isake ifite ibirokoroko",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyoko si ukunnya arahurutura",
+            "option_1": "Firigo",
+            "option_2": "Imihanda, uruzi, inzira",
+            "option_3": "Akayunguruzo",
+            "option_4": "Imitumba",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Igikatsi",
+            "option_2": "Kaburimbo",
+            "option_3": "Akatsi ko ku nzu",
+            "option_4": "Imana",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Umurozi",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Iteke",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndumwe nkatunga benshi",
+            "option_1": "Icyanzu",
+            "option_2": "Radiyo",
+            "option_3": "Imana",
+            "option_4": "Urusenda",
+            "correct_answer": "Imana"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Amata",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Umuntu",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Akanyoni yaritse ku nzira",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Kaburimbo",
+            "correct_answer": "Kaburimbo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mvuye ikuzimu bampa akabando",
+            "option_1": "Icyumweru",
+            "option_2": "Igikoro",
+            "option_3": "Ikigori",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Igikoro"
+        }
+    }
+]

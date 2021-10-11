@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 390
+    },
+    {
+        "sakwe_1": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Buji",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Imodoka",
+            "option_4": "Ibarizo",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramariza ari mu mpinga",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Indabo z'amashaza",
+            "option_3": "Igikeri",
+            "option_4": "Urupfu",
+            "correct_answer": "Indabo z'amashaza"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ko twagendanye wambwiye iki",
+            "option_1": "Ishyiga",
+            "option_2": "Igicucucucu",
+            "option_3": "Imodoka",
+            "option_4": "Icyobo",
+            "correct_answer": "Igicucucucu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Urupfu",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_4": "Ikiringiti",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Birafora ntibirase",
+            "option_1": "Imitumba",
+            "option_2": "Ingoto y'umugabo",
+            "option_3": "Agacaca",
+            "option_4": "Imodoka yabuze feri",
+            "correct_answer": "Ingoto y'umugabo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aka katega so",
+            "option_1": "Gusitara",
+            "option_2": "Agacaca",
+            "option_3": "Ingufuri hejuru y'isanduku",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Agacaca"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Igitoki",
+            "option_2": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_3": "Umucaca",
+            "option_4": "Umuyaga",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Njya mu nzu kagasigara hanze",
+            "option_1": "Umwarimu",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Amashaza",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Agatsinsino"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Inyundo",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Akanyana mu nda ya nyina",
+            "option_4": "Ikigori",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inka yanjye nyikama igaramye",
+            "option_1": "Ikiyoni",
+            "option_2": "Umuvure",
+            "option_3": "Akayunguruzo",
+            "option_4": "Izuba ry'impeshyi",
+            "correct_answer": "Umuvure"
+        }
+    }
+]

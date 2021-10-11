@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 303
+    },
+    {
+        "sakwe_1": {
+            "question": "Sakuza n'uwo muri kumwe",
+            "option_1": "Umuvumbyi",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Ururimi rwawe",
+            "option_4": "Amazi",
+            "correct_answer": "Ururimi rwawe"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zagarika amahembe ntiwamenya izo nyoko yakowe",
+            "option_1": "Ibiti by'ikawa",
+            "option_2": "Inopho",
+            "option_3": "Imvura",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Ibiti by'ikawa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ruvudukana imbaraga, rukavumera rutagira amahembe",
+            "option_1": "Ifu",
+            "option_2": "Imodoka",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Ikibuno",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Imvura",
+            "option_3": "Ururimi",
+            "option_4": "Ibirago",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Igitiritiri",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Byumve uhore",
+            "option_1": "Umusuzi wa so",
+            "option_2": "Igare rigeze ahazamuka",
+            "option_3": "Umugore utwite",
+            "option_4": "Umuyaga mu muyange",
+            "correct_answer": "Umusuzi wa so"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Urusenda",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Umunyeshuri wabaye uwa mbere",
+            "option_2": "Ibaruwa",
+            "option_3": "Ikirunga",
+            "option_4": "Insina",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngira imbehe nyinshi ariko nkabura iyo ndiraho",
+            "option_1": "Ibitotsi",
+            "option_2": "Umuheto n'umwambi",
+            "option_3": "Ishyiga",
+            "option_4": "Ibiganza",
+            "correct_answer": "Ibiganza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kinyuka inabi, cyanyuka ineza nkizihirwa",
+            "option_1": "Izuba ry'impeshyi",
+            "option_2": "Ibirenge by'umuntu",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Izuba ry'impeshyi"
+        }
+    }
+]

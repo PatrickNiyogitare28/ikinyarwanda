@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 285
+    },
+    {
+        "sakwe_1": {
+            "question": "Ko undeba ndaguha",
+            "option_1": "Ibaruwa",
+            "option_2": "Inopfu",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Fata utwangushye tujye kuvoma iriba ridakama",
+            "option_1": "Abavomyi",
+            "option_2": "Isekuru",
+            "option_3": "Imyambi y'ikibiriti",
+            "option_4": "Ishuri",
+            "correct_answer": "Ishuri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata so nkunkumure nyoko",
+            "option_1": "Urwiri",
+            "option_2": "Inzoka mu kugenda nta maguru",
+            "option_3": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_4": "Ifurwe",
+            "correct_answer": "Urwiri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkeje Umwami wo mu kirere, angabira ibiryoshye",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Inzuki",
+            "option_3": "Isusa",
+            "option_4": "Umuporisi",
+            "correct_answer": "Inzuki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Ifaranga",
+            "option_2": "Akabyindi k'umushumba",
+            "option_3": "Umugore ujya iwabo",
+            "option_4": "Telefoni",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nta kujya mu bajiji utari umujiji",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Umugono w'ishashi",
+            "option_3": "Umugina mu rufunzo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umugina mu rufunzo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Uwagaca yaba ari umugabo",
+            "option_1": "Kubuza umuryi kurya",
+            "option_2": "Umuvure",
+            "option_3": "Abavomyi",
+            "option_4": "Intore mu rwabya",
+            "correct_answer": "Kubuza umuryi kurya"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Umwijima n'urumuri",
+            "option_2": "Umuporisi",
+            "option_3": "Ubwoya bw' inka",
+            "option_4": "Ivunja",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite inka yanjye nyiragira ku manga ntitembe",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Inzoka",
+            "option_3": "Amatwi",
+            "option_4": "Ikirunga",
+            "correct_answer": "Amatwi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka kariza so",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Igitoki",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Akanyarirajisho"
+        }
+    }
+]

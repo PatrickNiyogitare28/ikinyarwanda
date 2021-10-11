@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 492
+    },
+    {
+        "sakwe_1": {
+            "question": "Fata ubwato mfate ubundi tujye kwambutse ibitayega",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umugezi utemba ugasiga amabuye",
+            "option_3": "Intobo",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rutinda mu idadi Rutebuka mu iteme bwakweye Dede!",
+            "option_1": "Ibijumaba",
+            "option_2": "Igihondohondo",
+            "option_3": "Ikirago",
+            "option_4": "Ibikingi by'amarembo",
+            "correct_answer": "Ibijumaba"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mama Arusha nyoko gukimbagira inkanda",
+            "option_1": "Umubiri w'umuntu",
+            "option_2": "Ikivugirizo",
+            "option_3": "Inkono n' ibipfuko",
+            "option_4": "Inda mu ihururu",
+            "correct_answer": "Inda mu ihururu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Behu behu!!!",
+            "option_1": "Umucaca mu ruzi",
+            "option_2": "Uburo",
+            "option_3": "Umwironge",
+            "option_4": "Urubura",
+            "correct_answer": "Umwironge"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ndamutemye ndamutaruka",
+            "option_1": "Umwungu mu mbibe",
+            "option_2": "Igikoro",
+            "option_3": "Inkono ku mashyiga",
+            "option_4": "Umutumba w'insina",
+            "correct_answer": "Umutumba w'insina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera igisumba ngari",
+            "option_1": "Icyiyone",
+            "option_2": "Isuka",
+            "option_3": "Ururo mu mateke",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Ururo mu mateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiragirimana afite inde",
+            "option_1": "Ingingi z'amasaka",
+            "option_2": "Uruboho",
+            "option_3": "Inuma",
+            "option_4": "Ikiziha cy'inzovu",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati \"kaci\" , kati \"hwi!!!\"",
+            "option_1": "Intebe",
+            "option_2": "Agahinda ku mutima",
+            "option_3": "Igikona",
+            "option_4": "Agaca mu nkoko",
+            "correct_answer": "Agaca mu nkoko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Jya ruguru tujye mataza",
+            "option_1": "Umwishywa ku rutare",
+            "option_2": "Umwana ugaburirwa na nyina w'undi",
+            "option_3": "Ikiryango cy'inzu",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Umwishywa ku rutare"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngira umwana akabyara umugenda",
+            "option_1": "Inzara n'umwijuto",
+            "option_2": "Inopfu",
+            "option_3": "Akabuno k'umwatiro, akanyita k'uruhu",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Uruyuzi"
+        }
+    }
+]

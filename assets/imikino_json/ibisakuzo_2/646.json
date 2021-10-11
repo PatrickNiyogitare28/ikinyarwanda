@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 362
+    },
+    {
+        "sakwe_1": {
+            "question": "Mukara w'i Karambi irabira rikarenga",
+            "option_1": "Ubwato mu kiyaga; mu mazi",
+            "option_2": "Igihumyo",
+            "option_3": "Icyiyone",
+            "option_4": "Ingabo y'ubuki",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye ikuzimu mpinnye agatoki",
+            "option_1": "Icebe ry'imbaragasa",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Umugore ujya kuzimura",
+            "option_4": "Ingara z'iminyinya",
+            "correct_answer": "Umugondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Isuka irokeye ni yo ihinga neza",
+            "option_1": "Indishyi zihuye; imfubyi",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Urutare rwo mu nzira",
+            "option_4": "Ikinwa cya nyirabarazana",
+            "correct_answer": "Ikinwa cya nyirabarazana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Akabingo nyamwishyigure",
+            "option_1": "Abahizi",
+            "option_2": "Intimba mu nda",
+            "option_3": "Ishyari ntiriba rito",
+            "option_4": "Umukenke",
+            "correct_answer": "Ishyari ntiriba rito"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Igira inyuma y'inzu bagupfunde ibirozi",
+            "option_1": "Ibiboga bigaze",
+            "option_2": "Ikinyagu",
+            "option_3": "Inshunzi mu cyansi",
+            "option_4": "Umwisheshe",
+            "correct_answer": "Ibiboga bigaze"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nsimbutse umugende nnya ibuye",
+            "option_1": "Imboni",
+            "option_2": "Akababi kumuvumu",
+            "option_3": "Uruyuzi",
+            "option_4": "Ibirayi bikiri mu gitaka",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Agakoni kanjye ka rutigatiga nashaka nagatuma umwami",
+            "option_1": "Umugabo wambaye umwenda mushya",
+            "option_2": "Amabondo y'ihene",
+            "option_3": "Wasaza ubuhiri mu muhini!!",
+            "option_4": "Ingabo y'ubuki",
+            "correct_answer": "Ingabo y'ubuki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngiye nca amayogi ngera iyo nshaka",
+            "option_1": "Umubiri w'umuntu",
+            "option_2": "Umuhanda",
+            "option_3": "Akana n'insina",
+            "option_4": "Imirizo cy'intama",
+            "correct_answer": "Umuhanda"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ak'imitana ak'imitari kararenze mu mpinga",
+            "option_1": "Umbwato; ibitwikurura",
+            "option_2": "Igikecuru cyisutseho igisururu",
+            "option_3": "Urutozi",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Samuduha ku mubanga",
+            "option_1": "Ikinyoro mu gahanga k'umusore",
+            "option_2": "Umusambi",
+            "option_3": "Amazimwe yo ku rurembo",
+            "option_4": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "correct_answer": "Ikinyoro mu gahanga k'umusore"
+        }
+    }
+]

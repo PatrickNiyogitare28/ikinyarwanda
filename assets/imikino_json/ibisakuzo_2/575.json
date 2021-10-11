@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 573
+    },
+    {
+        "sakwe_1": {
+            "question": "Bucunya butisiga",
+            "option_1": "Urubura",
+            "option_2": "Inkono itogota",
+            "option_3": "Inshunzi z'amata mu cyansi",
+            "option_4": "Ubuzuru bw'imbwa",
+            "correct_answer": "Ubuzuru bw'imbwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramana yadehesheje",
+            "option_1": "Ingoma mu isoko",
+            "option_2": "Igikongorwa",
+            "option_3": "Urutoki mu nkono y'itabi",
+            "option_4": "Ivunja",
+            "correct_answer": "Ingoma mu isoko"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze ku gasozi ndasa Rugina mu bihaha",
+            "option_1": "Uturaso ku murundi",
+            "option_2": "Ikigega kitagira amasaka",
+            "option_3": "Imvura",
+            "option_4": "Ikibwana cy'imbwa",
+            "correct_answer": "Ikigega kitagira amasaka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Nyirampirigita ombaba zitarya",
+            "option_1": "Urubariro",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ifuni mu rutara",
+            "option_4": "Ikinwa cya nyirabarazana",
+            "correct_answer": "Ifuni mu rutara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kino si igisebe ni myambi",
+            "option_1": "Urutare rwo mu nzira",
+            "option_2": "Nyankari",
+            "option_3": "Igikuku",
+            "option_4": "Uruzi",
+            "correct_answer": "Igikuku"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ntereye agashami mu gishanga amashami akwira irwanda",
+            "option_1": "Intebe",
+            "option_2": "Icyugu",
+            "option_3": "Ifuni mu rutara",
+            "option_4": "Ijambo ry'umwami",
+            "correct_answer": "Ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hapfuye Senkopfu hasigara Semfunda",
+            "option_1": "Imondo mu gihu",
+            "option_2": "Agaheha mu gacuma",
+            "option_3": "Imigondoro w'ibishyimbo",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Imigondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kuba ahirengeye si ko kwumva",
+            "option_1": "Ikiyiko ku mbehe",
+            "option_2": "Agasongero",
+            "option_3": "Igikecuru cyisutseho igisururu",
+            "option_4": "Amara",
+            "correct_answer": "Agasongero"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Amenyo",
+            "option_2": "Imutsi wo ku kibuno",
+            "option_3": "Isuka",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hita i Nyarubuye mpite mu Mbiyo tuzahurire i Nyanza",
+            "option_1": "Igicaniro; igisabo",
+            "option_2": "Gusaba uwo wenyine",
+            "option_3": "Urubariro",
+            "option_4": "Amata n'amatezano; mukungwa na nyabarongo",
+            "correct_answer": "Urubariro"
+        }
+    }
+]

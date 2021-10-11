@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 526
+    },
+    {
+        "sakwe_1": {
+            "question": "Ujya kurasa inkuba arabandarara",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Kaburimbo",
+            "option_3": "Radiyo",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Kwatsa mu ziko"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Iteke",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Amase y'inka",
+            "option_4": "Indumane",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Imodoka yabuze lisansi",
+            "option_2": "Agasuzi",
+            "option_3": "Ururimi",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kati parararara, kati pa",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Ikaziya ya primus",
+            "option_3": "Imvura",
+            "option_4": "Inyoni",
+            "correct_answer": "Ifaranga ku meza"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ayi mama hiya",
+            "option_1": "Umurabyo",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Inzara n'inyota",
+            "correct_answer": "Inuma ku rukoma"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ishime nyoko aratwite",
+            "option_1": "Amarira mu maso",
+            "option_2": "Umuvuba",
+            "option_3": "Urwina",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Urwina"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ibiti byanjye byaka bidacika",
+            "option_1": "Radiyo",
+            "option_2": "Ifaranga",
+            "option_3": "Igare rigeze ahazamuka",
+            "option_4": "Buji",
+            "correct_answer": "Buji"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Imbwa mu masinde",
+            "option_2": "Umukecuru wurira ikigega",
+            "option_3": "Agatsinsino",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera akabaribari kamanutse mu ijuru kaje gushashura abagabo",
+            "option_1": "Ikigori",
+            "option_2": "Izuba",
+            "option_3": "Ururimi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aho Mutara na Mutaga barasaniraga n'ubu haracyatorwa inkurwe",
+            "option_1": "Inyenyeri",
+            "option_2": "Igikeri",
+            "option_3": "Umukecuru wataye ikijigo cye",
+            "option_4": "Uruhara rw'umusaza",
+            "correct_answer": "Uruhara rw'umusaza"
+        }
+    }
+]

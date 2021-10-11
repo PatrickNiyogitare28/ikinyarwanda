@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 22
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Imbere h'umuheto",
+            "answer": "Ku ruhembe"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Abashatse abagore bava inda imwe",
+            "answer": "Abasanzire"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Umwana w'umwuzukuru",
+            "answer": "Umwuzukuruza"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Kurangiza gusya",
+            "answer": "Kwanzura"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Kumena amata ubishatse",
+            "answer": "Kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Amata avanze n'amazi",
+            "answer": "Umwerera"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Indirimbo nyinshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Kumeneka k'urusyo",
+            "answer": "Gusandara"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Gusaza k'urusyo",
+            "answer": "Gukura"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Ariho amazi abira",
+            "answer": "Ari mu mazi abira"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Kwigizayo ifu basya",
+            "answer": "Gukoma ifu"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Umwana wa mushiki w'umuntu",
+            "answer": "Umwishywa"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Ifu inoze cyane",
+            "answer": "Inono"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Impundu nyinshi",
+            "answer": "Urwanaga"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Umukeno mwinshi",
+            "answer": "Imikeno (umwikubo w'umukeno urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ay'inka yapfushije",
+            "answer": "Ubusuri"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Amata y'abashumba",
+            "answer": "Imyezo"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Kuyamena agucitse",
+            "answer": "Kuyabogora"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Ntiza ku ikaramu nandike",
+            "answer": "Ntiza ikaramu nandike"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Siyaje",
+            "answer": "Ntiyaje"
+        }
+    }
+]

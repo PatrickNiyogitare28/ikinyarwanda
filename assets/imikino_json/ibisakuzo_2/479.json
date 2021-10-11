@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 11
+    },
+    {
+        "sakwe_1": {
+            "question": "Igira inyuma y'urugo nkuvumburire impongo itagira umurizo",
+            "option_1": "Inzu iguye",
+            "option_2": "Umubuyenge w'intosho",
+            "option_3": "Amaraso ku murundi, umugezi utemba",
+            "option_4": "Umusenyi",
+            "correct_answer": "Umubuyenge w'intosho"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Umbwato; ibitwikurura",
+            "option_2": "Umutanoga ku rutare",
+            "option_3": "Ibicuma ku nkangara",
+            "option_4": "Ijisho",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Imikara y'i Gasangi irabira rikarenga",
+            "option_1": "Inyana iri mu nda ya nyina",
+            "option_2": "Igikona",
+            "option_3": "Umusemburo mu kibindi",
+            "option_4": "Inturo mu rutare",
+            "correct_answer": "Igikona"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inshyimbo y'iminsi yegekwa mu mfuruka",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Umwijima",
+            "option_3": "Umucaca",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Uruhindu rw'indushyi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirabukimana arakima ubwa ruguru",
+            "option_1": "Umuvure",
+            "option_2": "Ifundi",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Imirizo cy'intama",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hagarara mu mpinga uhagaritswe n'umugabo utakuruta",
+            "option_1": "Inyundo z'abacuzi",
+            "option_2": "Imbaragasa",
+            "option_3": "Ikirenge",
+            "option_4": "Umurabyo",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "So na data bava inda imwe batanyijwe n'iki?",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Urutete",
+            "option_3": "Ikijumba",
+            "option_4": "Ukwezi",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mu nzu umu tuboze ibibuno twese",
+            "option_1": "Inkingi",
+            "option_2": "Ijuru; uruhu w'imbaragasa",
+            "option_3": "Akayuki k'akungu",
+            "option_4": "Umugezi",
+            "correct_answer": "Inkingi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Shinga unegeze",
+            "option_1": "Agahwa mu rwondo",
+            "option_2": "Inyenyeri",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Akumba k'urukoma",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Dore ibyo bibuno bya nyoko ngo birurira uburiri",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Igisabo",
+            "option_3": "Indishyi zihuye; imfubyi",
+            "option_4": "Ikirago",
+            "correct_answer": "Igisabo"
+        }
+    }
+]

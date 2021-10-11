@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 767
+    },
+    {
+        "sakwe_1": {
+            "question": "Wambazaga ibyo uzi kubera iki?",
+            "option_1": "Umwarimu",
+            "option_2": "Umupira mu izamu",
+            "option_3": "Igikeri",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Umwarimu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkiza ibyo bitoki bya so binsaba inyama",
+            "option_1": "Ibaruwa",
+            "option_2": "Umucaca",
+            "option_3": "Ibabi by'ibibonobono",
+            "option_4": "Akarago ko mu irebe",
+            "correct_answer": "Ibabi by'ibibonobono"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana banjye bicaye bose",
+            "option_1": "Ururabo",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Ibirundiro",
+            "option_4": "Inzoka mu kugenda nta maguru",
+            "correct_answer": "Ibirundiro"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Ibirago",
+            "option_2": "Icyobo",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Kaburimbo",
+            "correct_answer": "Kaburimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kaba gato kaba kanini kataye umugabo inyuma y'inzira",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Ifaranga",
+            "option_3": "Ifaranga",
+            "option_4": "Imihanda, uruzi, inzira",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Umuntu",
+            "option_2": "Amabya",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Sida",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera inyamaswa igendesha amaguru 4 mu gitondo, amaguru 2 saa sita, n'amaguru 3 nimugoroba",
+            "option_1": "Ifaranga",
+            "option_2": "Ifaranga",
+            "option_3": "Umuntu",
+            "option_4": "Isekuru",
+            "correct_answer": "Umuntu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Igihandure",
+            "option_2": "Akayunguruzo",
+            "option_3": "Gusitara",
+            "option_4": "Ipikipiki",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ibuye ry'umusozi ryimuye umugabo",
+            "option_1": "Urukoma n'insina",
+            "option_2": "Amabya",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Umwobo w'impiri",
+            "option_2": "Agatsinsino",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Isoko",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    }
+]

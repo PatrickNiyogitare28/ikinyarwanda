@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 43
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Ijuru n'ukwezi",
+            "option_2": "Radiyo",
+            "option_3": "Umurozi",
+            "option_4": "Urwembe mu musatsi",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Ibitotsi bya mu gitondo",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Umuyaga",
+            "option_2": "Ipikipiki",
+            "option_3": "Umukecuru wurira ikigega",
+            "option_4": "Icyobo",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Banterere anyuze aha",
+            "option_1": "Umugore utwite",
+            "option_2": "Ifaranga",
+            "option_3": "Amase",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Uwagaca yaba ari umugabo",
+            "option_1": "Inkingi",
+            "option_2": "Kubuza umuryi kurya",
+            "option_3": "Igikoro",
+            "option_4": "Imyugariro",
+            "correct_answer": "Kubuza umuryi kurya"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye nyizirika ku nzira uyinyuzeho wese akayishitura",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Umugono w'ishashi",
+            "option_3": "Urutoryi",
+            "option_4": "Indogobe ishaje",
+            "correct_answer": "Urutoryi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abana b'Umwami bicaye ku ntebe imwe",
+            "option_1": "Insina",
+            "option_2": "Igisheke",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Ukwezi n'inyenyeri",
+            "correct_answer": "Intoki ku biganza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ni iki cyatanze umuzungu kwicara mu ifuteyi",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Imbaragasa",
+            "option_4": "Umurabyo",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Igisheke",
+            "option_2": "Ifaranga",
+            "option_3": "Ikiyoni",
+            "option_4": "Amenyo",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku rutare mpamagara Majigo nti amata y'abashumba yabuze",
+            "option_1": "Nyiramaningiri",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Umugono w'ishashi",
+            "option_4": "Igikoro",
+            "correct_answer": "Umugono w'ishashi"
+        }
+    }
+]

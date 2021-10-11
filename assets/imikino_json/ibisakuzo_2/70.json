@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 58
+    },
+    {
+        "sakwe_1": {
+            "question": "Rwagerinyange rwa Nyenyeri inyambo yo kuri Mwongo",
+            "option_1": "Ikirungurira",
+            "option_2": "Urushishi rufite ishaka",
+            "option_3": "Urukangaga",
+            "option_4": "Amashaza ku rujyo",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Agakecuru Nyarudindiri kamanutse I Gacu na Mpanga kikoreye imigoma itanu",
+            "option_1": "Imbaragasa",
+            "option_2": "Urusenge",
+            "option_3": "Nyankari",
+            "option_4": "Umusambi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyiransibura i Burundi",
+            "option_1": "Igitoki n'insina bigwanye",
+            "option_2": "Umurabyo",
+            "option_3": "Ikidasesa",
+            "option_4": "Ikirenge",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Irwanda rwose iya bitatu",
+            "option_1": "Amashyiga",
+            "option_2": "Agahinja",
+            "option_3": "Ikirago; ikiringiti",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Amashyiga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirabazaza ntaruha",
+            "option_1": "Inkono mu mashyiga",
+            "option_2": "Igiteke mu nkono",
+            "option_3": "Igitonyanga",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Inkono mu mashyiga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ayo macumu yose araterwa ingabo za Ruhende",
+            "option_1": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Umwungu mu ncoce",
+            "option_4": "Ifundi",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Nyirahanga amenyo abiri",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Ifi",
+            "option_3": "Akabuno k'imfizi",
+            "option_4": "Ibikingi by'amarembo",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aho wabereye iri wararibonye ?",
+            "option_1": "Umuzungu ku ipikipiki",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Intashya",
+            "option_4": "Ubukumi bwa so na nyoko",
+            "correct_answer": "Ubukumi bwa so na nyoko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyoko ntannya aracuncumura",
+            "option_1": "Akabeba mu buki",
+            "option_2": "Ubukumi bwa so na nyoko",
+            "option_3": "Igicuma bacuncumura",
+            "option_4": "Umuhumetso",
+            "correct_answer": "Igicuma bacuncumura"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera Mvuye kure wa Semutiku",
+            "option_1": "Igitonyanga cy'imvura",
+            "option_2": "Urukumbi mu menyo",
+            "option_3": "Amahururu y'ababi",
+            "option_4": "Igisenge",
+            "correct_answer": "Igitonyanga cy'imvura"
+        }
+    }
+]

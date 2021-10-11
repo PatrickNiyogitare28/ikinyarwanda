@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 687
+    },
+    {
+        "sakwe_1": {
+            "question": "Imbere ndi imanzi, inyuma ndi umwanzi",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Ikinyagu",
+            "option_3": "Imyugaruro",
+            "option_4": "Inkuba mu rugano",
+            "correct_answer": "Ikinyagu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Igira inyuma y'urugo nkuvumburire impongo itagira umurizo",
+            "option_1": "Inyabutongo",
+            "option_2": "Imirizo y'inka",
+            "option_3": "Igihondohondo",
+            "option_4": "Umubuyenge w'intosho",
+            "correct_answer": "Umubuyenge w'intosho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ruvuzo irivuga ikibumba",
+            "option_1": "Inzoga mu kibindi",
+            "option_2": "Umuyaga",
+            "option_3": "Uruyuzi",
+            "option_4": "Inuma ku ishaka",
+            "correct_answer": "Inzoga mu kibindi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera uruyongoyongo rwa Nyirabaha rwimiye i Nduga rukabyarira i Nduga",
+            "option_1": "Udukongorwa tw'imisigati",
+            "option_2": "Ikinyabwoya; uruyongoyongo",
+            "option_3": "Uruzi; ishami ry'uruzi",
+            "option_4": "Amasuka",
+            "correct_answer": "Uruzi; ishami ry'uruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Agakecuru Nyarudindiri kamanutse I Gacu na Mpanga kikoreye imigoma itanu",
+            "option_1": "Umusambi",
+            "option_2": "Inshishi",
+            "option_3": "Inshunzi mu cyansi",
+            "option_4": "Umwuho w'amateke",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana b'umwami bicaye kuntebe imwe",
+            "option_1": "Igitonyanga",
+            "option_2": "Amabere",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Igikona",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inyuma y'inzu zirabyina inkora",
+            "option_1": "Akotsi k'abatabazi",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Imbaragasa",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngateke ngatakure ngashimire ubwiza kameze",
+            "option_1": "Umusambi",
+            "option_2": "Inyenyeri",
+            "option_3": "Icyibo",
+            "option_4": "Intore n'umutsima",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Jyewe nyirankarago ntabwo nduha akabuno",
+            "option_1": "Ubwato",
+            "option_2": "Ikirago",
+            "option_3": "Inkono ku mashyiga",
+            "option_4": "Umwumano w'ishashi",
+            "correct_answer": "Inkono ku mashyiga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndashe akambi mu Rwanda abagabo bose barakangarana",
+            "option_1": "Amabondo y'ihene",
+            "option_2": "Inda mu musatsi",
+            "option_3": "Umusoro",
+            "option_4": "Inzogera",
+            "correct_answer": "Umusoro"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 82
+    },
+    {
+        "sakwe_1": {
+            "question": "Jugujugu matembe",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Inyundo y'umucuruzi",
+            "option_3": "Igitokd kigwanye n'insina",
+            "option_4": "Imondo; impongo; urugo rw'umwami",
+            "correct_answer": "Inyundo y'umucuruzi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akavumu k'iwacu ni mbimbura",
+            "option_1": "Umugore utwite",
+            "option_2": "Mahina",
+            "option_3": "Ikirungurira",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Mahina"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirisha amazuru",
+            "option_1": "Umuvuba",
+            "option_2": "Imbeba mu muguta",
+            "option_3": "Akuho mu ntango",
+            "option_4": "Agaca mu nkoko",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kwumva menshi kagahishira",
+            "option_1": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_2": "Umuhumetso",
+            "option_3": "Ikiyiko ku mbehe",
+            "option_4": "Inkombe n'uruzi",
+            "correct_answer": "Agafundi ko ku nzira\n \nmaganyiro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Intukutuku inyamubande",
+            "option_1": "Amasaka n'urukungu",
+            "option_2": "Urutare",
+            "option_3": "Udukongorwa",
+            "option_4": "Amahundo",
+            "correct_answer": "Amahundo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karisha umuntu kurunga",
+            "option_1": "Uruyuki",
+            "option_2": "Umugondoro w'ibishyimbo",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Imodoka mu muhanda",
+            "correct_answer": "Uruyuki"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Byumiye mu gasozi",
+            "option_1": "Amaganga y'isha",
+            "option_2": "Ubuheri mu gihata",
+            "option_3": "Akadiho k'imbwa",
+            "option_4": "Amabyi y'umushumba",
+            "correct_answer": "Amabyi y'umushumba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nabusobeka ntiwabusobanura",
+            "option_1": "Abavomyi",
+            "option_2": "Igitsina cy'amateke",
+            "option_3": "Umubuyenge w'intosho",
+            "option_4": "Amata n'amatezano; mukungwa na nyabarongo",
+            "correct_answer": "Amata n'amatezano; mukungwa na nyabarongo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kamennye urutare gataha i Mpushi",
+            "option_1": "Urukwavu",
+            "option_2": "Inyenyeri",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Inda mu nkanda",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nkoni mu kugukubita yarakuneshaga",
+            "option_1": "Urusyo",
+            "option_2": "Uruyuki",
+            "option_3": "Injishi z'igisabo",
+            "option_4": "Ibipfunsi",
+            "correct_answer": "Uruyuki"
+        }
+    }
+]

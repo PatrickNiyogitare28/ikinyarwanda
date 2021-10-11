@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 626
+    },
+    {
+        "sakwe_1": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Umusambi",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Ikidasesa",
+            "option_4": "Amaguru y'umusambi",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ibikaci bikaciraniye muri Nyagafunzo, ibisiga bizapfana umukumo",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Umusatsi; inzara",
+            "option_3": "Umugondoro w'ibishyimbo",
+            "option_4": "Irobe n'umutsima",
+            "correct_answer": "Amabere y'inkumi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Negetse umuzinga ku ngoma ya Gahindiro n'ubu nturinjira",
+            "option_1": "Imyenge y'amazuru",
+            "option_2": "Akana n'insina",
+            "option_3": "Ikirago",
+            "option_4": "Icyugu mu nshoce",
+            "correct_answer": "Imyenge y'amazuru"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera urujeje uruhumbura Jana",
+            "option_1": "Amenyo",
+            "option_2": "Uruyange; amaguru ya muhuhirizi",
+            "option_3": "Umugezi utemba ugasiga amabuye",
+            "option_4": "Radiyo",
+            "correct_answer": "Uruyange; amaguru ya muhuhirizi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rukara rw'amacece aturutse hirya wayacekwa",
+            "option_1": "Umusatsi",
+            "option_2": "Umusirikare",
+            "option_3": "Inkangara",
+            "option_4": "Intebe",
+            "correct_answer": "Umusirikare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Igisindu",
+            "option_2": "Urusogo mu mukobwe",
+            "option_3": "Akayuki",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndagiye gitare mu makoro ntiyakomereka",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Inzara mu ruheri",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Imyobo y'ifuku urwanwa rw'umuhoro",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kiravunja umukenke",
+            "option_1": "Ikiziba mu mpinga",
+            "option_2": "Ikibyindi",
+            "option_3": "Umwungu",
+            "option_4": "Umusemburo mu kibindi",
+            "correct_answer": "Ikibyindi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inka zanjye zaragiye zirarima zirarimagura",
+            "option_1": "Inkoko",
+            "option_2": "Uruyuzi",
+            "option_3": "Inda mu nnyo",
+            "option_4": "Inkono ku ziko",
+            "correct_answer": "Inda mu nnyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bashinze urukiramende ku ngoma ya Gahindiro n'ubu sindarugendera ngo ndusimbutse",
+            "option_1": "Isake",
+            "option_2": "Ikigega kirimo ubusa",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Icyiyoni",
+            "correct_answer": "Amahembe y'inka"
+        }
+    }
+]

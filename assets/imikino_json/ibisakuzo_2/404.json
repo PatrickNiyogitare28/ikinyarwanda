@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 788
+    },
+    {
+        "sakwe_1": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Imende ku ruzi",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Ingingi z'amasaka",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera Rugina igana intaho",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Ikizubazuba",
+            "option_3": "Amara",
+            "option_4": "Inka mu mpinga",
+            "correct_answer": "Ikizubazuba"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mbyutse kare mbona umuzimu mbaye intorezo",
+            "option_1": "Ibuye n'umutarimba",
+            "option_2": "Imbwa ifite igufa",
+            "option_3": "Umunyinya",
+            "option_4": "Ijwi",
+            "correct_answer": "Imbwa ifite igufa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gitsimba igiheneko",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Igitama cyaguye mu mukokwe",
+            "option_3": "Impururu z'ababi",
+            "option_4": "Mahina",
+            "correct_answer": "Igitama cyaguye mu mukokwe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gaju iriruka ntirenga",
+            "option_1": "Amaganga y'isha",
+            "option_2": "Uruzi",
+            "option_3": "Radiyo",
+            "option_4": "Umukenke",
+            "correct_answer": "Umukenke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera nyamuremure waje kera",
+            "option_1": "Ifundi",
+            "option_2": "Inda mu nkanda",
+            "option_3": "Ikiziha cy'inzovu",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Mvuye kure wa Semutiku",
+            "option_1": "Imondo mu gihu",
+            "option_2": "Icyobo",
+            "option_3": "Igitonyanga cy'imvura",
+            "option_4": "Akababi k'umuvumu",
+            "correct_answer": "Igitonyanga cy'imvura"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Tora akuho ntore akandi tujye guhaha igume hepfo aha",
+            "option_1": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_2": "Inkari z'inkoko",
+            "option_3": "Imirizo cy'intama",
+            "option_4": "Umusatsi",
+            "correct_answer": "Inkari z'inkoko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera imiringa magana atanu bizira gutira",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Ubunyenyeri",
+            "option_3": "Abarinzi b'inyoni; inzara mu bana",
+            "option_4": "Amasaka",
+            "correct_answer": "Amasaka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyabugenge n'ubugenge bwayo",
+            "option_1": "Umwumba w'insina",
+            "option_2": "Imanzi mu maribori",
+            "option_3": "Igikeri",
+            "option_4": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "correct_answer": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru"
+        }
+    }
+]

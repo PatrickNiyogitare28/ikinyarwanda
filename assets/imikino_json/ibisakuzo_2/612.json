@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 125
+    },
+    {
+        "sakwe_1": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Igisambu gisigaye hagati y'uruhira",
+            "option_2": "Inyundo z'abacuzi",
+            "option_3": "Akabeba mu buki",
+            "option_4": "Ururo mu mateke",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inkuba ikubita ikwerekeje umugongo",
+            "option_1": "Umuheto",
+            "option_2": "Ikigori",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Ubunwa bw'ikirondwe",
+            "correct_answer": "Umuheto"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Igiteye imbabazi",
+            "option_1": "Igifu",
+            "option_2": "Imbaragasa mu kirenge",
+            "option_3": "Ikibwana cy'imbwa",
+            "option_4": "Inyambo z'umutindi",
+            "correct_answer": "Ikibwana cy'imbwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karera dee!!",
+            "option_1": "Ijuru; uruhu w'imbaragasa",
+            "option_2": "Umwana uri munda ya nyina",
+            "option_3": "Umutobotobo",
+            "option_4": "Akaganza k'uruhinja",
+            "correct_answer": "Akaganza k'uruhinja"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akaguru k'umuringa n'akaboko k'umuringa byaterana byabyara umuyumbu",
+            "option_1": "Ibere ry'inkumi",
+            "option_2": "Igihondohondo",
+            "option_3": "Umugunguzi",
+            "option_4": "Inyamanza",
+            "correct_answer": "Igihondohondo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana banjye bikwije impindu bose",
+            "option_1": "Urukwavu",
+            "option_2": "Amashyiga",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Ifundi ku rukoma",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyirakigeri  aganje mu mpinga Ntumba",
+            "option_1": "Ikiziba mu mpinga",
+            "option_2": "Ishyari ntiriba rito",
+            "option_3": "Agahinja",
+            "option_4": "Ingata mu ruhira",
+            "correct_answer": "Ikiziba mu mpinga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Tora agakoni ntore akandi tujye gukubita Ruyiyenza yamaze ubwatsi",
+            "option_1": "Ibuye ryica isuka irindi rikayigorora",
+            "option_2": "Umusemburo",
+            "option_3": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_4": "Umusambi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inyabubiri inyabutatu Barbara ntibayishobore",
+            "option_1": "Igiti gishigukanye n'imizi yacyo",
+            "option_2": "Urukangaga",
+            "option_3": "Amaguru ya muhuhirizi",
+            "option_4": "Agakono k'impengeri",
+            "correct_answer": "Amaguru ya muhuhirizi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karavuga indwi katagira n'umwe",
+            "option_1": "Uruhabuzo",
+            "option_2": "Imfunzo",
+            "option_3": "Agasuzi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Agasuzi"
+        }
+    }
+]

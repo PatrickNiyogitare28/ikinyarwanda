@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 199
+    },
+    {
+        "sakwe_1": {
+            "question": "Karaga ati, \"pfiii!!!\"",
+            "option_1": "Ifundi",
+            "option_2": "Agatwa mu ibumba",
+            "option_3": "Ikigoli",
+            "option_4": "Urushishi rufite ishaka",
+            "correct_answer": "Agatwa mu ibumba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kiracunda runete",
+            "option_1": "Imirizo cy'intama",
+            "option_2": "Akaganza k'uruhinja",
+            "option_3": "Amafuni mu rukoro",
+            "option_4": "Inshishi",
+            "correct_answer": "Imirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Wikoza hasi wikoza hejuru ntuzabona ishinya ya Dede",
+            "option_1": "Akazuba karashe",
+            "option_2": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Umwangange",
+            "correct_answer": "Ishinya y'urukwavu; ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyabwiza mu mpinga",
+            "option_1": "Umugina, inzira",
+            "option_2": "Uruhu rw'intama",
+            "option_3": "Umbwato; ibitwikurura",
+            "option_4": "Amaraso ku murundi, umugezi utemba",
+            "correct_answer": "Umbwato; ibitwikurura"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngira inkongoro nkazogereza hejuru y'uruzi ntizigwemo",
+            "option_1": "Inkware",
+            "option_2": "Igikuku",
+            "option_3": "Ibivumvuri",
+            "option_4": "Amenyo",
+            "correct_answer": "Amenyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kuki ujundika inyama ntuzimire",
+            "option_1": "Ururimi mu kanywa",
+            "option_2": "Inkingi",
+            "option_3": "Ibigori bifite imisatsi",
+            "option_4": "Urugi",
+            "correct_answer": "Ururimi mu kanywa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera ikikakika",
+            "option_1": "Ifaranga",
+            "option_2": "Imodoka mu muhanda",
+            "option_3": "Indiga mu ihene",
+            "option_4": "Umuhoro",
+            "correct_answer": "Umuhoro"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Imikorere ya Nyiranzana nagize ngo ibiryo bye ntibizaribwa none ndatora n'urwo hasi",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Umugezi",
+            "option_3": "Inzuki n'ubuki",
+            "option_4": "Umwana ugaburirwa na nyina w'undi",
+            "correct_answer": "Inzuki n'ubuki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mtumye Mbindigiri i Nyanza",
+            "option_1": "Ikirungurira",
+            "option_2": "Ibivumvuri",
+            "option_3": "Inkwana z'amateke",
+            "option_4": "Inkangara",
+            "correct_answer": "Inkangara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze aho ndora amenyo ya Ruganzu",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Umugezi",
+            "option_3": "Inkoko",
+            "option_4": "Insina y'ikinyangurube",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    }
+]

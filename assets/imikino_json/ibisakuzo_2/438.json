@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 161
+    },
+    {
+        "sakwe_1": {
+            "question": "Makasi ihuye n'indi",
+            "option_1": "Umucaca",
+            "option_2": "Ibuye n'umutarimba",
+            "option_3": "Intobo",
+            "option_4": "Agasongero",
+            "correct_answer": "Ibuye n'umutarimba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kirahara dudu",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Inuma mu kigega",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Akababi kumuvumu",
+            "correct_answer": "Inuma mu kigega"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana banjye bangana bose",
+            "option_1": "Ifuni mu mushike",
+            "option_2": "Ikigori",
+            "option_3": "Ifundi",
+            "option_4": "Gusaba uwo wenyine",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyiramwiza mu mpinga",
+            "option_1": "Imondo; impongo; urugo rw'umwami",
+            "option_2": "Umuko mu mukokwe",
+            "option_3": "Igisambu gisigaye hagati y'uruhira",
+            "option_4": "Icyuho; ikibyindi",
+            "correct_answer": "Imondo; impongo; urugo rw'umwami"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rutinda mu idadi Rutebuka mu iteme bwakweye Dede!",
+            "option_1": "Ibijumaba",
+            "option_2": "Ikibyindi",
+            "option_3": "Umuheha mu buki; agasave mu rutoki",
+            "option_4": "Urukwavu",
+            "correct_answer": "Ibijumaba"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Jyewe nyirankarago ntabwo nduha akabuno",
+            "option_1": "Umwobo mu masaka",
+            "option_2": "Inzugi z'imigano, umukokwe",
+            "option_3": "Inkono ku mashyiga",
+            "option_4": "Agahwa mu rwondo",
+            "correct_answer": "Inkono ku mashyiga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Aho Ruhondo yabagiwe ntihateze kuzashira ibinure",
+            "option_1": "Ingoma",
+            "option_2": "Akadiho k'imbwa",
+            "option_3": "Uruboho",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bucunya butisiga",
+            "option_1": "Umutsi mu nda",
+            "option_2": "Rugo",
+            "option_3": "Ubuzuru bw'imbwa",
+            "option_4": "Inuma",
+            "correct_answer": "Ubuzuru bw'imbwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nishe inkuba nyihambiriza indi",
+            "option_1": "Utubyi tw'umushumba",
+            "option_2": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "option_3": "Umuvumu",
+            "option_4": "Ikinyabwoya",
+            "correct_answer": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyiramakegete ararurenze",
+            "option_1": "Umuyenzi",
+            "option_2": "Umuzungu mu modoka",
+            "option_3": "Umuntu uri ku ipikipiki",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Ikivumvuri"
+        }
+    }
+]

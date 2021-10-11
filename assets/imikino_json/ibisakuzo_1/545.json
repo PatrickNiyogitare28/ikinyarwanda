@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 495
+    },
+    {
+        "sakwe_1": {
+            "question": "Mama nshuti",
+            "option_1": "Ibiti by'ikawa",
+            "option_2": "Ifaranga",
+            "option_3": "Ikirago",
+            "option_4": "Ibikongorwa by'ibisheke",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Biteganya bitazahura",
+            "option_1": "Ifaranga",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyiramutarataje abagabo",
+            "option_1": "Amagambo yo ku rurembo",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Uruhara rw'umusaza",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hakurya urwererane, hakuno urwererane",
+            "option_1": "Televiziyo",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Igare",
+            "option_4": "Ubwoya bw' inka",
+            "correct_answer": "Ururabo ry'amashyaza"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Agenda neza nuko yanga abanjye",
+            "option_1": "Igiheri mu ruhara",
+            "option_2": "Amatwi",
+            "option_3": "Intare",
+            "option_4": "Amashyiga (y'inyuma)",
+            "correct_answer": "Intare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ikibuno",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Urira rubariro ubone ishyano",
+            "option_1": "Inyundo",
+            "option_2": "Ukwezi",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mira isupu nkasiga inyama",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Imvura",
+            "option_3": "Ibikongorwa by'ibisheke",
+            "option_4": "Umugore ujya iwabo",
+            "correct_answer": "Ibikongorwa by'ibisheke"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Cyasamye kitaryana",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Ibitotsi",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Ikiryango cy'inzu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Karihuta",
+            "option_1": "Igare",
+            "option_2": "Igikeri",
+            "option_3": "Isake ifite ibirokoroko",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Igare"
+        }
+    }
+]

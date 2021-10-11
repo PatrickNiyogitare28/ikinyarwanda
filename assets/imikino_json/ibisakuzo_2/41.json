@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 186
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera rwa Kimanuka rutaribwa b'inyoni",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Umwijima",
+            "option_4": "Ikigori",
+            "correct_answer": "Umwijima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karera dee!!",
+            "option_1": "Umwungu mu ncoce",
+            "option_2": "Akaganza k'uruhinja",
+            "option_3": "Ibisunzu bya rusake",
+            "option_4": "Igikeri",
+            "correct_answer": "Akaganza k'uruhinja"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karavugira i Bumpanika",
+            "option_1": "Ikiganza",
+            "option_2": "Akagasire ku rusyo",
+            "option_3": "Uruzi",
+            "option_4": "Inyenyeri ku ijuru",
+            "correct_answer": "Akagasire ku rusyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mama arusha nyoko kwambara inigi zera",
+            "option_1": "Icyiyone",
+            "option_2": "Ubwato",
+            "option_3": "Ikirunga",
+            "option_4": "Amarira y'imbwa",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ugiye mu rutoki ubanza iki?",
+            "option_1": "Ikivugirizo",
+            "option_2": "Inkono ku mashyiga",
+            "option_3": "Urutoki mu nkono y'itabi",
+            "option_4": "Igiseke",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imbere ndi imanzi n'inyuma ndi imanzi",
+            "option_1": "Ipfundo ry'urudodo",
+            "option_2": "Icyansi, akanyita k'uruhu",
+            "option_3": "Igikobwa kibi",
+            "option_4": "Amarira y'imbwa",
+            "correct_answer": "Icyansi, akanyita k'uruhu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze ku gasozi mbona abagore bambaye impeta bose",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Ikizubazuba",
+            "option_3": "Igitonyanga",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kagema ijuru",
+            "option_1": "Igihu",
+            "option_2": "Uruboho",
+            "option_3": "Ingingi z'amasaka",
+            "option_4": "Akumba k'urukoma",
+            "correct_answer": "Akumba k'urukoma"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngira inka ikarisha kure bwira igataha ku muryango",
+            "option_1": "Amasaka y'umuterero; insina zikaragiye",
+            "option_2": "Ubwanwa",
+            "option_3": "Ijisho",
+            "option_4": "Urutumbwe",
+            "correct_answer": "Ijisho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nta kamwe nta akandi ngere iyo!!",
+            "option_1": "Ubwato mu ruzi",
+            "option_2": "Ikiganza",
+            "option_3": "Igishwemu cy'amase",
+            "option_4": "Udukongorwa",
+            "correct_answer": "Udukongorwa"
+        }
+    }
+]

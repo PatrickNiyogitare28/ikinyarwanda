@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 538
+    },
+    {
+        "sakwe_1": {
+            "question": "Tuvuye mo umwe ntitwarya",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Ifaranga",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Amashyiga (y'inyuma)",
+            "correct_answer": "Amashyiga (y'inyuma)"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inkoni yanjye nyibyaza amazi, nashaka nkyibyaza amabuye",
+            "option_1": "Igare",
+            "option_2": "Igicucucucu",
+            "option_3": "Urupfu",
+            "option_4": "Igisheke",
+            "correct_answer": "Igisheke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana b'abarundi barasana bakiri bato",
+            "option_1": "Igikoro",
+            "option_2": "Ifurwe",
+            "option_3": "Urutoryi",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Ifurwe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nicaye iwacu murika isi",
+            "option_1": "Izuba",
+            "option_2": "Igare",
+            "option_3": "Umurabyo",
+            "option_4": "Kudashyira ingasire mu masaka ngo iyasye",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kacira bucece",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Icebe ry'inka",
+            "option_3": "Ururimi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Icebe ry'inka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Agacaca",
+            "option_2": "Agahinda k'umutima",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kaba gato kaba kanini kataye umugabo inyuma y'inzira",
+            "option_1": "Igikoro",
+            "option_2": "Umuzungu wambaye amadarubindi",
+            "option_3": "Ifaranga",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Imodoka yabuze lisansi",
+            "option_2": "Buji",
+            "option_3": "Imana",
+            "option_4": "Ubwayo bw'inka",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Narazindutse mbona inzira y'umukara",
+            "option_1": "Ibitotsi bya mu gitondo",
+            "option_2": "Kaburimbo",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Kaburimbo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Imbaragasa",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Igisate cy'umutsima",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Akanyugunyugu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 750
+    },
+    {
+        "sakwe_1": {
+            "question": "Kaba gato kaba kanini kataye umugabo inyuma y'inzira",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Umuvuba",
+            "option_3": "Ifaranga",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ninjye muzindutsi wa cyane, hari aho nasanze umuzimu yiyunamiriye",
+            "option_1": "Umutego",
+            "option_2": "Igikoro",
+            "option_3": "Urutare",
+            "option_4": "Urutoryi",
+            "correct_answer": "Umutego"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera ruganwa iganira n'abantu",
+            "option_1": "Ibitotsi",
+            "option_2": "Corogati",
+            "option_3": "Telefoni",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Telefoni"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Biteganya bitazahura",
+            "option_1": "Umwarimu",
+            "option_2": "Imodoka",
+            "option_3": "Gusitara",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera nakwiteguye",
+            "option_1": "Igikoro",
+            "option_2": "Inyegamo y'umusore warongoye",
+            "option_3": "Gusitara",
+            "option_4": "Intore mu rwabya",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Ivunja mu kirenge",
+            "option_2": "Ingufuri hejuru y'isanduku",
+            "option_3": "Kaburimbo",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bakobwa ntimukanseke nabuze aho mpisha",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Inyana y'umutavu",
+            "option_3": "Amase y'inka",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Innyo y'ihene"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ndakubise ndirahira nijye mutware wa Mburamatare",
+            "option_1": "Umuvuba",
+            "option_2": "Umuneke",
+            "option_3": "Imisozi",
+            "option_4": "Gusitara",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kirabyataraye",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Umuyaga",
+            "option_3": "Izuba",
+            "option_4": "Ikibyindi cy'umushumba",
+            "correct_answer": "Ikibyindi cy'umushumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Igitoki cya kamara",
+            "option_2": "Urusenda",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    }
+]

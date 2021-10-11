@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 755
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera ikivuga kitagira umunwa",
+            "option_1": "Igihuru gihiye uruhande rumwe",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Ingoma",
+            "option_4": "Akayuzi hejuru y'urupfu",
+            "correct_answer": "Ingoma"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho Mutara na Mutaga barasaniye haracyari ibishishibano",
+            "option_1": "Inkwana z'amateke",
+            "option_2": "Umwuho w'amateke",
+            "option_3": "Abagore babagara",
+            "option_4": "Inturo mu ntare",
+            "correct_answer": "Inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rwagerinyange rwa Nyenyeri inyambo yo kuri Mwongo",
+            "option_1": "Ikirungurira",
+            "option_2": "Igitare",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Isake; impanda",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyangufu araseka uburo",
+            "option_1": "Ingingi z'amasaka",
+            "option_2": "Insina",
+            "option_3": "Ifundi mu murama",
+            "option_4": "Inyabutongo",
+            "correct_answer": "Ifundi mu murama"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kirimba kiva i Nduga nafatiye masunzu mu masumo ya Rusizi n'ubu ndacyahirimba igitutu",
+            "option_1": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_2": "Ifi",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Inzogera",
+            "correct_answer": "Ifi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ifuni iracoca urukoro",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Urusyo",
+            "option_3": "Ikinwa cya nyirabarazana",
+            "option_4": "Inzuki zitagira urwuri; inka zidafite imfizi",
+            "correct_answer": "Ikinwa cya nyirabarazana"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera agasaza kakiri agasore",
+            "option_1": "Ifundi",
+            "option_2": "Umusatsi",
+            "option_3": "Intosho",
+            "option_4": "Umutsi mu nda",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ikigira izina ntikigira ibara",
+            "option_1": "Igitoki n'amakoma",
+            "option_2": "Ijambo rya mukeba",
+            "option_3": "Umuyaga",
+            "option_4": "Ikigori",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rukina ma gasiza rwa Senyakazana twigabe",
+            "option_1": "Umugore ujya kuzimura",
+            "option_2": "Umusambi",
+            "option_3": "Igitonyanga cy'imvura",
+            "option_4": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akababaje umugabo kamurenza impinga",
+            "option_1": "Umutsi mu nda",
+            "option_2": "Umukobwa ureba agacumu kishe musaza we",
+            "option_3": "Umugore utwite",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    }
+]

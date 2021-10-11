@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 27
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye bicaye bose",
+            "option_1": "Gusitara",
+            "option_2": "Impeke y'uburo",
+            "option_3": "Ibirundiro",
+            "option_4": "Ubwoya bw' inka",
+            "correct_answer": "Ibirundiro"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Umwarimu",
+            "option_2": "Ururabo",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Umwobo w'impiri",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyuze mu nsi y'urugo bamfunda ibirozi",
+            "option_1": "Uruhinja",
+            "option_2": "Ururimi rwawe",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Imihanda, uruzi, inzira",
+            "correct_answer": "Ibiboga byagaze"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mfite inka yimira mu ibondo ikabyarira mu rubavu",
+            "option_1": "Ikigori",
+            "option_2": "Intare",
+            "option_3": "Imodoka",
+            "option_4": "Ibinono by'inka",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ayi mama hiya",
+            "option_1": "Icyanzu",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Ifaranga",
+            "option_4": "Inuma ku rukoma",
+            "correct_answer": "Inuma ku rukoma"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Umubagazi",
+            "option_2": "Agasuzi",
+            "option_3": "Inyana y'umutavu",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Fata utwangushye tujye kuvoma iriba ridakama",
+            "option_1": "Ishuri",
+            "option_2": "Umusuzi",
+            "option_3": "Umunyereri",
+            "option_4": "Ubunyobwa",
+            "correct_answer": "Ishuri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Cyasamye kitaryana",
+            "option_1": "Umuvure",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Ibiganza",
+            "option_4": "Ikiryango cy'inzu",
+            "correct_answer": "Ikiryango cy'inzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Ibaruwa",
+            "option_2": "Isakamburira ry'inzu",
+            "option_3": "Umuntu",
+            "option_4": "Umugina wo mu gishanga",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Amazi yacu arusha ay'ahandi kuryoha",
+            "option_1": "Amata",
+            "option_2": "Indabo z'amashaza",
+            "option_3": "Abavomyi",
+            "option_4": "Akaguru gacumbagira",
+            "correct_answer": "Amata"
+        }
+    }
+]

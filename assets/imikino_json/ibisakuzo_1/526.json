@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 105
+    },
+    {
+        "sakwe_1": {
+            "question": "Basenye ibikingi by'amarembo Rutamu yanze gukwirwamo",
+            "option_1": "Igare",
+            "option_2": "Nyiramaningiri",
+            "option_3": "Amatwi",
+            "option_4": "Agacaca",
+            "correct_answer": "Nyiramaningiri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Havuyemo umwe ntitwabimenya",
+            "option_1": "Amashyiga (y'inyuma)",
+            "option_2": "Imvura",
+            "option_3": "Igisabo",
+            "option_4": "Ubwatsi busakaye inzu",
+            "correct_answer": "Ubwatsi busakaye inzu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inka yanjye yimira mu kinono, ikabyarira mu ihembe",
+            "option_1": "Igitoki",
+            "option_2": "Agasuzi",
+            "option_3": "Imana",
+            "option_4": "Imyambi y'ikibiriti",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Ibiboga byagaze",
+            "option_2": "Isoko",
+            "option_3": "Sida",
+            "option_4": "Televiziyo",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Amenyo",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Imyugariro",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Banterere anyuze aha",
+            "option_1": "Umutsima",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Umugore utwite",
+            "option_4": "Umwarimu",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Ifaranga",
+            "option_2": "Agasuzi",
+            "option_3": "Inyoni",
+            "option_4": "Imisozi",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Ikiyoni",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Umucaca",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze mu mpinga mpenera ab'epfo",
+            "option_1": "Umuporisi",
+            "option_2": "Umubagazi",
+            "option_3": "Igitoki",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Umubagazi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ko twagendanye wambwiye iki",
+            "option_1": "Igicucucucu",
+            "option_2": "Umusazi",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Igicucucucu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 364
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Igare rigeze ahazamuka",
+            "option_3": "Ibitotsi",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hagarara hakuno,mpagarare hakurya turate abeza",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Amenyo",
+            "option_3": "Ibaruwa",
+            "option_4": "Icyanzu",
+            "correct_answer": "Amenyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Umuporisi",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Urwina",
+            "option_4": "Ibizu bitagira abantu",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Agakecuru kocyejwe n'igikoma",
+            "option_2": "Insina",
+            "option_3": "Ifaranga",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngeze mu ishyamba rirahungabana",
+            "option_1": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_2": "Uruhara",
+            "option_3": "Inzara y'umusore",
+            "option_4": "Ikibuno",
+            "correct_answer": "Inzara y'umusore"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Imisozi",
+            "option_3": "Ifaranga",
+            "option_4": "Umuzungu wambaye amadarubindi",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze inaha ndasa kwa myasiro I Burundi",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Izina ryawe",
+            "option_4": "Umurabyo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ninjye muzindutsi wa cyane, hari aho nasanze umuzimu yikoreye inyama",
+            "option_1": "Ijwi",
+            "option_2": "Isake ifite ibirokoroko",
+            "option_3": "Umusatsi",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Isake ifite ibirokoroko"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kamana iteka yambara neza",
+            "option_1": "Inyegamo y'umusore warongoye",
+            "option_2": "Ivunja",
+            "option_3": "Akanyoni yaritse ku nzira",
+            "option_4": "Ururabo",
+            "correct_answer": "Ururabo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Igihandure",
+            "option_2": "Ikibuno",
+            "option_3": "Ubunyobwa",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Ikibuno"
+        }
+    }
+]

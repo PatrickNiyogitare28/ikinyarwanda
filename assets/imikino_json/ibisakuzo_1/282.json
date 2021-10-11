@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 619
+    },
+    {
+        "sakwe_1": {
+            "question": "Nshoye imwe nkura ibihumbi",
+            "option_1": "Imigomdoro yibishyimbo",
+            "option_2": "Impeke y'uburo",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Impeke y'uburo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ninjye muzindutsi wa cyane, hari aho nasanze umuzimu yikoreye inyama",
+            "option_1": "Inzu itagira abantu",
+            "option_2": "Urwiri",
+            "option_3": "Isake ifite ibirokoroko",
+            "option_4": "Uruhinja",
+            "correct_answer": "Isake ifite ibirokoroko"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ruvudukana imbaraga, rukavumera rutagira amahembe",
+            "option_1": "Imodoka",
+            "option_2": "Ijwi",
+            "option_3": "Icebe ry'inka",
+            "option_4": "Ifaranga",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mukore ubone",
+            "option_1": "Gusaba uwo wimye",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Imvura",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Byumve uhore",
+            "option_1": "Umuyaga",
+            "option_2": "Ikibuno",
+            "option_3": "Imitumba",
+            "option_4": "Umusuzi wa so",
+            "correct_answer": "Umusuzi wa so"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Umukobwa ubonye iwabo hashya",
+            "option_3": "Umusatsi",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ninjye muzindutsi wa cyane nabonye inyamaswa y'amano 10",
+            "option_1": "Ijambo rya perezida",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Gusitara",
+            "option_4": "Amano y'umuntu",
+            "correct_answer": "Amano y'umuntu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Akanyoni yaritse ku nzira",
+            "option_2": "Inyenyeri",
+            "option_3": "Umugore utwite",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Ubunyereri",
+            "option_2": "Umwumba w'insina",
+            "option_3": "Inyenyeri",
+            "option_4": "Umwobo w'inzoka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kuba ahirengeye siko kwumva",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Icyobo",
+            "option_3": "Umuyaga mu muyange",
+            "option_4": "Agasongero k'inzu",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 514
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze mu gahinga mbona Rukara mu kabande",
+            "option_1": "Icyiyoni",
+            "option_2": "Ifundi",
+            "option_3": "Abahizi",
+            "option_4": "Igikona\n \nbikumburanye bibana",
+            "correct_answer": "Icyiyoni"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kiravunja umukenke",
+            "option_1": "Inyundo y'umucuruzi",
+            "option_2": "Ibitotsi",
+            "option_3": "Ikibyindi",
+            "option_4": "Amata n'umutsima",
+            "correct_answer": "Ikibyindi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera Rukinga rugana ikimpakamba cy'amaso munani",
+            "option_1": "Inkono n'urweso",
+            "option_2": "Imivuba; inkono y'itabi",
+            "option_3": "Agahanga k'ihene",
+            "option_4": "Ikigagara",
+            "correct_answer": "Ikigagara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kuki inkuba ikubita uri inyuma y'umusozi ntiwumve?",
+            "option_1": "Inzu iguye",
+            "option_2": "Ikirungurira",
+            "option_3": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_4": "Ikigori",
+            "correct_answer": "Inzu iguye"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Narabudoze ndabudanagira nabukubise ku ngoma ya Rukatiriza",
+            "option_1": "Ikirenge",
+            "option_2": "Imbaragasa",
+            "option_3": "Ubutanda ku muvure",
+            "option_4": "Abarinzi b'inyoni; inzara mu bana",
+            "correct_answer": "Ubutanda ku muvure"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Agakongorerwa",
+            "option_2": "Insitare",
+            "option_3": "Imbeho ku rugi",
+            "option_4": "Umuvumbuko w'intare",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rutuku rw'umuzungu kuri ubu ageze he?",
+            "option_1": "Ibihaza",
+            "option_2": "Imfunzo",
+            "option_3": "Intobo",
+            "option_4": "Umuhinzi umwe mu murima",
+            "correct_answer": "Intobo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Agatiritiri kaje kaduruza, kaje kuzatina umugabo",
+            "option_1": "Igikona",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Imisoto y'ikigega",
+            "option_4": "Umusore",
+            "correct_answer": "Umusore"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Rugaju mu rugo rw'imigano",
+            "option_1": "Mihigo",
+            "option_2": "Agahwa m'urwondo",
+            "option_3": "Igikuku",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Ifuni",
+            "option_2": "Umuriro",
+            "option_3": "Umurabyo",
+            "option_4": "Imirya y'intanga",
+            "correct_answer": "Imirya y'intanga"
+        }
+    }
+]

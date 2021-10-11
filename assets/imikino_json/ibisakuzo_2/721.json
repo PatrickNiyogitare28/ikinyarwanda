@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 175
+    },
+    {
+        "sakwe_1": {
+            "question": "Hagarara mu itahe najye mpagarare mu itongo",
+            "option_1": "Imondo mu gihu",
+            "option_2": "Intashya",
+            "option_3": "Amarira y'imbwa",
+            "option_4": "Urutumbwe",
+            "correct_answer": "Intashya"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zabukatakata zabunombanomba",
+            "option_1": "Inyambo z'umutindi",
+            "option_2": "Ijisho rya mukeba",
+            "option_3": "Ikizubazuba",
+            "option_4": "Umbusore ugwanye ingabo",
+            "correct_answer": "Inyambo z'umutindi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kati \"poo!\" Kati \" paa!\" Mukuru wayo ati \"reka!!\"",
+            "option_1": "Ikizu kitarimo abantu",
+            "option_2": "Inyenyeri",
+            "option_3": "Akabuye gahonze isuka akandi kakayigorora",
+            "option_4": "Umusambi",
+            "correct_answer": "Akabuye gahonze isuka akandi kakayigorora"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Nyabishishi i  Nyabitare",
+            "option_1": "Urukumbi mu menyo",
+            "option_2": "Igitoki n'amakoma",
+            "option_3": "Uruheri mu gihata",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera uruyongoyongo rwa Nyirabaha rwimiye i Nduga rukabyarira i Nduga",
+            "option_1": "Imyambi mu murana",
+            "option_2": "Umwijima",
+            "option_3": "Uruzi; ishami ry'uruzi",
+            "option_4": "Akabwana mu gatabire",
+            "correct_answer": "Uruzi; ishami ry'uruzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Jya Ruhushi imbere tujye gukwa nyina w'urwumvu",
+            "option_1": "Ifi",
+            "option_2": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "option_3": "Icyugu",
+            "option_4": "Ifundi ku rukoma",
+            "correct_answer": "Icyugu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Ipfundo ry'urudodo",
+            "option_2": "Umuyaga; umusuzi; amazi",
+            "option_3": "Amaguru y'umusambi",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mu rugo rw'imiseke hagati Nyamagana",
+            "option_1": "Uburiri; urusenge",
+            "option_2": "Umugore uhetse",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Umugabo wambaye umwenda mushya",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inkuba ikubita ku butaka ya Rujinja abayimira",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Ikivumvuri",
+            "option_3": "Ikigori",
+            "option_4": "Ikijumba",
+            "correct_answer": "Ikijumba"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Zirava inyuma zose",
+            "option_1": "Inshishi",
+            "option_2": "Inkuba mu rugano",
+            "option_3": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_4": "Inzuki",
+            "correct_answer": "Inzuki"
+        }
+    }
+]

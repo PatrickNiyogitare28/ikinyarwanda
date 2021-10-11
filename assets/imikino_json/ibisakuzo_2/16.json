@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 664
+    },
+    {
+        "sakwe_1": {
+            "question": "Abana banjye bikwije impindu bose",
+            "option_1": "Agahoro mu ntoki",
+            "option_2": "Akadiho k'imbwa",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Ishoka mu giti",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyirandirima umugore munini yicaye icukiro",
+            "option_1": "Ikiyege",
+            "option_2": "Intore mu muhogo",
+            "option_3": "Uruyuki",
+            "option_4": "Inkono mu mashyiga",
+            "correct_answer": "Ikiyege"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Agacwende kanjye kabaye kure mba  ngukoreyemo",
+            "option_1": "Igitama cyaguye mu mukokwe",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Ukwezi",
+            "option_4": "Ibirayi bikiri mu gitaka",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ni jye muzindutsi wa cyane nasanze aho urupfu rutunga inigi",
+            "option_1": "Urume ku musororo",
+            "option_2": "Umusore warongoye",
+            "option_3": "Umugore utwite",
+            "option_4": "Ijambo rya mukeba",
+            "correct_answer": "Urume ku musororo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ni jye muzindutsi wa cyane nasanze kwa Byucyucyu bacyugariye",
+            "option_1": "Icyibo",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Igitoki",
+            "option_4": "Akabuno k'imfizi",
+            "correct_answer": "Akabuno k'imfizi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera Rutambuka kibaya rwa Semugeshi",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Umusambi",
+            "option_3": "Ibarizo ry'ingoma",
+            "option_4": "Agasuzi",
+            "correct_answer": "Umusambi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngeze munsi y'urugo nkuka itako",
+            "option_1": "Umwana usanze se na nyina batariyo",
+            "option_2": "Umutanoga ku rutare",
+            "option_3": "Ikiyiko ku mbehe",
+            "option_4": "Amashyiga",
+            "correct_answer": "Umwana usanze se na nyina batariyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bagatake bagasamaze bakabikire ubwiza bwako",
+            "option_1": "Igicuma bacuncumura",
+            "option_2": "Amabondo y'ihene",
+            "option_3": "Umuziha w'inzovu",
+            "option_4": "Imanzi mu maribori",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rwagerinyange rwa Nyenyeri inyambo yo kuri Mwongo",
+            "option_1": "Ubukumi bwa so na nyoko",
+            "option_2": "Umucaca",
+            "option_3": "Urubariro",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Ikirungurira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mukara w'i Karambi irabira rikarenga",
+            "option_1": "Ibiryo ku mbebe",
+            "option_2": "Umununi ku itabi",
+            "option_3": "Icyiyone",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Icyiyone"
+        }
+    }
+]

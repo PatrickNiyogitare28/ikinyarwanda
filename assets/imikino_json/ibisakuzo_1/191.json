@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 85
+    },
+    {
+        "sakwe_1": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Umurozi",
+            "option_2": "Imvura",
+            "option_3": "Umusatsi ku mutwe",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umuzungu atwara imodoka umusatsi uri hanze",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Igicucucucu",
+            "option_3": "Intete z'ibigori",
+            "option_4": "Ikigori",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Icwende ryanjye rimbaye kure mba ngukoreyemo",
+            "option_1": "Ukwezi",
+            "option_2": "Icyumweru",
+            "option_3": "Ifaranga",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bagatake bagasamaze bakabihise ubwiza bwako",
+            "option_1": "Amabere",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Imanzi mu maribori",
+            "option_4": "Inyundo",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Isoko",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Imbwa mu masinde",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Umutsima",
+            "option_2": "Ingasire",
+            "option_3": "Umuzungu mu modoka",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Icyanzu cyanjye ngicamo nkafunga",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Indumane",
+            "correct_answer": "Indumane"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Ikawa",
+            "option_2": "Umukandara",
+            "option_3": "Ivunja",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rukara rw'umwami yicarira abagabo batatu",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Imihanda, uruzi, inzira",
+            "option_3": "Igare",
+            "option_4": "Inkono",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Yankamiye mu kitoze, angaburira ibiryoshye",
+            "option_1": "Igisabo",
+            "option_2": "Ifaranga",
+            "option_3": "Urusenda",
+            "option_4": "Ibiryo biri mu nkono ifite imbyiro",
+            "correct_answer": "Ibiryo biri mu nkono ifite imbyiro"
+        }
+    }
+]

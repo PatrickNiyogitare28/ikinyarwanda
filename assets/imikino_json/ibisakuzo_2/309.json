@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 541
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera igisogo nyamutentema",
+            "option_1": "Umugina mu rufunzo; umwishywa mu isusa",
+            "option_2": "Ibuye n'umutarimba",
+            "option_3": "Umuziha w'inzovu",
+            "option_4": "Umunyorogoto",
+            "correct_answer": "Umuziha w'inzovu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Wikoza hasi wikoza hejuru ntuzabona ishinya ya Dede",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_3": "Intumbi y'ihene",
+            "option_4": "Inkono ku mashyiga",
+            "correct_answer": "Ishinya y'urukwavu; ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nishe inkuba nyihambiriza indi",
+            "option_1": "Inkono ku mashyiga",
+            "option_2": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "option_3": "Umwangange",
+            "option_4": "Umugata",
+            "correct_answer": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyiribwirima na Mwemanyi baciye aho bagomagira",
+            "option_1": "Abavomyi",
+            "option_2": "Umusambi",
+            "option_3": "Amata n'umutsima",
+            "option_4": "Umusoro",
+            "correct_answer": "Amata n'umutsima"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ako nateye i Mwonga ntikaravayo",
+            "option_1": "Agakatsi ku butanda",
+            "option_2": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora",
+            "option_3": "Inkware",
+            "option_4": "Inkono ku ziko",
+            "correct_answer": "Akajyo batereye munsi y'urugo\n \namabuye ya nyarubuyenge wayabara ntiwayashobora"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Bwiza bupfuye ubusa",
+            "option_1": "Umugore utwite",
+            "option_2": "Akuho mu ntango",
+            "option_3": "Agacebe k'intama",
+            "option_4": "Uruhu rw'imbwa",
+            "correct_answer": "Uruhu rw'imbwa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ikiri aho nicyo kiri i Burundi",
+            "option_1": "Uruyongoyongo",
+            "option_2": "Imiyenzi",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Ipfundo ry'urudodo",
+            "correct_answer": "Ipfundo ry'urudodo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Imbaragasa mu kirenge",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Abarinzi b'inyoni; inzara mu bana",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Inka yanjye ishiturwa n'abagenzi",
+            "option_1": "Igikona",
+            "option_2": "Igikeri",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Umucaca",
+            "correct_answer": "Igikona"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kadiridiri ka Ndirimba hejuru ya Sandarubeti",
+            "option_1": "Inzira",
+            "option_2": "Umuntu uri ku ipikipiki",
+            "option_3": "Urugo udasangamo nyoko",
+            "option_4": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "correct_answer": "Umuntu uri ku ipikipiki"
+        }
+    }
+]

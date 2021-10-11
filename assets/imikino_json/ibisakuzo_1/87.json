@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 248
+    },
+    {
+        "sakwe_1": {
+            "question": "Umwana wanjye yirirwa agenda akarara agenda",
+            "option_1": "Umutwe",
+            "option_2": "Akarago ko mu irebe",
+            "option_3": "Umugezi",
+            "option_4": "Agasuzi",
+            "correct_answer": "Umugezi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramikuku arakukuza mu mikuku ya Shyorongi",
+            "option_1": "Igiheri mu ruhara",
+            "option_2": "Ibitotsi",
+            "option_3": "Ubwatsi busakaye inzu",
+            "option_4": "Umukondo w'inyana",
+            "correct_answer": "Igiheri mu ruhara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Inyundo",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Agasongero k'inzu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Biratinyana",
+            "option_1": "Ibitotsi",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Umwijima n'urumuri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Televiziyo",
+            "option_2": "Ikibya cy'umusaza",
+            "option_3": "Agasuzi",
+            "option_4": "Kwatsa mu ziko",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Umusore wishwe n'inzara",
+            "option_2": "Inyenyeri",
+            "option_3": "Akanyamasyo",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Telefoni",
+            "option_2": "Inyama",
+            "option_3": "Insina; amateke",
+            "option_4": "Agacaca",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Intare",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Urwembe mu musatsi",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Natumba naturika ni ibuye rya Kagbayi",
+            "option_1": "Imirizo y'inka",
+            "option_2": "Igisenge",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Ishapure n'amasengesho",
+            "correct_answer": "Ishapure n'amasengesho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyagiwe n'imvura imbuza guhinga",
+            "option_1": "Imigomdoro yibishyimbo",
+            "option_2": "Amacandwe y'incira",
+            "option_3": "Amagambo yo ku rurembo",
+            "option_4": "Akanyoni yaritse ku nzira",
+            "correct_answer": "Amacandwe y'incira"
+        }
+    }
+]

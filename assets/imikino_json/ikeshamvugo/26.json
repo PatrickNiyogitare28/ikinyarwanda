@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 10
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Amaze amezi atandatu",
+            "answer": "Amavuta akuze"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Mushiki w'umugabo wawe",
+            "answer": "Muramukazi"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Ibyo banywesha amata",
+            "answer": "Imikerenke, injome, imimuna"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Amavuta yisigwa",
+            "answer": "Ikimuri"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Ibiti bakingisha mu irembo",
+            "answer": "Imyugariro"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Igitandukanya icyumba n'ikindi mu nzu ya kinyarwanda",
+            "answer": "Inyegamo"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Nyina w'umugabo, umugore wange",
+            "answer": "Mabukwe"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Amata bagikama",
+            "answer": "Inshyushyu"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Umukeno mwinshi",
+            "answer": "Imikeno (umwikubo w'umukeno urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Kurangiza koza icyansi",
+            "answer": "Guhumuza"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Kumena amata ubishaka",
+            "answer": "Kuyabikira, kuyabyarira"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Amata inyana yanze konka",
+            "answer": "Amakaba"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Amata y'inka ihaka",
+            "answer": "Amasitu"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Abashatse abagore bava inda imwe",
+            "answer": "Abasanzire"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Se (nyina) b'umukwe wawe, umukazana wawe",
+            "answer": "Bamwana wawe"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Musaza wa mama",
+            "answer": "Marume"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Umwana wa musaza w'umuntu",
+            "answer": "Umwisengeneza"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Umushishi, agashinge bahanaguza urusyo",
+            "answer": "Umwanzuzo"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Aduhe ubusobanuro burambuye",
+            "answer": "Aduhe ibisobanura birambuye"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Amajwi menshi",
+            "answer": "Urwunge"
+        }
+    }
+]

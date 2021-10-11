@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 269
+    },
+    {
+        "sakwe_1": {
+            "question": "Bihogo bya Birahinda ntitanga iratiza",
+            "option_1": "Imana",
+            "option_2": "Radiyo",
+            "option_3": "Umuhoro",
+            "option_4": "Umuyenzi",
+            "correct_answer": "Imana"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Tora uruho ntore urundi tujye kwiyumya",
+            "option_1": "Amaganga y'isha",
+            "option_2": "Igisenge cy'inzu",
+            "option_3": "Amara",
+            "option_4": "Umuyaga",
+            "correct_answer": "Amaganga y'isha"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nteruye nyoko n'ubuhuruhuru  ndunda mu mbere",
+            "option_1": "Inuma mu kigega",
+            "option_2": "Inzuho ebyiri mu ntango",
+            "option_3": "Inkono n' ibipfuko",
+            "option_4": "Igishorobwa",
+            "correct_answer": "Inkono n' ibipfuko"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngira umutabo ugahingwa n'isuka y'indoko",
+            "option_1": "Amabondo y'ihene",
+            "option_2": "Amazimwe yo ku rurembo",
+            "option_3": "Ikirungurira",
+            "option_4": "Inkinwa cya nyirabarazana",
+            "correct_answer": "Inkinwa cya nyirabarazana"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rusimbuka mu gicu rwa Semugeshi ingombwe ya Rugina",
+            "option_1": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Inkombe z'uruzi; ibikingi by'amarembo; inkomanizo z'umuryango",
+            "option_4": "Ingwe",
+            "correct_answer": "Ingwe"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nkuruye urusuri ishyamba rirahungabana",
+            "option_1": "Icyibo",
+            "option_2": "Inzara y'umusore; ijambo ry'umwami",
+            "option_3": "Urushishi rufite ishaka",
+            "option_4": "Umubuyenge w'intosho",
+            "correct_answer": "Inzara y'umusore; ijambo ry'umwami"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nshikuje umubugu ugugesera burahungabana",
+            "option_1": "Imiyenzi",
+            "option_2": "Inzara yica umusore",
+            "option_3": "Inzugi z'imigano, umukokwe",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Inzara yica umusore"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mutimbo araguye n'ingabo ze",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Insina",
+            "option_3": "Umusatsi",
+            "option_4": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "correct_answer": "Insina"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hirya hariya hari imizo n'iminzenzi",
+            "option_1": "Isogo n'inyabutongo",
+            "option_2": "Insina; amateke",
+            "option_3": "Agahinda mu murima",
+            "option_4": "Igihumyo",
+            "correct_answer": "Isogo n'inyabutongo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite umwana akarara aryamye akirirwa aryamye",
+            "option_1": "Agatsinsino k'uruhinja",
+            "option_2": "Ikirago",
+            "option_3": "Ikigori",
+            "option_4": "Ijuru; uruhu w'imbaragasa",
+            "correct_answer": "Ikirago"
+        }
+    }
+]

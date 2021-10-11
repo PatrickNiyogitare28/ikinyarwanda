@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 29
+    },
+    {
+        "sakwe_1": {
+            "question": "Barahinga nkabarusha ihirwe",
+            "option_1": "Inyoni",
+            "option_2": "Umusuzi",
+            "option_3": "Imodoka yabuze feri",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Inyoni"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngeze mu nzira mfunga feri",
+            "option_1": "Insina; amateke",
+            "option_2": "Urwembe mu musatsi",
+            "option_3": "Ifundi mu mamera",
+            "option_4": "Gusitara",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Dore iryo shyamba ritabona",
+            "option_1": "Ikirago",
+            "option_2": "Urwembe mu musatsi",
+            "option_3": "Umusatsi w'intabwa",
+            "option_4": "Amata",
+            "correct_answer": "Umusatsi w'intabwa"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Indumane",
+            "option_2": "Umukecuru wurira ikigega",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Ibiganza",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyoko si ukunnya arahurutura",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Inzara y'umusore",
+            "option_3": "Icyobo",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kirabyataraye",
+            "option_1": "Ingasire",
+            "option_2": "Imodoka yabuze lisansi",
+            "option_3": "Akanyana mu nda ya nyina",
+            "option_4": "Ikibyindi cy'umushumba",
+            "correct_answer": "Ikibyindi cy'umushumba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Basenye ibikingi by'amarembo Rutamu yanze gukwirwamo",
+            "option_1": "Amashyiga (y'inyuma)",
+            "option_2": "Ingasire",
+            "option_3": "Nyiramaningiri",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Nyiramaningiri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ko tuvuka ku muntu ukwe ntiduse",
+            "option_1": "Ifaranga",
+            "option_2": "Umuzungu n'umwirabura",
+            "option_3": "Uruhinja",
+            "option_4": "Kudashyira ingasire mu masaka ngo iyasye",
+            "correct_answer": "Umuzungu n'umwirabura"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mpagaze mu Rwanda ndeba mu mahanga",
+            "option_1": "Amazi ku iteke",
+            "option_2": "Imbwa ishumitse",
+            "option_3": "Televiziyo",
+            "option_4": "Amata",
+            "correct_answer": "Televiziyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nahuye na cya matimbatimba cya maguru umunani kigiye kugura umunyu kwa mirongwitanu",
+            "option_1": "Insina; amateke",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Amacandwe y'incira",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Igitagangurirwa"
+        }
+    }
+]

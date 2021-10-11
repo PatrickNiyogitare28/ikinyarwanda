@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 590
+    },
+    {
+        "sakwe_1": {
+            "question": "Ko twagendanye wambwiye iki",
+            "option_1": "Umugore utwite",
+            "option_2": "Igicucucucu",
+            "option_3": "Amashyiga (y'inyuma)",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Igicucucucu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Yankamiye mu kitoze, angaburira ibiryoshye",
+            "option_1": "Igikoro, igihaza",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Amashyiga (y'inyuma)",
+            "correct_answer": "Ibiryo biri mu nkono ifite imbyiro"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Innyo y'ihene",
+            "option_4": "Sida",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Cya matambatamba cya maguru munani",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Uruyuzi",
+            "option_3": "Indumane",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Televiziyo",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Ururimi",
+            "option_4": "Inkware",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ni iki cyatanze umuzungu kwicara mu ifuteyi",
+            "option_1": "Ifundi",
+            "option_2": "Imbaragasa",
+            "option_3": "Akarago ko mu irebe",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inka yanjye yimira mu kinono, ikabyarira mu ihembe",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Igitoki",
+            "option_3": "Inyoni",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kora aha",
+            "option_1": "Uruzi",
+            "option_2": "Umunyeshuri wabaye uwa mbere",
+            "option_3": "Umupira mu izamu",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umunyeshuri wabaye uwa mbere"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngeze iw'abandi bampa induru",
+            "option_1": "Ibarizo",
+            "option_2": "Igare",
+            "option_3": "Sone yo ku irembo",
+            "option_4": "Ifundi mu mamera",
+            "correct_answer": "Sone yo ku irembo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ko tuvuka ku muntu ukwe ntiduse",
+            "option_1": "Izuba",
+            "option_2": "Intoki ku biganza",
+            "option_3": "Ingara z'iminyinya",
+            "option_4": "Umuzungu n'umwirabura",
+            "correct_answer": "Umuzungu n'umwirabura"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 509
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Uruzi",
+            "option_4": "Isekuru",
+            "correct_answer": "Isekuru"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zisa zitagira isano",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Ibaruwa",
+            "option_4": "Ivu",
+            "correct_answer": "Inkoko n'inkware"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bateze ibisage bose",
+            "option_1": "Umutego",
+            "option_2": "Ifaranga",
+            "option_3": "Agakecuru kocyejwe n'igikoma",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Imisatsi y'ibigori"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndya nkurye",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Urusenda",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Inkono ku ziko",
+            "correct_answer": "Urusenda"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Umusaza Sacyoya agendera ku kabando kamwe",
+            "option_1": "Igikoro",
+            "option_2": "Ibiganza",
+            "option_3": "Isusa",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akamanimbanimba,ingoma zo kwa Magagi zivuga zinihira",
+            "option_1": "Umuvumbyi",
+            "option_2": "Corogati",
+            "option_3": "Akarere ku nsina",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Igikoro",
+            "option_2": "Inopfu",
+            "option_3": "Akayira kajya mu kigega",
+            "option_4": "Ivu",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Corogati",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Izuba",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Firigo",
+            "option_2": "Amatwi",
+            "option_3": "Ubwoya bw' inka",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hakurya mu gihuku",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Umusore wishwe n'inzara",
+            "option_3": "Amazi ku iteke",
+            "option_4": "Inzu itagira abantu",
+            "correct_answer": "Inzu itagira abantu"
+        }
+    }
+]

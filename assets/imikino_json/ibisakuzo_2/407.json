@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 443
+    },
+    {
+        "sakwe_1": {
+            "question": "Igiteye imbabazi",
+            "option_1": "Icyibo",
+            "option_2": "Ikibwana cy'imbwa",
+            "option_3": "Ibigori",
+            "option_4": "Radiyo",
+            "correct_answer": "Ikibwana cy'imbwa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Zirahutse zisiga mweru mu rugo",
+            "option_1": "Umuriro, umuyaga",
+            "option_2": "Inzara yica umusore",
+            "option_3": "Isi n' ijuru",
+            "option_4": "Ingwa",
+            "correct_answer": "Ingwa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kagaga iri hagati y'urugano",
+            "option_1": "Ugutwi kw'imbeba",
+            "option_2": "Umucaca",
+            "option_3": "Ururimi",
+            "option_4": "Inda mu ihururu",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngakariya",
+            "option_1": "Urutete",
+            "option_2": "Ikigagara",
+            "option_3": "Akato mu kiyaga",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Akato mu kiyaga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mukara n'iyayo",
+            "option_1": "Inkono n'urweso",
+            "option_2": "Umusatsi",
+            "option_3": "Inkuba n'umurabyo",
+            "option_4": "Akarizo k'ihene",
+            "correct_answer": "Inkono n'urweso"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfukumfuku yatura so ku mucaca",
+            "option_1": "Amenyo",
+            "option_2": "Umusemburo",
+            "option_3": "Ikibuguzo, igisoro",
+            "option_4": "Agacebe k'intama",
+            "correct_answer": "Umusemburo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gakubite ugakubiranye",
+            "option_1": "Inzogera",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Ifundi",
+            "option_4": "Agakono k'amapfa",
+            "correct_answer": "Agakono k'amapfa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutega icyatanze abazungu kwambara ingofero",
+            "option_1": "Igihumyo",
+            "option_2": "Amashyiga",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Amahinda y'inkuba",
+            "correct_answer": "Igihumyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Ibicuma ku nkangara",
+            "option_2": "Imbaragasa",
+            "option_3": "Amazuru",
+            "option_4": "Ivu",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera ububumbabumbe bubiri mu itaba ry'umusozi",
+            "option_1": "Igitonyanga cy'imvura",
+            "option_2": "Inzara",
+            "option_3": "Intorezo; urushishi; intosho",
+            "option_4": "Amabere",
+            "correct_answer": "Amabere"
+        }
+    }
+]

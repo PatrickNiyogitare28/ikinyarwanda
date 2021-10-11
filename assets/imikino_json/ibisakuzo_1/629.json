@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 639
+    },
+    {
+        "sakwe_1": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Umukecuru wataye ikijigo cye",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Umuyaga mu muyange",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkuruye umugozi ishyamba rirahubangana",
+            "option_1": "Umusore wishwe n'inzara",
+            "option_2": "Igikoro",
+            "option_3": "Urusenda",
+            "option_4": "Igikeri",
+            "correct_answer": "Umusore wishwe n'inzara"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ijisho ryanjye rimurika hose",
+            "option_1": "Izuba",
+            "option_2": "Radiyo",
+            "option_3": "Ipikipiki",
+            "option_4": "Amase",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karatemba shyashyari",
+            "option_1": "Agatonyanga k'imvura",
+            "option_2": "Amazi ku iteke",
+            "option_3": "Ishapure n'amasengesho",
+            "option_4": "Ubuto bwa so na nyoko",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirabyuma ndashya umugongo",
+            "option_1": "Inkono ku ziko",
+            "option_2": "Uruyuzi",
+            "option_3": "Igikatsi",
+            "option_4": "Amatwi",
+            "correct_answer": "Inkono ku ziko"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abakobwa banjye babyina bose",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Isake ifite ibirokoroko",
+            "correct_answer": "Imirya y'inanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyirabakangaza ngo mutahe",
+            "option_1": "Imodoka",
+            "option_2": "Ubuto bwa so na nyoko",
+            "option_3": "Imbeho ku rugi",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata so nkunkumure nyoko",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Ikiringiti",
+            "option_3": "Agahinda k'umutima",
+            "option_4": "Urwiri",
+            "correct_answer": "Urwiri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kiribwa kidahingwa",
+            "option_1": "Isake ifite ibirokoroko",
+            "option_2": "Corogati",
+            "option_3": "Igisenge",
+            "option_4": "Inyama",
+            "correct_answer": "Inyama"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Amabere",
+            "option_2": "Inkono",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Ikawa",
+            "correct_answer": "Indogobe ishaje"
+        }
+    }
+]

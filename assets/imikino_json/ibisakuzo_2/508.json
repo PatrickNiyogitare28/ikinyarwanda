@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 64
+    },
+    {
+        "sakwe_1": {
+            "question": "Kujya mu bajiji wari umujiji",
+            "option_1": "Imodoka mu muhanda",
+            "option_2": "Umugina mu rufunzo; umwishywa mu isusa",
+            "option_3": "Ikinyoro cy'umusaza",
+            "option_4": "Ikigori",
+            "correct_answer": "Umugina mu rufunzo; umwishywa mu isusa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kera imbere kakirabura inyuma kagatona ibwami",
+            "option_1": "Igitoki",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Igiko gihiriye mu ruhura",
+            "option_4": "Ibihu, inzuki",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Urarenga mpinguka",
+            "option_1": "Umwironge",
+            "option_2": "Akabeba mu buki",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Umusaza n'umwana",
+            "correct_answer": "Umusaza n'umwana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kurara ubuzima ufite inkwi (imyase) ni iki?",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Akabwana mu gatabire",
+            "option_3": "Umusambi",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bucunya butisiga",
+            "option_1": "Urubura mu makoma",
+            "option_2": "Icyobo",
+            "option_3": "Umuriro",
+            "option_4": "Ubuzuru bw'imbwa",
+            "correct_answer": "Ubuzuru bw'imbwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gatuma irabyina mu gatabire",
+            "option_1": "Imirizo y'imbeba",
+            "option_2": "Ubuhuzu mu bitugu; inkota mu bitugu",
+            "option_3": "Ikibwana cy'imbwa mu masinde",
+            "option_4": "Inzu",
+            "correct_answer": "Ikibwana cy'imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Wavuka wari waterera cya Mahangire",
+            "option_1": "Ikirungurira",
+            "option_2": "Inyenyeri",
+            "option_3": "Umurunga",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Umurunga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "So arongora nyoko amucuritse",
+            "option_1": "Agaheha mu gacuma",
+            "option_2": "Umucaca",
+            "option_3": "Ishoka mu rukwi",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Ishoka mu rukwi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hirya harahiye no hino harahiye hasigaye  urukumbi rwa Sasa",
+            "option_1": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_2": "Ikigori",
+            "option_3": "Umuntu uri kuri ipikipiki",
+            "option_4": "Inzira",
+            "correct_answer": "Inzira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndumiwe ndakavuna umuheto",
+            "option_1": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_2": "Imyugaruro",
+            "option_3": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "option_4": "Igisabo",
+            "correct_answer": "Umugabo unnya mu ruhira akabura icyoyihehesha"
+        }
+    }
+]

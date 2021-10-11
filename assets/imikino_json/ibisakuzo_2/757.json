@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 113
+    },
+    {
+        "sakwe_1": {
+            "question": "Zana icyansi cy'amatwi irinikiye",
+            "option_1": "Ugutwi kw'imbeba",
+            "option_2": "Amano y'inanga",
+            "option_3": "Ururimi",
+            "option_4": "Ikinyankari",
+            "correct_answer": "Ikinyankari"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Imisozi yarahiye isiga inkuba n'imiheto",
+            "option_1": "Inyenyeri",
+            "option_2": "Igitare",
+            "option_3": "Akaganza k'uruhinja",
+            "option_4": "Urubwija",
+            "correct_answer": "Igitare"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mennye inkuba nyihambiriza Indi",
+            "option_1": "Inda mu nkanda",
+            "option_2": "Umusatsi",
+            "option_3": "Umuriro",
+            "option_4": "Igitoki n'amakoma yacyo",
+            "correct_answer": "Igitoki n'amakoma yacyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Umwobo wa Dede uturamo Dede wenyine",
+            "option_1": "Imende ku ruzi",
+            "option_2": "Ubwato",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Uruheri mu gihata",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hakurya hena, hakuno hena",
+            "option_1": "Abagore babagara",
+            "option_2": "Umuyaga",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Imiyenzi",
+            "correct_answer": "Abagore babagara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mugina ni uwa Muko",
+            "option_1": "Inkware",
+            "option_2": "Imutsi wo ku kibuno",
+            "option_3": "Umuyenzi",
+            "option_4": "Ukwezi ku ijuru",
+            "correct_answer": "Imutsi wo ku kibuno"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "So na data bava inda imwe batanyijwe n'iki?",
+            "option_1": "Ikirunga",
+            "option_2": "Inkono ivugirwamo umutsima",
+            "option_3": "Ifundi",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Rumanika amahahara rumanura amahoro",
+            "option_1": "Inkumi yiba",
+            "option_2": "Umusambi",
+            "option_3": "Urukumbi mu menyo",
+            "option_4": "Igikongorwa",
+            "correct_answer": "Inkumi yiba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nshagawe ntari umwami",
+            "option_1": "Umusore warongoye",
+            "option_2": "Umucaca",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Inopfu",
+            "correct_answer": "Umusore warongoye"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rukara rw'amacece aturutse hirya wayacekwa",
+            "option_1": "Akotsi k'abatabazi",
+            "option_2": "Umuriro, umuyaga",
+            "option_3": "Umugore utwite",
+            "option_4": "Umusirikare",
+            "correct_answer": "Umusirikare"
+        }
+    }
+]

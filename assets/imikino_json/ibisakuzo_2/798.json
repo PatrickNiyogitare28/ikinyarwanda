@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 217
+    },
+    {
+        "sakwe_1": {
+            "question": "Inyabutatu ya butanu ku ngoyi imwe",
+            "option_1": "Akamuga karimo ibishyimbo",
+            "option_2": "Imyungu ku ruyuzi",
+            "option_3": "Imbeho ku rugi",
+            "option_4": "Inzu iguye",
+            "correct_answer": "Imyungu ku ruyuzi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Umututsi muremure yagutanze ku iriba",
+            "option_1": "Igitonyanga",
+            "option_2": "Inzuki n'ubuki",
+            "option_3": "Intosho mu manga",
+            "option_4": "Umugunguzi",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana b'umwami baratanguranywa mu ngoma",
+            "option_1": "Inkari z'inkoko",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Intembatembe",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ibuka hakurya",
+            "option_1": "Utuzu tw'abashumba",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Ifaranga",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Utuzu tw'abashumba"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyamudugudu wa Bwungwate",
+            "option_1": "Umuyenzi",
+            "option_2": "Imbwa mu masinde, amarira y'imbwa",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Ikigori ku nzira",
+            "correct_answer": "Imbwa mu masinde, amarira y'imbwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Zirabunombanomba zirabukatakata inyambo za Mukeshimana",
+            "option_1": "Urugo",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Ifaranga",
+            "option_4": "Akabwana mu gatabire",
+            "correct_answer": "Akabwana mu gatabire"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karatona ibwami",
+            "option_1": "Igikeri",
+            "option_2": "Akagori",
+            "option_3": "Ifaranga",
+            "option_4": "Umusoro",
+            "correct_answer": "Akagori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Aha hari agati kadacanwa",
+            "option_1": "Intembatembe",
+            "option_2": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "option_3": "Inshunzi z'amata mu cyansi",
+            "option_4": "Amata n'umutsima",
+            "correct_answer": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Aka Matama aka Matananya karabwiriza inka mu gikombe",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Icyibo",
+            "option_3": "Ikirago",
+            "option_4": "Inzara y'uruhinja",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akaguru k'umuringa n'akaboko k'umuringa byaterana byabyara umuyumbu",
+            "option_1": "Ikibyindi",
+            "option_2": "Isha mu mukenke",
+            "option_3": "Igihondohondo",
+            "option_4": "Umusambi; ikinyabwoya",
+            "correct_answer": "Igihondohondo"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 372
+    },
+    {
+        "sakwe_1": {
+            "question": "Kazikure irya, kazikure ino kati \"Ni izanjye na Runana\"",
+            "option_1": "Umugore utwite",
+            "option_2": "Umununi ku gicumucumu",
+            "option_3": "Abavomyi",
+            "option_4": "Ikibwana cy'imbwa mu masinde",
+            "correct_answer": "Umununi ku gicumucumu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nshinze umwe ndasakara",
+            "option_1": "Umurara w'uburo",
+            "option_2": "Igihumyo; umwobo",
+            "option_3": "Akabwana mu gatabire",
+            "option_4": "Umuyaga",
+            "correct_answer": "Igihumyo; umwobo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera rwa kimanuka rutaribwa n'imbeba",
+            "option_1": "Inzogera",
+            "option_2": "Igikuku",
+            "option_3": "Ururimi mu menyo",
+            "option_4": "Insina",
+            "correct_answer": "Inzogera"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkuruye urubingo ruhinguka rwose",
+            "option_1": "Ingoma",
+            "option_2": "Ikidasesa",
+            "option_3": "Inzara mu bana",
+            "option_4": "Agakongorerwa",
+            "correct_answer": "Inzara mu bana"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkuba",
+            "option_1": "Rugo",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Ibicuma ku nkangara",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Rugo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite umwana akarara aryamye akirirwa aryamye",
+            "option_1": "Ikiryango cy'inzu",
+            "option_2": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_3": "Umuhinzi umwe mu murima",
+            "option_4": "Ikirago",
+            "correct_answer": "Ikirago"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira umwana akarara agenda",
+            "option_1": "Umusatsi w'intabwa",
+            "option_2": "Umugezi",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Inkono",
+            "correct_answer": "Umugezi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera uruhumbuhumbu uruhumbura Jana",
+            "option_1": "Umurabyo",
+            "option_2": "Urubura",
+            "option_3": "Inyenyeri",
+            "option_4": "Urujyo ku nkoko",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Gishyuha kitotsa",
+            "option_1": "Imbaragasa",
+            "option_2": "Mahina",
+            "option_3": "Umusuzi",
+            "option_4": "Umunyorogoto",
+            "correct_answer": "Umusuzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kahemena",
+            "option_1": "Akotsi k'abatabazi",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Igitonyanga",
+            "option_4": "Ikigega kitagira amasaka",
+            "correct_answer": "Akotsi k'abatabazi"
+        }
+    }
+]

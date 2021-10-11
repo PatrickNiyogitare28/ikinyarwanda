@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 496
+    },
+    {
+        "sakwe_1": {
+            "question": "Iri waribonye he",
+            "option_1": "Urupfu",
+            "option_2": "Umugezi",
+            "option_3": "Ikinyabwoya; uruyongoyongo",
+            "option_4": "Umurara w'uburo",
+            "correct_answer": "Umurara w'uburo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kagaga iri hagati y'urugano",
+            "option_1": "Mu murima w'inkoko",
+            "option_2": "Intete y'ururo",
+            "option_3": "Intembatembe",
+            "option_4": "Ururimi",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sine irarisha hejuru y'urupfu",
+            "option_1": "Inkoko mu rutoki",
+            "option_2": "Abagore babagara",
+            "option_3": "Ubwato mu kiyaga; mu mazi",
+            "option_4": "Umutsi w'innyo",
+            "correct_answer": "Ubwato mu kiyaga; mu mazi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngiye mu ibarabara nsanga akagaramiye  inzira",
+            "option_1": "Icyugu",
+            "option_2": "Ibikingi by'amarembo",
+            "option_3": "Agakongorerwa",
+            "option_4": "Uruhabuzo mu ntoke",
+            "correct_answer": "Agakongorerwa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirakigeri  aganje mu mpinga Ntumba",
+            "option_1": "Umusure mu ngungu; ikinya mu kwaha",
+            "option_2": "Umugata",
+            "option_3": "Isekurume",
+            "option_4": "Ikiziba mu mpinga",
+            "correct_answer": "Ikiziba mu mpinga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inyabune ya butanu yagiye kwenda inani kwa mirongo inani",
+            "option_1": "Ifundi",
+            "option_2": "Akadiho k'imbwa",
+            "option_3": "Imirya y'intanga",
+            "option_4": "Urukorogoto",
+            "correct_answer": "Imirya y'intanga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bashinze urukiramende ku ngoma ya Gahindiro n'ubu sindarugendera ngo ndusimbutse",
+            "option_1": "Ikibuguzo, igisoro",
+            "option_2": "Ikigorigori",
+            "option_3": "Umurabyo",
+            "option_4": "Amahembe y'inka",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyiramagarama ari n'inda",
+            "option_1": "Intubu n'urutwe",
+            "option_2": "Urubura",
+            "option_3": "Inkono ivugirwamo umutsima",
+            "option_4": "Igishirira kiguye mu mazi ashyushye",
+            "correct_answer": "Intubu n'urutwe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabumpurimpuri arabyina haruguru aho",
+            "option_1": "Kubona aho nyokobukwe yiyuhagira",
+            "option_2": "Izo ngohe zawe",
+            "option_3": "Irobe n'umutsima",
+            "option_4": "Inkono yuzuye ibiryo",
+            "correct_answer": "Izo ngohe zawe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera Rudakambirwa rwa mugabo udafungura akebo kamwe",
+            "option_1": "Imvura",
+            "option_2": "Umuvure",
+            "option_3": "Icyiyoni mu isoko",
+            "option_4": "Umugina mu rufunzo; umwishywa mu isusa",
+            "correct_answer": "Imvura"
+        }
+    }
+]

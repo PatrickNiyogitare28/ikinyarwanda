@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 502
+    },
+    {
+        "sakwe_1": {
+            "question": "Rutinda mu idadi Rutebuka mu iteme bwakweye Dede!",
+            "option_1": "Imodoka mu muhanda",
+            "option_2": "Ibijumaba",
+            "option_3": "Ijambo ry'umwami",
+            "option_4": "Ikiyege",
+            "correct_answer": "Ibijumaba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karimo muri byo",
+            "option_1": "Igikona",
+            "option_2": "Umunyinya",
+            "option_3": "Akanigi mu ijosi",
+            "option_4": "Umuhazi ugwanye umuguta",
+            "correct_answer": "Akanigi mu ijosi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirampiri n'impiri yayo mu nyonga y'umusozi",
+            "option_1": "Inturo mu ntare",
+            "option_2": "Uruzi",
+            "option_3": "Imiyenzi",
+            "option_4": "Ibihaza",
+            "correct_answer": "Inturo mu ntare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Imanika mahahara imanura amahano kwa mfura zitarya",
+            "option_1": "Agaca mu nkoko",
+            "option_2": "Radiyo",
+            "option_3": "Inzugi z'imigano, umukokwe",
+            "option_4": "Urusenge",
+            "correct_answer": "Inzugi z'imigano, umukokwe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Rutangira yamennye intango",
+            "option_1": "Ubuheri mu gihata",
+            "option_2": "Umwobo mu nzira",
+            "option_3": "Agafundi",
+            "option_4": "Urusenge",
+            "correct_answer": "Umwobo mu nzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karahunda ingabo ya Rujende",
+            "option_1": "Abarinzi b'inyoni; inzara mu bana",
+            "option_2": "Agafundi",
+            "option_3": "Agatonyanga ku kigega",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Agafundi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Zaturuka mu irembo ntiwamenya iyo nyoko yakowe",
+            "option_1": "Uruzi",
+            "option_2": "Ifundi",
+            "option_3": "Akayuzi hejuru y'urupfu",
+            "option_4": "Inyamanza",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ubunyenyeri bwa Karongi bwaciye intungura ibara",
+            "option_1": "Umbusore ugwanye ingabo",
+            "option_2": "Akotsi k'abatabazi",
+            "option_3": "Akanyoni karitse ku nzira",
+            "option_4": "Ubuheri mu gihata",
+            "correct_answer": "Umbusore ugwanye ingabo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Impeta Kajiga ya Rujinja ironsa umunani",
+            "option_1": "Inda mu mutwe",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Injishi y'igisabo",
+            "option_4": "Ibirago",
+            "correct_answer": "Injishi y'igisabo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nta musimbutsi wa cyane wasimbutse urugata",
+            "option_1": "Udukongorwa",
+            "option_2": "Umugozi w'ibijumba",
+            "option_3": "Inzoga",
+            "option_4": "Ubutanda ku muvure",
+            "correct_answer": "Inzoga"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 34
+    },
+    {
+        "sakwe_1": {
+            "question": "Nteye igiti gikwira isi yose",
+            "option_1": "Amazi",
+            "option_2": "Ijambo rya perezida",
+            "option_3": "Ikibuno",
+            "option_4": "Igikoro, igihaza",
+            "correct_answer": "Ijambo rya perezida"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Agatonyanga k'imvura",
+            "option_2": "Ivunja mu kirenge",
+            "option_3": "Igiheri mu ruhara",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Isi n'ijuru",
+            "option_2": "Umugore utwite",
+            "option_3": "Igikoro",
+            "option_4": "Kukwanduza sida",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Baguhaga akabando urwaye iki?",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Igikoro",
+            "correct_answer": "Igikoro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Intare",
+            "option_2": "Umwumba w'insina",
+            "option_3": "Imisozi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Cyasamye kitaryana",
+            "option_1": "Urukoma n'insina",
+            "option_2": "Agasuzi",
+            "option_3": "Ikiryango cy'inzu",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Ikiryango cy'inzu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rwakajwiga arira ku nkomo",
+            "option_1": "Ishyiga",
+            "option_2": "Ipikipiki",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Gusitara",
+            "correct_answer": "Imbwa ishumitse"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bacuye dutanguranwe",
+            "option_1": "Ifaranga",
+            "option_2": "Telefoni",
+            "option_3": "Ifaranga",
+            "option_4": "Igicucucucu",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mvuye guhamba nyogokuru aza ankurikiye",
+            "option_1": "Uruhara",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Igitiritiri",
+            "option_4": "Ivu",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite inka yanjye nyiragira ku manga ntitembe",
+            "option_1": "Amatwi",
+            "option_2": "Ikiyoni",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Amatwi"
+        }
+    }
+]

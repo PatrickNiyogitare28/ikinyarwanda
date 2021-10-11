@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 226
+    },
+    {
+        "sakwe_1": {
+            "question": "Abasore b'i Gisaka barasana bakiri bato",
+            "option_1": "Isusa",
+            "option_2": "Nyiramaningiri",
+            "option_3": "Firigo",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Isusa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ino karahari n'i Kongo karahari",
+            "option_1": "Ivu",
+            "option_2": "Impeke y'uburo",
+            "option_3": "Ifaranga",
+            "option_4": "Ikiringiti",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Radiyo",
+            "option_2": "Indabo z'amashaza",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Uruhara",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Fata utwangushye tujye kuvoma iriba ridakama",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Igare",
+            "option_3": "Umwumba w'insina",
+            "option_4": "Ishuri",
+            "correct_answer": "Ishuri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngwino unkize igisebs cy'umufunzo",
+            "option_1": "Umuturanyi mubi",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Uruhara rw'umusaza",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umuturanyi mubi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Umusazi",
+            "option_2": "Umutego",
+            "option_3": "Izuba ry'impeshyi",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ni iki cyatanze umuzungu kwicara mu ifuteyi",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Ifaranga",
+            "option_3": "Imbaragasa",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Imbaragasa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Icyanzu, ubunyereri",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Uruyange rw'amashaza",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirabakangaza ngo mutahe",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Inopfu",
+            "option_3": "Umwobo w'impiri",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kirabyataraye ku ntebe y'ikinyarwanda",
+            "option_1": "Amagambo yo ku rurembo",
+            "option_2": "Inyoni",
+            "option_3": "Ururimi n'amenyo",
+            "option_4": "Ikibya cy'umusaza",
+            "correct_answer": "Ikibya cy'umusaza"
+        }
+    }
+]

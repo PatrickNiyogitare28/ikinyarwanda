@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 170
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera amazi atemba ajya ruguru",
+            "option_1": "Izuba",
+            "option_2": "Umuheto",
+            "option_3": "Inzoga mu muheha",
+            "option_4": "Imyugariro",
+            "correct_answer": "Inzoga mu muheha"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho wabereye wari waterera Muhangiro",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Ikigori",
+            "option_3": "Igitoki",
+            "option_4": "Ikirunga",
+            "correct_answer": "Ikirunga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mugongo mugari mpekera abana",
+            "option_1": "Injangwe ihagaze ku meza ishaka imbeba",
+            "option_2": "Urutara",
+            "option_3": "Inzuki",
+            "option_4": "Umutego",
+            "correct_answer": "Urutara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hakurya ni urwererane, hakuno ni urwererane",
+            "option_1": "Umugore utwite",
+            "option_2": "Akaguru gacumbagira",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Ururabo rw'ikawa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Imvura",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Gusitara",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aka kariza so",
+            "option_1": "Ikiringiti",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Telefoni",
+            "option_4": "Ifaranga",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Akayira kajya mu kigega",
+            "option_2": "Ukwezi n'inyenyeri",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Ibitotsi",
+            "option_2": "Igisheke",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Amabere",
+            "option_2": "Ikiringiti",
+            "option_3": "Akatsi ko ku nzu",
+            "option_4": "Ibiboga byagaze",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hunga gahinda ataguca umurundi",
+            "option_1": "Igisheke",
+            "option_2": "Umucaca",
+            "option_3": "Inzoka",
+            "option_4": "Icyobo",
+            "correct_answer": "Inzoka"
+        }
+    }
+]

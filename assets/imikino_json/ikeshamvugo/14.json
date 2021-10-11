@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 12
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Iyo ufite komitimenti [commitment] kubaka inzu ntibigora",
+            "answer": "Iyo wabyiyemeje kubaka inzu  ntibigora"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Nyina wa data,  mama",
+            "answer": "Nyogokuru"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Aho babika inkota",
+            "answer": "Urwubati"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Imbere h'umuheto",
+            "answer": "Ku ruhembe"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Umukeno mwinshi",
+            "answer": "Imikeno (umwikubo w'umukeno urenze umwe)"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Isonga ry'uruhindu (umunwa)",
+            "answer": "Umuretso"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Amajwi menshi",
+            "answer": "Urwunge"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Abashatse abagore bava inda imwe",
+            "answer": "Abasanzire"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Ndamuyoka",
+            "answer": "Ndamubona (ndamutahura)"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Umwana wa nyirarume, nyirasenge w'umuntu",
+            "answer": "Umubyara, mubyara wa…"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Ibuye baseraho",
+            "answer": "Urusyo"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Amazi asohoka mu moko mbere y'uko inka ibyara",
+            "answer": "Inkanya"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Aho batereka amata",
+            "answer": "Uruhimbi"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Ay'inka yapfushije",
+            "answer": "Ubusuri"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Amata avanze n'amazi",
+            "answer": "Umwerera"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Ibiti bakingisha mu irembo",
+            "answer": "Imyugariro"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Ishyo ryinshi",
+            "answer": "Amashyo (umwikubo w'ishyo rirenze rimwe)"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Imbere mu nzu",
+            "answer": "Mu mbere"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Abajama",
+            "answer": "Urungano"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Kurangiza gukama",
+            "answer": "Guhumuza"
+        }
+    }
+]

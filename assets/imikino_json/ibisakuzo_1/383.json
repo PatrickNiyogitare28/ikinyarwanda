@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 160
+    },
+    {
+        "sakwe_1": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Inzuki",
+            "option_2": "Akayuzi mu rubibi",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Ishuri",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Wambazaga ibyo uzi kubera iki?",
+            "option_1": "Inzoga mu muheha",
+            "option_2": "Umwarimu",
+            "option_3": "Ubwoya bw'inka",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Umwarimu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nkandagiye itafari rimena itegura risakaza inkuru i Burayi",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umusuzi",
+            "option_3": "Radiyo",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gakore bakwice",
+            "option_1": "Ururimi",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Intoki ku biganza",
+            "correct_answer": "Agakono k'inzara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Giteye isusumira",
+            "option_1": "Imodoka",
+            "option_2": "Uruzi",
+            "option_3": "Umuvumbyi",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Uruzi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aka Manimbanimba aka Macikakingoma zo kwa Makombe",
+            "option_1": "Ibiradiyo biteganye",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Ikigori",
+            "option_4": "Imirya y'inanga",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rukara rw'umwami yicarira abagabo batatu",
+            "option_1": "Sone yo ku irembo",
+            "option_2": "Inkono",
+            "option_3": "Inuma ku rukoma",
+            "option_4": "Ururabo rw'ikawa",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngira imbehe nyinshi ariko nkabura iyo ndiraho",
+            "option_1": "Umwana w'uruhinja",
+            "option_2": "Ibiganza",
+            "option_3": "Gusitara",
+            "option_4": "Firigo",
+            "correct_answer": "Ibiganza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Umuvumbyi",
+            "option_2": "Imyambi y'ikibiriti",
+            "option_3": "Icyobo",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ubwatsi busakaye inzu",
+            "option_3": "Ibitotsi",
+            "option_4": "Ukwezi n'inyenyeri",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    }
+]

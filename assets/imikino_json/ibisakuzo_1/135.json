@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 568
+    },
+    {
+        "sakwe_1": {
+            "question": "Karisimbi irahongotse",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Amenyo",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Igisate cy'umutsima",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dore isoko idakama amazi",
+            "option_1": "Uruhara",
+            "option_2": "Ibirundiro",
+            "option_3": "Inzoga mu muheha",
+            "option_4": "Amarira mu maso",
+            "correct_answer": "Amarira mu maso"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Baragata bakagatanaga ubwiza bwako",
+            "option_1": "Igitiritiri",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Igisheke",
+            "option_4": "Isahani yaguye ingese",
+            "correct_answer": "Igitiritiri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Amata",
+            "option_2": "Amabya",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Ikibuno",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Ibizu bitagira abantu",
+            "option_3": "Ururimi rwawe",
+            "option_4": "Imbaragasa",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite ibuye rimena irindi",
+            "option_1": "Inyundo",
+            "option_2": "Ikiyoni",
+            "option_3": "Inyundo",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Inyama",
+            "option_3": "Amata",
+            "option_4": "Ibiganza",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kirisha amazuru",
+            "option_1": "Amase",
+            "option_2": "Umuvuba",
+            "option_3": "Akanyoni yaritse ku nzira",
+            "option_4": "Ibirenge by'umuntu",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngeze mu nzira mfunga feri",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Indege",
+            "option_3": "Gusitara",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Gusitara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abakobwa banjye baranaga amajosi",
+            "option_1": "Amashaza",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Urugoyi rw'ibishyimbo",
+            "option_4": "Indege",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 63
+    },
+    {
+        "sakwe_1": {
+            "question": "Ntoye ibyondo nsiga amenyo arabengerana",
+            "option_1": "Urutoryi",
+            "option_2": "Corogati",
+            "option_3": "Imbaragasa",
+            "option_4": "Akanyoni yaritse ku nzira",
+            "correct_answer": "Corogati"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inkera y' I Busasamana bayirara ku manywa",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Isoko",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Isoko"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata agafuni nanjye mfate akandi tujye gushaka icyabuze",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Inkono y'amapfa",
+            "option_3": "Inkware",
+            "option_4": "Inyundo",
+            "correct_answer": "Umuzi w'urutare"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hari ikintu, uretse wowe n'abandi baragikoresha",
+            "option_1": "Isusa",
+            "option_2": "Sone yo ku irembo",
+            "option_3": "Izina ryawe",
+            "option_4": "Inyundo",
+            "correct_answer": "Izina ryawe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Icyumweru",
+            "option_2": "Ifaranga",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Iyo umugore ageze mu rutoki abanza iki?",
+            "option_1": "Inyamunyo",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Inyama",
+            "option_4": "Ishuri",
+            "correct_answer": "Inyamunyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Wambazaga ibyo uzi kubera iki?",
+            "option_1": "Ingufuri hejuru y'isanduku",
+            "option_2": "Umwarimu",
+            "option_3": "Umukandara",
+            "option_4": "Amazi",
+            "correct_answer": "Umwarimu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana b'abarundi barasana bakiri bato",
+            "option_1": "Ifurwe",
+            "option_2": "Igisabo",
+            "option_3": "Impeke y'uburo",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Ifurwe"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagenze henshi mbura incuti",
+            "option_1": "Igisabo",
+            "option_2": "Urupfu",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Akarere ku nsina",
+            "correct_answer": "Urupfu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyiramakaraza imana y'i Karagwe, aragiriye ku ishyamba",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Ubwoya bw' inka",
+            "option_3": "Ikirungurira",
+            "option_4": "Isusa",
+            "correct_answer": "Ikirungurira"
+        }
+    }
+]

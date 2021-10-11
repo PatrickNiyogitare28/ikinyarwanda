@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 598
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze inyuma nibonamo imbere",
+            "option_1": "Icyumweru",
+            "option_2": "Igitoki",
+            "option_3": "Kwirebera mu kirahuri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Kwirebera mu kirahuri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nkubise ikimuga mbura urujyo",
+            "option_1": "Ibiti by'ikawa",
+            "option_2": "Umusuzi",
+            "option_3": "Agahinda k'inkumi",
+            "option_4": "Uruhara",
+            "correct_answer": "Umusuzi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Ikaramu",
+            "option_2": "Umukondo w'inyana",
+            "option_3": "Umwana w'umwami",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bagatake bagasamaze bakabihise ubwiza bwako",
+            "option_1": "Imanzi mu maribori",
+            "option_2": "Amenyo",
+            "option_3": "Insina; amateke",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Zenguruka duhure",
+            "option_1": "Umukandara",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngeze mu ishyamba rirahungabana",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Ibirundiro",
+            "option_3": "Akayunguruzo",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Inzara y'umusore"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Innyo y'ihene",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Isusa",
+            "option_3": "Ururabo rw'ikawa",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ntiwigore ndaje",
+            "option_1": "Ipikipiki",
+            "option_2": "Ifaranga",
+            "option_3": "Gusitara",
+            "option_4": "Agacaca",
+            "correct_answer": "Ipikipiki"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Radiyo",
+            "option_2": "Umusuzi",
+            "option_3": "Imbeho ku rugi",
+            "option_4": "Imbunda",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    }
+]

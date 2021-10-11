@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 601
+    },
+    {
+        "sakwe_1": {
+            "question": "Sarupfu yikoreye Sarupfu yindi",
+            "option_1": "Ikigori",
+            "option_2": "Icyugu mu nshoce",
+            "option_3": "Umwangange",
+            "option_4": "Umuntu uri kuri ipikipiki",
+            "correct_answer": "Umuntu uri kuri ipikipiki"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mugina ni uwa Muko",
+            "option_1": "Imutsi wo ku kibuno",
+            "option_2": "Akabuno k'imfizi",
+            "option_3": "Umusambi",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Imutsi wo ku kibuno"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata kagina tuyirase",
+            "option_1": "Akatsi ko ku nzu",
+            "option_2": "Umusore",
+            "option_3": "Urugo",
+            "option_4": "Intorezo; urushishi; intosho",
+            "correct_answer": "Urugo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Rukarata ruje rukamaira",
+            "option_1": "Ikigega",
+            "option_2": "Ababirigi",
+            "option_3": "Amaso",
+            "option_4": "Agasongero",
+            "correct_answer": "Ababirigi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ziravuga i Nyamirama",
+            "option_1": "Umutsima n'inyama",
+            "option_2": "Igitonyanga",
+            "option_3": "Akagata mu rwobo",
+            "option_4": "Inshuzi mu cyansi",
+            "correct_answer": "Inshuzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Dimba ikwege",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Urufunzo",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Ikiba cy'ubwatsi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngira umwana nkamugaburira urushyi rumwe agahaga",
+            "option_1": "Ikibwana cy'imbwa mu masinde",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Inkono y'itabi",
+            "option_4": "Agasuna",
+            "correct_answer": "Inkono y'itabi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana b'iwacu bicaye ku ntebe imwe",
+            "option_1": "Intoki",
+            "option_2": "Ikiganza",
+            "option_3": "Akayuki k'akungu",
+            "option_4": "Ibuye ryica isuka irindi rikayigorora",
+            "correct_answer": "Intoki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mama arusha nyoko amabuno",
+            "option_1": "Intembatembe",
+            "option_2": "Umusambi",
+            "option_3": "Imegeri",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Intembatembe"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Turadundaraye",
+            "option_1": "Utubyi tw'umushumba",
+            "option_2": "Igihumyo",
+            "option_3": "Umwumba w'urukoma",
+            "option_4": "Ikibyindi",
+            "correct_answer": "Utubyi tw'umushumba"
+        }
+    }
+]

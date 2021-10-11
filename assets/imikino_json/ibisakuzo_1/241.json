@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 89
+    },
+    {
+        "sakwe_1": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Intoki ku biganza",
+            "option_2": "Igitoki",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kirabyataraye ku ntebe y'ikinyarwanda",
+            "option_1": "Ikiyoni",
+            "option_2": "Umuvumbyi",
+            "option_3": "Ikibya cy'umusaza",
+            "option_4": "Umugono w'ishashi",
+            "correct_answer": "Ikibya cy'umusaza"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirisha amazuru",
+            "option_1": "Umuvuba",
+            "option_2": "Akayunguruzo",
+            "option_3": "Inzoga m'umuheha (umukenke)",
+            "option_4": "Izuba",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nubatse urugo hejuru y'urupfu",
+            "option_1": "Ikawa",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Igisheke",
+            "option_4": "Ubwato hejuru y'ikiyaga",
+            "correct_answer": "Ubwato hejuru y'ikiyaga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkubise umupira ugera i Ngozi",
+            "option_1": "Ibaruwa",
+            "option_2": "Amase",
+            "option_3": "Corogati",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aho Mutara na Mutaga barwaniye, nta cyatsi kizahamera",
+            "option_1": "Urwembe mu musatsi",
+            "option_2": "Imbeho ku rugi",
+            "option_3": "Akayunguruzo",
+            "option_4": "Uruhara",
+            "correct_answer": "Uruhara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera icyambuka amazi kitagira amaguru",
+            "option_1": "Imbwa mu masinde",
+            "option_2": "Ijwi",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyiramutarataje abagabo",
+            "option_1": "Ifundi mu mamera",
+            "option_2": "Telefoni",
+            "option_3": "Igitiritiri",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ariya mabuye ya rubarabara wayabara ukayarangiza",
+            "option_1": "Inyenyeri",
+            "option_2": "Inyamunyo",
+            "option_3": "Akanyoni yaritse ku nzira",
+            "option_4": "Ukwezi",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze ku gasozi nsama ifuro ry'amata",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Ikirungurira",
+            "option_4": "Iteke",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    }
+]

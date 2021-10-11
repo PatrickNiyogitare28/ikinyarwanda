@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 4
+    },
+    {
+        "sakwe_1": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Amateke",
+            "option_3": "Ishyiga ry'inyuma",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Ishyiga ry'inyuma"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rushiramazinda rwa ntibazirikana Rubanda mushishwa nabi",
+            "option_1": "Imbwa mu masinde",
+            "option_2": "Igisura",
+            "option_3": "Akazizi k'amata",
+            "option_4": "Gusaba uwo wenyine",
+            "correct_answer": "Gusaba uwo wenyine"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inka yanjye ishiturwa n'abagenzi",
+            "option_1": "Amata n'umutsima",
+            "option_2": "Igitama cyaguye mu mukokwe",
+            "option_3": "Igishirira kiguye mu mazi ashyushye",
+            "option_4": "Igikona",
+            "correct_answer": "Igikona"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera Nyirampirigita ombaba zitarya",
+            "option_1": "Inkono n'urweso",
+            "option_2": "Inzara yica umusore",
+            "option_3": "Ifuni mu rutara",
+            "option_4": "Igihuru gihiye uruhande rumwe",
+            "correct_answer": "Ifuni mu rutara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngira umurima w'ikibugabuga w'ikiyorero kimwe",
+            "option_1": "Agaca mu nkoko",
+            "option_2": "Ukwezi ku ijuru",
+            "option_3": "Ishoka mu giti",
+            "option_4": "Ubuheri mu gihata",
+            "correct_answer": "Ukwezi ku ijuru"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Iriboneye ntiritica",
+            "option_1": "Ubukumi bwa so na nyoko",
+            "option_2": "Inyundo z'abacuzi",
+            "option_3": "Igitoki n'insina bigwanye",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Ibere ry'inkumi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ca bugufi turase Rugingira",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Ifundi ku rukoma",
+            "option_3": "Umugore unnya kugihuru",
+            "option_4": "Amaraso ku murundi, umugezi utemba",
+            "correct_answer": "Ifundi ku rukoma"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Karimo muri byo",
+            "option_1": "Ikigagara",
+            "option_2": "Inkono ku ziko",
+            "option_3": "Akanigi mu ijosi",
+            "option_4": "Inzira ijya mu kigega",
+            "correct_answer": "Akanigi mu ijosi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Igira inyuma y'inzu ukubitwe n'inkuba",
+            "option_1": "Umugunguzi",
+            "option_2": "Intumbi y'ihene",
+            "option_3": "Umuhanda",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Kubona aho nyokobukwe yiyuhagira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rusimbuka mu gicu rwa Semugeshi ingombwe ya Rugina",
+            "option_1": "Akadiho k'imbwa",
+            "option_2": "Ingwe",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Imyambi mu murana",
+            "correct_answer": "Ingwe"
+        }
+    }
+]

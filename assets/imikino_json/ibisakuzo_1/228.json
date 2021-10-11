@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 268
+    },
+    {
+        "sakwe_1": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Radiyo",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Imvura",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Bihindira ikuzimu",
+            "option_1": "Gusitara",
+            "option_2": "Izuba",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Inkono y'amapfa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Cya matambatamba cya maguru munani",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Abavomyi",
+            "option_3": "Uruyuzi",
+            "option_4": "Agahinda k'umutima",
+            "correct_answer": "Uruyuzi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abazungu b'i Bujumbura baca urubanza bicaye",
+            "option_1": "Buji",
+            "option_2": "Umusuzi",
+            "option_3": "Umutego",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Imigomdoro yibishyimbo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Cyasamye kitaryana",
+            "option_1": "Umunyereri",
+            "option_2": "Igitiritiri",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Ikiryango cy'inzu",
+            "correct_answer": "Ikiryango cy'inzu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Umukondo w'inyana",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Imodoka yabuze lisansi",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Ibigori",
+            "option_2": "Umuyaga",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Akarago ko mu irebe",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Amabya",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Amabere",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_2": "Agasuzi",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Amatwi",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Intoki ku biganza",
+            "option_2": "Ibirundiro",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Insina",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 83
+    },
+    {
+        "sakwe_1": {
+            "question": "Cyagize amenyo cyabamaze",
+            "option_1": "Ikibwana cy'imbwa",
+            "option_2": "Ifuni",
+            "option_3": "Nyankari",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Nyankari"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramangiringiri nyir'amaso munani",
+            "option_1": "Urutete",
+            "option_2": "Ibigori",
+            "option_3": "Ikizubazuba",
+            "option_4": "Inkono ku mashyiga",
+            "correct_answer": "Urutete"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karisha gapfukamye",
+            "option_1": "Inzara n'umwijuto",
+            "option_2": "Inda mu mutwe",
+            "option_3": "Intasya",
+            "option_4": "Uruhu rw'imbwa",
+            "correct_answer": "Inda mu mutwe"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Abana banjye bangana bose",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Umutsima n'inyama",
+            "option_3": "Intebe",
+            "option_4": "Ifundi",
+            "correct_answer": "Ifundi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ko uri mukuru wa kera wari wabona umwami w'amenyo abiri?",
+            "option_1": "Ifaranga",
+            "option_2": "Umununi ku itabi",
+            "option_3": "Ikivumvuri",
+            "option_4": "Ibikingi by'irembo",
+            "correct_answer": "Ibikingi by'irembo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyirandirima umugore munini yicaye icukiro",
+            "option_1": "Ururimi",
+            "option_2": "Ipfupfu ry'impfizi",
+            "option_3": "Ikiyege",
+            "option_4": "Ikirizo cy'intama",
+            "correct_answer": "Ikiyege"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mbyutse kare mbona umuzimu mbaye intorezo",
+            "option_1": "Umwambi",
+            "option_2": "Insitare",
+            "option_3": "Umusambane",
+            "option_4": "Imbwa ifite igufa",
+            "correct_answer": "Imbwa ifite igufa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Iy'uruvurivundi, iy'uruvurivundi iyo bakubita ivu rigatuma",
+            "option_1": "Umusambi",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Umugunguzi",
+            "option_4": "Guhekenya amasaka",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kati \"kaci\" , kati \"hwi!!!\"",
+            "option_1": "Urukwavu",
+            "option_2": "Ibigori",
+            "option_3": "Agaca mu nkoko",
+            "option_4": "Umugondoro w'ibishyimbo",
+            "correct_answer": "Agaca mu nkoko"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Agakecuru Nyarudindiri kamanutse I Gacu na Mpanga kikoreye imigoma itanu",
+            "option_1": "Umusambi",
+            "option_2": "Imvura",
+            "option_3": "Akanyita k'uruhu",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Umusambi"
+        }
+    }
+]

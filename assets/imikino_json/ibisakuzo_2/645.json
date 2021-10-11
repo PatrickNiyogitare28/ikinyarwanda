@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 607
+    },
+    {
+        "sakwe_1": {
+            "question": "Akangaratete ka terera tugende dore umunsi uragiye",
+            "option_1": "Umusatsi ; urukangaga",
+            "option_2": "Inzara y'umusore",
+            "option_3": "Ibipfunsi",
+            "option_4": "Igare",
+            "correct_answer": "Igare"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera akakuriye mu murama",
+            "option_1": "Ibishyinga",
+            "option_2": "Akana kavutse kadashyitse",
+            "option_3": "Agahwa m'urwondo",
+            "option_4": "Inkono ku mashyiga",
+            "correct_answer": "Akana kavutse kadashyitse"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyabugenge n'ubugenge bwayo",
+            "option_1": "Ibitotsi",
+            "option_2": "Imende ku ruzi",
+            "option_3": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru",
+            "option_4": "Akana n'insina",
+            "correct_answer": "Inka icurika icebe ntimene amata; inzoka igenda itagira amaguru"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Iri waribonye he",
+            "option_1": "Akanyoni karitse ku nzira",
+            "option_2": "Intembatembe",
+            "option_3": "Imvura ku iteke",
+            "option_4": "Umurara w'uburo",
+            "correct_answer": "Umurara w'uburo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imisozi yarahiye isiga inkuba n'imiheto",
+            "option_1": "Amenyo",
+            "option_2": "Ikigoli",
+            "option_3": "Igitare",
+            "option_4": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "correct_answer": "Igitare"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kabatama ku bukoro",
+            "option_1": "Umuhazi ugwanye umuguta",
+            "option_2": "Ikirago",
+            "option_3": "Agahinda ku murima",
+            "option_4": "Ingata mu ruhira",
+            "correct_answer": "Ingata mu ruhira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera inkangara ya Makaci batera icumu igakinga ikibaba",
+            "option_1": "Inka mu mpinga",
+            "option_2": "Isake y'inkoko",
+            "option_3": "Ivunja",
+            "option_4": "Umugore unnya kugihuru",
+            "correct_answer": "Umugore unnya kugihuru"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera urujeje uruhumbura Jana",
+            "option_1": "Uruyange; amaguru ya muhuhirizi",
+            "option_2": "Umugore utwite",
+            "option_3": "Ijisho",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Uruyange; amaguru ya muhuhirizi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Isuka irokeye ni yo ihinga neza",
+            "option_1": "Inkono ku mashyiga",
+            "option_2": "Inda mu mutwe",
+            "option_3": "Akanigi mu ijosi",
+            "option_4": "Ikinwa cya nyirabarazana",
+            "correct_answer": "Ikinwa cya nyirabarazana"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Byumiye mu gasozi",
+            "option_1": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_2": "Igikona",
+            "option_3": "Amabyi y'umushumba",
+            "option_4": "Imyungu ku ruyuzi",
+            "correct_answer": "Amabyi y'umushumba"
+        }
+    }
+]

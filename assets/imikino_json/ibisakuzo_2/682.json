@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 437
+    },
+    {
+        "sakwe_1": {
+            "question": "Gakubite ugakubiranye",
+            "option_1": "Isovu",
+            "option_2": "Urubura",
+            "option_3": "Ikiba cy'ubwatsi",
+            "option_4": "Agakono k'amapfa",
+            "correct_answer": "Agakono k'amapfa"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kati \"bambari\", kati \"ba!\"",
+            "option_1": "Agatonyanga ku kigega",
+            "option_2": "Ingoma mu isoko",
+            "option_3": "Amasaka ku rusyo",
+            "option_4": "Ifundi mu murama",
+            "correct_answer": "Agatonyanga ku kigega"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hepfo macibiri haruguru macibiri",
+            "option_1": "Agahinda ku murima",
+            "option_2": "Imiduha",
+            "option_3": "Urutare",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Amabondo y'ihene"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inkuba",
+            "option_1": "Igihandure",
+            "option_2": "Rugo",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "K'umutima w'undi",
+            "correct_answer": "Rugo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Gikubise  Ngaru kubuguza ingabo",
+            "option_1": "Ikigore kivuye mu mazu kenshi",
+            "option_2": "Imbeba mu muguta",
+            "option_3": "Ibibonobono",
+            "option_4": "Ubuheri mu gihata",
+            "correct_answer": "Ikigore kivuye mu mazu kenshi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ujya kurasa inkuba arabandama",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Uruyuzi",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Ijoro",
+            "correct_answer": "Kwatsa mu ziko"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Umusigati",
+            "option_2": "Ishyari ntiriba rito",
+            "option_3": "Ikivumvuri",
+            "option_4": "Igishyitsi cy'umusave n'umubirizi",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera aho uzikundira ntuhatahe",
+            "option_1": "Amata n'amatezano; mukungwa na nyabarongo",
+            "option_2": "Gusaba uwo wenyine",
+            "option_3": "K'umutima w'undi",
+            "option_4": "Inyundo z'abacuzi",
+            "correct_answer": "K'umutima w'undi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ngateke ngatakure ngashimire ubwiza kameze",
+            "option_1": "Imyenge y'inzu",
+            "option_2": "Inyenyeri",
+            "option_3": "Imbeba mu muguta",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyoko arusha mama amabuno manini",
+            "option_1": "Uruhabuzo mu ntoke",
+            "option_2": "Ikizamini",
+            "option_3": "Igitembatembe",
+            "option_4": "Isovu",
+            "correct_answer": "Igitembatembe"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 477
+    },
+    {
+        "sakwe_1": {
+            "question": "Karavugira i Tanama",
+            "option_1": "Akarizo k'ihene",
+            "option_2": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_3": "Inshunzi mu cyansi",
+            "option_4": "Imizi y'urutare",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inka zanjye zaragiye zigaruka mu mpinga y'abankunda",
+            "option_1": "Ibiganza",
+            "option_2": "Inguri",
+            "option_3": "Uruhu rw'intama",
+            "option_4": "Umuyaga",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mtumye Mbindigiri i Nyanza",
+            "option_1": "Igiti gishigukanye n'imizi yacyo",
+            "option_2": "Inkangara",
+            "option_3": "Uburo n'urumanfu; amata y'inka n'ay'intama",
+            "option_4": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "correct_answer": "Inkangara"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ndi mugufi nyirazo",
+            "option_1": "Igicaniro; igisabo",
+            "option_2": "Imisoto y'ikigega",
+            "option_3": "Igikona",
+            "option_4": "Agatonyanga",
+            "correct_answer": "Igicaniro; igisabo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata inkoni mfate indi tujye gukubita Rutabyuka ku Mukobwe",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Ikiziba mu mpinga",
+            "option_3": "Akumba k'urukoma",
+            "option_4": "Igihu",
+            "correct_answer": "Igihu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rutangira yamennye intango",
+            "option_1": "Impururu z'umutindi",
+            "option_2": "Ikibyindi",
+            "option_3": "Umwobo mu nzira",
+            "option_4": "Umuheto",
+            "correct_answer": "Umwobo mu nzira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ngiye inyuma y'inzu ntoragura umuhoro",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Ururimi",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Uruyongoyongo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nduzi abamikazi bateze inigi",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Ijisho rya mukeba",
+            "option_3": "Ikinyankari",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera igisogo nyamutentema",
+            "option_1": "Umuziha w'inzovu",
+            "option_2": "Umugore ujya kuzimura",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Ikiziba mu mpinga",
+            "correct_answer": "Umuziha w'inzovu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mushenyi araguye n'ingabo y'umuyobe",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Igitokd kigwanye n'insina",
+            "option_3": "Ikijumba",
+            "option_4": "Ibuye n'umutarimba",
+            "correct_answer": "Igitokd kigwanye n'insina"
+        }
+    }
+]

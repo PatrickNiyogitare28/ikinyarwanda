@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 471
+    },
+    {
+        "sakwe_1": {
+            "question": "Amazi yacu arusha ay'ahandi kuryoha",
+            "option_1": "Amata",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Ishuri",
+            "option_4": "Umukecuru wataye ikijigo cye",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aka katega so",
+            "option_1": "Agacaca",
+            "option_2": "Agakecuru kocyejwe n'igikoma",
+            "option_3": "Sone yo ku irembo",
+            "option_4": "Kaburimbo",
+            "correct_answer": "Agacaca"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Maguru mane ahagaze kuri maguru mane ashaka maguru mane",
+            "option_1": "Ururimi rwawe",
+            "option_2": "Intete z'ibigori",
+            "option_3": "Urwiri",
+            "option_4": "Injangwe ihagaze ku meza ishaka imbeba",
+            "correct_answer": "Injangwe ihagaze ku meza ishaka imbeba"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Icyobo",
+            "option_2": "Ikinyugunyugu",
+            "option_3": "Inyamunyo",
+            "option_4": "Agasuzi",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Bagatake bagasamaze bakabihise ubwiza bwako",
+            "option_1": "Izuba",
+            "option_2": "Umuporisi",
+            "option_3": "Imanzi mu maribori",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Imanzi mu maribori"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Ibaruwa",
+            "option_2": "Isekuru",
+            "option_3": "Igisozi kirekire",
+            "option_4": "Ikaziya ya primus",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kirisha amazuru",
+            "option_1": "Sida",
+            "option_2": "Umuvuba",
+            "option_3": "Umukecuru wurira ikigega",
+            "option_4": "Amarira mu maso",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Ifaranga",
+            "option_2": "Akarere ku nsina",
+            "option_3": "Ipikipiki",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rutuku mu gitebo",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Ikirungurira",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Kaburimbo",
+            "correct_answer": "Umuzungu mu modoka"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akababaje umugabo kamurenza impinga",
+            "option_1": "Ifaranga",
+            "option_2": "Ikaziya ya primus",
+            "option_3": "Inyenyeri",
+            "option_4": "Igitoki",
+            "correct_answer": "Ifaranga"
+        }
+    }
+]

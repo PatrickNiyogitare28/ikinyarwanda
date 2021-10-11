@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 451
+    },
+    {
+        "sakwe_1": {
+            "question": "Inyama y'urusaku mu rugo rw'imiseke imbere nyamagana",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Ururimi n'amenyo",
+            "option_3": "Uruhara rw'umusaza",
+            "option_4": "Inopfu",
+            "correct_answer": "Ururimi n'amenyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze ku ruhiza nyara i Buriza nti Bahinzi nimuhingure",
+            "option_1": "Inzoga m'umuheha (umukenke)",
+            "option_2": "Icyumweru",
+            "option_3": "Umukobwa ubonye iwabo hashya",
+            "option_4": "Inyundo",
+            "correct_answer": "Icyumweru"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Hari agate utakurira",
+            "option_1": "Isusa",
+            "option_2": "Umunyereri",
+            "option_3": "Imisozi",
+            "option_4": "Imodoka",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mama nanjye nararushye",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Igare",
+            "correct_answer": "Akarago ko mu irebe"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpagaze hasi umutwe nywukoza ku ijuru",
+            "option_1": "Ibirago",
+            "option_2": "Igisenge",
+            "option_3": "Urwiri",
+            "option_4": "Ibinono by'inka",
+            "correct_answer": "Igisenge"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ko undeba ndaguha",
+            "option_1": "Uruyuzi",
+            "option_2": "Urukoma n'insina",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Imyenge y'inzu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Rukara aratema umuvumba",
+            "option_1": "Imvura",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Urwembe mu musatsi",
+            "option_4": "Amabere",
+            "correct_answer": "Urwembe mu musatsi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ubutaka bw'iwacu turabuteka",
+            "option_1": "Inyoni",
+            "option_2": "Ifaranga",
+            "option_3": "Amabya",
+            "option_4": "Ifu",
+            "correct_answer": "Ifu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Ifaranga",
+            "option_3": "Inyundo",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inkera y' I Busasamana bayirara ku manywa",
+            "option_1": "Umuvuba",
+            "option_2": "Umuzungu n'umwirabura",
+            "option_3": "Umupira mu izamu",
+            "option_4": "Isoko",
+            "correct_answer": "Isoko"
+        }
+    }
+]

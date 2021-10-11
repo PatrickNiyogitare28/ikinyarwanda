@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 742
+    },
+    {
+        "sakwe_1": {
+            "question": "Nyirabugenge n'ubugenge bwayo",
+            "option_1": "Igihandure",
+            "option_2": "Ikiryango cy'inzu",
+            "option_3": "Inzoka mu kugenda nta maguru",
+            "option_4": "Inkono",
+            "correct_answer": "Inzoka mu kugenda nta maguru"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngenda bwangu nkogoga amahanga",
+            "option_1": "Umuvumbyi",
+            "option_2": "Indege",
+            "option_3": "Gusitara",
+            "option_4": "Kwatsa mu ziko",
+            "correct_answer": "Indege"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Ikivumvuri",
+            "option_2": "Umuheto",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Insina; amateke",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nkeje Umwami wo mu kirere, angabira ibiryoshye",
+            "option_1": "Ijuru n'ukwezi",
+            "option_2": "Igisozi kirekire",
+            "option_3": "Inzuki",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Inzuki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hari agate utakurira",
+            "option_1": "Ubwoya bw' inka",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Ikibya cy'umusaza",
+            "option_4": "Umunyereri",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngwino unkize igisebs cy'umufunzo",
+            "option_1": "Inyundo",
+            "option_2": "Umurabyo",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Umuturanyi mubi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera inyamaswa igendesha amaguru 4 mu gitondo, amaguru 2 saa sita, n'amaguru 3 nimugoroba",
+            "option_1": "Ikivugirizo",
+            "option_2": "Umuntu",
+            "option_3": "Imodoka yabuze feri",
+            "option_4": "Intare",
+            "correct_answer": "Umuntu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyoko si ukunnya arahurutura",
+            "option_1": "Imvura",
+            "option_2": "Ijuru n'ukwezi",
+            "option_3": "Ikivumvuri",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Akayunguruzo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Intare",
+            "option_2": "Igihandure",
+            "option_3": "Inzu itagira abantu",
+            "option_4": "Imisatsi y'ibigori",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abarebare baje ubu",
+            "option_1": "Inzara n'inyota",
+            "option_2": "Imihanda, uruzi, inzira",
+            "option_3": "Uruyuzi",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Imihanda, uruzi, inzira"
+        }
+    }
+]

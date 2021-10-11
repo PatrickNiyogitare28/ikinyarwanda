@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 354
+    },
+    {
+        "sakwe_1": {
+            "question": "Urambaze wampaye iki?",
+            "option_1": "Igikuku",
+            "option_2": "Umugozi w'ibijumba",
+            "option_3": "Akamuga karimo ibishyimbo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Umugozi w'ibijumba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera ububumbabumbe bubiri mu itaba ry'umusozi",
+            "option_1": "Injishi y'igisabo",
+            "option_2": "Amazi mu gisura",
+            "option_3": "Amabere",
+            "option_4": "Intore y'amahingura",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera amakara y'umuntu",
+            "option_1": "Inkono n' ibipfuko",
+            "option_2": "Umunyinya",
+            "option_3": "Igiti gishigukanye n'imizi yacyo",
+            "option_4": "Umusatsi",
+            "correct_answer": "Umusatsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "I Burundi n'i Bunyabungo inama ni imwe",
+            "option_1": "Uruhiza",
+            "option_2": "Amaraso ku murundi, umugezi utemba",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Inkono ku ziko"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Wacana mu ruzi umuriro ukaka?",
+            "option_1": "Akabeba mu buki",
+            "option_2": "Radiyo",
+            "option_3": "Inzu",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Radiyo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inyumba isakaje inyuma",
+            "option_1": "Imigondoro y'ibishyimbo",
+            "option_2": "Ikinyogote",
+            "option_3": "Ikiyege",
+            "option_4": "Igitonyanga cy'imvura",
+            "correct_answer": "Ikinyogote"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Terera Rubona ubone ishyano",
+            "option_1": "Uruyuki",
+            "option_2": "Umudwedwe",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Inzu",
+            "correct_answer": "Uburiri bw'umwami"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kari n'ikindi karakina mu gikari",
+            "option_1": "Umwobo mu masaka",
+            "option_2": "Urushishi rufite ishaka",
+            "option_3": "Akayuki",
+            "option_4": "Umuhazi ugwanye umuguta",
+            "correct_answer": "Akayuki"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kenyera tubyine urumasha",
+            "option_1": "Ivubi; uruyuki",
+            "option_2": "Agafuni mu mushike",
+            "option_3": "Inzira ijya mu kigega",
+            "option_4": "Agahinda mu nda",
+            "correct_answer": "Agafuni mu mushike"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Rukara rw'amacece aturutse hirya wayacekwa",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Umusirikare",
+            "option_3": "Imodoka",
+            "option_4": "Inshunzi z'amata mu cyansi",
+            "correct_answer": "Umusirikare"
+        }
+    }
+]

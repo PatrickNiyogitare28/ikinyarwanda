@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 159
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo zirabyina urungora",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Umwana uri munda ya nyina",
+            "option_3": "Ifaranga",
+            "option_4": "Icyiyone",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rukara rw'amacece aturutse hirya nyoko arayacekwa",
+            "option_1": "Ubuzuru bw'imbwa",
+            "option_2": "Icyibo",
+            "option_3": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_4": "Imodoka",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rushiramazinda rwa ntibazirikana Rubanda mushishwa nabi",
+            "option_1": "Gusaba uwo wenyine",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Agatonyanga",
+            "option_4": "Ururimi mu kanywa",
+            "correct_answer": "Gusaba uwo wenyine"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Inyabubiri inyabutatu Barbara ntibayishobore",
+            "option_1": "Amaguru ya muhuhirizi",
+            "option_2": "Umusatsi",
+            "option_3": "Umugezi",
+            "option_4": "Ifaranga",
+            "correct_answer": "Amaguru ya muhuhirizi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nkubise inkoni hasi ndi mu gikari intanga ikambere",
+            "option_1": "Amazimwe yo ku rurembo",
+            "option_2": "Umuntu uri ku ipikipiki",
+            "option_3": "Igihuru gihiye uruhande rumwe",
+            "option_4": "Inkono",
+            "correct_answer": "Amazimwe yo ku rurembo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rwigira inturike",
+            "option_1": "Umugata",
+            "option_2": "Intumbi y'ihene",
+            "option_3": "Ikibando n'urugi; urugi ku muryango",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Intumbi y'ihene"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kubira so hepfo mukubire haruguru tumwite Rwabuzutu",
+            "option_1": "Umuyaga",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Umutobotobo",
+            "option_4": "Umuyaga",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyabwumira mu ijana",
+            "option_1": "Urukorogoto",
+            "option_2": "Imirizo y'inka",
+            "option_3": "Guhambiriza igitoki ibirere; guhambiriza inshinge indi",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Urukorogoto"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Wikoza hasi wikoza hejuru ntuzabona ishinya ya Dede",
+            "option_1": "Igifu",
+            "option_2": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_3": "Urusogo mu mukobwe",
+            "option_4": "Umunyorogoto",
+            "correct_answer": "Ishinya y'urukwavu; ishinya y'urushishi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Inyabune ya butanu yagiye kwenda inani kwa mirongo inani",
+            "option_1": "Imirya y'intanga",
+            "option_2": "Intobo",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Ubwato mu kiyaga; mu ruzi",
+            "correct_answer": "Imirya y'intanga"
+        }
+    }
+]

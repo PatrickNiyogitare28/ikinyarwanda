@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 402
+    },
+    {
+        "sakwe_1": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Uruyuzi",
+            "option_3": "Isekuru",
+            "option_4": "Ivu",
+            "correct_answer": "Isekuru"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Abazungu bazanye byinshi n'ibizatuzura",
+            "option_1": "Akayunguruzo",
+            "option_2": "Ifaranga",
+            "option_3": "Izuba",
+            "option_4": "Icyanzu",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mpagaze mu gahinga nyarira ab‘epfo",
+            "option_1": "Isusa",
+            "option_2": "Imvura",
+            "option_3": "Ishapure n'amasengesho",
+            "option_4": "Akayunguruzo",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Ikiringiti",
+            "option_2": "Ibitotsi",
+            "option_3": "Ururabo",
+            "option_4": "Ikibuno",
+            "correct_answer": "Ikibuno"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Ururimi",
+            "option_3": "Igare",
+            "option_4": "Umuyaga mu muyange",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Hakurya urwererane, hakuno urwererane",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Igihepfu ku mugina",
+            "correct_answer": "Ururabo ry'amashyaza"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inyabutatu yagiye kwenda inyabutanu kwa mirongo itanu",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Ikirungurira",
+            "option_3": "Umuyaga mu muyange",
+            "option_4": "Igitagangurirwa",
+            "correct_answer": "Igitagangurirwa"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite icyumba gihora gikonje",
+            "option_1": "Ikiryango cy'inzu",
+            "option_2": "Kwirebera mu kirahuri",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Firigo",
+            "correct_answer": "Firigo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Igisenge",
+            "option_2": "Inyenyeri",
+            "option_3": "Umucaca",
+            "option_4": "Akaguru gacumbagira",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Umusuzi wa so",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    }
+]

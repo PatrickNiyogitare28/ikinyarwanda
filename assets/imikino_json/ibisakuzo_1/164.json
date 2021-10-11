@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 344
+    },
+    {
+        "sakwe_1": {
+            "question": "Nahuye na Rugondo arebesha amaso ane",
+            "option_1": "Ibiti by'ikawa",
+            "option_2": "Ishuri",
+            "option_3": "Umuzungu wambaye amadarubindi",
+            "option_4": "Inkono y'amapfa",
+            "correct_answer": "Umuzungu wambaye amadarubindi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kirarumbaraye",
+            "option_1": "Igisozi kirekire",
+            "option_2": "Umwana w'uruhinja",
+            "option_3": "Uruhinja",
+            "option_4": "Igitoki",
+            "correct_answer": "Igisozi kirekire"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Ivunja",
+            "option_2": "Umugore ujya iwabo",
+            "option_3": "Umuvure",
+            "option_4": "Ibinono by'inka",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Aka katega so",
+            "option_1": "Ibirago",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Umugore utwite",
+            "option_4": "Agacaca",
+            "correct_answer": "Agacaca"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Ikibyindi cy'umushumba",
+            "option_2": "Akayuzi mu rubibi",
+            "option_3": "Ibitotsi",
+            "option_4": "Telefoni",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye nyizirika ku nzira uyinyuzeho wese akayishitura",
+            "option_1": "Agasongero k'inzu",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Urutoryi",
+            "option_4": "Ikibyindi cy'umushumba",
+            "correct_answer": "Urutoryi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Iyo umugabo ageze mu rutopki abanza iki?",
+            "option_1": "Izuba ry'impeshyi",
+            "option_2": "Imisatsi y'ibigori",
+            "option_3": "Ikivugirizo",
+            "option_4": "Ibiryo biri mu nkono ifite imbyiro",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Amazi yacu arusha ay'ahandi kuryoha",
+            "option_1": "Imbwa ishumitse",
+            "option_2": "Amata",
+            "option_3": "Ikiyoni",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Umugezi wanjye utemba uzamuka",
+            "option_1": "Akarere ku nsina",
+            "option_2": "Urugoyi rw'ibishyimbo",
+            "option_3": "Igitiritiri",
+            "option_4": "Inzoga m'umuheha (umukenke)",
+            "correct_answer": "Inzoga m'umuheha (umukenke)"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abana ba mukeba bambaye imigoma bose",
+            "option_1": "Agakecuru kocyejwe n'igikoma",
+            "option_2": "Ibigori",
+            "option_3": "Imisatsi y'ibigori",
+            "option_4": "Urwiri",
+            "correct_answer": "Ibigori"
+        }
+    }
+]

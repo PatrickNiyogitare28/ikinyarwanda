@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 538
+    },
+    {
+        "sakwe_1": {
+            "question": "Rwamacugi iracugita nyoko",
+            "option_1": "Inda mu nkanda",
+            "option_2": "Icyiyoni mu isoko",
+            "option_3": "Ubwato mu ruzi",
+            "option_4": "Ishoka mu giti",
+            "correct_answer": "Inda mu nkanda"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rugaju ruberezi",
+            "option_1": "Igisate cy'umutsima",
+            "option_2": "Icyugu",
+            "option_3": "Akumba k'urukoma",
+            "option_4": "Ubukumi bwa so na nyoko",
+            "correct_answer": "Igisate cy'umutsima"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mvumbuye inyamaswa itagira umurizo",
+            "option_1": "Intosho",
+            "option_2": "Umusigati",
+            "option_3": "Imbeho ku rugi",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Intosho"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kera imbere kakirabura inyuma kagatona ibwami",
+            "option_1": "Urubariro",
+            "option_2": "Ikigagara",
+            "option_3": "Igare",
+            "option_4": "Igitoki",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpuye na Ruganzu yikoreye igitebo cy'intama",
+            "option_1": "Inda mu nkanda",
+            "option_2": "Ibishyinga",
+            "option_3": "Inyenyeri",
+            "option_4": "Ibisunzu bya rusake",
+            "correct_answer": "Ibisunzu bya rusake"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Gashinze i Gasebeya",
+            "option_1": "Ururimi mu kanywa",
+            "option_2": "Umuhotora; umuhoro",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Uruyongoyongo",
+            "correct_answer": "Akarizo k'ihene"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ntereye Ndiza ngeze mu mpinga nibuka umugenzi nsize inyuma",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Agasuzi",
+            "option_3": "Mu murima w'inkoko",
+            "option_4": "Umubiri w'umuntu",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ntereye akabuye mu gihuru kagaruka kavuga amanzenzi",
+            "option_1": "Uruhu rw'intama",
+            "option_2": "Umusore warongoye",
+            "option_3": "Umuvumbuko w'intare",
+            "option_4": "Agahinda ku mutima",
+            "correct_answer": "Umuvumbuko w'intare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mvuye aha ncumbagira ngera iyo nshaka",
+            "option_1": "Uruboho",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Ikiyiko ku mbehe",
+            "option_4": "Intoki",
+            "correct_answer": "Uruboho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Amaguru y'umusambi",
+            "option_2": "Ifurwe",
+            "option_3": "Akana n'insina",
+            "option_4": "Ubwato mu ruzi",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    }
+]

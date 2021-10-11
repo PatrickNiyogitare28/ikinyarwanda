@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 207
+    },
+    {
+        "sakwe_1": {
+            "question": "Iteze neza ntiyica",
+            "option_1": "Ikijumba",
+            "option_2": "Ikivugirizo",
+            "option_3": "Ikivumvuri",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Ibere ry'inkumi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Fata ubwato mfate ubundi tujye kwambutse ibitayega",
+            "option_1": "Ikibyindi",
+            "option_2": "Inuma mu ntabire",
+            "option_3": "Umugore utwite",
+            "option_4": "Amazi ku rukangara",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Karavugira i Tanama",
+            "option_1": "Ishinya y'urukwavu; ishinya y'urushishi",
+            "option_2": "Umuntu uri kuri ipikipiki",
+            "option_3": "Umuhazi ugwanye umuguta",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Inshunzi mu cyansi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ni jye muzindutsi wa cyane nasanze umupfu atsibagura inzira",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Umunyorogoto",
+            "option_3": "Ubwato",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umunyorogoto"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Imparakajosi ya Nyamujyana, impara ironsa batanu",
+            "option_1": "Imbaragasa mu kirenge",
+            "option_2": "Umuheto n'imyambi",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Igisenge cy'inzu",
+            "correct_answer": "Umuheto n'imyambi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kati \"bambari\", kati \"ba!\"",
+            "option_1": "Agatonyanga ku kigega",
+            "option_2": "Ijisho",
+            "option_3": "Ubutanda ku muvure",
+            "option_4": "Ikirenge",
+            "correct_answer": "Agatonyanga ku kigega"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera igitutsi kimanutse kwa Rwatangaho cyiteye imigoma itatu",
+            "option_1": "Umuganda",
+            "option_2": "Ikigori",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Ibisunzu bya rusake",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Bucunya butisiga",
+            "option_1": "Amasaka n'urukungu",
+            "option_2": "Umurabyo",
+            "option_3": "Amasuka",
+            "option_4": "Ubuzuru bw'imbwa",
+            "correct_answer": "Ubuzuru bw'imbwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mushenyi iti \"Jya\", Rwagashya ati \"ndinda\"",
+            "option_1": "Inkuba n'umurabyo",
+            "option_2": "Uruhindu rw'indushyi",
+            "option_3": "Umwangange",
+            "option_4": "Umwobo mu masaka",
+            "correct_answer": "Inkuba n'umurabyo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nambutse uruzi ndangaje innyo",
+            "option_1": "Imboni",
+            "option_2": "Urutare",
+            "option_3": "Igiseke",
+            "option_4": "Umugata",
+            "correct_answer": "Umugata"
+        }
+    }
+]

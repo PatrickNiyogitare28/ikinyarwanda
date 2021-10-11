@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 116
+    },
+    {
+        "sakwe_1": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Ibirundiro",
+            "option_2": "Ivunja",
+            "option_3": "Impeke y'uburo",
+            "option_4": "Urukoma n'insina",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karatembashyashya",
+            "option_1": "Agahinda k'umutima",
+            "option_2": "Akarago ko mu irebe",
+            "option_3": "Amabere y'inkumi",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Amazi ku iteke"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ndumwe nkatunga benshi",
+            "option_1": "Imbunda",
+            "option_2": "Imana",
+            "option_3": "Ikawa",
+            "option_4": "Indege",
+            "correct_answer": "Imana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hari agate utakurira",
+            "option_1": "Igikoro",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Umunyereri",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akamanimbanimba,ingoma zo kwa Magagi zivuga zinihira",
+            "option_1": "Ikawa n'umumenamabuye",
+            "option_2": "Inyoni",
+            "option_3": "Ibikongorwa by'ibisheke",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kamanutse ijuru kaza gukora ishyano mu Rwanda",
+            "option_1": "Inkoko n'inkware",
+            "option_2": "Igihepfu ku mugina",
+            "option_3": "Ifaranga",
+            "option_4": "Ijambo rya perezida",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mutamu irabyina mu gatabire",
+            "option_1": "Igisabo",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Ubunyereri",
+            "option_4": "Gusitara",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mama shenge",
+            "option_1": "Umwana w'uruhinja",
+            "option_2": "Ikiringiti",
+            "option_3": "Umuzungu n'umwirabura",
+            "option_4": "Ikibuno",
+            "correct_answer": "Umwana w'uruhinja"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Rwakajwiga arira ku nkomo",
+            "option_1": "Ijuru n'ukwezi",
+            "option_2": "Umusatsi w'intabwa",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Amapapayi",
+            "correct_answer": "Imbwa ishumitse"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Ifaranga",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Umugore utwite",
+            "option_4": "Amatwi",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    }
+]

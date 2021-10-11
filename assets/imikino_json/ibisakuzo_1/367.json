@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 552
+    },
+    {
+        "sakwe_1": {
+            "question": "Bagiteye icumu gicumba umwotsi",
+            "option_1": "Umwana w'umwami",
+            "option_2": "Igisheke",
+            "option_3": "Ikaramu",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Ikinyugunyugu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Umuturanyi mubi",
+            "option_2": "Ivunja",
+            "option_3": "Ibirundiro",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Ibitotsi",
+            "option_2": "Ururabo",
+            "option_3": "Isahani yaguye ingese",
+            "option_4": "Izuba",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ruganzu araguye n'ingabo ze",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Igitoki",
+            "option_3": "Ibiti by'ikawa",
+            "option_4": "Kudashyira ingasire mu masaka ngo iyasye",
+            "correct_answer": "Igitoki"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mfite inkwi zanjye zumye, ariko nazicana ntizake",
+            "option_1": "Imodoka yabuze feri",
+            "option_2": "Igikeri",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Ifurwe",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aho ndaye n'aho ngeze mpasiga umwanda",
+            "option_1": "Inzara y'umusore",
+            "option_2": "Televiziyo",
+            "option_3": "Ivu",
+            "option_4": "Amase y'inka",
+            "correct_answer": "Amase y'inka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Gaju irashubera mu mukenke",
+            "option_1": "Kaburimbo",
+            "option_2": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_3": "Umuyaga",
+            "option_4": "Inopho",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mutumbagira wa Rujugira",
+            "option_1": "Ikawa",
+            "option_2": "Umwumba w'insina",
+            "option_3": "Ifu",
+            "option_4": "Ibishokoro",
+            "correct_answer": "Umwumba w'insina"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Giteye isusumira",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Agahinda k'inkumi",
+            "option_3": "Uruzi",
+            "option_4": "Umuturanyi mubi",
+            "correct_answer": "Uruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Gahanitse ari keza",
+            "option_1": "Gusitara",
+            "option_2": "Igitoki",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Imitumba",
+            "correct_answer": "Inyegamo y'umusore warongoye"
+        }
+    }
+]

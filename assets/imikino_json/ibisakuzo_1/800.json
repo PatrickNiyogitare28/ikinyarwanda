@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 132
+    },
+    {
+        "sakwe_1": {
+            "question": "Nagutera ikibyutsa umugabo mu gicuku",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Ifaranga",
+            "option_3": "Isake ifite ibirokoroko",
+            "option_4": "Imigozi y'ibijumba; inkwana z'amateke",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Wambazaga ibyo uzi kubera iki?",
+            "option_1": "Umwarimu",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Kubuza umuryi kurya",
+            "correct_answer": "Umwarimu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Mfite umugabo unganza",
+            "option_1": "Amase y'inka",
+            "option_2": "Urwiri",
+            "option_3": "Ibitotsi",
+            "option_4": "Urwina",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Hari agate utakurira",
+            "option_1": "Umurozi",
+            "option_2": "Umunyereri",
+            "option_3": "Amatwi",
+            "option_4": "Urwina",
+            "correct_answer": "Umunyereri"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Ivunja",
+            "option_2": "Akayira kajya mu kigega",
+            "option_3": "Agakono k'inzara",
+            "option_4": "Amase",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Aho ndaye n'aho ngeze mpasiga umwanda",
+            "option_1": "Amase y'inka",
+            "option_2": "Ifaranga ku meza",
+            "option_3": "Indege",
+            "option_4": "Akanyamasyo",
+            "correct_answer": "Amase y'inka"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nzamutse umusozi ndizihirwa",
+            "option_1": "Televiziyo",
+            "option_2": "Ikirunga",
+            "option_3": "Umugore ujya iwabo",
+            "option_4": "Akabyindi k'umushumba",
+            "correct_answer": "Umugore ujya iwabo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Ishuri",
+            "option_2": "Ibabi by'ibibonobono",
+            "option_3": "Ifaranga",
+            "option_4": "Umukondo w'inyana",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mukore ubone",
+            "option_1": "Umuvure",
+            "option_2": "Umwana w'umwami",
+            "option_3": "Umugore utwite",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Ikaramu",
+            "option_2": "Ururabo ry'amashyaza",
+            "option_3": "Gusaba uwo wimye",
+            "option_4": "Ifaranga",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    }
+]

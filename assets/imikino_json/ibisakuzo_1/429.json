@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 127
+    },
+    {
+        "sakwe_1": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Igikatsi",
+            "option_2": "Isakamburira ry'inzu",
+            "option_3": "Akayuzi mu rubibi",
+            "option_4": "Inkingi",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Imbeho ku rugi",
+            "option_2": "Amarira mu maso",
+            "option_3": "Ivunja",
+            "option_4": "Amata",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ca bugufi uce nyokobukwe indiba y'innyo",
+            "option_1": "Igare rigeze ahazamuka",
+            "option_2": "Igikoro, igihaza",
+            "option_3": "Imanzi mu maribori",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Igikoro, igihaza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyagiwe n'imvura imbuza guhinga",
+            "option_1": "Imvura",
+            "option_2": "Amacandwe y'incira",
+            "option_3": "Ifaranga",
+            "option_4": "Ubunyereri",
+            "correct_answer": "Amacandwe y'incira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ni nde watanze umuzungu kwicara mu ifoteyi?",
+            "option_1": "Umubagazi",
+            "option_2": "Ivunja",
+            "option_3": "Isakamburira ry'inzu",
+            "option_4": "Igare",
+            "correct_answer": "Ivunja"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mpagaze mu gahinga nyarira ab‘epfo",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Indumane",
+            "option_3": "Imbwa ishumitse",
+            "option_4": "Imvura",
+            "correct_answer": "Imvura"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mfite umukobwa wanjye uje wese adumbamo",
+            "option_1": "Isekuru",
+            "option_2": "Ibiganza",
+            "option_3": "Inkingi",
+            "option_4": "Igitoki",
+            "correct_answer": "Isekuru"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kuba ahirengeye siko kwumva",
+            "option_1": "Imbaragasa",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Intoki ku biganza",
+            "option_4": "Imvura",
+            "correct_answer": "Agasongero k'inzu"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Intete z'ibigori",
+            "option_2": "Agasuzi",
+            "option_3": "Ibiboga byagaze",
+            "option_4": "Agakecuru kocyejwe n'igikoma",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nabonye umugenzi ku nziga ebyiri",
+            "option_1": "Umuporisi",
+            "option_2": "Televiziyo",
+            "option_3": "Igare",
+            "option_4": "Izina ryawe",
+            "correct_answer": "Igare"
+        }
+    }
+]

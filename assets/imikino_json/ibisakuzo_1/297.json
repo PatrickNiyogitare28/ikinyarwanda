@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 586
+    },
+    {
+        "sakwe_1": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Ivunja mu kirenge",
+            "option_2": "Agasongero k'inzu",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Indabo z'amashaza",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite abakobwa benshi, ariko uwapfuye ijisho muri bo yabatanze gusabwa",
+            "option_1": "Imigomdoro yibishyimbo",
+            "option_2": "Akanyarirajisho",
+            "option_3": "Inopho",
+            "option_4": "Firigo",
+            "correct_answer": "Inopho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nyagiwe n'imvura imbuza guhinga",
+            "option_1": "Amacandwe y'incira",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Sone yo ku irembo",
+            "correct_answer": "Amacandwe y'incira"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ubutaka bw'iwacu turabuteka",
+            "option_1": "Ifu",
+            "option_2": "Agatsinsino",
+            "option_3": "Umusuzi",
+            "option_4": "Imisozi",
+            "correct_answer": "Ifu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Umugina mu rufunzo",
+            "option_2": "Imigomdoro yibishyimbo",
+            "option_3": "Amata",
+            "option_4": "Agatonyanga k'imvura",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nyamara naza nkaguha amahoro",
+            "option_1": "Inyundo mu ruganda",
+            "option_2": "Ikigori",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Umusatsi ku mutwe",
+            "correct_answer": "Ibitotsi bya mu gitondo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Imirya y'inanga",
+            "option_2": "Ibibabi by'ikibonobono",
+            "option_3": "Umutwe",
+            "option_4": "Igikatsi",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Mfite inka yimira mu ibondo ikabyarira mu rubavu",
+            "option_1": "Umuvure",
+            "option_2": "Akayunguruzo",
+            "option_3": "Ikigori",
+            "option_4": "Ifurwe",
+            "correct_answer": "Ikigori"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Njugunye igihaza gihinguranya amarembo",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Firigo",
+            "option_3": "Agasuzi",
+            "option_4": "Umucaca",
+            "correct_answer": "Umupira mu izamu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kamanutse kibarangura no hasi kati nkaba nzasubirayo ndakambura data",
+            "option_1": "Inkombe z'uruzi",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Ikiringiti",
+            "option_4": "Agasuzi",
+            "correct_answer": "Agatonyanga k'imvura"
+        }
+    }
+]

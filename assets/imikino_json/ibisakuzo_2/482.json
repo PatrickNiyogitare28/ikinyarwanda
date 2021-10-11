@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 644
+    },
+    {
+        "sakwe_1": {
+            "question": "Umututsi muremure yamaze imigondoro mu murima",
+            "option_1": "Agahwa mu rwondo",
+            "option_2": "Urugori rw'ibishyimbo",
+            "option_3": "Uruhabuzo mu ntoke",
+            "option_4": "Mu murima w'inkoko",
+            "correct_answer": "Uruhabuzo mu ntoke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rwigimba irarenga mu mpunzu",
+            "option_1": "Ikigega kitagira amasaka",
+            "option_2": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_3": "Ikinyabwoya",
+            "option_4": "Ibigori bifite imisatsi",
+            "correct_answer": "Ikinyabwoya"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kirimbakweri",
+            "option_1": "Abahizi",
+            "option_2": "Igikona\n \nbikumburanye bibana",
+            "option_3": "Imvura",
+            "option_4": "Ikiba cy'ubwatsi",
+            "correct_answer": "Ikiba cy'ubwatsi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Imisozi irashika ibikanu",
+            "option_1": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_2": "Abahizi",
+            "option_3": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "option_4": "Agaheha mu gacuma",
+            "correct_answer": "Abahizi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inka zanjye zaragiye zigaruka mu mpinga y'abankunda",
+            "option_1": "Inkoko mu rutoki",
+            "option_2": "Umuyaga",
+            "option_3": "Ikigega kirimo ubusa",
+            "option_4": "Urukumbi mu menyo",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Icy'ubwoya icy'impwempwe cyagarika impanga mu mpinga ya Bwanacyambwe",
+            "option_1": "Umwungu mu ncoce",
+            "option_2": "Ifundi",
+            "option_3": "Ukuguru kw'imbaragasa",
+            "option_4": "Imodoka",
+            "correct_answer": "Umwungu mu ncoce"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mpagaze kugasozi nti \"bana banjye hubika\"",
+            "option_1": "Amahindu mu mateke",
+            "option_2": "Ikiba cy'ubwatsi",
+            "option_3": "Imvura",
+            "option_4": "Ifaranga",
+            "correct_answer": "Amahindu mu mateke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyamurenga na Nyiragongo bashinze akaburi",
+            "option_1": "Inuma mu ntabire",
+            "option_2": "Inzugi z'imigano, umukokwe",
+            "option_3": "Inkono mu mashyiga",
+            "option_4": "Intosho mu manga",
+            "correct_answer": "Inuma mu ntabire"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramangiringiri nyir'amaso munani",
+            "option_1": "Urutete",
+            "option_2": "Umusoro",
+            "option_3": "Igiti gishigukanye n'imizi yacyo",
+            "option_4": "Umwijima",
+            "correct_answer": "Urutete"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ngiye mu mpinga mbona abagenzi beza",
+            "option_1": "Amahembe y'inka",
+            "option_2": "Ijambo rya mukeba",
+            "option_3": "Imigeri",
+            "option_4": "Ishyari ntiriba rito",
+            "correct_answer": "Imigeri"
+        }
+    }
+]

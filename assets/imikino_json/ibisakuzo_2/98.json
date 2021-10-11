@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 192
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndagukubita nkakwitaza nitwa umugaragu wa Mburamatare",
+            "option_1": "Ubwoya bw'inka",
+            "option_2": "Gusitara ku ibuye",
+            "option_3": "Amabyi y'umushumba",
+            "option_4": "Intore y'amahingura",
+            "correct_answer": "Gusitara ku ibuye"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Gakubite ugakubiranye",
+            "option_1": "Ibivumvuri",
+            "option_2": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_3": "Agakono k'amapfa",
+            "option_4": "Amahinda y'inkuba",
+            "correct_answer": "Agakono k'amapfa"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bune bune yagiye kugura umwenda kwa mirongo itanu",
+            "option_1": "Amabere y'inkumi",
+            "option_2": "Isekurume",
+            "option_3": "Indishyi zihuye; imfubyi",
+            "option_4": "Ibiganza",
+            "correct_answer": "Isekurume"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Biromongana mu mpinga ya Janja",
+            "option_1": "Igitabo cy'umusoro",
+            "option_2": "Ibipfunsi",
+            "option_3": "Ibicuma ku nkangara",
+            "option_4": "Amaguru k'urushishi",
+            "correct_answer": "Ibicuma ku nkangara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inshyimbo y'iminsi yegekwa mu mfuruka",
+            "option_1": "Uruhindu rw'indushyi",
+            "option_2": "Akotsi k'abatabazi; agati mu ruzi; agakwavu",
+            "option_3": "Agahinda ku murima",
+            "option_4": "Ibigori bifite imisatsi",
+            "correct_answer": "Uruhindu rw'indushyi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ngira abana umuto yatanze umukuru gusabwa",
+            "option_1": "Urukumbi mu menyo",
+            "option_2": "Guhekenya amasaka",
+            "option_3": "Icyagumbwa (inopfu)",
+            "option_4": "Imizi y'urutare",
+            "correct_answer": "Icyagumbwa (inopfu)"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Igiti kinini ruhumbanyoni",
+            "option_1": "Inkono ivugirwamo umutsima",
+            "option_2": "Isekuru; intebe; igisabo; imbehe; umwashi; umuvure",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Igitonyanga",
+            "correct_answer": "Inkono ivugirwamo umutsima"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyoko na mama bapfuye iki?",
+            "option_1": "Ururimi mu menyo",
+            "option_2": "Agakono k'impengeri",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Ifaranga",
+            "correct_answer": "Agahaza ko mu rubibi; inkongoro z'abana"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera Rukara hejuru y'urupfu",
+            "option_1": "Imigondoro w'ibishyimbo",
+            "option_2": "Ubwato mu ruzi",
+            "option_3": "Umucaca mu ruzi",
+            "option_4": "Umuhinzi umwe mu murima",
+            "correct_answer": "Ubwato mu ruzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ntereye Ndiza ngeze mu mpinga nibuka umugenzi nsize inyuma",
+            "option_1": "Uruheri mu gihata",
+            "option_2": "Agahinda mu nda",
+            "option_3": "Imbaragasa",
+            "option_4": "Ijisho rya mukeba",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    }
+]

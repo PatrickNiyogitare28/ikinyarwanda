@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 607
+    },
+    {
+        "sakwe_1": {
+            "question": "Nkuruye umugozi ishyamba rirahubangana",
+            "option_1": "Ikawa",
+            "option_2": "Umusore wishwe n'inzara",
+            "option_3": "Izuba",
+            "option_4": "Uruhinja",
+            "correct_answer": "Umusore wishwe n'inzara"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kanjengereje karakanyagwa",
+            "option_1": "Agahinda k'umutima",
+            "option_2": "Telefoni",
+            "option_3": "Ivunja mu kirenge",
+            "option_4": "Insina",
+            "correct_answer": "Ivunja mu kirenge"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bwenge bwa none bwagutana",
+            "option_1": "Ibishokoro",
+            "option_2": "Umwarimu",
+            "option_3": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_4": "Ikirungurira",
+            "correct_answer": "Kudashyira ingasire mu masaka ngo iyasye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gahete umugongo gahetse abana umunani",
+            "option_1": "Umuheto n'umwambi",
+            "option_2": "Imisozi",
+            "option_3": "Inzoga mu muheha",
+            "option_4": "Kwatsa mu ziko",
+            "correct_answer": "Umuheto n'umwambi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ayi mama hiya",
+            "option_1": "Urupfu",
+            "option_2": "Inuma ku rukoma",
+            "option_3": "Inyama",
+            "option_4": "Umutwe",
+            "correct_answer": "Inuma ku rukoma"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite inka yanjye nyiragira ku manga ntitembe",
+            "option_1": "Gusitara",
+            "option_2": "Ibitotsi",
+            "option_3": "Amatwi",
+            "option_4": "Akanyana mu nda ya nyina",
+            "correct_answer": "Amatwi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Fata rutendera ntagwe mu mazi",
+            "option_1": "Isusa",
+            "option_2": "Amabya",
+            "option_3": "Ubwato hejuru y'ikiyaga",
+            "option_4": "Umusatsi",
+            "correct_answer": "Amabya"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akababaje umugabo kamurenza impinga",
+            "option_1": "Ifaranga",
+            "option_2": "Ifaranga",
+            "option_3": "Amabere",
+            "option_4": "Urwogerezo",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ariya mabuye ya rubarabara wayabara ukayarangiza",
+            "option_1": "Inzuki",
+            "option_2": "Inyenyeri",
+            "option_3": "Inzoka mu kugenda nta maguru",
+            "option_4": "Umusazi",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ndakubise ndirahira nijye mutware wa Mburamatare",
+            "option_1": "Inkono y'amapfa",
+            "option_2": "Ibigori",
+            "option_3": "Ikinyugunyugu",
+            "option_4": "Gusitara",
+            "correct_answer": "Gusitara"
+        }
+    }
+]

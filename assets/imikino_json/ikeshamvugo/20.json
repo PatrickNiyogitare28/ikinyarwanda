@@ -1,0 +1,125 @@
+[
+    {
+        "randomId": 3
+    },
+    {
+        "ntibavuga_1": {
+            "question": "Ibuye bashesha",
+            "answer": "Ingasire"
+        }
+    },
+    {
+        "ntibavuga_2": {
+            "question": "Ayaraye ataravura",
+            "answer": "Umubanji"
+        }
+    },
+    {
+        "ntibavuga_3": {
+            "question": "Uwo muntu yafashwe ari kumwe n'ibiyobyabwenge",
+            "answer": "Uwo muntu yafatanywe ibiyobyabwenge"
+        }
+    },
+    {
+        "ntibavuga_4": {
+            "question": "Kudonda urusyo",
+            "answer": "Gukoma urusyo"
+        }
+    },
+    {
+        "ntibavuga_5": {
+            "question": "Amaniga",
+            "answer": "Bagenzi bange"
+        }
+    },
+    {
+        "ntibavuga_6": {
+            "question": "Imbwa nyinshi",
+            "answer": "Umukeno (zirenze imwe)"
+        }
+    },
+    {
+        "ntibavuga_7": {
+            "question": "Imbere h'umuheto",
+            "answer": "Ku ruhembe"
+        }
+    },
+    {
+        "ntibavuga_8": {
+            "question": "Uno mukobwa arahiye",
+            "answer": "Uno mukobwa ni mwiza"
+        }
+    },
+    {
+        "ntibavuga_9": {
+            "question": "Abajama",
+            "answer": "Urungano"
+        }
+    },
+    {
+        "ntibavuga_10": {
+            "question": "Ayiriwe ataravura",
+            "answer": "Amirire"
+        }
+    },
+    {
+        "ntibavuga_11": {
+            "question": "Rutahizamu w'iyo kipe yavuye mu mvune",
+            "answer": "Rutahizamu w'iyo kipe yakize imvune"
+        }
+    },
+    {
+        "ntibavuga_12": {
+            "question": "Amaze amezi nk'abiri",
+            "answer": "Amavuta y'igisore"
+        }
+    },
+    {
+        "ntibavuga_13": {
+            "question": "Igitandukanya icyumba n'ikindi mu nzu ya kinyarwanda",
+            "answer": "Inyegamo"
+        }
+    },
+    {
+        "ntibavuga_14": {
+            "question": "Amaze kuvura",
+            "answer": "Ikivuguto"
+        }
+    },
+    {
+        "ntibavuga_15": {
+            "question": "Agati bavurugisha",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_16": {
+            "question": "Amakwe",
+            "answer": "Ubukwe"
+        }
+    },
+    {
+        "ntibavuga_17": {
+            "question": "Agati bavurugisha amata",
+            "answer": "Umutozo"
+        }
+    },
+    {
+        "ntibavuga_18": {
+            "question": "Amata yiriwe",
+            "answer": "Amirire"
+        }
+    },
+    {
+        "ntibavuga_19": {
+            "question": "Ariho amazi abira",
+            "answer": "Ari mu mazi abira"
+        }
+    },
+    {
+        "ntibavuga_20": {
+            "question": "Kumena amata ubishaka",
+            "answer": "Kuyabikira, kuyabyarira"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 794
+    },
+    {
+        "sakwe_1": {
+            "question": "Sesera aha dushire",
+            "option_1": "Ishyari ntiriba rito",
+            "option_2": "Imyenge y'inzu",
+            "option_3": "Ijisho",
+            "option_4": "Amasaka ku rusyo",
+            "correct_answer": "Amasaka ku rusyo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Dore ibitoki bya so ngo biransaba inyama",
+            "option_1": "Agasuna",
+            "option_2": "Uruyongoyongo",
+            "option_3": "Urukorogoto",
+            "option_4": "Ibibonobono",
+            "correct_answer": "Ibibonobono"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Agacwende kanjye kabaye kure mba  ngukoreyemo",
+            "option_1": "Ukwezi",
+            "option_2": "Umusuzi",
+            "option_3": "Ubwato",
+            "option_4": "Urushishi rufite ishaka",
+            "correct_answer": "Ukwezi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Gakubite ugakubiranye",
+            "option_1": "Agakono k'amapfa",
+            "option_2": "Inyenyeri",
+            "option_3": "Amashyiga",
+            "option_4": "Akanyarirajisho",
+            "correct_answer": "Agakono k'amapfa"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "igira inyuma y'inzu ukube ino",
+            "option_1": "Igikona n'umutsima",
+            "option_2": "Inzoga",
+            "option_3": "Ibigori bifite imisatsi",
+            "option_4": "Imigondoro y'ibishyimbo",
+            "correct_answer": "Imigondoro y'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Barateka ntibaminina",
+            "option_1": "Inyundo y'umucuruzi",
+            "option_2": "Amazi y'inyama",
+            "option_3": "Akabeba mu buki",
+            "option_4": "Agashyo mu nyama",
+            "correct_answer": "Amazi y'inyama"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hapfuye Senkopfu hasigara Semfunda",
+            "option_1": "Ifundi",
+            "option_2": "Imigondoro w'ibishyimbo",
+            "option_3": "Imvura igwa ku gitikatika",
+            "option_4": "Umuntu uri ku ipikipiki",
+            "correct_answer": "Imigondoro w'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nta kamwe nta akandi ngere iyo!!",
+            "option_1": "Umbusore ugwanye ingabo",
+            "option_2": "Umwangange",
+            "option_3": "Udukongorwa",
+            "option_4": "Ubukumi bwa so na nyoko",
+            "correct_answer": "Udukongorwa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Igihondohondo cy'amaguru munani",
+            "option_1": "Ikigega",
+            "option_2": "Ikirago",
+            "option_3": "Ijambo rya mukeba",
+            "option_4": "Inkari z'inkoko",
+            "correct_answer": "Ikigega"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kagaba arabagira ku ishyamba",
+            "option_1": "Igitoki n'amakoma yacyo",
+            "option_2": "Agahinda mu nda",
+            "option_3": "Urubura",
+            "option_4": "Amashaza ku rujyo",
+            "correct_answer": "Agahinda mu nda"
+        }
+    }
+]

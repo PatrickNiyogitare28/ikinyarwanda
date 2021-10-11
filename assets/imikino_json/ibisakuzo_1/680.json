@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 795
+    },
+    {
+        "sakwe_1": {
+            "question": "Hepfo aha hanyuze akabindi gasenze amatito",
+            "option_1": "Isakamburira ry'inzu",
+            "option_2": "Agatonyanga k'imvura",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ngenda bwangu nkogoga amahanga",
+            "option_1": "Umupira mu izamu",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Indege",
+            "option_4": "Ibigori",
+            "correct_answer": "Indege"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Inzoka mu kugenda nta maguru",
+            "option_2": "Gusaba uwo wimye",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Umusuzi",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Karaguza indwi katagira n'imwe",
+            "option_1": "Agasuzi",
+            "option_2": "Umukecuru wataye ikijigo cye",
+            "option_3": "Ururimi",
+            "option_4": "Imvura",
+            "correct_answer": "Agasuzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Hakurya duuuuuu, hakuno duuuuuu",
+            "option_1": "Urusenda",
+            "option_2": "Ibiboga byagaze",
+            "option_3": "Ishyiga",
+            "option_4": "Ibiradiyo biteganye",
+            "correct_answer": "Ibiradiyo biteganye"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akamanimbanimba,ingoma zo kwa Magagi zivuga zinihira",
+            "option_1": "Televiziyo",
+            "option_2": "Ubwato hejuru y'ikiyaga",
+            "option_3": "Inyundo mu ruganda",
+            "option_4": "Imigomdoro yibishyimbo",
+            "correct_answer": "Inyundo mu ruganda"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Aho wabereye wari waterera Muhangiro",
+            "option_1": "Akabyindi k'umushumba",
+            "option_2": "Igitoki cya kamara",
+            "option_3": "Inyamunyo",
+            "option_4": "Ikirunga",
+            "correct_answer": "Ikirunga"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zigaritse amahembe zose ntiwamenya iyo nyoko yakowe",
+            "option_1": "Ikaramu",
+            "option_2": "Ukwezi",
+            "option_3": "Amano y'umuntu",
+            "option_4": "Ingara z'iminyinya",
+            "correct_answer": "Ingara z'iminyinya"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Umuzi w'urutare",
+            "option_2": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_3": "Imyenge y'inzu",
+            "option_4": "Ibitotsi bya mu gitondo",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Insina; amateke",
+            "option_2": "Igikatsi",
+            "option_3": "Ibirago",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Ibirago"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 280
+    },
+    {
+        "sakwe_1": {
+            "question": "Bihu byumye arenze urugo",
+            "option_1": "Umugore utwite",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Ubuto bwa so na nyoko",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Ikiyoni"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Aho Mutara na Mutaga barasaniraga hacitse ubikuba",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Inyana y'umutavu",
+            "option_3": "Urwogerezo",
+            "option_4": "Umukecuru wurira ikigega",
+            "correct_answer": "Urwogerezo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngira imbehe nyinshi ariko nkabura iyo ndiraho",
+            "option_1": "Akarago ko mu irebe",
+            "option_2": "Ibitotsi bya mu gitondo",
+            "option_3": "Ibiganza",
+            "option_4": "Urutara",
+            "correct_answer": "Ibiganza"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ngenda bwangu nkogoga amahanga",
+            "option_1": "Inyundo",
+            "option_2": "Umuheto n'umwambi",
+            "option_3": "Indege",
+            "option_4": "Ikaramu",
+            "correct_answer": "Indege"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ntuye heza njye ngira Imana",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Umugina wo mu gishanga",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Inkombe z'uruzi",
+            "correct_answer": "Umugina wo mu gishanga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nicaye iwacu murika isi",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Izuba",
+            "option_3": "Ishyiga",
+            "option_4": "Umukandara",
+            "correct_answer": "Izuba"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mama shenge",
+            "option_1": "Umwana w'uruhinja",
+            "option_2": "Inyama",
+            "option_3": "Umwarimu",
+            "option_4": "Ijuru n'ukwezi",
+            "correct_answer": "Umwana w'uruhinja"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Tabara Sogokuru bamutaye ku munigo",
+            "option_1": "Inopfu",
+            "option_2": "Umuvumbyi",
+            "option_3": "Ibaruwa",
+            "option_4": "Igikatsi",
+            "correct_answer": "Igikatsi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Uruzi",
+            "option_2": "Urwina",
+            "option_3": "Ururabo",
+            "option_4": "Kukwanduza sida",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Ibishokoro",
+            "option_2": "Umuzungu wambaye amadarubindi",
+            "option_3": "Akayira kajya mu kigega",
+            "option_4": "Inyamunyo",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    }
+]

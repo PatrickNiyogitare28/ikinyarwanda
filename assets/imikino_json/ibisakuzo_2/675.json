@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 717
+    },
+    {
+        "sakwe_1": {
+            "question": "Icyambuka uruzi kitagira amaguru",
+            "option_1": "Imigeri",
+            "option_2": "Ijwi",
+            "option_3": "Imana",
+            "option_4": "Ikinyabwoya; uruyongoyongo",
+            "correct_answer": "Ijwi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nshibwa nshibuka",
+            "option_1": "Umuvumu",
+            "option_2": "Uruhiza",
+            "option_3": "Akuho mu ntango",
+            "option_4": "Urukangaga",
+            "correct_answer": "Urukangaga"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera amacumu yacuzwe n'intoki",
+            "option_1": "Amasuka",
+            "option_2": "Agahinda ku murima",
+            "option_3": "Ingingi z'amasaka",
+            "option_4": "Umucundura",
+            "correct_answer": "Amasuka"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Rukubita hasi rwa Sahaha",
+            "option_1": "Urusyo n'ingasire; igikona n'umutsima; imbwa mu magufa",
+            "option_2": "Ifuni mu mabuye",
+            "option_3": "Imigondoro y'ibishyimbo",
+            "option_4": "Inkuba mu rugano",
+            "correct_answer": "Inkuba mu rugano"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kimenyi w'amenyo abiri",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Agafundi",
+            "option_3": "Umwana w'ifundi",
+            "option_4": "Igitama cyaguye mu mukokwe",
+            "correct_answer": "Ibikingi by'amarembo"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndu mugufi nakiranya so nkamutsinda",
+            "option_1": "Ubunyenyeri",
+            "option_2": "Umusambi",
+            "option_3": "Intubu n'urutwe",
+            "option_4": "Imashini idoda (icyarahani)",
+            "correct_answer": "Ubunyenyeri"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hagati ya Gacu na Mpanga hazi bake",
+            "option_1": "Umununi ku itabi",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Umununi ku gicumucumu",
+            "option_4": "Umusambi; ikinyabwoya",
+            "correct_answer": "Uruheri mu gihata"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ruvuzo ikwirukana mu nka",
+            "option_1": "Amenyo",
+            "option_2": "Inopfu",
+            "option_3": "Imvi zikuye umusatsi w'ubuto",
+            "option_4": "Inda mu musatsi",
+            "correct_answer": "Imvi zikuye umusatsi w'ubuto"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Ikiyege",
+            "option_2": "Igisambu gisigaye hagati y'uruhira",
+            "option_3": "Amaso",
+            "option_4": "Akabuye gahonze isuka akandi kakayigorora",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nahinze umurima utagira ikiyorero",
+            "option_1": "Umuyaga; umusuzi; amazi",
+            "option_2": "Umuhazi ugwanye umuguta",
+            "option_3": "Imodoka mu muhanda",
+            "option_4": "Uruzi",
+            "correct_answer": "Uruzi"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 743
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya no hakuno ngo barubaru",
+            "option_1": "Urubura mu masaka",
+            "option_2": "Agahinda mu murima",
+            "option_3": "Umusambi",
+            "option_4": "Inshunzi mu cyansi",
+            "correct_answer": "Urubura mu masaka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karaje n'inkonya n'inkweto ntikazi ko ryavuye",
+            "option_1": "Igitare",
+            "option_2": "Inzira",
+            "option_3": "Agahinja",
+            "option_4": "Umuyaga",
+            "correct_answer": "Agahinja"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Iriboneye ntiritica",
+            "option_1": "Ikirago",
+            "option_2": "Umutumba w'insina",
+            "option_3": "Isi n'ijuru",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Ibere ry'inkumi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kiracunda runete",
+            "option_1": "Igitoki",
+            "option_2": "Imirizo cy'intama",
+            "option_3": "Umucaca",
+            "option_4": "Ikidasesa",
+            "correct_answer": "Imirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mukara w'i Karambi irabira rikarenga",
+            "option_1": "Agakono k'amanywa",
+            "option_2": "Icyiyone",
+            "option_3": "Inturo mu ntare",
+            "option_4": "Ikinyoro mu rubavu",
+            "correct_answer": "Icyiyone"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kararima na Mwimanyi",
+            "option_1": "Akanyoni gatwawe n'amazi",
+            "option_2": "Gusitara ku ibuye",
+            "option_3": "Impatwe z'umusaza",
+            "option_4": "Imirizo cy'intama",
+            "correct_answer": "Akanyoni gatwawe n'amazi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Rutare rwa Sebayanda rwasa inguma igihumbi",
+            "option_1": "Intimba mu nda",
+            "option_2": "Imfunzo",
+            "option_3": "Agahundo",
+            "option_4": "Urusyo",
+            "correct_answer": "Urusyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nyoko na mama bapfuye iki?",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Ururimi",
+            "option_3": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_4": "Agahinda ku murima",
+            "correct_answer": "Agahaza ko mu rubibi; inkongoro z'abana"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zana icyansi cy'amatwi irinikiye",
+            "option_1": "Isuka mu icukiro",
+            "option_2": "Ifaranga",
+            "option_3": "Injishi z'igisabo",
+            "option_4": "Ikinyankari",
+            "correct_answer": "Ikinyankari"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Umwana w'umutwa yaruka warya",
+            "option_1": "Ikinyugunyugu",
+            "option_2": "Inkono",
+            "option_3": "Ikinyabwoya; uruyongoyongo",
+            "option_4": "Ibikingi by'irembo",
+            "correct_answer": "Inkono"
+        }
+    }
+]

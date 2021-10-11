@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 284
+    },
+    {
+        "sakwe_1": {
+            "question": "Nahurenye inko nyinshi ncyurana imwe gusa",
+            "option_1": "Amabyi y'umushumba",
+            "option_2": "Injishi z'igisabo",
+            "option_3": "Intimba mu nda",
+            "option_4": "Umusigati",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hepfo zirabyina urungora",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Ibarizo ry'ingoma",
+            "option_3": "Inzu irimo ubusa",
+            "option_4": "Intubu n'urutwe",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abana banjye bavuyemo umwe ntiwabimenya",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Urubumbiro; itongo",
+            "option_3": "Inzuho ebyiri mu ntango",
+            "option_4": "Akatsi ko ku nzu",
+            "correct_answer": "Akatsi ko ku nzu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Igagarigaga",
+            "option_1": "Inshunzi z'amata mu cyansi",
+            "option_2": "Inzuki",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Agashwi k'inkoko",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ak'imitana ak'imitari kararenze mu mpinga",
+            "option_1": "Agafundi",
+            "option_2": "Isake",
+            "option_3": "Akanyugunyugu",
+            "option_4": "Umugina mu rufunzo; umwishywa mu isusa",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Akayuriyuri ka ntibazirikana inshuti y'urupfu",
+            "option_1": "Urusyo",
+            "option_2": "Ipfupfu ry'impfizi",
+            "option_3": "Ibitotsi",
+            "option_4": "Imbwa mu masinde",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nyiramagarama ari n'inda",
+            "option_1": "Ururimi",
+            "option_2": "Gutsika uruzi",
+            "option_3": "Agacumu kica inkurikirane; akobo kavuna umubyeyi",
+            "option_4": "Intubu n'urutwe",
+            "correct_answer": "Intubu n'urutwe"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata inkoni ngufi turagiye ku manga",
+            "option_1": "Igisenge cy'inzu",
+            "option_2": "Ikinyoro mu gahanga k'umusore",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Umusigati",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mutamu irarenze n'iyayo",
+            "option_1": "Isha mu mukenke",
+            "option_2": "Amenyo",
+            "option_3": "Agatwa mu ibumba",
+            "option_4": "Ikidasesa",
+            "correct_answer": "Isha mu mukenke"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Tora inkoni ntore Indi tujye gutsimbura Rukara ku gicaniro",
+            "option_1": "Agasuna",
+            "option_2": "Umwobo mu masaka",
+            "option_3": "Ikigoli",
+            "option_4": "Umwijima",
+            "correct_answer": "Umwijima"
+        }
+    }
+]

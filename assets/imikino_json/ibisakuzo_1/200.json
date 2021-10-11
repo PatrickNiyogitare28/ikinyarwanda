@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 707
+    },
+    {
+        "sakwe_1": {
+            "question": "Aho Mutara na Mutaga barasaniraga hacitse ubikuba",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Uruyuzi",
+            "option_3": "Icyobo",
+            "option_4": "Urwogerezo",
+            "correct_answer": "Urwogerezo"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Umwarimu",
+            "option_2": "Ibaruwa",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Umuheto n'umwambi",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Agahinda k'inkumi",
+            "option_2": "Ibaruwa",
+            "option_3": "Gusitara",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Akayuzi mu rubibi",
+            "option_2": "Ifaranga",
+            "option_3": "Akabyindi k'umushumba",
+            "option_4": "Umuzungu n'umwirabura",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Akabaje umugabo kamurenza impinge",
+            "option_1": "Imigomdoro yibishyimbo",
+            "option_2": "Radiyo",
+            "option_3": "Ifaranga",
+            "option_4": "Ibigori",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Ikiringiti",
+            "option_2": "Umugore utwite",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Ikaramu",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Abarebare baje ubu",
+            "option_1": "Ivunja",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Firigo",
+            "option_4": "Imihanda, uruzi, inzira",
+            "correct_answer": "Imihanda, uruzi, inzira"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inzu yanjye nayisakariye ku nkingi imwe",
+            "option_1": "Inzuki",
+            "option_2": "Uruhara rw'umusaza",
+            "option_3": "Umusore wishwe n'inzara",
+            "option_4": "Icyobo",
+            "correct_answer": "Icyobo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Abana banjye ndabasasira ntibaryame",
+            "option_1": "Igikeri",
+            "option_2": "Ikawa",
+            "option_3": "Inyegamo y'umusore warongoye",
+            "option_4": "Amatwi",
+            "correct_answer": "Ikawa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Yankamiye mu kitoze, angaburira ibiryoshye",
+            "option_1": "Umugina mu rufunzo",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Ibiryo biri mu nkono ifite imbyiro",
+            "option_4": "Sida",
+            "correct_answer": "Ibiryo biri mu nkono ifite imbyiro"
+        }
+    }
+]

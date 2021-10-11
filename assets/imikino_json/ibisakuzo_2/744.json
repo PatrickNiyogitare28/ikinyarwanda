@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 104
+    },
+    {
+        "sakwe_1": {
+            "question": "Ibitugu bya so birarenga urugo",
+            "option_1": "Amarira y'imbwa",
+            "option_2": "Ikirungurira",
+            "option_3": "Umuyenzi",
+            "option_4": "Ikivumvuri",
+            "correct_answer": "Ikivumvuri"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Inkongoro ya Dodo inyweramo Dodo wenyine",
+            "option_1": "Ishoka mu giti",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Ivubi; uruyuki",
+            "option_4": "Inkono y'itabi",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Sogokuru apfanye impatwe",
+            "option_1": "Igiti gishigukanye n'imizi yacyo",
+            "option_2": "Ikivumvuri",
+            "option_3": "Uruzi; ishami ry'uruzi",
+            "option_4": "Imondo mu gihu",
+            "correct_answer": "Igiti gishigukanye n'imizi yacyo"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "I Gisaka ntibacinyira bangana amacinya",
+            "option_1": "Ivunja",
+            "option_2": "Amenyo",
+            "option_3": "Urufunzo",
+            "option_4": "Uruboho",
+            "correct_answer": "Amenyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Minyaruko aranyarutse  Ruganzu ati \"ndindira aho\"",
+            "option_1": "Agahwa mu rwondo",
+            "option_2": "Ifaranga",
+            "option_3": "Agahanga k'ifumberi",
+            "option_4": "Igikona n'umutsima",
+            "correct_answer": "Igikona n'umutsima"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Kenyera tubyine urumasha",
+            "option_1": "Agafuni mu mushike",
+            "option_2": "Umudwedwe",
+            "option_3": "Ikirizo cy'intama",
+            "option_4": "Imende ku ruzi",
+            "correct_answer": "Agafuni mu mushike"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ntereye Ndiza urwenge rurahonya",
+            "option_1": "Inda mu ruhara",
+            "option_2": "Umusambi",
+            "option_3": "Uruyongoyongo",
+            "option_4": "Umunyinya",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Maguru aca inkanda nyirashyano",
+            "option_1": "Ishyiga ry'inyuma",
+            "option_2": "Ijambo ry'umwami",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Amaguru y'umusambi",
+            "correct_answer": "Amaguru y'umusambi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyamunini umugwa",
+            "option_1": "Inguri",
+            "option_2": "Icyansi, akanyita k'uruhu",
+            "option_3": "Mpinga",
+            "option_4": "Imyobo y'ifuku urwanwa rw'umuhoro",
+            "correct_answer": "Mpinga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nyamwiza mu ibanga",
+            "option_1": "Ingata mu ruhira",
+            "option_2": "Imegeri",
+            "option_3": "Umwangange",
+            "option_4": "Umwumba w'urukoma",
+            "correct_answer": "Umwangange"
+        }
+    }
+]

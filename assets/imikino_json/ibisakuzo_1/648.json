@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 479
+    },
+    {
+        "sakwe_1": {
+            "question": "Wanga wemera ndakujyana",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Imitumba",
+            "option_3": "Gusitara",
+            "option_4": "Akaguru gacumbagira",
+            "correct_answer": "Akaguru gacumbagira"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpa umweru wanjye ngabire abana",
+            "option_1": "Akanyugunyugu",
+            "option_2": "Amata",
+            "option_3": "Uruhara rw'umusaza",
+            "option_4": "Urugoyi rw'ibishyimbo",
+            "correct_answer": "Amata"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Aho wabereye wari waterera Muhangiro",
+            "option_1": "Ikibuno",
+            "option_2": "Urutara",
+            "option_3": "Ikirunga",
+            "option_4": "Amabere y'inkumi",
+            "correct_answer": "Ikirunga"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyagiwe n'imvura imbuza guhinga",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Amacandwe y'incira",
+            "option_3": "Ingasire",
+            "option_4": "Ijwi",
+            "correct_answer": "Amacandwe y'incira"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ziraca inyabikangaga",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Ifu",
+            "option_3": "Inyenyeri",
+            "option_4": "Inshya z' umutwakazi",
+            "correct_answer": "Inshya z' umutwakazi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Umuvumbyi",
+            "option_2": "Agakono k'amanywa",
+            "option_3": "Agahinda k'inkumi",
+            "option_4": "Urwina",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nshukuye urwina sinatara",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Insina; amateke",
+            "option_3": "Igihandure",
+            "option_4": "Inkoko n'inkware",
+            "correct_answer": "Igihandure"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Akavumu k'iwacu ni imbungiramuhigo",
+            "option_1": "Igihaza",
+            "option_2": "Umusuzi wa so",
+            "option_3": "Agakono k'amanywa",
+            "option_4": "Umugina wo mu gishanga",
+            "correct_answer": "Agakono k'amanywa"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zenguruka duhure",
+            "option_1": "Ibitotsi",
+            "option_2": "Umukandara",
+            "option_3": "Ikirungurira",
+            "option_4": "Uburiri bw'umwami",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mpagaze mu ishyamba rimpa umwezi",
+            "option_1": "Amano y'umuntu",
+            "option_2": "Igitagangurirwa",
+            "option_3": "Firigo",
+            "option_4": "Ibarizo",
+            "correct_answer": "Ibarizo"
+        }
+    }
+]

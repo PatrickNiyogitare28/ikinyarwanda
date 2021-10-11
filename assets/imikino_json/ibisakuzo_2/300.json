@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 262
+    },
+    {
+        "sakwe_1": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Umusigati",
+            "option_2": "Ishyiga ry'inyuma",
+            "option_3": "Umusambi",
+            "option_4": "Ingabo y'ubuki",
+            "correct_answer": "Ishyiga ry'inyuma"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karashonda inzira",
+            "option_1": "Uruyange; amaguru ya muhuhirizi",
+            "option_2": "Umuganda",
+            "option_3": "Inkono y'itabi",
+            "option_4": "Kubona aho nyokobukwe yiyuhagira",
+            "correct_answer": "Umuganda"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kati \"mbagira butimbo\"",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Amata n'amatezano; mukungwa na nyabarongo",
+            "option_3": "Agahanga k'ifumberi",
+            "option_4": "Amarira y'imbwa",
+            "correct_answer": "Agahanga k'ifumberi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Sogokuru apfanye impatwe",
+            "option_1": "Umbwato; ibitwikurura",
+            "option_2": "Ikigore cy'ikiva mu nzu",
+            "option_3": "Igiti gishigukanye n'imizi yacyo",
+            "option_4": "Urubumbiro; itongo",
+            "correct_answer": "Igiti gishigukanye n'imizi yacyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Cyatanze umuzungu kwambara karavati",
+            "option_1": "Ijisho rya mukeba",
+            "option_2": "Igikona",
+            "option_3": "Inda mu ruhara",
+            "option_4": "Umusambane",
+            "correct_answer": "Igikona"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karisha gapfukamye",
+            "option_1": "Inda mu mutwe",
+            "option_2": "Uburiri bw'umwami",
+            "option_3": "Ibikingi by'irembo",
+            "option_4": "Umugabo unnya mu ruhira akabura icyoyihehesha",
+            "correct_answer": "Inda mu mutwe"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kivuye i Nduga kiririmba",
+            "option_1": "Ikinyabwoya",
+            "option_2": "Ikirizo cy'intama",
+            "option_3": "Ibitotsi",
+            "option_4": "Umusambi",
+            "correct_answer": "Ikirizo cy'intama"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Inka yanjye yahindutse umwirungu",
+            "option_1": "Uburiri bw'umwami",
+            "option_2": "Igiko gihiriye mu ruhura",
+            "option_3": "Ifundi mu murama",
+            "option_4": "Inda mu nnyo",
+            "correct_answer": "Igiko gihiriye mu ruhura"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Hepfo zirabyina urungora",
+            "option_1": "Urugoyi rw'ibishyimbo",
+            "option_2": "Ikirungurira",
+            "option_3": "Agacurama",
+            "option_4": "Intete y'ururo",
+            "correct_answer": "Urugoyi rw'ibishyimbo"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kirigita ikinogori",
+            "option_1": "Isuka mu icukiro",
+            "option_2": "Imigondoro y'ibishyimbo",
+            "option_3": "Amabondo y'ihene",
+            "option_4": "Ibyiyone",
+            "correct_answer": "Isuka mu icukiro"
+        }
+    }
+]

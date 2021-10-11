@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 749
+    },
+    {
+        "sakwe_1": {
+            "question": "Ndundu hejuru ya ndunduguru",
+            "option_1": "Imihanda, uruzi, inzira",
+            "option_2": "Umusatsi ku mutwe",
+            "option_3": "Uruhinja",
+            "option_4": "Ingufuri hejuru y'isanduku",
+            "correct_answer": "Ingufuri hejuru y'isanduku"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mvuye guhamba nyogokuru aza ankurikiye",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Inzara n'inyota",
+            "option_3": "Ivu",
+            "option_4": "Ururimi n'amenyo",
+            "correct_answer": "Ivu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kati papari kati pa!",
+            "option_1": "Icyanzu",
+            "option_2": "Ikawa n'umumenamabuye",
+            "option_3": "Icyobo",
+            "option_4": "Akarere ku nsina",
+            "correct_answer": "Akarere ku nsina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nagutera akazibaziba ka ntibazirikana rubanda bashishwa nabi",
+            "option_1": "Gusaba uwo wimye",
+            "option_2": "Icyanzu",
+            "option_3": "Isahani yaguye ingese",
+            "option_4": "Igikoro",
+            "correct_answer": "Gusaba uwo wimye"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera uruhehe rudatokorwa",
+            "option_1": "Ikigori",
+            "option_2": "Sida",
+            "option_3": "Umuheto",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Sida"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karavugira ibuhanika",
+            "option_1": "Ingasire",
+            "option_2": "Inyundo",
+            "option_3": "Uruyuzi",
+            "option_4": "Amata",
+            "correct_answer": "Ingasire"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Hano ngo shi na hano ngo shi",
+            "option_1": "Insina",
+            "option_2": "Ifaranga",
+            "option_3": "Igisheke",
+            "option_4": "Injangwe ihagaze ku meza ishaka imbeba",
+            "correct_answer": "Igisheke"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Gaju irashubera mu mukenke",
+            "option_1": "Umuyaga",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Ibitotsi",
+            "option_4": "Umutego",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramariza ari mu mpinga",
+            "option_1": "Indabo z'amashaza",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Urukoma n'insina",
+            "option_4": "Umuvuba",
+            "correct_answer": "Indabo z'amashaza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nkuruye umugozi ishyamba rirahubangana",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Intore mu rwabya",
+            "option_3": "Imyugariro",
+            "option_4": "Umusore wishwe n'inzara",
+            "correct_answer": "Umusore wishwe n'inzara"
+        }
+    }
+]

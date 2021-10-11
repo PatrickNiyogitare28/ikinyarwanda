@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 785
+    },
+    {
+        "sakwe_1": {
+            "question": "Kirisha amazuru",
+            "option_1": "Sida",
+            "option_2": "Ifundi mu mamera",
+            "option_3": "Umuvuba",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Umuvuba"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Akabindi ka Mbindigiti gatetse amara y'inkuba",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Umwijima n'urumuri",
+            "correct_answer": "Umwobo w'impiri"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rukara rw'umwami yicarira abagabo batatu",
+            "option_1": "Akanyana mu nda ya nyina",
+            "option_2": "Impeke y'uburo",
+            "option_3": "Inkono",
+            "option_4": "Amazi ku iteke",
+            "correct_answer": "Inkono"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Umugina wo mu gishanga",
+            "option_2": "Kudashyira ingasire mu masaka ngo iyasye",
+            "option_3": "Ishyiga",
+            "option_4": "Ururabo ry'amashyaza",
+            "correct_answer": "Ishyiga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Inyundo za bene Ntwari bazikubita hasi ntizimene isi",
+            "option_1": "Ibabi by'ibibonobono",
+            "option_2": "Ibinono by'inka",
+            "option_3": "Ibiti by'ikawa",
+            "option_4": "Nyiramaningiri",
+            "correct_answer": "Ibinono by'inka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Umunyereri",
+            "option_2": "Igihaza",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Inkingi",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akari inyuma ya Ndiza urakazi",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Akanyana mu nda ya nyina",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Ifaranga",
+            "correct_answer": "Akanyana mu nda ya nyina"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abakobwa banjye bose bikwije impindu",
+            "option_1": "Amabya",
+            "option_2": "Amabere",
+            "option_3": "Indabo z'amashaza",
+            "option_4": "Imirizo y'imbeba",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zishotse zitendeje, zikuka ziteye hejuru",
+            "option_1": "Abavomyi",
+            "option_2": "Umwijima n'urumuri",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Ibiganza",
+            "correct_answer": "Abavomyi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abakobwa banjye barara bahagaze bwacya bakaryama",
+            "option_1": "Ikibya cy'umusaza",
+            "option_2": "Imyugariro",
+            "option_3": "Amata",
+            "option_4": "Ikiyoni",
+            "correct_answer": "Imyugariro"
+        }
+    }
+]

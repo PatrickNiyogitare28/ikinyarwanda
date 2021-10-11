@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 455
+    },
+    {
+        "sakwe_1": {
+            "question": "Umututsi muremure yagutanze ku iriba",
+            "option_1": "Igitonyanga",
+            "option_2": "Ikigoli",
+            "option_3": "Umugozi w'ibijumba",
+            "option_4": "Igisabo",
+            "correct_answer": "Igitonyanga"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Mpagaze ku gasozi nti \"bana banjye murizihiwe\"",
+            "option_1": "Umuzi w' urutare",
+            "option_2": "Ijwi",
+            "option_3": "Amasaka y'umuterero; insina zikaragiye",
+            "option_4": "Igiti gishigukanye n'imizi yacyo",
+            "correct_answer": "Amasaka y'umuterero; insina zikaragiye"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Kamennye urutare gataha i Mpushi",
+            "option_1": "Agatonyanga",
+            "option_2": "Ikinyabwoya",
+            "option_3": "Urukwavu",
+            "option_4": "Amasaka ku rusyo",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mpagaze ku gasozi nti \"bahinzi baho baho\"",
+            "option_1": "Intuku z'amasaka",
+            "option_2": "Isake y'inkoko",
+            "option_3": "Igicuma bacuncumura",
+            "option_4": "Inkwana z'amateke",
+            "correct_answer": "Intuku z'amasaka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Mu bikombe ngo, \"hobeka\"",
+            "option_1": "Mpinga",
+            "option_2": "Amashaza ku rujyo",
+            "option_3": "Umujugujugu mu ihene",
+            "option_4": "Isuka mu icukiro",
+            "correct_answer": "Umujugujugu mu ihene"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Imana y'ishyanga irabagira mu ishyamba",
+            "option_1": "Umwumano w'ishashi",
+            "option_2": "Urubariro",
+            "option_3": "Umusatsi",
+            "option_4": "Ishavu",
+            "correct_answer": "Ishavu"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Karacunda ngwegwe",
+            "option_1": "Agaseke mu ruzi",
+            "option_2": "Agatonyanga",
+            "option_3": "Ibara ry'inka",
+            "option_4": "Uruzi",
+            "correct_answer": "Agaseke mu ruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Dore ibitoki bya so ngo biransaba inyama",
+            "option_1": "Ibibonobono",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Ibishyinga",
+            "option_4": "Intosho mu manga",
+            "correct_answer": "Ibibonobono"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Waterera Sebaya ntiwayiheza",
+            "option_1": "Igitoki n'amakoma",
+            "option_2": "Urutumbwe",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "Umurizo w'ihene",
+            "correct_answer": "Umurizo w'ihene"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Kuki inkuba ikubita uri inyuma y'umusozi ntiwumve?",
+            "option_1": "Akato mu kiyaga",
+            "option_2": "Ukwezi ku ijuru",
+            "option_3": "Inzu iguye",
+            "option_4": "Ururimi rwawe",
+            "correct_answer": "Inzu iguye"
+        }
+    }
+]

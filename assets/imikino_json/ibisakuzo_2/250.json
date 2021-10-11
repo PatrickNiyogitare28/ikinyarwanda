@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 22
+    },
+    {
+        "sakwe_1": {
+            "question": "Abarezi babiri bahuriye mu iriba",
+            "option_1": "Urufunzo",
+            "option_2": "Umuyaga; umusuzi; amazi",
+            "option_3": "Inshunzi z'amata mu cyansi",
+            "option_4": "Igishyimbo cy'umutura",
+            "correct_answer": "Inshunzi z'amata mu cyansi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Kwumva menshi kagahishira",
+            "option_1": "Amabondo y'ihene",
+            "option_2": "Imana",
+            "option_3": "Agasongero",
+            "option_4": "Agafundi ko ku nzira\n \nmaganyiro",
+            "correct_answer": "Agafundi ko ku nzira\n \nmaganyiro"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Gaturutse ikuzimu gashyushye",
+            "option_1": "Akana n'insina",
+            "option_2": "Inshunzi mu cyansi",
+            "option_3": "Uburiri bw'umwami",
+            "option_4": "Inyenyeri",
+            "correct_answer": "Akana n'insina"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nahinze umurima utagira ikiyorero",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Ibirayi",
+            "option_3": "Uruzi",
+            "option_4": "Ingara z'iminyinya",
+            "correct_answer": "Uruzi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Umwami w'i Buhaya aratera ingoma araramye",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Ikinwa cya nyirabarazana",
+            "option_3": "Inuma ku ishaka",
+            "option_4": "Ikinyankari",
+            "correct_answer": "Inuma ku ishaka"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "UmUsozi warahiye hasigaye Rukara rwa Shaza",
+            "option_1": "Ibikingi by'amarembo",
+            "option_2": "Igisambu gisigaye hagati y'uruhira",
+            "option_3": "Ikigori",
+            "option_4": "Icyugu",
+            "correct_answer": "Igisambu gisigaye hagati y'uruhira"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mfite imfizi y'ihariye ishyanga rya yonyine",
+            "option_1": "Ifundi mu murama",
+            "option_2": "Agahinda mu murima",
+            "option_3": "Uruheri mu gihata",
+            "option_4": "Ubwanwa",
+            "correct_answer": "Agahinda mu murima"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati \"Jyiii!\", kati \"izibukire!\"",
+            "option_1": "Uruyuki",
+            "option_2": "Imirizo y'imbeba",
+            "option_3": "Akamuga karimo ibishyimbo",
+            "option_4": "Igishyimbo cy'umutura",
+            "correct_answer": "Igishyimbo cy'umutura"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Jya Ruhushi imbere tujye gukwa nyina w'urwumvu",
+            "option_1": "Agakongorerwa",
+            "option_2": "Agafundi ko ku nzira\n \nmaganyiro",
+            "option_3": "Icyugu",
+            "option_4": "Uruyange rw'amashaza",
+            "correct_answer": "Icyugu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ubumomo so ubuguru bw'isi",
+            "option_1": "Ikivumvuri",
+            "option_2": "Uruyange rw'amashaza",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Amaguru yanjye n'ayawe",
+            "correct_answer": "Amaguru yanjye n'ayawe"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 257
+    },
+    {
+        "sakwe_1": {
+            "question": "Agakecuru ka;anutse i Nyarushurushuru kiteye imirwa munani",
+            "option_1": "Ikivugirizo",
+            "option_2": "Intete z'ibigori",
+            "option_3": "Agatsinsino",
+            "option_4": "Ifaranga",
+            "correct_answer": "Intete z'ibigori"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Njugunye igihaza gihinguranya amarembo",
+            "option_1": "Akayunguruzo",
+            "option_2": "Umupira mu izamu",
+            "option_3": "Igitagangurirwa",
+            "option_4": "Inkono",
+            "correct_answer": "Umupira mu izamu"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Ngira inka nyisasira amahina nkayorosa andi",
+            "option_1": "Ururimi",
+            "option_2": "Umusuzi",
+            "option_3": "Ubuto bwa so na nyoko",
+            "option_4": "Abavomyi",
+            "correct_answer": "Ururimi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mvuye aha nta iminopfu ndinda ngera aho nshaka",
+            "option_1": "Umwobo w'inzoka",
+            "option_2": "Igikatsi",
+            "option_3": "Imigomdoro yibishyimbo",
+            "option_4": "Isakamburira ry'inzu",
+            "correct_answer": "Isakamburira ry'inzu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Aka kariza so",
+            "option_1": "Kwirebera mu kirahuri",
+            "option_2": "Icyobo",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Ibaruwa",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Zigaritse amahembe zose ntiwamenya iyo nyoko yakowe",
+            "option_1": "Ubwato hejuru y'ikiyaga",
+            "option_2": "Ingara z'iminyinya",
+            "option_3": "Gutara ibitoki",
+            "option_4": "Umurabyo",
+            "correct_answer": "Ingara z'iminyinya"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Aka kagabo kahina so",
+            "option_1": "Inopfu",
+            "option_2": "Inzoka",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Umuyaga",
+            "correct_answer": "Icyanzu, ubunyereri"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Zenguruka duhure",
+            "option_1": "Ifaranga",
+            "option_2": "Umukandara",
+            "option_3": "Umupira mu izamu",
+            "option_4": "Ikigori",
+            "correct_answer": "Umukandara"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ariya mabuye ya rubarabara wayabara ukayarangiza",
+            "option_1": "Kwatsa mu ziko",
+            "option_2": "Igiheri mu ruhara",
+            "option_3": "Inyenyeri",
+            "option_4": "Amapapayi",
+            "correct_answer": "Inyenyeri"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nagiye I Kigali ndi umusenzi ngaruka ndi umuzungu",
+            "option_1": "Isi n'ijuru",
+            "option_2": "Innyo y'ihene",
+            "option_3": "Icyanzu, ubunyereri",
+            "option_4": "Igitoki cya kamara",
+            "correct_answer": "Igitoki cya kamara"
+        }
+    }
+]

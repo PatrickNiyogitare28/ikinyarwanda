@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 389
+    },
+    {
+        "sakwe_1": {
+            "question": "Kurara ubuzima ufite inkwi (imyase) ni iki?",
+            "option_1": "Umugabo wambaye umwenda mushya",
+            "option_2": "Ubwato mu ruzi",
+            "option_3": "Amahembe y'inka",
+            "option_4": "Umutsi mu nda",
+            "correct_answer": "Amahembe y'inka"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nahurenye inko nyinshi ncyurana imwe gusa",
+            "option_1": "Amaguru y'umusambi",
+            "option_2": "Inzuho ebyiri mu ntango",
+            "option_3": "Umusigati",
+            "option_4": "Umuvumu",
+            "correct_answer": "Umusigati"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Nagutera igisogo nyamutentema",
+            "option_1": "Umuziha w'inzovu",
+            "option_2": "Umusomyo mu ruzi; umuganda w'inzu; umucaca mu iriba",
+            "option_3": "Imboni",
+            "option_4": "Ikirago",
+            "correct_answer": "Umuziha w'inzovu"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mabanda imbaragasa",
+            "option_1": "Inkwana z'amateke",
+            "option_2": "Ibara ry'inka",
+            "option_3": "Ikinyoro mu rubavu",
+            "option_4": "Umusigati",
+            "correct_answer": "Ikinyoro mu rubavu"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera aho uzikundira ntuhatahe",
+            "option_1": "Ifi",
+            "option_2": "Imyungu ku ruyuzi",
+            "option_3": "K'umutima w'undi",
+            "option_4": "Inzugi z'imigano, umukokwe",
+            "correct_answer": "K'umutima w'undi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Sogokuru w'ibihigi nyinshi",
+            "option_1": "Igishirira kiguye mu mazi ashyushye",
+            "option_2": "Umutobotobo",
+            "option_3": "Ibisunzu bya rusake",
+            "option_4": "Ibiganza",
+            "correct_answer": "Umutobotobo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Nagutera Nyabishishi i  Nyabitare",
+            "option_1": "Inyundo z'abacuzi",
+            "option_2": "Uruheri mu gihata",
+            "option_3": "Urukumbi mu menyo",
+            "option_4": "Ubukumi bwa so na nyoko",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera intobo ruyumbu",
+            "option_1": "Urubariro",
+            "option_2": "Ikiziha cy'inzovu",
+            "option_3": "Ijisho rya mukeba",
+            "option_4": "Inkumi yiba",
+            "correct_answer": "Ijisho rya mukeba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nduzi abamikazi bateze inigi",
+            "option_1": "Uruyange rw'amashaza",
+            "option_2": "Umwana usanze se na nyina batariyo",
+            "option_3": "Impatwe z'umusaza",
+            "option_4": "Igihondohondo",
+            "correct_answer": "Uruyange rw'amashaza"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Murace inkoni ngufi turagiye ku manga twese",
+            "option_1": "Imbwa",
+            "option_2": "Agahundo",
+            "option_3": "Ingingi z'amasaka",
+            "option_4": "Ikibwana cy'imbwa",
+            "correct_answer": "Ingingi z'amasaka"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 571
+    },
+    {
+        "sakwe_1": {
+            "question": "Hakurya ni umukoki, hakuno ni umukoki",
+            "option_1": "Ifaranga",
+            "option_2": "Ijwi",
+            "option_3": "Ifaranga",
+            "option_4": "Ikibuno",
+            "correct_answer": "Ikibuno"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Hepfo aha hanyuze akabindi gasenze amatito",
+            "option_1": "Akanyarirajisho",
+            "option_2": "Umugore utwite",
+            "option_3": "Ukwezi",
+            "option_4": "Amase",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Magurijana arajajaba I Janjagiro",
+            "option_1": "Inyama",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Umwarimu",
+            "option_4": "Umukondo w'inyana",
+            "correct_answer": "Umukondo w'inyana"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mukore ubone",
+            "option_1": "Igihandure",
+            "option_2": "Isake ifite ibirokoroko",
+            "option_3": "Inshya z' umutwakazi",
+            "option_4": "Umwana w'umwami",
+            "correct_answer": "Umwana w'umwami"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nagutera urupfu duseka",
+            "option_1": "Umunyereri",
+            "option_2": "Kukwanduza sida",
+            "option_3": "Firigo",
+            "option_4": "Ifaranga",
+            "correct_answer": "Kukwanduza sida"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Karibarangura ku rutare",
+            "option_1": "Ibikongorwa by'ibisheke",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Ibitotsi bya mu gitondo",
+            "option_4": "Ibinono by'inka",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Bicinyira bya bikangaga bikonda byacuzwe n'abantu",
+            "option_1": "Igisabo",
+            "option_2": "Icyumweru",
+            "option_3": "Ibirago",
+            "option_4": "Igitoki",
+            "correct_answer": "Ibirago"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Imana y'I Burundi irashoka ntitahe",
+            "option_1": "Igitiritiri",
+            "option_2": "Agahinda k'umutima",
+            "option_3": "Igitoki cya kamara",
+            "option_4": "Agahinda k'inkumi",
+            "correct_answer": "Agahinda k'inkumi"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nteye agapira kagera I Roma",
+            "option_1": "Ibaruwa",
+            "option_2": "Sida",
+            "option_3": "Agatsinsino",
+            "option_4": "Umusatsi w'intabwa",
+            "correct_answer": "Ibaruwa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Mfite inka 12, iyo inyota inyishe mfata imwe nkayica umutwe nkayinywa amaraso",
+            "option_1": "Ikaziya ya primus",
+            "option_2": "Umunyeshuri",
+            "option_3": "Akaguru gacumbagira",
+            "option_4": "Umuvuba",
+            "correct_answer": "Ikaziya ya primus"
+        }
+    }
+]

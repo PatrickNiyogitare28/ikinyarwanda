@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 330
+    },
+    {
+        "sakwe_1": {
+            "question": "Bikumburanye bibana",
+            "option_1": "Ikigori",
+            "option_2": "Umugezi",
+            "option_3": "Amabere",
+            "option_4": "Ururimi",
+            "correct_answer": "Amabere"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Karuhura mukuru w'urupfu",
+            "option_1": "Imisatsi y'ibigori",
+            "option_2": "Umwobo w'impiri",
+            "option_3": "Akayuzi mu rubibi",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "So na Nyoko bapfaga iki?",
+            "option_1": "Icyobo",
+            "option_2": "Amata",
+            "option_3": "Inyenyeri",
+            "option_4": "Akayuzi mu rubibi",
+            "correct_answer": "Akayuzi mu rubibi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Twavamo umwe ntitwarya",
+            "option_1": "Innyo y'ihene",
+            "option_2": "Inzuki",
+            "option_3": "Ishyiga",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Ishyiga"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngiye mu rutoki nsimbuka abapfumu bapfuye",
+            "option_1": "Imitumba",
+            "option_2": "Icyanzu, ubunyereri",
+            "option_3": "Kukwanduza sida",
+            "option_4": "Amabere",
+            "correct_answer": "Imitumba"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ndagiye ku manga Imana nibishaka nzacyura",
+            "option_1": "Umugore utwite",
+            "option_2": "Akanyugunyugu",
+            "option_3": "Inkono ku ziko",
+            "option_4": "Umwumba w'insina",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Biteganya bitazahura",
+            "option_1": "Umuzungu wambaye amadarubindi",
+            "option_2": "Umuporisi",
+            "option_3": "Inkombe z'uruzi",
+            "option_4": "Inyundo mu ruganda",
+            "correct_answer": "Inkombe z'uruzi"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Abana banjye bicaye bose",
+            "option_1": "Amenyo",
+            "option_2": "Ibaruwa",
+            "option_3": "Ifaranga",
+            "option_4": "Ibirundiro",
+            "correct_answer": "Ibirundiro"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Kaba gato kaba kanini kataye umugabo inyuma y'inzira",
+            "option_1": "Umukondo w'inyana",
+            "option_2": "Inkombe z'uruzi",
+            "option_3": "Ifaranga",
+            "option_4": "Ikigori",
+            "correct_answer": "Ifaranga"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Aka kayira kasiba twashira",
+            "option_1": "Ifaranga ku meza",
+            "option_2": "Ifaranga",
+            "option_3": "Igicucucucu",
+            "option_4": "Akayira kajya mu kigega",
+            "correct_answer": "Akayira kajya mu kigega"
+        }
+    }
+]

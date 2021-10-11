@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 198
+    },
+    {
+        "sakwe_1": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Umutwe",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Umurozi",
+            "option_4": "Gutara ibitoki",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Naraguhetse ntiwampemba",
+            "option_1": "Igicucucucu",
+            "option_2": "Inopfu",
+            "option_3": "Indogobe ishaje",
+            "option_4": "Umuntu",
+            "correct_answer": "Indogobe ishaje"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Dore abakobwa berekana amabere",
+            "option_1": "Amapapayi",
+            "option_2": "Ikivugirizo",
+            "option_3": "Inzara y'umusore",
+            "option_4": "Ururabo",
+            "correct_answer": "Amapapayi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Ruvudukana imbaraga, rukavumera rutagira amahembe",
+            "option_1": "Imodoka",
+            "option_2": "Inzara n'inyota",
+            "option_3": "Igitoki",
+            "option_4": "Agahinda k'umutima",
+            "correct_answer": "Imodoka"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ayiiii, icyamha nkagera iwacu",
+            "option_1": "Umukecuru wurira ikigega",
+            "option_2": "Imbwa ishumitse",
+            "option_3": "Ibitotsi",
+            "option_4": "Umukobwa ubonye iwabo hashya",
+            "correct_answer": "Umukecuru wurira ikigega"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Inka yanjye nyikama igaramye",
+            "option_1": "Umuvure",
+            "option_2": "Agakecuru kocyejwe n'igikoma",
+            "option_3": "Ifaranga",
+            "option_4": "Agatsinsino",
+            "correct_answer": "Umuvure"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Akamatana k'amatanage kiyereka mu mpinga ya Bwanakweri",
+            "option_1": "Ingara z'iminyinya",
+            "option_2": "Umuporisi",
+            "option_3": "Ikaziya ya primus",
+            "option_4": "Akanyugunyugu",
+            "correct_answer": "Akanyugunyugu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kirabyataraye",
+            "option_1": "Ifaranga",
+            "option_2": "Ikibyindi cy'umushumba",
+            "option_3": "Akayunguruzo",
+            "option_4": "Imbwa ishumitse",
+            "correct_answer": "Ikibyindi cy'umushumba"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Aka kariza so",
+            "option_1": "Uruhinja",
+            "option_2": "Inshya z' umutwakazi",
+            "option_3": "Akanyarirajisho",
+            "option_4": "Ingara z'iminyinya",
+            "correct_answer": "Akanyarirajisho"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Abakobwa banjye bose bikwije impindu",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Corogati",
+            "option_3": "Imirizo y'imbeba",
+            "option_4": "Akayuzi mu rubibi",
+            "correct_answer": "Imirizo y'imbeba"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 451
+    },
+    {
+        "sakwe_1": {
+            "question": "Ngira inka nkayirya igenda",
+            "option_1": "Uruyuzi; umugezi",
+            "option_2": "Ikiyiko ku mbehe",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Umwana uri munda ya nyina",
+            "correct_answer": "Uruyuzi; umugezi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Rumanika amahahara rumanura amahoro",
+            "option_1": "Inkumi yiba",
+            "option_2": "Akabuye gahonze isuka akandi kakayigorora",
+            "option_3": "Agakenya kw'imbaragasa",
+            "option_4": "Umucaca mu ruzi",
+            "correct_answer": "Inkumi yiba"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Inshyimbo y'iminsi yegekwa mu mfuruka",
+            "option_1": "Ikiba cy'ubwatsi",
+            "option_2": "Uruhindu rw'indushyi",
+            "option_3": "Ikigori",
+            "option_4": "Intuku z'amasaka",
+            "correct_answer": "Uruhindu rw'indushyi"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Narariwe n'inyamaswa bukeye mbura amajanja yayo",
+            "option_1": "Ijoro",
+            "option_2": "Insina",
+            "option_3": "Ikivugirizo",
+            "option_4": "Amaguru k'urushishi",
+            "correct_answer": "Ijoro"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyoko na mama bapfuye iki?",
+            "option_1": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_2": "Amahembe y'inka",
+            "option_3": "Agatsinsino k'uruhinja",
+            "option_4": "Inzara",
+            "correct_answer": "Agahaza ko mu rubibi; inkongoro z'abana"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Nagutera Nyabishishi i  Nyabitare",
+            "option_1": "Izo ngohe zawe",
+            "option_2": "Inzu iguye",
+            "option_3": "Umusatsi",
+            "option_4": "Urukumbi mu menyo",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Mfite ihene aho iziritse ntawe uhita atayiseguye",
+            "option_1": "Icyagumbwa (inopfu)",
+            "option_2": "Inkware",
+            "option_3": "Umunyinya",
+            "option_4": "Igitoki n'insina bigwanye",
+            "correct_answer": "Umunyinya"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera Nyiraforongo",
+            "option_1": "Umusambi",
+            "option_2": "Imbwa mu masinde",
+            "option_3": "Akotsi k'abatabazi",
+            "option_4": "Ivubi; uruyuki",
+            "correct_answer": "Imbwa mu masinde"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "I Nyarukomba baratema",
+            "option_1": "Ubuheri mu gihata",
+            "option_2": "Imiyenzi",
+            "option_3": "Kwatsa mu ziko",
+            "option_4": "Umurizo w'ihene",
+            "correct_answer": "Ubuheri mu gihata"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Ntereye intobo hakurya y'uruzi, Indi nyitera hakuno zihuye ziriganira",
+            "option_1": "Indishyi zihuye; imfubyi",
+            "option_2": "Ururo mu mateke",
+            "option_3": "Ikinwa cya nyirabarazana",
+            "option_4": "Ibere ry'inkumi",
+            "correct_answer": "Indishyi zihuye; imfubyi"
+        }
+    }
+]

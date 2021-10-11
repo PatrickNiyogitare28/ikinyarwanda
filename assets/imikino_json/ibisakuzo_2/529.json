@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 276
+    },
+    {
+        "sakwe_1": {
+            "question": "Mpagaze kugasozi nti \"bana banjye hubika\"",
+            "option_1": "Amahindu mu mateke",
+            "option_2": "Isake; impanda",
+            "option_3": "Umwobo w'inzoka",
+            "option_4": "Urutare",
+            "correct_answer": "Amahindu mu mateke"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nyamukata ntimena",
+            "option_1": "Akazuba karashe",
+            "option_2": "Inzu iguye",
+            "option_3": "Ikirenge",
+            "option_4": "Urusogo mu mukobwe",
+            "correct_answer": "Ikirenge"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Fata ubwato mfate ubundi tujye kwambutse ibitayega",
+            "option_1": "Isinde",
+            "option_2": "Agacebe k'intama",
+            "option_3": "Ifundi",
+            "option_4": "Umugore utwite",
+            "correct_answer": "Umugore utwite"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Mbonye umusore w'i Gisaka asomera igisate cy'umutsima",
+            "option_1": "Ikivumvuri",
+            "option_2": "Agahaza ko mu rubibi; inkongoro z'abana",
+            "option_3": "Akarizo k'ihene",
+            "option_4": "Umurabyo",
+            "correct_answer": "Umurabyo"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Abana b'iwacu bicaye ku ntebe imwe",
+            "option_1": "Inzara y'uruhinja",
+            "option_2": "Intoki",
+            "option_3": "Inyenyeri",
+            "option_4": "Umuvumu",
+            "correct_answer": "Intoki"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Idodorido",
+            "option_1": "Umwuho w'amateke",
+            "option_2": "Inda mu ruhara",
+            "option_3": "Intuku z'amasaka",
+            "option_4": "Umusambi",
+            "correct_answer": "Inda mu ruhara"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Jya Ruhushi imbere tujye gukwa nyina w'urwumvu",
+            "option_1": "Umusuzi",
+            "option_2": "Umusoro",
+            "option_3": "Umutanoga ku rutare",
+            "option_4": "Icyugu",
+            "correct_answer": "Icyugu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Ngira imbuga nayiharuye ku ngoma ya Gahindiro n'ubu ntiramera akatsi",
+            "option_1": "Imegeri",
+            "option_2": "Ikigorigori",
+            "option_3": "Umusatsi ; urukangaga",
+            "option_4": "Ikiganza",
+            "correct_answer": "Ikiganza"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Imana y'ishyanga irabagira mu ishyamba",
+            "option_1": "Akanyoni karitse ku nzira",
+            "option_2": "Ifaranga",
+            "option_3": "Ishavu",
+            "option_4": "Imvi zikuye umusatsi w'ubuto",
+            "correct_answer": "Ishavu"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Nateye agati kange ari igozi kamanuka ari igogo kirahira inyabihigo Kandi katagira n'inkoma rutaro",
+            "option_1": "Umuganda",
+            "option_2": "Inyenyeri",
+            "option_3": "Uruzi",
+            "option_4": "Ikijumba",
+            "correct_answer": "Ikijumba"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 327
+    },
+    {
+        "sakwe_1": {
+            "question": "Kakubagurira",
+            "option_1": "Urwara",
+            "option_2": "Umuyenzi",
+            "option_3": "Ikirago",
+            "option_4": "Akanyita k'uruhu",
+            "correct_answer": "Akanyita k'uruhu"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndagiye gitare mu makoro ntiyakomereka",
+            "option_1": "Urugo",
+            "option_2": "Urushishi rufite ishaka",
+            "option_3": "Igisabo",
+            "option_4": "Ururimi mu menyo",
+            "correct_answer": "Ururimi mu menyo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Bireke bifurize",
+            "option_1": "Agahinda k'umutima",
+            "option_2": "Umwana w'ifundi",
+            "option_3": "Inkari mu murama",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Inkari mu murama"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Birasa ntibitana",
+            "option_1": "Umuntu ubara inkuru cyane",
+            "option_2": "Amabondo y'ihene",
+            "option_3": "Imvura",
+            "option_4": "Inda mu ruhara",
+            "correct_answer": "Amabondo y'ihene"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Fata so ndongore nyoko",
+            "option_1": "Ikirenge",
+            "option_2": "Umusore warongoye",
+            "option_3": "Ishoka mu giti",
+            "option_4": "Ikinyugunyugu",
+            "correct_answer": "Ishoka mu giti"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Rukara rwa Nzamba yaturuka mu marembo wayacekwa",
+            "option_1": "Kubona aho nyokobukwe yiyuhagira",
+            "option_2": "Umubirigi",
+            "option_3": "Udukongorwa",
+            "option_4": "Igikona",
+            "correct_answer": "Umubirigi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Kati \"Jyiii!\", kati \"izibukire!\"",
+            "option_1": "Isi n' ijuru",
+            "option_2": "Igishyimbo cy'umutura",
+            "option_3": "Inturo mu ntare",
+            "option_4": "Urukwavu",
+            "correct_answer": "Igishyimbo cy'umutura"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Kati \"papari\",kati \"pa\", inzubukira nayikiye kwa Rwamugenzi",
+            "option_1": "Ibitotsi",
+            "option_2": "Ikinyoro mu rubavu",
+            "option_3": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare",
+            "option_4": "Umusambi",
+            "correct_answer": "Inkoko mu kigega kirimo ubusa; imigeri y'isha ku rutare"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Mugarika ayera ni Sebatongo",
+            "option_1": "Akababi k'umuvumu",
+            "option_2": "Intore n'amata",
+            "option_3": "Umuyenzi",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Umuyenzi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Banga ingata mbange indi tujye kwikorera ka kaguru ka Dondi i Budaha",
+            "option_1": "Urutumbwe",
+            "option_2": "Ukuguru kw'imbaragasa",
+            "option_3": "Imyobo y'ifuku urwanwa rw'umuhoro",
+            "option_4": "Umuneke",
+            "correct_answer": "Ukuguru kw'imbaragasa"
+        }
+    }
+]

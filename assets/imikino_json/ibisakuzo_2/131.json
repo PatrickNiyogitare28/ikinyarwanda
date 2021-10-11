@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 647
+    },
+    {
+        "sakwe_1": {
+            "question": "Sebihu sogokuru",
+            "option_1": "Ikizamini",
+            "option_2": "Igihuna",
+            "option_3": "Agatonyanga ku kigega",
+            "option_4": "Ibipfuko",
+            "correct_answer": "Igihuna"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Nagutera ikatakata ibumbabumba, akantu kangana urwana rw'umuhoro",
+            "option_1": "Akana kavutse kadashyitse",
+            "option_2": "Intorezo; urushishi; intosho",
+            "option_3": "Mihigo",
+            "option_4": "Umwisheshe",
+            "correct_answer": "Intorezo; urushishi; intosho"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Rambagira Budongo",
+            "option_1": "Umusatsi ; urukangaga",
+            "option_2": "Imodoka mu muhanda",
+            "option_3": "Umugata",
+            "option_4": "Imfizi y'intama",
+            "correct_answer": "Imodoka mu muhanda"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Kiti \"tiku\", kiti \"dumburi\", kiti \"databuja nkumbuye i Rwanda",
+            "option_1": "Nyankari",
+            "option_2": "Umuzungu ku ipikipiki",
+            "option_3": "Ingoma mu isoko",
+            "option_4": "Umusemburo mu kibindi",
+            "correct_answer": "Umusemburo mu kibindi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Ngira umugozi nkawutahiriza ntiwuzure",
+            "option_1": "Ubwato",
+            "option_2": "Akarizo k'ihene",
+            "option_3": "Inzira",
+            "option_4": "Ubwato mu ruzi",
+            "correct_answer": "Inzira"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Ikigira izina ntikigira ibara",
+            "option_1": "Umwana w'ifundi",
+            "option_2": "Umuyaga",
+            "option_3": "Agasongero",
+            "option_4": "Umuvure",
+            "correct_answer": "Umuyaga"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Ndi Rutebuka kw'iteme ndi Rutebuka ku iteke nti \"mbe mwiriwe Rezida !\"",
+            "option_1": "Icyagumbwa (inopfu)",
+            "option_2": "Umuheha",
+            "option_3": "Urutumbwe",
+            "option_4": "Urukwavu",
+            "correct_answer": "Urukwavu"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nagutera Rukara aho igaramya mu bitare bya Mashyiga",
+            "option_1": "Agafundi",
+            "option_2": "Urukumbi mu menyo",
+            "option_3": "Umusoro",
+            "option_4": "Amabondo y'ihene",
+            "correct_answer": "Urukumbi mu menyo"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Nyiramakangaza ngo mutahe",
+            "option_1": "Ifundi",
+            "option_2": "Inkinwa cya nyirabarazana",
+            "option_3": "Ubuheri mu gihata",
+            "option_4": "Imbeho ku rugi",
+            "correct_answer": "Imbeho ku rugi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Hepfo aha rurakubana",
+            "option_1": "Igitoki n'insina bigwanye",
+            "option_2": "Umusaza cyangwa umukecuru n'agashyitsi",
+            "option_3": "Amahindu mu mateke",
+            "option_4": "Umusatsi ; urukangaga",
+            "correct_answer": "Umusaza cyangwa umukecuru n'agashyitsi"
+        }
+    }
+]

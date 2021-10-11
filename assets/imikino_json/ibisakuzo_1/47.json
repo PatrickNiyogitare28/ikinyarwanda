@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 468
+    },
+    {
+        "sakwe_1": {
+            "question": "Nahuye n'uwiruka atagira iyo ajya",
+            "option_1": "Inshya z' umutwakazi",
+            "option_2": "Umusazi",
+            "option_3": "Urutara",
+            "option_4": "Imirizo y'inka",
+            "correct_answer": "Umusazi"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Ndya nkurye",
+            "option_1": "Urusenda",
+            "option_2": "Ibitotsi",
+            "option_3": "Imirizo y'inka",
+            "option_4": "Agasuzi",
+            "correct_answer": "Urusenda"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abambari ba Ruhinda bambariye inzogera ikuzimu",
+            "option_1": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_2": "Umugore utwite",
+            "option_3": "Ibiradiyo biteganye",
+            "option_4": "Igisozi kirekire",
+            "correct_answer": "Imigozi y'ibijumba; inkwana z'amateke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Nyirakamana akera inkera atatumiwemo",
+            "option_1": "Ikawa",
+            "option_2": "Ikibya cy'umusaza",
+            "option_3": "Ibirenge by'umuntu",
+            "option_4": "Umuvumbyi",
+            "correct_answer": "Umuvumbyi"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Kabutindi yantuye intango atari busomeho",
+            "option_1": "Umurozi",
+            "option_2": "Amashyiga (y'inyuma)",
+            "option_3": "Ifundi mu mamera",
+            "option_4": "Igare rigeze ahazamuka",
+            "correct_answer": "Umurozi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Fata umuhoro mfate undi tujye gutema ibidatemeka",
+            "option_1": "Ibitotsi bya mu gitondo",
+            "option_2": "Amazi",
+            "option_3": "Igare",
+            "option_4": "Igitoki",
+            "correct_answer": "Amazi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Inkongoro ya Dede ayinyweraho wenyine",
+            "option_1": "Umuzungu mu modoka",
+            "option_2": "Umwobo w'inzoka",
+            "option_3": "Imirya y'inanga",
+            "option_4": "Ibara ry'inka",
+            "correct_answer": "Umwobo w'inzoka"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Fata utwangushye tujye kuvoma iriba ridakama",
+            "option_1": "Inyamunyo",
+            "option_2": "Akatsi ko ku nzu",
+            "option_3": "Imigozi y'ibijumba; inkwana z'amateke",
+            "option_4": "Ishuri",
+            "correct_answer": "Ishuri"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Zagarika amahembe ntiwamenya izo nyoko yakowe",
+            "option_1": "Icebe ry'inka",
+            "option_2": "Amagambo yo ku rurembo",
+            "option_3": "Ibiti by'ikawa",
+            "option_4": "Inzara y'umusore",
+            "correct_answer": "Ibiti by'ikawa"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Fata akebo mfate akandi tujhye gitara intagwira",
+            "option_1": "Igihaza",
+            "option_2": "Umutwe",
+            "option_3": "Ubwayo bw'inka",
+            "option_4": "Imyugariro",
+            "correct_answer": "Ubwayo bw'inka"
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "randomId": 185
+    },
+    {
+        "sakwe_1": {
+            "question": "Ngira imbehe nyinshi ariko nkabura iyo ndiraho",
+            "option_1": "Ifaranga",
+            "option_2": "Ibiganza",
+            "option_3": "Amenyo",
+            "option_4": "Ifaranga ku meza",
+            "correct_answer": "Ibiganza"
+        }
+    },
+    {
+        "sakwe_2": {
+            "question": "Jugujugu matenbe",
+            "option_1": "Igitagangurirwa",
+            "option_2": "Ubwayo bw'inka",
+            "option_3": "Inyundo",
+            "option_4": "Imisozi",
+            "correct_answer": "Inyundo"
+        }
+    },
+    {
+        "sakwe_3": {
+            "question": "Abakobwa ba Ruhinda baturutse ikuzimu bambaye inyonga",
+            "option_1": "Ubwayo bw'inka",
+            "option_2": "Inyundo mu ruganda",
+            "option_3": "Insina; amateke",
+            "option_4": "Uruyuzi",
+            "correct_answer": "Insina; amateke"
+        }
+    },
+    {
+        "sakwe_4": {
+            "question": "Bakobwa ntimukanseke nabuze aho mpisha",
+            "option_1": "Ururimi",
+            "option_2": "Inkware",
+            "option_3": "Gusitara",
+            "option_4": "Innyo y'ihene",
+            "correct_answer": "Innyo y'ihene"
+        }
+    },
+    {
+        "sakwe_5": {
+            "question": "Nyirakaruhura intumwa y'urupfu",
+            "option_1": "Umuzungu n'umwirabura",
+            "option_2": "Ishapure n'amasengesho",
+            "option_3": "Ifaranga",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_6": {
+            "question": "Yanze kuza turi bujyane",
+            "option_1": "Imodoka yabuze lisansi",
+            "option_2": "Urutara",
+            "option_3": "Ibaruwa",
+            "option_4": "Inzuki",
+            "correct_answer": "Imodoka yabuze lisansi"
+        }
+    },
+    {
+        "sakwe_7": {
+            "question": "Iyo umugabo ageze mu rutopki abanza iki?",
+            "option_1": "Ibara ry'inka",
+            "option_2": "Amapapayi",
+            "option_3": "Igihepfu ku mugina",
+            "option_4": "Ikivugirizo",
+            "correct_answer": "Ikivugirizo"
+        }
+    },
+    {
+        "sakwe_8": {
+            "question": "Nikoreye isi ntengata ijuru",
+            "option_1": "Ifaranga",
+            "option_2": "Inyundo",
+            "option_3": "Akababi k'umuvumu",
+            "option_4": "Inzara n'inyota",
+            "correct_answer": "Inzara n'inyota"
+        }
+    },
+    {
+        "sakwe_9": {
+            "question": "Ubwo twicaye hano haraza umuntu aduhamagare",
+            "option_1": "Ibitotsi",
+            "option_2": "Icyanzu, ubunyereri",
+            "option_3": "Intare",
+            "option_4": "Ibitotsi",
+            "correct_answer": "Ibitotsi"
+        }
+    },
+    {
+        "sakwe_10": {
+            "question": "Akana kanjye ni maguru ya Sarwaya",
+            "option_1": "Ibitotsi",
+            "option_2": "Ibaruwa",
+            "option_3": "Agatonyanga k'imvura",
+            "option_4": "Ifaranga",
+            "correct_answer": "Ibaruwa"
+        }
+    }
+]
