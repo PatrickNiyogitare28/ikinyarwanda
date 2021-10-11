@@ -3,6 +3,8 @@ import 'package:ikinyarwanda/interface/widgets/button_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/circular_progress_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/dots_indicator.dart';
 import 'package:ikinyarwanda/interface/widgets/text_widget.dart';
+import 'package:ikinyarwanda/models/igisakuzo.dart';
+import 'package:ikinyarwanda/shared/styles.dart';
 import 'package:ikinyarwanda/shared/ui_helpers.dart';
 import 'package:stacked/stacked.dart';
 
@@ -61,61 +63,10 @@ class _IbisakuzoViewState extends State<IbisakuzoView>
                               viewModel.ibisakuzoIcumi.length - 1;
                         });
                       },
-                      itemBuilder: (context, index) => Column(
-                        children: [
-                          ConstrainedBox(
-                            constraints: const BoxConstraints(
-                              minHeight: 200,
-                              maxHeight: 320,
-                            ),
-                            child: Container(
-                              color: Theme.of(context).primaryColor,
-                              child: Align(
-                                alignment: Alignment.center,
-                                child: Padding(
-                                  padding: basePadding,
-                                  child: TextWiget.headline3(
-                                    viewModel.ibisakuzoIcumi[index].question,
-                                    color: Theme.of(context).backgroundColor,
-                                  ),
-                                ),
-                              ),
-                            ),
-                          ),
-                          verticalSpaceTiny,
-                          Expanded(
-                            child: Column(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              children: [
-                                GameOption(
-                                  optionText:
-                                      viewModel.ibisakuzoIcumi[index].option1,
-                                  correctAnswer: viewModel
-                                      .ibisakuzoIcumi[index].correctAnswer,
-                                ),
-                                GameOption(
-                                  optionText:
-                                      viewModel.ibisakuzoIcumi[index].option2,
-                                  correctAnswer: viewModel
-                                      .ibisakuzoIcumi[index].correctAnswer,
-                                ),
-                                GameOption(
-                                  optionText:
-                                      viewModel.ibisakuzoIcumi[index].option3,
-                                  correctAnswer: viewModel
-                                      .ibisakuzoIcumi[index].correctAnswer,
-                                ),
-                                GameOption(
-                                  optionText:
-                                      viewModel.ibisakuzoIcumi[index].option4,
-                                  correctAnswer: viewModel
-                                      .ibisakuzoIcumi[index].correctAnswer,
-                                ),
-                              ],
-                            ),
-                          ),
-                          verticalSpaceTiny,
-                        ],
+                      itemBuilder: (context, index) => IgisakuzoWidget(
+                        igisakuzo: viewModel.ibisakuzoIcumi[index],
+                        navigationPop: viewModel.navigatePop,
+                        showAbout: viewModel.showAboutDialog,
                       ),
                     ),
                     if (!_isLastPage)
@@ -175,10 +126,113 @@ class _IbisakuzoViewState extends State<IbisakuzoView>
   }
 }
 
-class GameOption extends StatefulWidget {
+class IgisakuzoWidget extends StatelessWidget {
+  final Igisakuzo igisakuzo;
+  final VoidCallback navigationPop;
+  final VoidCallback showAbout;
+
+  const IgisakuzoWidget({
+    Key? key,
+    required this.igisakuzo,
+    required this.navigationPop,
+    required this.showAbout,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      children: [
+        ConstrainedBox(
+          constraints: const BoxConstraints(
+            minHeight: 200,
+            maxHeight: 320,
+          ),
+          child: Container(
+            color: Theme.of(context).primaryColor,
+            child: Column(
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    IconButton(
+                      onPressed: navigationPop,
+                      color: Theme.of(context).backgroundColor,
+                      icon: const Icon(Icons.arrow_back),
+                      splashColor: Theme.of(context).primaryColor,
+                    ),
+                    IconButton(
+                      onPressed: showAbout,
+                      color: Theme.of(context).backgroundColor,
+                      icon: const Icon(Icons.info_outline),
+                      splashColor: Theme.of(context).primaryColor,
+                    ),
+                  ],
+                ),
+                Expanded(
+                  child: Align(
+                    alignment: Alignment.center,
+                    child: Padding(
+                      padding: basePadding,
+                      child: RichText(
+                        textAlign: TextAlign.start,
+                        text: TextSpan(
+                          children: [
+                            TextSpan(
+                              text: 'Sakwe Sakwe?\n\n',
+                              style: headline2Style.apply(
+                                color: Theme.of(context).backgroundColor,
+                              ),
+                            ),
+                            TextSpan(
+                              text: igisakuzo.question,
+                              style: headline3Style.apply(
+                                color: Theme.of(context).backgroundColor,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+        verticalSpaceTiny,
+        Expanded(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              OptionWidget(
+                optionText: igisakuzo.option1,
+                correctAnswer: igisakuzo.correctAnswer,
+              ),
+              OptionWidget(
+                optionText: igisakuzo.option2,
+                correctAnswer: igisakuzo.correctAnswer,
+              ),
+              OptionWidget(
+                optionText: igisakuzo.option3,
+                correctAnswer: igisakuzo.correctAnswer,
+              ),
+              OptionWidget(
+                optionText: igisakuzo.option4,
+                correctAnswer: igisakuzo.correctAnswer,
+              ),
+            ],
+          ),
+        ),
+        verticalSpaceTiny,
+      ],
+    );
+  }
+}
+
+class OptionWidget extends StatefulWidget {
   final String optionText;
   final String correctAnswer;
-  const GameOption({
+  const OptionWidget({
     Key? key,
     required this.optionText,
     required this.correctAnswer,
@@ -188,7 +242,7 @@ class GameOption extends StatefulWidget {
   _GameOptionState createState() => _GameOptionState();
 }
 
-class _GameOptionState extends State<GameOption> {
+class _GameOptionState extends State<OptionWidget> {
   late bool _isCorrect;
   late bool _isWrong;
 
@@ -214,7 +268,7 @@ class _GameOptionState extends State<GameOption> {
         borderRadius: BorderRadius.circular(borderRadius),
         color: _isCorrect
             ? Theme.of(context).primaryColor
-            : Theme.of(context).cardColor,
+            : Theme.of(context).backgroundColor,
       ),
       child: OutlinedButton(
         style: OutlinedButton.styleFrom(

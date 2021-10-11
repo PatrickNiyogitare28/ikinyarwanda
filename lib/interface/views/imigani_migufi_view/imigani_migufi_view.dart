@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
+import 'package:ikinyarwanda/interface/widgets/text_widget.dart';
 import 'package:stacked/stacked.dart';
 
 import 'package:ikinyarwanda/shared/ui_helpers.dart';
@@ -12,9 +13,6 @@ class ImiganiMigufiView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var brightness = MediaQuery.of(context).platformBrightness;
-    bool darkModeOn = brightness == Brightness.dark;
-
     return ViewModelBuilder<ImiganiMigufiViewModel>.reactive(
       viewModelBuilder: () => ImiganiMigufiViewModel(),
       onModelReady: (viewModel) => viewModel.getImigani(),
@@ -22,19 +20,55 @@ class ImiganiMigufiView extends StatelessWidget {
         body: viewModel.isBusy
             ? const CircularProgressWidget()
             : SafeArea(
-                child: ListView.separated(
-                  separatorBuilder: (_, index) => verticalSpaceTiny,
-                  primary: true,
-                  shrinkWrap: true,
-                  itemCount: viewModel.imigani.length,
-                  itemBuilder: (context, index) => CreationAwareListItem(
-                    itemCreated: () {
-                      SchedulerBinding.instance!.addPostFrameCallback(
-                        (duration) => viewModel.handleItemCreated(index),
-                      );
-                    },
-                    child: ListItem(title: viewModel.imigani[index]),
-                  ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        IconButton(
+                          onPressed: viewModel.navigatePop,
+                          color: Theme.of(context).primaryColor,
+                          icon: const Icon(Icons.arrow_back),
+                          splashColor: Theme.of(context).primaryColor,
+                        ),
+                        IconButton(
+                          onPressed: viewModel.showAboutDialog,
+                          color: Theme.of(context).primaryColor,
+                          icon: const Icon(Icons.info_outline),
+                          splashColor: Theme.of(context).primaryColor,
+                        ),
+                      ],
+                    ),
+                    Padding(
+                      padding: basePadding,
+                      child: TextWiget.headline2(
+                        'Iimigani migufi',
+                        color: Theme.of(context).primaryColor,
+                      ),
+                    ),
+                    verticalSpaceSmall,
+                    Expanded(
+                      child: ListView.separated(
+                        separatorBuilder: (_, index) => Divider(
+                          color: Theme.of(context).primaryColor,
+                          indent: 25,
+                          endIndent: 25,
+                        ),
+                        primary: true,
+                        shrinkWrap: true,
+                        itemCount: viewModel.imigani.length,
+                        itemBuilder: (context, index) => CreationAwareListItem(
+                          itemCreated: () {
+                            SchedulerBinding.instance!.addPostFrameCallback(
+                              (duration) => viewModel.handleItemCreated(index),
+                            );
+                          },
+                          child: ListItem(title: viewModel.imigani[index]),
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
               ),
       ),

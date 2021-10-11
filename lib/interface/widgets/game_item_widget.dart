@@ -19,14 +19,14 @@ class GameItemWidget extends StatelessWidget {
       onTap: () => onTap(game.route, arguments: game.addArg),
       child: Card(
         elevation: 2,
-        color: Theme.of(context).primaryColor,
+        color: Theme.of(context).cardColor,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(borderRadius),
         ),
         child: Center(
           child: TextWiget.headline2(
             game.title,
-            color: Colors.white,
+            color: Theme.of(context).primaryColor,
           ),
         ),
       ),

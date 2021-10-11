@@ -31,10 +31,18 @@ class HomeView extends StatelessWidget {
               Align(
                 alignment: Alignment.centerLeft,
                 child: TextWiget.caption(
-                  "Ibisakuzo ni umukino wo mu magambo. Ntibavuga - Bavuga cyangwa Ikeshamvugo ni ubuhanga bukoreshwa mu kuvuga imvugo inoze, ifite inganzo kandi ivugitse ku buryo bunoze. Umuntu aca amarenga ashaka kubwira uwo baziranye, icyo adashaka kubwira abamwumva bose. Imigani migufi yerekana uburezi, uburere n'imibanire y'abanyarwanda. ",
+                  "Ikinyarwanda ni ururimi rufite umwanya ukomeye mu muco no mu mibereho y’Abanyarwanda. Ni rwo rurimi rumwe rukumbi bakoresha mu gihugu cyose bakumvikana neza nta busemuzi.",
                 ),
               ),
-              verticalSpaceSmall,
+              verticalSpaceLarge,
+              Align(
+                alignment: Alignment.centerLeft,
+                child: TextWiget.body(
+                  'Imikino yagufasha kunoza ikinyarwanda',
+                  color: Theme.of(context).primaryColor,
+                  fontWeight: 2,
+                ),
+              ),
               Flexible(
                 child: GridView.builder(
                   physics: const NeverScrollableScrollPhysics(),
@@ -52,7 +60,7 @@ class HomeView extends StatelessWidget {
                 ),
               ),
               GestureDetector(
-                onTap: () {},
+                onTap: viewModel.contactUs,
                 child: TextWiget.caption('Twandikire'),
               ),
             ],

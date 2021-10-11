@@ -13,7 +13,7 @@ class HomeViewModel extends BaseViewModel {
     await _dialogService.showDialog(
       title: 'Twohereze ubutumwa',
       description:
-          'Nshuti mukoresha,\n\nWatwohereza ibitekerezo, imivugo, inkuru ngufi, ikinyarwanda, insanganyamatsiko, n\'izindi nyandiko wifuza gusangiza abandi kuri imeri (rubandarwanda@gmail.com) cyangwa ku mbuga nkoranyambaga Twitter na Instagram - (@Rubanda_)',
+          'Nshuti mukoresha,\nWatwohereza ibitekerezo, imivugo, inkuru ngufi, ikinyarwanda, insanganyamatsiko, n\'izindi nyandiko wifuza gusangiza abandi kuri imeri (rubandarwanda@gmail.com) cyangwa ku mbuga nkoranyambaga Twitter na Instagram - (@rubanda_app)',
     );
   }
 

@@ -44,8 +44,10 @@ class TextWiget extends StatelessWidget {
     Key? key,
     TextAlign align = TextAlign.start,
     Color? color,
+    int? fontWeight,
   })  : textStyle = bodyStyle.apply(
           color: color ?? Colors.black.withOpacity(.87),
+          fontWeightDelta: fontWeight ?? 0,
         ),
         textAlign = align,
         super(key: key);

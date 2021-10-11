@@ -1,4 +1,4 @@
-package com.example.ikinyarwanda
+package com.fishimve.ikinyarwanda
 
 import io.flutter.embedding.android.FlutterActivity
 

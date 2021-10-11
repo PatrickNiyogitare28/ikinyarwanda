@@ -38,9 +38,6 @@ class _IkeshamvugoViewState extends State<IkeshamvugoView>
 
   @override
   Widget build(BuildContext context) {
-    var brightness = MediaQuery.of(context).platformBrightness;
-    bool darkModeOn = brightness == Brightness.dark;
-
     return ViewModelBuilder<IkeshamvugoViewModel>.reactive(
       viewModelBuilder: () => IkeshamvugoViewModel(),
       onModelReady: (viewModel) => viewModel.getIkeshamvugo(),
@@ -65,24 +62,66 @@ class _IkeshamvugoViewState extends State<IkeshamvugoView>
                               _currentPage == viewModel.ikeshamvugo.length - 1;
                         });
                       },
-                      itemBuilder: (context, index) => Center(
-                        child: SizedBox(
-                          height: MediaQuery.of(context).size.height / 1.5,
-                          child: WidgetFlipper(
-                            frontWidget: AppCustomCard(
-                              title: viewModel.gameCardFrontTitle,
-                              flashCard: viewModel.ikeshamvugo[index].question,
-                              firstColor: Theme.of(context).primaryColor,
-                              secondColor: Theme.of(context).backgroundColor,
-                            ),
-                            backWidget: AppCustomCard(
-                              title: viewModel.gameCardBackTitle,
-                              flashCard: viewModel.ikeshamvugo[index].answer,
-                              firstColor: Theme.of(context).primaryColor,
-                              secondColor: Theme.of(context).backgroundColor,
+                      itemBuilder: (context, index) => Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              IconButton(
+                                onPressed: viewModel.navigatePop,
+                                color: Theme.of(context).primaryColor,
+                                icon: const Icon(Icons.arrow_back),
+                                splashColor: Theme.of(context).primaryColor,
+                              ),
+                              IconButton(
+                                onPressed: viewModel.showAboutDialog,
+                                color: Theme.of(context).primaryColor,
+                                icon: const Icon(Icons.info_outline),
+                                splashColor: Theme.of(context).primaryColor,
+                              ),
+                            ],
+                          ),
+                          verticalSpaceLarge,
+                          Padding(
+                            padding: basePadding,
+                            child: TextWiget.headline2(
+                              'Ikeshamvugo',
+                              color: Theme.of(context).primaryColor,
                             ),
                           ),
-                        ),
+                          Padding(
+                            padding: const EdgeInsets.fromLTRB(25, 0, 25, 8),
+                            child: TextWiget.caption(
+                              'Kanda kugirango ubone igisubizo',
+                              color: Theme.of(context).primaryColor,
+                            ),
+                          ),
+                          verticalSpaceLarge,
+                          Center(
+                            child: SizedBox(
+                              height: MediaQuery.of(context).size.height / 2,
+                              child: WidgetFlipper(
+                                frontWidget: AppCustomCard(
+                                  title: viewModel.gameCardFrontTitle,
+                                  flashCard:
+                                      viewModel.ikeshamvugo[index].question,
+                                  firstColor: Theme.of(context).primaryColor,
+                                  secondColor:
+                                      Theme.of(context).backgroundColor,
+                                ),
+                                backWidget: AppCustomCard(
+                                  title: viewModel.gameCardBackTitle,
+                                  flashCard:
+                                      viewModel.ikeshamvugo[index].answer,
+                                  firstColor: Theme.of(context).primaryColor,
+                                  secondColor:
+                                      Theme.of(context).backgroundColor,
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
                       ),
                     ),
                     if (!_isLastPage)

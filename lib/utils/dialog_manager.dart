@@ -21,9 +21,13 @@ class _DialogManagerState extends State<DialogManager> {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
+        backgroundColor: Theme.of(context).backgroundColor,
         elevation: 1,
-        title: TextWiget.headline3(request.title),
-        content: TextWiget.body(request.description),
+        title: TextWiget.headline2(
+          request.title,
+          color: Theme.of(context).primaryColor,
+        ),
+        content: TextWiget.caption(request.description),
         actions: [
           if (isComfirmationDialog)
             TextButton(

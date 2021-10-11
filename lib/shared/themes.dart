@@ -6,8 +6,20 @@ class ThemeConfig {
     primaryColor: AppColors.primaryLight,
     scaffoldBackgroundColor: AppColors.backgroundLight,
     backgroundColor: AppColors.backgroundLight,
+    colorScheme: ColorScheme.fromSwatch().copyWith(
+      secondary: AppColors.primaryLight,
+    ),
+    cardColor: Colors.white,
     brightness: Brightness.light,
   );
-
-  static ThemeData dartTheme = ThemeData();
+  static ThemeData darkTheme = ThemeData(
+    primaryColor: AppColors.primaryDark,
+    scaffoldBackgroundColor: AppColors.backgroundDark,
+    backgroundColor: AppColors.backgroundDark,
+    colorScheme: ColorScheme.fromSwatch().copyWith(
+      secondary: AppColors.primaryDark,
+    ),
+    cardColor: Colors.black,
+    brightness: Brightness.dark,
+  );
 }
