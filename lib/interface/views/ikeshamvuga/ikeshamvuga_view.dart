@@ -3,6 +3,7 @@ import 'package:ikinyarwanda/interface/widgets/button_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/circular_progress_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/dots_indicator.dart';
 import 'package:ikinyarwanda/interface/widgets/text_widget.dart';
+import 'package:ikinyarwanda/interface/widgets/web_centered_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/widget_flipper.dart';
 import 'package:ikinyarwanda/shared/ui_helpers.dart';
 import 'package:stacked/stacked.dart';
@@ -45,132 +46,134 @@ class _IkeshamvugoViewState extends State<IkeshamvugoView>
         backgroundColor: Theme.of(context).backgroundColor,
         body: viewModel.isBusy
             ? const CircularProgressWidget()
-            : SafeArea(
-                child: Stack(
-                  children: [
-                    PageView.builder(
-                      pageSnapping: true,
-                      allowImplicitScrolling: false,
-                      reverse: false,
-                      scrollDirection: Axis.horizontal,
-                      itemCount: viewModel.ikeshamvugo.length,
-                      controller: _controller,
-                      onPageChanged: (index) {
-                        setState(() {
-                          _currentPage = index;
-                          _isLastPage =
-                              _currentPage == viewModel.ikeshamvugo.length - 1;
-                        });
-                      },
-                      itemBuilder: (context, index) => Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                            children: [
-                              IconButton(
-                                onPressed: viewModel.navigatePop,
-                                color: Theme.of(context).primaryColor,
-                                icon: const Icon(Icons.arrow_back),
-                                splashColor: Theme.of(context).primaryColor,
-                              ),
-                              IconButton(
-                                onPressed: viewModel.showAboutDialog,
-                                color: Theme.of(context).primaryColor,
-                                icon: const Icon(Icons.info_outline),
-                                splashColor: Theme.of(context).primaryColor,
-                              ),
-                            ],
-                          ),
-                          verticalSpaceMedium,
-                          Padding(
-                            padding: basePadding,
-                            child: TextWiget.headline2(
-                              'Ikeshamvugo',
-                              color: Theme.of(context).primaryColor,
-                            ),
-                          ),
-                          Padding(
-                            padding: const EdgeInsets.fromLTRB(25, 0, 25, 8),
-                            child: TextWiget.caption(
-                              'Kandaho kugirango ubone imvugo inoze',
-                              color: Theme.of(context).primaryColor,
-                            ),
-                          ),
-                          verticalSpaceLarge,
-                          Center(
-                            child: SizedBox(
-                              height: MediaQuery.of(context).size.height / 2,
-                              child: WidgetFlipper(
-                                frontWidget: AppCustomCard(
-                                  title: viewModel.gameCardFrontTitle,
-                                  flashCard:
-                                      viewModel.ikeshamvugo[index].question,
-                                  firstColor: Theme.of(context).primaryColor,
-                                  secondColor:
-                                      Theme.of(context).backgroundColor,
+            : WebCenteredWidget(
+                child: SafeArea(
+                  child: Stack(
+                    children: [
+                      PageView.builder(
+                        pageSnapping: true,
+                        allowImplicitScrolling: false,
+                        reverse: false,
+                        scrollDirection: Axis.horizontal,
+                        itemCount: viewModel.ikeshamvugo.length,
+                        controller: _controller,
+                        onPageChanged: (index) {
+                          setState(() {
+                            _currentPage = index;
+                            _isLastPage = _currentPage ==
+                                viewModel.ikeshamvugo.length - 1;
+                          });
+                        },
+                        itemBuilder: (context, index) => Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                IconButton(
+                                  onPressed: viewModel.navigatePop,
+                                  color: Theme.of(context).primaryColor,
+                                  icon: const Icon(Icons.arrow_back),
+                                  splashColor: Theme.of(context).primaryColor,
                                 ),
-                                backWidget: AppCustomCard(
-                                  title: viewModel.gameCardBackTitle,
-                                  flashCard:
-                                      viewModel.ikeshamvugo[index].answer,
-                                  firstColor: Theme.of(context).primaryColor,
-                                  secondColor:
-                                      Theme.of(context).backgroundColor,
+                                IconButton(
+                                  onPressed: viewModel.showAboutDialog,
+                                  color: Theme.of(context).primaryColor,
+                                  icon: const Icon(Icons.info_outline),
+                                  splashColor: Theme.of(context).primaryColor,
+                                ),
+                              ],
+                            ),
+                            verticalSpaceMedium,
+                            Padding(
+                              padding: basePadding,
+                              child: TextWiget.headline2(
+                                'Ikeshamvugo',
+                                color: Theme.of(context).primaryColor,
+                              ),
+                            ),
+                            Padding(
+                              padding: const EdgeInsets.fromLTRB(25, 0, 25, 8),
+                              child: TextWiget.caption(
+                                'Kandaho kugirango ubone imvugo inoze',
+                                color: Theme.of(context).primaryColor,
+                              ),
+                            ),
+                            verticalSpaceLarge,
+                            Center(
+                              child: SizedBox(
+                                height: MediaQuery.of(context).size.height / 2,
+                                child: WidgetFlipper(
+                                  frontWidget: AppCustomCard(
+                                    title: viewModel.gameCardFrontTitle,
+                                    flashCard:
+                                        viewModel.ikeshamvugo[index].question,
+                                    firstColor: Theme.of(context).primaryColor,
+                                    secondColor:
+                                        Theme.of(context).backgroundColor,
+                                  ),
+                                  backWidget: AppCustomCard(
+                                    title: viewModel.gameCardBackTitle,
+                                    flashCard:
+                                        viewModel.ikeshamvugo[index].answer,
+                                    firstColor: Theme.of(context).primaryColor,
+                                    secondColor:
+                                        Theme.of(context).backgroundColor,
+                                  ),
                                 ),
                               ),
                             ),
-                          ),
-                        ],
+                          ],
+                        ),
                       ),
-                    ),
-                    if (!_isLastPage)
-                      Positioned(
-                        bottom: 0.0,
-                        left: 0.0,
-                        right: 0.0,
-                        child: Padding(
-                          padding: const EdgeInsets.all(
-                            10,
+                      if (!_isLastPage)
+                        Positioned(
+                          bottom: 0.0,
+                          left: 0.0,
+                          right: 0.0,
+                          child: Padding(
+                            padding: const EdgeInsets.all(
+                              10,
+                            ),
+                            child: Center(
+                              child: DotsIndicator(
+                                controller: _controller,
+                                itemCount: viewModel.ikeshamvugo.length,
+                                color: Theme.of(context).primaryColor,
+                                onPageSelected: (int page) {
+                                  _controller.animateToPage(
+                                    page,
+                                    duration: _duration,
+                                    curve: _curve,
+                                  );
+                                },
+                              ),
+                            ),
                           ),
-                          child: Center(
-                            child: DotsIndicator(
-                              controller: _controller,
-                              itemCount: viewModel.ikeshamvugo.length,
-                              color: Theme.of(context).primaryColor,
-                              onPageSelected: (int page) {
-                                _controller.animateToPage(
-                                  page,
-                                  duration: _duration,
-                                  curve: _curve,
-                                );
+                        ),
+                      if (_isLastPage)
+                        Positioned(
+                          bottom: 0.0,
+                          left: 0.0,
+                          right: 0.0,
+                          child: Padding(
+                            padding: basePadding,
+                            child: ButtonWidget(
+                              title: 'Komeza',
+                              busy: viewModel.isBusy,
+                              onTap: () async {
+                                await viewModel.getIkeshamvugo();
+                                setState(() {
+                                  _isLastPage = false;
+                                  _currentPage = 0;
+                                  _controller.jumpTo(0);
+                                });
                               },
                             ),
                           ),
                         ),
-                      ),
-                    if (_isLastPage)
-                      Positioned(
-                        bottom: 0.0,
-                        left: 0.0,
-                        right: 0.0,
-                        child: Padding(
-                          padding: basePadding,
-                          child: ButtonWidget(
-                            title: 'Komeza',
-                            busy: viewModel.isBusy,
-                            onTap: () async {
-                              await viewModel.getIkeshamvugo();
-                              setState(() {
-                                _isLastPage = false;
-                                _currentPage = 0;
-                                _controller.jumpTo(0);
-                              });
-                            },
-                          ),
-                        ),
-                      ),
-                  ],
+                    ],
+                  ),
                 ),
               ),
       ),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:ikinyarwanda/interface/widgets/text_widget.dart';
+import 'package:ikinyarwanda/interface/widgets/web_centered_widget.dart';
 import 'package:stacked/stacked.dart';
 
 import 'package:ikinyarwanda/shared/ui_helpers.dart';
@@ -19,56 +20,60 @@ class ImiganiMigufiView extends StatelessWidget {
       builder: (context, viewModel, child) => Scaffold(
         body: viewModel.isBusy
             ? const CircularProgressWidget()
-            : SafeArea(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        IconButton(
-                          onPressed: viewModel.navigatePop,
-                          color: Theme.of(context).primaryColor,
-                          icon: const Icon(Icons.arrow_back),
-                          splashColor: Theme.of(context).primaryColor,
-                        ),
-                        IconButton(
-                          onPressed: viewModel.showAboutDialog,
-                          color: Theme.of(context).primaryColor,
-                          icon: const Icon(Icons.info_outline),
-                          splashColor: Theme.of(context).primaryColor,
-                        ),
-                      ],
-                    ),
-                    Padding(
-                      padding: basePadding,
-                      child: TextWiget.headline2(
-                        'Imigani migufi',
-                        color: Theme.of(context).primaryColor,
+            : WebCenteredWidget(
+                child: SafeArea(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          IconButton(
+                            onPressed: viewModel.navigatePop,
+                            color: Theme.of(context).primaryColor,
+                            icon: const Icon(Icons.arrow_back),
+                            splashColor: Theme.of(context).primaryColor,
+                          ),
+                          IconButton(
+                            onPressed: viewModel.showAboutDialog,
+                            color: Theme.of(context).primaryColor,
+                            icon: const Icon(Icons.info_outline),
+                            splashColor: Theme.of(context).primaryColor,
+                          ),
+                        ],
                       ),
-                    ),
-                    verticalSpaceSmall,
-                    Expanded(
-                      child: ListView.separated(
-                        separatorBuilder: (_, index) => Divider(
+                      Padding(
+                        padding: basePadding,
+                        child: TextWiget.headline2(
+                          'Imigani migufi',
                           color: Theme.of(context).primaryColor,
-                          indent: 25,
-                          endIndent: 25,
-                        ),
-                        primary: true,
-                        shrinkWrap: true,
-                        itemCount: viewModel.imigani.length,
-                        itemBuilder: (context, index) => CreationAwareListItem(
-                          itemCreated: () {
-                            SchedulerBinding.instance!.addPostFrameCallback(
-                              (duration) => viewModel.handleItemCreated(index),
-                            );
-                          },
-                          child: ListItem(title: viewModel.imigani[index]),
                         ),
                       ),
-                    ),
-                  ],
+                      verticalSpaceSmall,
+                      Expanded(
+                        child: ListView.separated(
+                          separatorBuilder: (_, index) => Divider(
+                            color: Theme.of(context).primaryColor,
+                            indent: 25,
+                            endIndent: 25,
+                          ),
+                          primary: true,
+                          shrinkWrap: true,
+                          itemCount: viewModel.imigani.length,
+                          itemBuilder: (context, index) =>
+                              CreationAwareListItem(
+                            itemCreated: () {
+                              SchedulerBinding.instance!.addPostFrameCallback(
+                                (duration) =>
+                                    viewModel.handleItemCreated(index),
+                              );
+                            },
+                            child: ListItem(title: viewModel.imigani[index]),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ),
       ),

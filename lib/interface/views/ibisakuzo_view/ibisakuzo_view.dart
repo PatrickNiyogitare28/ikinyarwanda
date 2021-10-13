@@ -3,6 +3,7 @@ import 'package:ikinyarwanda/interface/widgets/button_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/circular_progress_widget.dart';
 import 'package:ikinyarwanda/interface/widgets/dots_indicator.dart';
 import 'package:ikinyarwanda/interface/widgets/text_widget.dart';
+import 'package:ikinyarwanda/interface/widgets/web_centered_widget.dart';
 import 'package:ikinyarwanda/models/igisakuzo.dart';
 import 'package:ikinyarwanda/shared/styles.dart';
 import 'package:ikinyarwanda/shared/ui_helpers.dart';
@@ -46,79 +47,81 @@ class _IbisakuzoViewState extends State<IbisakuzoView>
       builder: (context, viewModel, child) => Scaffold(
         body: viewModel.isBusy
             ? const CircularProgressWidget()
-            : SafeArea(
-                child: Stack(
-                  children: [
-                    PageView.builder(
-                      pageSnapping: true,
-                      allowImplicitScrolling: false,
-                      reverse: false,
-                      scrollDirection: Axis.horizontal,
-                      itemCount: viewModel.ibisakuzoIcumi.length,
-                      controller: _controller,
-                      onPageChanged: (index) {
-                        setState(() {
-                          _currentPage = index;
-                          _isLastPage = _currentPage ==
-                              viewModel.ibisakuzoIcumi.length - 1;
-                        });
-                      },
-                      itemBuilder: (context, index) => IgisakuzoWidget(
-                        igisakuzo: viewModel.ibisakuzoIcumi[index],
-                        navigationPop: viewModel.navigatePop,
-                        showAbout: viewModel.showAboutDialog,
-                        correctScore: viewModel.correctScore,
-                        wrongScore: viewModel.wrongScore,
-                        updateScore: viewModel.updateScore,
+            : WebCenteredWidget(
+                child: SafeArea(
+                  child: Stack(
+                    children: [
+                      PageView.builder(
+                        pageSnapping: true,
+                        allowImplicitScrolling: false,
+                        reverse: false,
+                        scrollDirection: Axis.horizontal,
+                        itemCount: viewModel.ibisakuzoIcumi.length,
+                        controller: _controller,
+                        onPageChanged: (index) {
+                          setState(() {
+                            _currentPage = index;
+                            _isLastPage = _currentPage ==
+                                viewModel.ibisakuzoIcumi.length - 1;
+                          });
+                        },
+                        itemBuilder: (context, index) => IgisakuzoWidget(
+                          igisakuzo: viewModel.ibisakuzoIcumi[index],
+                          navigationPop: viewModel.navigatePop,
+                          showAbout: viewModel.showAboutDialog,
+                          correctScore: viewModel.correctScore,
+                          wrongScore: viewModel.wrongScore,
+                          updateScore: viewModel.updateScore,
+                        ),
                       ),
-                    ),
-                    if (!_isLastPage)
-                      Positioned(
-                        bottom: 0.0,
-                        left: 0.0,
-                        right: 0.0,
-                        child: Padding(
-                          padding: const EdgeInsets.all(
-                            10,
+                      if (!_isLastPage)
+                        Positioned(
+                          bottom: 0.0,
+                          left: 0.0,
+                          right: 0.0,
+                          child: Padding(
+                            padding: const EdgeInsets.all(
+                              10,
+                            ),
+                            child: Center(
+                              child: DotsIndicator(
+                                controller: _controller,
+                                itemCount: viewModel.ibisakuzoIcumi.length,
+                                color: Theme.of(context).primaryColor,
+                                onPageSelected: (int page) {
+                                  _controller.animateToPage(
+                                    page,
+                                    duration: _duration,
+                                    curve: _curve,
+                                  );
+                                },
+                              ),
+                            ),
                           ),
-                          child: Center(
-                            child: DotsIndicator(
-                              controller: _controller,
-                              itemCount: viewModel.ibisakuzoIcumi.length,
-                              color: Theme.of(context).primaryColor,
-                              onPageSelected: (int page) {
-                                _controller.animateToPage(
-                                  page,
-                                  duration: _duration,
-                                  curve: _curve,
-                                );
+                        ),
+                      if (_isLastPage)
+                        Positioned(
+                          bottom: 0.0,
+                          left: 0.0,
+                          right: 0.0,
+                          child: Padding(
+                            padding: basePadding,
+                            child: ButtonWidget(
+                              title: 'Ibindi bisakuzo',
+                              busy: viewModel.isBusy,
+                              onTap: () async {
+                                await viewModel.getIbisakuzo(widget.level);
+                                setState(() {
+                                  _isLastPage = false;
+                                  _currentPage = 0;
+                                  _controller.jumpTo(0);
+                                });
                               },
                             ),
                           ),
                         ),
-                      ),
-                    if (_isLastPage)
-                      Positioned(
-                        bottom: 0.0,
-                        left: 0.0,
-                        right: 0.0,
-                        child: Padding(
-                          padding: basePadding,
-                          child: ButtonWidget(
-                            title: 'Ibindi bisakuzo',
-                            busy: viewModel.isBusy,
-                            onTap: () async {
-                              await viewModel.getIbisakuzo(widget.level);
-                              setState(() {
-                                _isLastPage = false;
-                                _currentPage = 0;
-                                _controller.jumpTo(0);
-                              });
-                            },
-                          ),
-                        ),
-                      ),
-                  ],
+                    ],
+                  ),
                 ),
               ),
       ),

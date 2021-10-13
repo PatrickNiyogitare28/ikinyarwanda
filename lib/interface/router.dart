@@ -45,7 +45,7 @@ Route<dynamic> generateRoute(RouteSettings settings) {
 
     default:
       return MaterialPageRoute(
-        builder: (_) => Scaffold(
+        builder: (_) => const Scaffold(
           body: Center(
             child: TextWiget.headline3('Paje itazwi!'),
           ),

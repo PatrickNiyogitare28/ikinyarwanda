@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ikinyarwanda/interface/widgets/text_widget.dart';
+import 'package:ikinyarwanda/interface/widgets/web_centered_widget.dart';
 import 'package:ikinyarwanda/models/dialog.dart';
 import 'package:ikinyarwanda/services/dialog_service.dart';
 import 'package:ikinyarwanda/locator.dart';
@@ -20,19 +21,36 @@ class _DialogManagerState extends State<DialogManager> {
     final isComfirmationDialog = request.cancelTitle != null;
     showDialog(
       context: context,
-      builder: (context) => AlertDialog(
-        backgroundColor: Theme.of(context).backgroundColor,
-        elevation: 1,
-        title: TextWiget.headline2(
-          request.title,
-          color: Theme.of(context).primaryColor,
-        ),
-        content: TextWiget.caption(request.description),
-        actions: [
-          if (isComfirmationDialog)
+      builder: (context) => WebCenteredWidget(
+        child: AlertDialog(
+          backgroundColor: Theme.of(context).backgroundColor,
+          elevation: 1,
+          title: TextWiget.headline2(
+            request.title,
+            color: Theme.of(context).primaryColor,
+          ),
+          content: TextWiget.caption(request.description),
+          actions: [
+            if (isComfirmationDialog)
+              TextButton(
+                onPressed: () {
+                  _dialogService
+                      .dialogComplete(DialogResponse(confirmed: false));
+                },
+                style: OutlinedButton.styleFrom(
+                  primary: Theme.of(context).primaryColor,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(borderRadius),
+                  ),
+                ),
+                child: TextWiget.body(
+                  request.cancelTitle!,
+                  color: Theme.of(context).primaryColor,
+                ),
+              ),
             TextButton(
               onPressed: () {
-                _dialogService.dialogComplete(DialogResponse(confirmed: false));
+                _dialogService.dialogComplete(DialogResponse(confirmed: true));
               },
               style: OutlinedButton.styleFrom(
                 primary: Theme.of(context).primaryColor,
@@ -41,26 +59,12 @@ class _DialogManagerState extends State<DialogManager> {
                 ),
               ),
               child: TextWiget.body(
-                request.cancelTitle!,
+                request.buttonTitle,
                 color: Theme.of(context).primaryColor,
               ),
             ),
-          TextButton(
-            onPressed: () {
-              _dialogService.dialogComplete(DialogResponse(confirmed: true));
-            },
-            style: OutlinedButton.styleFrom(
-              primary: Theme.of(context).primaryColor,
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(borderRadius),
-              ),
-            ),
-            child: TextWiget.body(
-              request.buttonTitle,
-              color: Theme.of(context).primaryColor,
-            ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
