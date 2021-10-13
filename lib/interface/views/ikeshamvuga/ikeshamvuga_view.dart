@@ -82,7 +82,7 @@ class _IkeshamvugoViewState extends State<IkeshamvugoView>
                               ),
                             ],
                           ),
-                          verticalSpaceLarge,
+                          verticalSpaceMedium,
                           Padding(
                             padding: basePadding,
                             child: TextWiget.headline2(
@@ -93,7 +93,7 @@ class _IkeshamvugoViewState extends State<IkeshamvugoView>
                           Padding(
                             padding: const EdgeInsets.fromLTRB(25, 0, 25, 8),
                             child: TextWiget.caption(
-                              'Kanda kugirango ubone igisubizo',
+                              'Kandaho kugirango ubone imvugo inoze',
                               color: Theme.of(context).primaryColor,
                             ),
                           ),
@@ -159,15 +159,12 @@ class _IkeshamvugoViewState extends State<IkeshamvugoView>
                           child: ButtonWidget(
                             title: 'Komeza',
                             busy: viewModel.isBusy,
-                            onTap: () {
-                              viewModel.getIkeshamvugo().then((_) {
-                                setState(() {
-                                  _isLastPage = false;
-                                  _currentPage = 0;
-                                  _controller = PageController(
-                                    initialPage: 0,
-                                  );
-                                });
+                            onTap: () async {
+                              await viewModel.getIkeshamvugo();
+                              setState(() {
+                                _isLastPage = false;
+                                _currentPage = 0;
+                                _controller.jumpTo(0);
                               });
                             },
                           ),

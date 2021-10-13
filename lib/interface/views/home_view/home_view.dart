@@ -31,14 +31,14 @@ class HomeView extends StatelessWidget {
               Align(
                 alignment: Alignment.centerLeft,
                 child: TextWiget.caption(
-                  "Ikinyarwanda ni ururimi rufite umwanya ukomeye mu muco no mu mibereho y’Abanyarwanda. Ni rwo rurimi rumwe rukumbi bakoresha mu gihugu cyose bakumvikana neza nta busemuzi.",
+                  "Ikinyarwanda ni ururimi ruvugwa n'abenegihugu hafi ya bose mu Rwanda, ndetse no mu burasirazuba bwo hagati bw'Afurika mu gice cy'ibiyaga bigari.",
                 ),
               ),
               verticalSpaceLarge,
               Align(
                 alignment: Alignment.centerLeft,
                 child: TextWiget.body(
-                  'Imikino yagufasha kunoza ikinyarwanda',
+                  'Imikino y\'amagambo yagufasha kunoza ikinyarwanda',
                   color: Theme.of(context).primaryColor,
                   fontWeight: 2,
                 ),
@@ -70,11 +70,3 @@ class HomeView extends StatelessWidget {
     );
   }
 }
-
-
-/*
-Nkuko amateka y’ubuvanganzo nyarwanda abigaragaza, ibisakuzo ni umukino wo mu magambo, ibibazo n'ibisubizo bihimbaza abakuru n'abato kandi birimo ubuhanga byahimbanywe ubuhanga n'abahimbyi b'inzobere.
-Ntibavuga - Bavuga cyangwa Ikeshamvugo ni ubuhanga bukoreshwa mu kuvuga imvugo inoze, yuje ikinyabupfura, ifite inganzo kandi ivugitse ku buryo bunoze mu muco w'Abanyarwanda.
-Umuntu aca amarenga ashaka kubwira uwo baziranye, icyo adashaka kubwira abamwumva bose.
-Imigani migufi ariyo bakunze kwita "Imigani y'imigenurano" yerekana uburezi, uburere n'imibanire y'abanyarwanda. 
- */

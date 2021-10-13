@@ -43,7 +43,7 @@ class ImiganiMigufiView extends StatelessWidget {
                     Padding(
                       padding: basePadding,
                       child: TextWiget.headline2(
-                        'Iimigani migufi',
+                        'Imigani migufi',
                         color: Theme.of(context).primaryColor,
                       ),
                     ),
@@ -95,12 +95,7 @@ class ListItem extends StatelessWidget {
               ),
               strokeWidth: 5,
             )
-          : Text(
-              title,
-              textAlign: TextAlign.start,
-              style: Theme.of(context).textTheme.headline6,
-              maxLines: 3,
-            ),
+          : TextWiget.body(title),
     );
   }
 }

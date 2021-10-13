@@ -67,9 +67,8 @@ class IncamarengaView extends StatelessWidget {
                           ),
                           childrenPadding:
                               const EdgeInsets.fromLTRB(12, 0, 12, 12),
-                          title: Text(
+                          title: TextWiget.headline3(
                             viewModel.incamarenga[index].statement,
-                            style: Theme.of(context).textTheme.headline6,
                           ),
                           children: [
                             TextWiget.body(

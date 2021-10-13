@@ -67,6 +67,9 @@ class _IbisakuzoViewState extends State<IbisakuzoView>
                         igisakuzo: viewModel.ibisakuzoIcumi[index],
                         navigationPop: viewModel.navigatePop,
                         showAbout: viewModel.showAboutDialog,
+                        correctScore: viewModel.correctScore,
+                        wrongScore: viewModel.wrongScore,
+                        updateScore: viewModel.updateScore,
                       ),
                     ),
                     if (!_isLastPage)
@@ -104,15 +107,12 @@ class _IbisakuzoViewState extends State<IbisakuzoView>
                           child: ButtonWidget(
                             title: 'Ibindi bisakuzo',
                             busy: viewModel.isBusy,
-                            onTap: () {
-                              viewModel.getIbisakuzo(widget.level).then((_) {
-                                setState(() {
-                                  _isLastPage = false;
-                                  _currentPage = 0;
-                                  _controller = PageController(
-                                    initialPage: 0,
-                                  );
-                                });
+                            onTap: () async {
+                              await viewModel.getIbisakuzo(widget.level);
+                              setState(() {
+                                _isLastPage = false;
+                                _currentPage = 0;
+                                _controller.jumpTo(0);
                               });
                             },
                           ),
@@ -130,12 +130,17 @@ class IgisakuzoWidget extends StatelessWidget {
   final Igisakuzo igisakuzo;
   final VoidCallback navigationPop;
   final VoidCallback showAbout;
-
+  final Function(bool) updateScore;
+  final int correctScore;
+  final int wrongScore;
   const IgisakuzoWidget({
     Key? key,
     required this.igisakuzo,
     required this.navigationPop,
     required this.showAbout,
+    required this.correctScore,
+    required this.wrongScore,
+    required this.updateScore,
   }) : super(key: key);
 
   @override
@@ -152,7 +157,7 @@ class IgisakuzoWidget extends StatelessWidget {
             child: Column(
               children: [
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  mainAxisAlignment: MainAxisAlignment.start,
                   children: [
                     IconButton(
                       onPressed: navigationPop,
@@ -160,6 +165,27 @@ class IgisakuzoWidget extends StatelessWidget {
                       icon: const Icon(Icons.arrow_back),
                       splashColor: Theme.of(context).primaryColor,
                     ),
+                    const Spacer(),
+                    Icon(
+                      Icons.check,
+                      color: Theme.of(context).backgroundColor,
+                    ),
+                    horizontalSpaceSmall,
+                    TextWiget.body(
+                      correctScore.toString(),
+                      color: Theme.of(context).backgroundColor,
+                    ),
+                    horizontalSpaceMedium,
+                    Icon(
+                      Icons.close,
+                      color: Theme.of(context).errorColor,
+                    ),
+                    horizontalSpaceSmall,
+                    TextWiget.body(
+                      wrongScore.toString(),
+                      color: Theme.of(context).backgroundColor,
+                    ),
+                    const Spacer(),
                     IconButton(
                       onPressed: showAbout,
                       color: Theme.of(context).backgroundColor,
@@ -207,18 +233,22 @@ class IgisakuzoWidget extends StatelessWidget {
               OptionWidget(
                 optionText: igisakuzo.option1,
                 correctAnswer: igisakuzo.correctAnswer,
+                updateScore: updateScore,
               ),
               OptionWidget(
                 optionText: igisakuzo.option2,
                 correctAnswer: igisakuzo.correctAnswer,
+                updateScore: updateScore,
               ),
               OptionWidget(
                 optionText: igisakuzo.option3,
                 correctAnswer: igisakuzo.correctAnswer,
+                updateScore: updateScore,
               ),
               OptionWidget(
                 optionText: igisakuzo.option4,
                 correctAnswer: igisakuzo.correctAnswer,
+                updateScore: updateScore,
               ),
             ],
           ),
@@ -232,10 +262,12 @@ class IgisakuzoWidget extends StatelessWidget {
 class OptionWidget extends StatefulWidget {
   final String optionText;
   final String correctAnswer;
+  final Function(bool) updateScore;
   const OptionWidget({
     Key? key,
     required this.optionText,
     required this.correctAnswer,
+    required this.updateScore,
   }) : super(key: key);
 
   @override
@@ -280,9 +312,15 @@ class _GameOptionState extends State<OptionWidget> {
         onPressed: () {
           setState(() {
             if (widget.optionText == widget.correctAnswer) {
-              _isCorrect = !_isCorrect;
+              if (!_isCorrect && !_isWrong) {
+                widget.updateScore(true);
+                _isCorrect = true;
+              }
             } else {
-              _isWrong = !_isWrong;
+              if (!_isCorrect && !_isWrong) {
+                widget.updateScore(false);
+                _isWrong = true;
+              }
             }
           });
         },

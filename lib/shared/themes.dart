@@ -16,9 +16,9 @@ class ThemeConfig {
     primaryColor: AppColors.primaryDark,
     scaffoldBackgroundColor: AppColors.backgroundDark,
     backgroundColor: AppColors.backgroundDark,
-    colorScheme: ColorScheme.fromSwatch().copyWith(
-      secondary: AppColors.primaryDark,
-    ),
+    // colorScheme: ColorScheme.fromSwatch().copyWith(
+    //   secondary: AppColors.primaryDark,
+    // ),
     cardColor: Colors.black,
     brightness: Brightness.dark,
   );
