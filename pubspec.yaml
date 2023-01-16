@@ -1,5 +1,5 @@
 name: ikinyarwanda
-description: word games in Kinyarwanda.
+description: Kinyarwanda language stories and games.
 
 publish_to: "none"
 
@@ -9,13 +9,13 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  flutter:
+    sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  # flutter:
-  #   sdk: flutter
   get_it: ^7.2.0
-  responsive_builder: ^0.4.1
-  stacked: ^2.2.5
+  responsive_builder: ^0.4.3
+  stacked: ^3.1.0+2
 
 dev_dependencies:
   flutter_lints: ^1.0.0
