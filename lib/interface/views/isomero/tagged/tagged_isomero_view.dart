@@ -22,47 +22,47 @@ class TaggedIsomeroView extends StatelessWidget {
       onViewModelReady: (viewModel) => viewModel.getInkurus(tag),
       builder: (context, viewModel, child) {
         final tagTitle = tag == 'AAA' ? 'Ibyo ukunda gusoma' : tag;
-        return WebCenteredWidget(
-          child: Scaffold(
-            appBar: AppBar(
-              elevation: 0,
-              centerTitle: true,
-              backgroundColor: Theme.of(context).colorScheme.primary,
-              leading: IconButton(
-                icon: Icon(
-                  Icons.arrow_back,
-                  size: 25,
-                  color: Theme.of(context).colorScheme.onPrimary,
-                ),
-                onPressed: viewModel.navigateBack,
-              ),
-              title: TextWidget.headline3(
-                tagTitle,
+        return Scaffold(
+          appBar: AppBar(
+            elevation: 0,
+            centerTitle: true,
+            backgroundColor: Theme.of(context).colorScheme.primary,
+            leading: IconButton(
+              icon: Icon(
+                Icons.arrow_back,
+                size: 25,
                 color: Theme.of(context).colorScheme.onPrimary,
               ),
-              actions: [
-                IconButton(
-                  onPressed: () {
-                    showSearch(
-                      context: context,
-                      delegate: SearchWidget(
-                        inkurus: viewModel.inkurus,
-                        readInkuru: viewModel.navigateToInkuruView,
-                        favorites: viewModel.favorites,
-                        searchLabel: 'Shakisha',
-                        context: context,
-                      ),
-                    );
-                  },
-                  icon: Icon(
-                    Icons.search,
-                    size: 25.0,
-                    color: Theme.of(context).colorScheme.onPrimary,
-                  ),
-                ),
-              ],
+              onPressed: viewModel.navigateBack,
             ),
-            body: ListView.builder(
+            title: TextWidget.headline3(
+              tagTitle,
+              color: Theme.of(context).colorScheme.onPrimary,
+            ),
+            actions: [
+              IconButton(
+                onPressed: () {
+                  showSearch(
+                    context: context,
+                    delegate: SearchWidget(
+                      inkurus: viewModel.inkurus,
+                      readInkuru: viewModel.navigateToInkuruView,
+                      favorites: viewModel.favorites,
+                      searchLabel: 'Shakisha',
+                      context: context,
+                    ),
+                  );
+                },
+                icon: Icon(
+                  Icons.search,
+                  size: 25.0,
+                  color: Theme.of(context).colorScheme.onPrimary,
+                ),
+              ),
+            ],
+          ),
+          body: WebCenteredWidget(
+            child: ListView.builder(
               itemCount: viewModel.inkurus.length,
               itemBuilder: (_, index) => GestureDetector(
                 onTap: () => viewModel.navigateToInkuruView(

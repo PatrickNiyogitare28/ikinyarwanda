@@ -16,38 +16,38 @@ class InkuruView extends StatelessWidget {
       viewModelBuilder: () => InkuruViewModel(),
       onViewModelReady: (viewModel) => viewModel.getFavoriteStatus(inkuru.id),
       builder: (context, viewModel, child) {
-        return WebCenteredWidget(
-          child: Scaffold(
-            appBar: AppBar(
-              elevation: 0,
-              centerTitle: true,
-              backgroundColor: Theme.of(context).colorScheme.primary,
-              leading: IconButton(
+        return Scaffold(
+          appBar: AppBar(
+            elevation: 0,
+            centerTitle: true,
+            backgroundColor: Theme.of(context).colorScheme.primary,
+            leading: IconButton(
+              icon: Icon(
+                Icons.arrow_back,
+                size: 25,
+                color: Theme.of(context).colorScheme.onPrimary,
+              ),
+              onPressed: viewModel.navigatorPop,
+            ),
+            title: TextWidget.headline3(
+              inkuru.title,
+              color: Theme.of(context).colorScheme.onPrimary,
+            ),
+            actions: [
+              IconButton(
+                onPressed: () => viewModel.handleFavorite(inkuru),
                 icon: Icon(
-                  Icons.arrow_back,
+                  viewModel.isFavorite
+                      ? Icons.bookmark_added
+                      : Icons.bookmark_add_outlined,
                   size: 25,
                   color: Theme.of(context).colorScheme.onPrimary,
                 ),
-                onPressed: viewModel.navigatorPop,
-              ),
-              title: TextWidget.headline3(
-                inkuru.title,
-                color: Theme.of(context).colorScheme.onPrimary,
-              ),
-              actions: [
-                IconButton(
-                  onPressed: () => viewModel.handleFavorite(inkuru),
-                  icon: Icon(
-                    viewModel.isFavorite
-                        ? Icons.bookmark_added
-                        : Icons.bookmark_add_outlined,
-                    size: 25,
-                    color: Theme.of(context).colorScheme.onPrimary,
-                  ),
-                )
-              ],
-            ),
-            body: SingleChildScrollView(
+              )
+            ],
+          ),
+          body: WebCenteredWidget(
+            child: SingleChildScrollView(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
