@@ -25,17 +25,17 @@ Ubuvanganzo nyarwanda harimo ibisigo, amazina y\'inka, ibyivugo, ibisingizo ibih
 
 ## Demo screenshots
 
-- ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143396.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143409.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143424.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143433.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143441.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143457.png)
+- ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143396.png) ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143409.png) ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143424.png) ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143433.png) ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143441.png) ![Isomero](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143457.png)
 
-- ![Isomero | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674142969.png)(https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674142989.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674142999.png)
+- ![Isomero | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674142969.png) ![Isomero | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674142989.png) ![Isomero | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674142999.png)
 
-- ![Sakwe Sakwe](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143463.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143473.png)
+- ![Sakwe Sakwe](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143463.png) ![Sakwe Sakwe](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143473.png)
 
-- ![Sakwe Sakwe | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143043.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143127.png)
+- ![Sakwe Sakwe | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143043.png) ![Sakwe Sakwe | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143127.png)
 
-- ![Ntibavuga Bavuga](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143480.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143482.png)
+- ![Ntibavuga Bavuga](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143480.png) ![Ntibavuga Bavuga](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143482.png)
 
-- ![Ntibavuga Bavuga | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143156.png) (https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143159.png)
+- ![Ntibavuga Bavuga | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143156.png) ![Ntibavuga Bavuga | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143159.png)
 
 - ![Incamarenga](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143492.png)
 
@@ -45,7 +45,5 @@ Ubuvanganzo nyarwanda harimo ibisigo, amazina y\'inka, ibyivugo, ibisingizo ibih
 
 - ![Imigani Migufi | dark mode](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/Screenshot_1674143169.png)
 
-![Logo](https://github.com/fishimve/ikinyarwanda/blob/b98d3498fb399a32c6d96c200549dc23d584564a/assets/screenshots/v2/logo.png)
 
-
-Support me on [Patreon](patreon.com/user?u=87457131).
+Support me on [Patreon](https://www.patreon.com/user?u=87457131).
