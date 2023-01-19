@@ -35,17 +35,25 @@ class DataService {
         .where((String key) => key.contains('isomero_json/'))
         .where((String key) => key.contains('.json'))
         .toList();
+
+    (inkurusPaths as List).shuffle();
+
     final inkurus = <Inkuru>[];
     for (var path in inkurusPaths) {
       final parsed = await _parseJson(path) as Map<String, dynamic>;
       if (tag != null) {
-        if (parsed['author'] == tag || (parsed['tags'] as List).contains(tag)) {
+        if (parsed['author'] == tag) {
           inkurus.add(Inkuru.fromMap(parsed));
-        } else {
           continue;
         }
+        if ((parsed['tags'] as List).contains(tag)) {
+          inkurus.add(Inkuru.fromMap(parsed));
+          continue;
+        }
+      } else {
+        // No tag returns all available
+        inkurus.add(Inkuru.fromMap(parsed));
       }
-      inkurus.add(Inkuru.fromMap(parsed));
     }
     return inkurus;
   }

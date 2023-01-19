@@ -34,12 +34,16 @@ class SearchWidget extends SearchDelegate<Inkuru?> {
   ThemeData appBarTheme(BuildContext context) {
     final theme = Theme.of(context);
     return theme.copyWith(
+      appBarTheme: AppBarTheme(
+        color: Theme.of(context).colorScheme.primary,
+        titleTextStyle: headline3Style,
+      ),
       inputDecorationTheme: InputDecorationTheme(
-        border: InputBorder.none,
         hintStyle: headline3Style.apply(
             color: Theme.of(context).colorScheme.onPrimary),
         labelStyle: headline3Style.apply(
             color: Theme.of(context).colorScheme.onPrimary),
+        border: InputBorder.none,
       ),
       textSelectionTheme: TextSelectionThemeData(
         cursorColor: Theme.of(context).colorScheme.onPrimary,
