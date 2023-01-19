@@ -19,27 +19,7 @@ void main() async {
 
   // allow only portrait mode
   SystemChrome.setPreferredOrientations(
-    [
-      DeviceOrientation.portraitUp,
-      DeviceOrientation.portraitDown,
-    ],
-  );
-
-  final brightness = SchedulerBinding.instance!.window.platformBrightness;
-  bool isDark = brightness == Brightness.dark;
-
-  SystemChrome.setSystemUIOverlayStyle(
-    SystemUiOverlayStyle(
-      statusBarColor: Colors.transparent,
-      statusBarBrightness: isDark ? Brightness.light : Brightness.dark,
-      statusBarIconBrightness: isDark ? Brightness.light : Brightness.dark,
-      systemNavigationBarColor:
-          isDark ? AppColors.backgroundDark : AppColors.backgroundLight,
-      systemNavigationBarDividerColor:
-          isDark ? AppColors.backgroundDark : AppColors.backgroundLight,
-      systemNavigationBarIconBrightness:
-          isDark ? Brightness.light : Brightness.dark,
-    ),
+    [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown],
   );
 
   configureApp();
