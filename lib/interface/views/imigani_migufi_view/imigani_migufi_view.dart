@@ -63,7 +63,7 @@ class ImiganiMigufiView extends StatelessWidget {
                           itemBuilder: (context, index) =>
                               CreationAwareListItem(
                             itemCreated: () {
-                              SchedulerBinding.instance!.addPostFrameCallback(
+                              SchedulerBinding.instance.addPostFrameCallback(
                                 (duration) =>
                                     viewModel.handleItemCreated(index),
                               );

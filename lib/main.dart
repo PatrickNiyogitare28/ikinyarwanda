@@ -27,7 +27,7 @@ void main() async {
     ],
   );
 
-  final brightness = SchedulerBinding.instance!.window.platformBrightness;
+  final brightness = SchedulerBinding.instance.window.platformBrightness;
   bool isDark = brightness == Brightness.dark;
 
   SystemChrome.setSystemUIOverlayStyle(
