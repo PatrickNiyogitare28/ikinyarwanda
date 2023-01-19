@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ikinyarwanda/interface/widgets/web_centered_widget.dart';
 import 'package:ikinyarwanda/models/inkuru.dart';
 import 'package:ikinyarwanda/shared/styles.dart';
 
@@ -83,21 +84,23 @@ class SearchWidget extends SearchDelegate<Inkuru?> {
 
   @override
   Widget buildResults(BuildContext context) {
-    return ListView.builder(
-      itemCount: tempStories.length,
-      itemBuilder: (context, index) {
-        var a = tempStories[index];
-        return GestureDetector(
-          onTap: () async {
-            await readInkuru(a);
-            close(context, a);
-          },
-          child: InkuruSummaryWidget(
-            inkuru: a,
-            isFavorite: favorites.contains(a.id),
-          ),
-        );
-      },
+    return WebCenteredWidget(
+      child: ListView.builder(
+        itemCount: tempStories.length,
+        itemBuilder: (context, index) {
+          var a = tempStories[index];
+          return GestureDetector(
+            onTap: () async {
+              await readInkuru(a);
+              close(context, a);
+            },
+            child: InkuruSummaryWidget(
+              inkuru: a,
+              isFavorite: favorites.contains(a.id),
+            ),
+          );
+        },
+      ),
     );
   }
 
@@ -106,21 +109,23 @@ class SearchWidget extends SearchDelegate<Inkuru?> {
     tempStories = inkurus
         .where((a) => a.title.toLowerCase().contains(query.toLowerCase()))
         .toList();
-    return ListView.builder(
-      itemCount: tempStories.length,
-      itemBuilder: (context, index) {
-        var a = tempStories[index];
-        return GestureDetector(
-          onTap: () async {
-            await readInkuru(a);
-            close(context, a);
-          },
-          child: InkuruSummaryWidget(
-            inkuru: a,
-            isFavorite: favorites.contains(a.id),
-          ),
-        );
-      },
+    return WebCenteredWidget(
+      child: ListView.builder(
+        itemCount: tempStories.length,
+        itemBuilder: (context, index) {
+          var a = tempStories[index];
+          return GestureDetector(
+            onTap: () async {
+              await readInkuru(a);
+              close(context, a);
+            },
+            child: InkuruSummaryWidget(
+              inkuru: a,
+              isFavorite: favorites.contains(a.id),
+            ),
+          );
+        },
+      ),
     );
   }
 }
