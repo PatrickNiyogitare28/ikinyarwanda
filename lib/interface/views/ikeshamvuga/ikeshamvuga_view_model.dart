@@ -4,12 +4,10 @@ import 'package:ikinyarwanda/models/ikeshamvugo.dart';
 import 'package:ikinyarwanda/services/data_service.dart';
 import 'package:ikinyarwanda/services/dialog_service.dart';
 import 'package:ikinyarwanda/locator.dart';
-import 'package:ikinyarwanda/services/navigation_service.dart';
 import 'package:stacked/stacked.dart';
 
 class IkeshamvugoViewModel extends BaseViewModel {
   final _dialogService = locator<DialogService>();
-  final _navigationService = locator<NavigationService>();
   final _dataService = locator<DataService>();
 
   var ikeshamvugo = <NtibavugaBavuga>[];
@@ -36,12 +34,6 @@ class IkeshamvugoViewModel extends BaseViewModel {
     _generateRandomNumber();
     ikeshamvugo = await _dataService.getIkeshamvugo(randomId!);
     notifyListeners();
-    setBusy(false);
-  }
-
-  void navigatePop() {
-    setBusy(true);
-    _navigationService.pop();
     setBusy(false);
   }
 }

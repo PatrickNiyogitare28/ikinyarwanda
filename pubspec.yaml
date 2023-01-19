@@ -3,24 +3,57 @@ description: Kinyarwanda language stories and games.
 
 publish_to: "none"
 
-version: 1.0.0+1
+version: 2.0.0+1
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  animations: ^2.0.7
   flutter:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
   get_it: ^7.2.0
   responsive_builder: ^0.4.3
+  shared_preferences: ^2.0.16
   stacked: ^3.1.0+2
+  tuple: ^2.0.1
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.11.0
   flutter_lints: ^1.0.0
+  flutter_native_splash: ^2.2.16
   flutter_test:
     sdk: flutter
+
+# flutter_native_splash:
+#   color: "#FFFFFF"
+#   android: true
+#   ios: true
+#   web: true
+#   android_12:
+#     color: "#FFFFFF"
+# flutter_icons:
+#   image_path: "assets/icons/ikinyarwanda_logo.png"
+#   android: false
+#   ios: true
+#   min_sdk_android: 21
+#   adaptive_icon_background: "FFFFFF"
+#   adaptive_icon_foreground: "assets/icons/ikinyarwanda_logo.png"
+#   remove_alpha_ios: true
+#   web:
+#     generate: true
+#     image_path: "assets/icons/ikinyarwanda_logo.png"
+#     background_color: "#FFFFFF"
+#     theme_color: "#FFFFFF"
+#   windows:
+#     generate: true
+#     image_path: "assets/icons/ikinyarwanda_logo.png"
+#     icon_size: 48
+#   macos:
+#     generate: true
+#     image_path: "assets/icons/ikinyarwanda_logo.png"
 
 flutter:
   uses-material-design: true
@@ -31,6 +64,7 @@ flutter:
     - assets/imikino_json/ikeshamvugo/
     - assets/imikino_json/imiganimigufi/
     - assets/imikino_json/incamarenga/
+    - assets/isomero_json/
 
   fonts:
     - family: OpenSans

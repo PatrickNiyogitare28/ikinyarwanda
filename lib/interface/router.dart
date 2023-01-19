@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'views/home_view/home_view.dart';
-import 'views/ibisakuzo_view/ibisakuzo_view.dart';
-import 'views/imigani_migufi_view/imigani_migufi_view.dart';
-import 'views/incamarenga_view/incamarenga_view.dart';
+import 'package:ikinyarwanda/models/inkuru.dart';
+import 'views/home_view.dart';
+import 'views/isomero/inkuru/inkuru_view.dart';
+import 'views/isomero/tagged/tagged_isomero_view.dart';
 import 'widgets/text_widget.dart';
-import 'views/ikeshamvuga/ikeshamvuga_view.dart';
-import '../shared/route_names.dart';
+import 'route_names.dart';
 
 PageRoute _pageRoute({required String routeName, required Widget view}) {
   return MaterialPageRoute(
@@ -21,33 +20,24 @@ Route<dynamic> generateRoute(RouteSettings settings) {
         routeName: settings.name!,
         view: const HomeView(),
       );
-    case ibisakuzoViewRoute:
-      var level = settings.arguments as int;
+    case inkuruViewRoute:
+      final inkuru = settings.arguments as Inkuru;
       return _pageRoute(
         routeName: settings.name!,
-        view: IbisakuzoView(level: level),
+        view: InkuruView(inkuru: inkuru),
       );
-    case ikeshamvugoViewRoute:
+    case taggedIsomeroViewRoute:
+      final tag = settings.arguments as String;
       return _pageRoute(
         routeName: settings.name!,
-        view: const IkeshamvugoView(),
-      );
-    case incamarengaViewRoute:
-      return _pageRoute(
-        routeName: settings.name!,
-        view: const IncamarengaView(),
-      );
-    case imiganiMigufiViewRoute:
-      return _pageRoute(
-        routeName: settings.name!,
-        view: const ImiganiMigufiView(),
+        view: TaggedIsomeroView(tag: tag),
       );
 
     default:
       return MaterialPageRoute(
         builder: (_) => const Scaffold(
           body: Center(
-            child: TextWiget.headline3('Paje itazwi!'),
+            child: TextWidget.headline3('Paje itazwi!'),
           ),
         ),
       );

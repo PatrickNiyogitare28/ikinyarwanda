@@ -7,9 +7,6 @@ const EdgeInsets basePadding = EdgeInsets.symmetric(
   vertical: 8.0,
 );
 
-const EdgeInsets kcontentPadding =
-    EdgeInsets.symmetric(vertical: 15, horizontal: 20);
-
 const Widget horizontalSpaceTiny = SizedBox(width: 5.0);
 const Widget horizontalSpaceSmall = SizedBox(width: 10.0);
 const Widget horizontalSpaceRegular = SizedBox(width: 18.0);

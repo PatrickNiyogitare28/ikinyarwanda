@@ -11,4 +11,8 @@ PRODUCT_NAME = ikinyarwanda
 PRODUCT_BUNDLE_IDENTIFIER = com.fishimve.ikinyarwanda
 
 // The copyright displayed in application information
+<<<<<<< HEAD
+PRODUCT_COPYRIGHT = Copyright © 2022 com.fishimve. All rights reserved.
+=======
 PRODUCT_COPYRIGHT = Copyright © 2023 com.fishimve. All rights reserved.
+>>>>>>> master

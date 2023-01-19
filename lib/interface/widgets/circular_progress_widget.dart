@@ -13,13 +13,8 @@ class CircularProgressWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: basePadding,
-      child: Center(
-        child: CircularProgressIndicator(
-          valueColor: AlwaysStoppedAnimation(
-            color ?? Theme.of(context).primaryColor,
-          ),
-          strokeWidth: 5,
-        ),
+      child: const Center(
+        child: CircularProgressIndicator(strokeWidth: 5),
       ),
     );
   }

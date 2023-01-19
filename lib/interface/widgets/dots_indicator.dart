@@ -6,7 +6,6 @@ class DotsIndicator extends AnimatedWidget {
   final PageController controller;
   final int itemCount;
   final ValueChanged<int> onPageSelected;
-  final Color color;
   static const double _kDotSize = 8.0;
   static const double _kMaxZoom = 2.0;
   static const double _kDotSpacing = 25.0;
@@ -16,10 +15,9 @@ class DotsIndicator extends AnimatedWidget {
     required this.controller,
     required this.itemCount,
     required this.onPageSelected,
-    required this.color,
   }) : super(listenable: controller, key: key);
 
-  Widget _buildDot(int index) {
+  Widget _buildDot(BuildContext context, int index) {
     double selectedness = Curves.easeOut.transform(
       max(
         0.0,
@@ -32,7 +30,7 @@ class DotsIndicator extends AnimatedWidget {
         width: _kDotSpacing,
         child: Center(
           child: Material(
-            color: color,
+            color: Theme.of(context).colorScheme.onBackground,
             type: MaterialType.circle,
             child: SizedBox(
               width: _kDotSize * zoom,
@@ -51,7 +49,10 @@ class DotsIndicator extends AnimatedWidget {
   Widget build(BuildContext context) {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
-      children: List<Widget>.generate(itemCount, _buildDot),
+      children: List<Widget>.generate(
+        itemCount,
+        (index) => _buildDot(context, index),
+      ),
     );
   }
 }

@@ -23,13 +23,12 @@ class _DialogManagerState extends State<DialogManager> {
       context: context,
       builder: (context) => WebCenteredWidget(
         child: AlertDialog(
-          backgroundColor: Theme.of(context).backgroundColor,
-          elevation: 1,
-          title: TextWiget.headline2(
+          elevation: 0,
+          title: TextWidget.headline1(
             request.title,
-            color: Theme.of(context).primaryColor,
+            color: Theme.of(context).colorScheme.primary,
           ),
-          content: TextWiget.caption(request.description),
+          content: TextWidget.body(request.description),
           actions: [
             if (isComfirmationDialog)
               TextButton(
@@ -38,30 +37,22 @@ class _DialogManagerState extends State<DialogManager> {
                       .dialogComplete(DialogResponse(confirmed: false));
                 },
                 style: OutlinedButton.styleFrom(
-                  primary: Theme.of(context).primaryColor,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(borderRadius),
                   ),
                 ),
-                child: TextWiget.body(
-                  request.cancelTitle!,
-                  color: Theme.of(context).primaryColor,
-                ),
+                child: TextWidget.headline3(request.cancelTitle!),
               ),
             TextButton(
               onPressed: () {
                 _dialogService.dialogComplete(DialogResponse(confirmed: true));
               },
               style: OutlinedButton.styleFrom(
-                primary: Theme.of(context).primaryColor,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(borderRadius),
                 ),
               ),
-              child: TextWiget.body(
-                request.buttonTitle,
-                color: Theme.of(context).primaryColor,
-              ),
+              child: TextWidget.headline3(request.buttonTitle),
             ),
           ],
         ),
